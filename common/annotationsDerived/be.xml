@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE ldml SYSTEM "../../common/dtd/ldml.dtd">
-<!-- Copyright © 1991-2020 Unicode, Inc.
+<!-- Copyright © 1991-2024 Unicode, Inc.
 For terms of use, see http://www.unicode.org/copyright.html
-Unicode and the Unicode Logo are registered trademarks of Unicode, Inc. in the U.S. and other countries.
+SPDX-License-Identifier: Unicode-3.0
 CLDR data files are interpreted according to the LDML specification (http://unicode.org/reports/tr35/)
+
+Derived short names and annotations, using GenerateDerivedAnnotations.java. See warnings in /annotations/ file.
 -->
-<!-- Derived short names and annotations, using GenerateDerivedAnnotations.java. See warnings in /annotations/ file. -->
 <ldml>
 	<identity>
 		<version number="$Revision$"/>
@@ -62,6 +63,106 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🖖🏾" type="tts">вулканскі салют: сярэдняцёмны тон скуры</annotation>
 		<annotation cp="🖖🏿">вулканскі салют | жэст | спок | стартрэк | цёмны тон скуры</annotation>
 		<annotation cp="🖖🏿" type="tts">вулканскі салют: цёмны тон скуры</annotation>
+		<annotation cp="🫱🏻">направа | права | рука | светлы тон скуры</annotation>
+		<annotation cp="🫱🏻" type="tts">рука направа: светлы тон скуры</annotation>
+		<annotation cp="🫱🏼">направа | права | рука | сярэднясветлы тон скуры</annotation>
+		<annotation cp="🫱🏼" type="tts">рука направа: сярэднясветлы тон скуры</annotation>
+		<annotation cp="🫱🏽">направа | права | рука | сярэдні тон скуры</annotation>
+		<annotation cp="🫱🏽" type="tts">рука направа: сярэдні тон скуры</annotation>
+		<annotation cp="🫱🏾">направа | права | рука | сярэдняцёмны тон скуры</annotation>
+		<annotation cp="🫱🏾" type="tts">рука направа: сярэдняцёмны тон скуры</annotation>
+		<annotation cp="🫱🏿">направа | права | рука | цёмны тон скуры</annotation>
+		<annotation cp="🫱🏿" type="tts">рука направа: цёмны тон скуры</annotation>
+		<annotation cp="🫱🏻‍🫲🏼">дамовіліся | поціск рук | рукапацісканне | светлы тон скуры | сустрэча | сярэднясветлы тон скуры</annotation>
+		<annotation cp="🫱🏻‍🫲🏼" type="tts">поціск рук: светлы тон скуры сярэднясветлы тон скуры</annotation>
+		<annotation cp="🫱🏻‍🫲🏽">дамовіліся | поціск рук | рукапацісканне | светлы тон скуры | сустрэча | сярэдні тон скуры</annotation>
+		<annotation cp="🫱🏻‍🫲🏽" type="tts">поціск рук: светлы тон скуры сярэдні тон скуры</annotation>
+		<annotation cp="🫱🏻‍🫲🏾">дамовіліся | поціск рук | рукапацісканне | светлы тон скуры | сустрэча | сярэдняцёмны тон скуры</annotation>
+		<annotation cp="🫱🏻‍🫲🏾" type="tts">поціск рук: светлы тон скуры сярэдняцёмны тон скуры</annotation>
+		<annotation cp="🫱🏻‍🫲🏿">дамовіліся | поціск рук | рукапацісканне | светлы тон скуры | сустрэча | цёмны тон скуры</annotation>
+		<annotation cp="🫱🏻‍🫲🏿" type="tts">поціск рук: светлы тон скуры цёмны тон скуры</annotation>
+		<annotation cp="🫱🏼‍🫲🏻">дамовіліся | поціск рук | рукапацісканне | светлы тон скуры | сустрэча | сярэднясветлы тон скуры</annotation>
+		<annotation cp="🫱🏼‍🫲🏻" type="tts">поціск рук: сярэднясветлы тон скуры светлы тон скуры</annotation>
+		<annotation cp="🫱🏼‍🫲🏽">дамовіліся | поціск рук | рукапацісканне | сустрэча | сярэдні тон скуры | сярэднясветлы тон скуры</annotation>
+		<annotation cp="🫱🏼‍🫲🏽" type="tts">поціск рук: сярэднясветлы тон скуры сярэдні тон скуры</annotation>
+		<annotation cp="🫱🏼‍🫲🏾">дамовіліся | поціск рук | рукапацісканне | сустрэча | сярэднясветлы тон скуры | сярэдняцёмны тон скуры</annotation>
+		<annotation cp="🫱🏼‍🫲🏾" type="tts">поціск рук: сярэднясветлы тон скуры сярэдняцёмны тон скуры</annotation>
+		<annotation cp="🫱🏼‍🫲🏿">дамовіліся | поціск рук | рукапацісканне | сустрэча | сярэднясветлы тон скуры | цёмны тон скуры</annotation>
+		<annotation cp="🫱🏼‍🫲🏿" type="tts">поціск рук: сярэднясветлы тон скуры цёмны тон скуры</annotation>
+		<annotation cp="🫱🏽‍🫲🏻">дамовіліся | поціск рук | рукапацісканне | светлы тон скуры | сустрэча | сярэдні тон скуры</annotation>
+		<annotation cp="🫱🏽‍🫲🏻" type="tts">поціск рук: сярэдні тон скуры светлы тон скуры</annotation>
+		<annotation cp="🫱🏽‍🫲🏼">дамовіліся | поціск рук | рукапацісканне | сустрэча | сярэдні тон скуры | сярэднясветлы тон скуры</annotation>
+		<annotation cp="🫱🏽‍🫲🏼" type="tts">поціск рук: сярэдні тон скуры сярэднясветлы тон скуры</annotation>
+		<annotation cp="🫱🏽‍🫲🏾">дамовіліся | поціск рук | рукапацісканне | сустрэча | сярэдні тон скуры | сярэдняцёмны тон скуры</annotation>
+		<annotation cp="🫱🏽‍🫲🏾" type="tts">поціск рук: сярэдні тон скуры сярэдняцёмны тон скуры</annotation>
+		<annotation cp="🫱🏽‍🫲🏿">дамовіліся | поціск рук | рукапацісканне | сустрэча | сярэдні тон скуры | цёмны тон скуры</annotation>
+		<annotation cp="🫱🏽‍🫲🏿" type="tts">поціск рук: сярэдні тон скуры цёмны тон скуры</annotation>
+		<annotation cp="🫱🏾‍🫲🏻">дамовіліся | поціск рук | рукапацісканне | светлы тон скуры | сустрэча | сярэдняцёмны тон скуры</annotation>
+		<annotation cp="🫱🏾‍🫲🏻" type="tts">поціск рук: сярэдняцёмны тон скуры светлы тон скуры</annotation>
+		<annotation cp="🫱🏾‍🫲🏼">дамовіліся | поціск рук | рукапацісканне | сустрэча | сярэднясветлы тон скуры | сярэдняцёмны тон скуры</annotation>
+		<annotation cp="🫱🏾‍🫲🏼" type="tts">поціск рук: сярэдняцёмны тон скуры сярэднясветлы тон скуры</annotation>
+		<annotation cp="🫱🏾‍🫲🏽">дамовіліся | поціск рук | рукапацісканне | сустрэча | сярэдні тон скуры | сярэдняцёмны тон скуры</annotation>
+		<annotation cp="🫱🏾‍🫲🏽" type="tts">поціск рук: сярэдняцёмны тон скуры сярэдні тон скуры</annotation>
+		<annotation cp="🫱🏾‍🫲🏿">дамовіліся | поціск рук | рукапацісканне | сустрэча | сярэдняцёмны тон скуры | цёмны тон скуры</annotation>
+		<annotation cp="🫱🏾‍🫲🏿" type="tts">поціск рук: сярэдняцёмны тон скуры цёмны тон скуры</annotation>
+		<annotation cp="🫱🏿‍🫲🏻">дамовіліся | поціск рук | рукапацісканне | светлы тон скуры | сустрэча | цёмны тон скуры</annotation>
+		<annotation cp="🫱🏿‍🫲🏻" type="tts">поціск рук: цёмны тон скуры светлы тон скуры</annotation>
+		<annotation cp="🫱🏿‍🫲🏼">дамовіліся | поціск рук | рукапацісканне | сустрэча | сярэднясветлы тон скуры | цёмны тон скуры</annotation>
+		<annotation cp="🫱🏿‍🫲🏼" type="tts">поціск рук: цёмны тон скуры сярэднясветлы тон скуры</annotation>
+		<annotation cp="🫱🏿‍🫲🏽">дамовіліся | поціск рук | рукапацісканне | сустрэча | сярэдні тон скуры | цёмны тон скуры</annotation>
+		<annotation cp="🫱🏿‍🫲🏽" type="tts">поціск рук: цёмны тон скуры сярэдні тон скуры</annotation>
+		<annotation cp="🫱🏿‍🫲🏾">дамовіліся | поціск рук | рукапацісканне | сустрэча | сярэдняцёмны тон скуры | цёмны тон скуры</annotation>
+		<annotation cp="🫱🏿‍🫲🏾" type="tts">поціск рук: цёмны тон скуры сярэдняцёмны тон скуры</annotation>
+		<annotation cp="🫲🏻">лева | налева | рука | светлы тон скуры</annotation>
+		<annotation cp="🫲🏻" type="tts">рука налева: светлы тон скуры</annotation>
+		<annotation cp="🫲🏼">лева | налева | рука | сярэднясветлы тон скуры</annotation>
+		<annotation cp="🫲🏼" type="tts">рука налева: сярэднясветлы тон скуры</annotation>
+		<annotation cp="🫲🏽">лева | налева | рука | сярэдні тон скуры</annotation>
+		<annotation cp="🫲🏽" type="tts">рука налева: сярэдні тон скуры</annotation>
+		<annotation cp="🫲🏾">лева | налева | рука | сярэдняцёмны тон скуры</annotation>
+		<annotation cp="🫲🏾" type="tts">рука налева: сярэдняцёмны тон скуры</annotation>
+		<annotation cp="🫲🏿">лева | налева | рука | цёмны тон скуры</annotation>
+		<annotation cp="🫲🏿" type="tts">рука налева: цёмны тон скуры</annotation>
+		<annotation cp="🫳🏻">адпусціць | кінуць | прэч | псік | рука далонню ўніз | светлы тон скуры</annotation>
+		<annotation cp="🫳🏻" type="tts">рука далонню ўніз: светлы тон скуры</annotation>
+		<annotation cp="🫳🏼">адпусціць | кінуць | прэч | псік | рука далонню ўніз | сярэднясветлы тон скуры</annotation>
+		<annotation cp="🫳🏼" type="tts">рука далонню ўніз: сярэднясветлы тон скуры</annotation>
+		<annotation cp="🫳🏽">адпусціць | кінуць | прэч | псік | рука далонню ўніз | сярэдні тон скуры</annotation>
+		<annotation cp="🫳🏽" type="tts">рука далонню ўніз: сярэдні тон скуры</annotation>
+		<annotation cp="🫳🏾">адпусціць | кінуць | прэч | псік | рука далонню ўніз | сярэдняцёмны тон скуры</annotation>
+		<annotation cp="🫳🏾" type="tts">рука далонню ўніз: сярэдняцёмны тон скуры</annotation>
+		<annotation cp="🫳🏿">адпусціць | кінуць | прэч | псік | рука далонню ўніз | цёмны тон скуры</annotation>
+		<annotation cp="🫳🏿" type="tts">рука далонню ўніз: цёмны тон скуры</annotation>
+		<annotation cp="🫴🏻">лавіць | падазваць | падзываць | падыдзі | прапанова | рука далонню ўверх | светлы тон скуры | хадзі сюды</annotation>
+		<annotation cp="🫴🏻" type="tts">рука далонню ўверх: светлы тон скуры</annotation>
+		<annotation cp="🫴🏼">лавіць | падазваць | падзываць | падыдзі | прапанова | рука далонню ўверх | сярэднясветлы тон скуры | хадзі сюды</annotation>
+		<annotation cp="🫴🏼" type="tts">рука далонню ўверх: сярэднясветлы тон скуры</annotation>
+		<annotation cp="🫴🏽">лавіць | падазваць | падзываць | падыдзі | прапанова | рука далонню ўверх | сярэдні тон скуры | хадзі сюды</annotation>
+		<annotation cp="🫴🏽" type="tts">рука далонню ўверх: сярэдні тон скуры</annotation>
+		<annotation cp="🫴🏾">лавіць | падазваць | падзываць | падыдзі | прапанова | рука далонню ўверх | сярэдняцёмны тон скуры | хадзі сюды</annotation>
+		<annotation cp="🫴🏾" type="tts">рука далонню ўверх: сярэдняцёмны тон скуры</annotation>
+		<annotation cp="🫴🏿">лавіць | падазваць | падзываць | падыдзі | прапанова | рука далонню ўверх | хадзі сюды | цёмны тон скуры</annotation>
+		<annotation cp="🫴🏿" type="tts">рука далонню ўверх: цёмны тон скуры</annotation>
+		<annotation cp="🫷🏻">адмова | даць пяць | рука штурхае ўлева | светлы тон скуры | стоп | улева | чакай | штуршок</annotation>
+		<annotation cp="🫷🏻" type="tts">рука штурхае ўлева: светлы тон скуры</annotation>
+		<annotation cp="🫷🏼">адмова | даць пяць | рука штурхае ўлева | стоп | сярэднясветлы тон скуры | улева | чакай | штуршок</annotation>
+		<annotation cp="🫷🏼" type="tts">рука штурхае ўлева: сярэднясветлы тон скуры</annotation>
+		<annotation cp="🫷🏽">адмова | даць пяць | рука штурхае ўлева | стоп | сярэдні тон скуры | улева | чакай | штуршок</annotation>
+		<annotation cp="🫷🏽" type="tts">рука штурхае ўлева: сярэдні тон скуры</annotation>
+		<annotation cp="🫷🏾">адмова | даць пяць | рука штурхае ўлева | стоп | сярэдняцёмны тон скуры | улева | чакай | штуршок</annotation>
+		<annotation cp="🫷🏾" type="tts">рука штурхае ўлева: сярэдняцёмны тон скуры</annotation>
+		<annotation cp="🫷🏿">адмова | даць пяць | рука штурхае ўлева | стоп | улева | цёмны тон скуры | чакай | штуршок</annotation>
+		<annotation cp="🫷🏿" type="tts">рука штурхае ўлева: цёмны тон скуры</annotation>
+		<annotation cp="🫸🏻">адмова | даць пяць | рука штурхае ўправа | светлы тон скуры | стоп | управа | чакай | штуршок</annotation>
+		<annotation cp="🫸🏻" type="tts">рука штурхае ўправа: светлы тон скуры</annotation>
+		<annotation cp="🫸🏼">адмова | даць пяць | рука штурхае ўправа | стоп | сярэднясветлы тон скуры | управа | чакай | штуршок</annotation>
+		<annotation cp="🫸🏼" type="tts">рука штурхае ўправа: сярэднясветлы тон скуры</annotation>
+		<annotation cp="🫸🏽">адмова | даць пяць | рука штурхае ўправа | стоп | сярэдні тон скуры | управа | чакай | штуршок</annotation>
+		<annotation cp="🫸🏽" type="tts">рука штурхае ўправа: сярэдні тон скуры</annotation>
+		<annotation cp="🫸🏾">адмова | даць пяць | рука штурхае ўправа | стоп | сярэдняцёмны тон скуры | управа | чакай | штуршок</annotation>
+		<annotation cp="🫸🏾" type="tts">рука штурхае ўправа: сярэдняцёмны тон скуры</annotation>
+		<annotation cp="🫸🏿">адмова | даць пяць | рука штурхае ўправа | стоп | управа | цёмны тон скуры | чакай | штуршок</annotation>
+		<annotation cp="🫸🏿" type="tts">рука штурхае ўправа: цёмны тон скуры</annotation>
 		<annotation cp="👌🏻">добра | жэст | жэст «ОК» | ок | рука | светлы тон скуры</annotation>
 		<annotation cp="👌🏻" type="tts">жэст «ОК»: светлы тон скуры</annotation>
 		<annotation cp="👌🏼">добра | жэст | жэст «ОК» | ок | рука | сярэднясветлы тон скуры</annotation>
@@ -112,6 +213,16 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🤞🏾" type="tts">скрыжаваныя пальцы: сярэдняцёмны тон скуры</annotation>
 		<annotation cp="🤞🏿">скрыжаваныя пальцы | удача | цёмны тон скуры</annotation>
 		<annotation cp="🤞🏿" type="tts">скрыжаваныя пальцы: цёмны тон скуры</annotation>
+		<annotation cp="🫰🏻">грошы | дорага | каханне | пстрычка | рука са скрыжаванымі вялікім і ўказальным пальцамі | светлы тон скуры | сэрца</annotation>
+		<annotation cp="🫰🏻" type="tts">рука са скрыжаванымі вялікім і ўказальным пальцамі: светлы тон скуры</annotation>
+		<annotation cp="🫰🏼">грошы | дорага | каханне | пстрычка | рука са скрыжаванымі вялікім і ўказальным пальцамі | сэрца | сярэднясветлы тон скуры</annotation>
+		<annotation cp="🫰🏼" type="tts">рука са скрыжаванымі вялікім і ўказальным пальцамі: сярэднясветлы тон скуры</annotation>
+		<annotation cp="🫰🏽">грошы | дорага | каханне | пстрычка | рука са скрыжаванымі вялікім і ўказальным пальцамі | сэрца | сярэдні тон скуры</annotation>
+		<annotation cp="🫰🏽" type="tts">рука са скрыжаванымі вялікім і ўказальным пальцамі: сярэдні тон скуры</annotation>
+		<annotation cp="🫰🏾">грошы | дорага | каханне | пстрычка | рука са скрыжаванымі вялікім і ўказальным пальцамі | сэрца | сярэдняцёмны тон скуры</annotation>
+		<annotation cp="🫰🏾" type="tts">рука са скрыжаванымі вялікім і ўказальным пальцамі: сярэдняцёмны тон скуры</annotation>
+		<annotation cp="🫰🏿">грошы | дорага | каханне | пстрычка | рука са скрыжаванымі вялікім і ўказальным пальцамі | сэрца | цёмны тон скуры</annotation>
+		<annotation cp="🫰🏿" type="tts">рука са скрыжаванымі вялікім і ўказальным пальцамі: цёмны тон скуры</annotation>
 		<annotation cp="🤟🏻">ILY | жэст «люблю цябе» | рука | светлы тон скуры</annotation>
 		<annotation cp="🤟🏻" type="tts">жэст «люблю цябе»: светлы тон скуры</annotation>
 		<annotation cp="🤟🏼">ILY | жэст «люблю цябе» | рука | сярэднясветлы тон скуры</annotation>
@@ -202,6 +313,16 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="☝🏾" type="tts">указальны палец уверх: сярэдняцёмны тон скуры</annotation>
 		<annotation cp="☝🏿">палец | рука | угару | указальны палец уверх | цела | цёмны тон скуры</annotation>
 		<annotation cp="☝🏿" type="tts">указальны палец уверх: цёмны тон скуры</annotation>
+		<annotation cp="🫵🏻">светлы тон скуры | ты | указальны палец накіраваны на гледача | указанне</annotation>
+		<annotation cp="🫵🏻" type="tts">указальны палец накіраваны на гледача: светлы тон скуры</annotation>
+		<annotation cp="🫵🏼">сярэднясветлы тон скуры | ты | указальны палец накіраваны на гледача | указанне</annotation>
+		<annotation cp="🫵🏼" type="tts">указальны палец накіраваны на гледача: сярэднясветлы тон скуры</annotation>
+		<annotation cp="🫵🏽">сярэдні тон скуры | ты | указальны палец накіраваны на гледача | указанне</annotation>
+		<annotation cp="🫵🏽" type="tts">указальны палец накіраваны на гледача: сярэдні тон скуры</annotation>
+		<annotation cp="🫵🏾">сярэдняцёмны тон скуры | ты | указальны палец накіраваны на гледача | указанне</annotation>
+		<annotation cp="🫵🏾" type="tts">указальны палец накіраваны на гледача: сярэдняцёмны тон скуры</annotation>
+		<annotation cp="🫵🏿">ты | указальны палец накіраваны на гледача | указанне | цёмны тон скуры</annotation>
+		<annotation cp="🫵🏿" type="tts">указальны палец накіраваны на гледача: цёмны тон скуры</annotation>
 		<annotation cp="👍🏻">+1 | вялікі палец уверх | лайк | падабайка | палец | светлы тон скуры | уверх</annotation>
 		<annotation cp="👍🏻" type="tts">вялікі палец уверх: светлы тон скуры</annotation>
 		<annotation cp="👍🏼">+1 | вялікі палец уверх | лайк | падабайка | палец | сярэднясветлы тон скуры | уверх</annotation>
@@ -282,6 +403,16 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🙌🏾" type="tts">чалавек паднімае рукі: сярэдняцёмны тон скуры</annotation>
 		<annotation cp="🙌🏿">жэст | рукі | свята | ура | цёмны тон скуры | чалавек паднімае рукі</annotation>
 		<annotation cp="🙌🏿" type="tts">чалавек паднімае рукі: цёмны тон скуры</annotation>
+		<annotation cp="🫶🏻">каханне | любоў | рукі ў форме сэрца | светлы тон скуры</annotation>
+		<annotation cp="🫶🏻" type="tts">рукі ў форме сэрца: светлы тон скуры</annotation>
+		<annotation cp="🫶🏼">каханне | любоў | рукі ў форме сэрца | сярэднясветлы тон скуры</annotation>
+		<annotation cp="🫶🏼" type="tts">рукі ў форме сэрца: сярэднясветлы тон скуры</annotation>
+		<annotation cp="🫶🏽">каханне | любоў | рукі ў форме сэрца | сярэдні тон скуры</annotation>
+		<annotation cp="🫶🏽" type="tts">рукі ў форме сэрца: сярэдні тон скуры</annotation>
+		<annotation cp="🫶🏾">каханне | любоў | рукі ў форме сэрца | сярэдняцёмны тон скуры</annotation>
+		<annotation cp="🫶🏾" type="tts">рукі ў форме сэрца: сярэдняцёмны тон скуры</annotation>
+		<annotation cp="🫶🏿">каханне | любоў | рукі ў форме сэрца | цёмны тон скуры</annotation>
+		<annotation cp="🫶🏿" type="tts">рукі ў форме сэрца: цёмны тон скуры</annotation>
 		<annotation cp="👐🏻">адкрытыя | бяспека | рукі | светлы тон скуры</annotation>
 		<annotation cp="👐🏻" type="tts">адкрытыя рукі: светлы тон скуры</annotation>
 		<annotation cp="👐🏼">адкрытыя | бяспека | рукі | сярэднясветлы тон скуры</annotation>
@@ -302,6 +433,16 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🤲🏾" type="tts">складзеныя разам далоні: сярэдняцёмны тон скуры</annotation>
 		<annotation cp="🤲🏿">моліцца | складзеныя разам далоні | цёмны тон скуры</annotation>
 		<annotation cp="🤲🏿" type="tts">складзеныя разам далоні: цёмны тон скуры</annotation>
+		<annotation cp="🤝🏻">дамовіліся | поціск рук | рукапацісканне | светлы тон скуры | сустрэча</annotation>
+		<annotation cp="🤝🏻" type="tts">поціск рук: светлы тон скуры</annotation>
+		<annotation cp="🤝🏼">дамовіліся | поціск рук | рукапацісканне | сустрэча | сярэднясветлы тон скуры</annotation>
+		<annotation cp="🤝🏼" type="tts">поціск рук: сярэднясветлы тон скуры</annotation>
+		<annotation cp="🤝🏽">дамовіліся | поціск рук | рукапацісканне | сустрэча | сярэдні тон скуры</annotation>
+		<annotation cp="🤝🏽" type="tts">поціск рук: сярэдні тон скуры</annotation>
+		<annotation cp="🤝🏾">дамовіліся | поціск рук | рукапацісканне | сустрэча | сярэдняцёмны тон скуры</annotation>
+		<annotation cp="🤝🏾" type="tts">поціск рук: сярэдняцёмны тон скуры</annotation>
+		<annotation cp="🤝🏿">дамовіліся | поціск рук | рукапацісканне | сустрэча | цёмны тон скуры</annotation>
+		<annotation cp="🤝🏿" type="tts">поціск рук: цёмны тон скуры</annotation>
 		<annotation cp="🙏🏻">жэст | калі ласка | малітва | просьба | рукі | светлы тон скуры | складзеныя рукі</annotation>
 		<annotation cp="🙏🏻" type="tts">складзеныя рукі: светлы тон скуры</annotation>
 		<annotation cp="🙏🏼">жэст | калі ласка | малітва | просьба | рукі | складзеныя рукі | сярэднясветлы тон скуры</annotation>
@@ -1996,6 +2137,16 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👷🏾‍♀" type="tts">будаўніца: сярэдняцёмны тон скуры</annotation>
 		<annotation cp="👷🏿‍♀">будаўніца | будаўніцтва | жанчына | работніца | цёмны тон скуры</annotation>
 		<annotation cp="👷🏿‍♀" type="tts">будаўніца: цёмны тон скуры</annotation>
+		<annotation cp="🫅🏻">вялікасць | знаць | кароль | манарх | светлы тон скуры | цар | чалавек з каронай</annotation>
+		<annotation cp="🫅🏻" type="tts">чалавек з каронай: светлы тон скуры</annotation>
+		<annotation cp="🫅🏼">вялікасць | знаць | кароль | манарх | сярэднясветлы тон скуры | цар | чалавек з каронай</annotation>
+		<annotation cp="🫅🏼" type="tts">чалавек з каронай: сярэднясветлы тон скуры</annotation>
+		<annotation cp="🫅🏽">вялікасць | знаць | кароль | манарх | сярэдні тон скуры | цар | чалавек з каронай</annotation>
+		<annotation cp="🫅🏽" type="tts">чалавек з каронай: сярэдні тон скуры</annotation>
+		<annotation cp="🫅🏾">вялікасць | знаць | кароль | манарх | сярэдняцёмны тон скуры | цар | чалавек з каронай</annotation>
+		<annotation cp="🫅🏾" type="tts">чалавек з каронай: сярэдняцёмны тон скуры</annotation>
+		<annotation cp="🫅🏿">вялікасць | знаць | кароль | манарх | цар | цёмны тон скуры | чалавек з каронай</annotation>
+		<annotation cp="🫅🏿" type="tts">чалавек з каронай: цёмны тон скуры</annotation>
 		<annotation cp="🤴🏻">прынц | светлы тон скуры</annotation>
 		<annotation cp="🤴🏻" type="tts">прынц: светлы тон скуры</annotation>
 		<annotation cp="🤴🏼">прынц | сярэднясветлы тон скуры</annotation>
@@ -2136,6 +2287,26 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🤰🏾" type="tts">цяжарная: сярэдняцёмны тон скуры</annotation>
 		<annotation cp="🤰🏿">цёмны тон скуры | цяжарная</annotation>
 		<annotation cp="🤰🏿" type="tts">цяжарная: цёмны тон скуры</annotation>
+		<annotation cp="🫃🏻">жывот | поўны | раздзьмуты | светлы тон скуры | цяжарны | цяжарны мужчына</annotation>
+		<annotation cp="🫃🏻" type="tts">цяжарны мужчына: светлы тон скуры</annotation>
+		<annotation cp="🫃🏼">жывот | поўны | раздзьмуты | сярэднясветлы тон скуры | цяжарны | цяжарны мужчына</annotation>
+		<annotation cp="🫃🏼" type="tts">цяжарны мужчына: сярэднясветлы тон скуры</annotation>
+		<annotation cp="🫃🏽">жывот | поўны | раздзьмуты | сярэдні тон скуры | цяжарны | цяжарны мужчына</annotation>
+		<annotation cp="🫃🏽" type="tts">цяжарны мужчына: сярэдні тон скуры</annotation>
+		<annotation cp="🫃🏾">жывот | поўны | раздзьмуты | сярэдняцёмны тон скуры | цяжарны | цяжарны мужчына</annotation>
+		<annotation cp="🫃🏾" type="tts">цяжарны мужчына: сярэдняцёмны тон скуры</annotation>
+		<annotation cp="🫃🏿">жывот | поўны | раздзьмуты | цёмны тон скуры | цяжарны | цяжарны мужчына</annotation>
+		<annotation cp="🫃🏿" type="tts">цяжарны мужчына: цёмны тон скуры</annotation>
+		<annotation cp="🫄🏻">жывот | поўны | раздзьмуты | светлы тон скуры | цяжарны | цяжарны чалавек</annotation>
+		<annotation cp="🫄🏻" type="tts">цяжарны чалавек: светлы тон скуры</annotation>
+		<annotation cp="🫄🏼">жывот | поўны | раздзьмуты | сярэднясветлы тон скуры | цяжарны | цяжарны чалавек</annotation>
+		<annotation cp="🫄🏼" type="tts">цяжарны чалавек: сярэднясветлы тон скуры</annotation>
+		<annotation cp="🫄🏽">жывот | поўны | раздзьмуты | сярэдні тон скуры | цяжарны | цяжарны чалавек</annotation>
+		<annotation cp="🫄🏽" type="tts">цяжарны чалавек: сярэдні тон скуры</annotation>
+		<annotation cp="🫄🏾">жывот | поўны | раздзьмуты | сярэдняцёмны тон скуры | цяжарны | цяжарны чалавек</annotation>
+		<annotation cp="🫄🏾" type="tts">цяжарны чалавек: сярэдняцёмны тон скуры</annotation>
+		<annotation cp="🫄🏿">жывот | поўны | раздзьмуты | цёмны тон скуры | цяжарны | цяжарны чалавек</annotation>
+		<annotation cp="🫄🏿" type="tts">цяжарны чалавек: цёмны тон скуры</annotation>
 		<annotation cp="🤱🏻">грудзі | дзіця | кармленне | кормячая маці | светлы тон скуры</annotation>
 		<annotation cp="🤱🏻" type="tts">кормячая маці: светлы тон скуры</annotation>
 		<annotation cp="🤱🏼">грудзі | дзіця | кармленне | кормячая маці | сярэднясветлы тон скуры</annotation>
@@ -2196,25 +2367,25 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🎅🏾" type="tts">Санта Клаус: сярэдняцёмны тон скуры</annotation>
 		<annotation cp="🎅🏿">дзед мароз | каляды | раство | Санта Клаус | свята | цёмны тон скуры</annotation>
 		<annotation cp="🎅🏿" type="tts">Санта Клаус: цёмны тон скуры</annotation>
-		<annotation cp="🤶🏻">каляды | місіс клаус | місіс Клаус | новы год | светлы тон скуры | снягурка</annotation>
+		<annotation cp="🤶🏻">каляды | місіс Клаус | новы год | светлы тон скуры | снягурка</annotation>
 		<annotation cp="🤶🏻" type="tts">місіс Клаус: светлы тон скуры</annotation>
-		<annotation cp="🤶🏼">каляды | місіс клаус | місіс Клаус | новы год | снягурка | сярэднясветлы тон скуры</annotation>
+		<annotation cp="🤶🏼">каляды | місіс Клаус | новы год | снягурка | сярэднясветлы тон скуры</annotation>
 		<annotation cp="🤶🏼" type="tts">місіс Клаус: сярэднясветлы тон скуры</annotation>
-		<annotation cp="🤶🏽">каляды | місіс клаус | місіс Клаус | новы год | снягурка | сярэдні тон скуры</annotation>
+		<annotation cp="🤶🏽">каляды | місіс Клаус | новы год | снягурка | сярэдні тон скуры</annotation>
 		<annotation cp="🤶🏽" type="tts">місіс Клаус: сярэдні тон скуры</annotation>
-		<annotation cp="🤶🏾">каляды | місіс клаус | місіс Клаус | новы год | снягурка | сярэдняцёмны тон скуры</annotation>
+		<annotation cp="🤶🏾">каляды | місіс Клаус | новы год | снягурка | сярэдняцёмны тон скуры</annotation>
 		<annotation cp="🤶🏾" type="tts">місіс Клаус: сярэдняцёмны тон скуры</annotation>
-		<annotation cp="🤶🏿">каляды | місіс клаус | місіс Клаус | новы год | снягурка | цёмны тон скуры</annotation>
+		<annotation cp="🤶🏿">каляды | місіс Клаус | новы год | снягурка | цёмны тон скуры</annotation>
 		<annotation cp="🤶🏿" type="tts">місіс Клаус: цёмны тон скуры</annotation>
-		<annotation cp="🧑🏻‍🎄">Клаус, каляды, Раство | светлы тон скуры | спадарыня Клаус</annotation>
+		<annotation cp="🧑🏻‍🎄">каляды | Клаус | Раство | светлы тон скуры | спадарыня Клаус</annotation>
 		<annotation cp="🧑🏻‍🎄" type="tts">спадарыня Клаус: светлы тон скуры</annotation>
-		<annotation cp="🧑🏼‍🎄">Клаус, каляды, Раство | спадарыня Клаус | сярэднясветлы тон скуры</annotation>
+		<annotation cp="🧑🏼‍🎄">каляды | Клаус | Раство | спадарыня Клаус | сярэднясветлы тон скуры</annotation>
 		<annotation cp="🧑🏼‍🎄" type="tts">спадарыня Клаус: сярэднясветлы тон скуры</annotation>
-		<annotation cp="🧑🏽‍🎄">Клаус, каляды, Раство | спадарыня Клаус | сярэдні тон скуры</annotation>
+		<annotation cp="🧑🏽‍🎄">каляды | Клаус | Раство | спадарыня Клаус | сярэдні тон скуры</annotation>
 		<annotation cp="🧑🏽‍🎄" type="tts">спадарыня Клаус: сярэдні тон скуры</annotation>
-		<annotation cp="🧑🏾‍🎄">Клаус, каляды, Раство | спадарыня Клаус | сярэдняцёмны тон скуры</annotation>
+		<annotation cp="🧑🏾‍🎄">каляды | Клаус | Раство | спадарыня Клаус | сярэдняцёмны тон скуры</annotation>
 		<annotation cp="🧑🏾‍🎄" type="tts">спадарыня Клаус: сярэдняцёмны тон скуры</annotation>
-		<annotation cp="🧑🏿‍🎄">Клаус, каляды, Раство | спадарыня Клаус | цёмны тон скуры</annotation>
+		<annotation cp="🧑🏿‍🎄">каляды | Клаус | Раство | спадарыня Клаус | цёмны тон скуры</annotation>
 		<annotation cp="🧑🏿‍🎄" type="tts">спадарыня Клаус: цёмны тон скуры</annotation>
 		<annotation cp="🦸🏻">гераіня | герой | дабро | светлы тон скуры | супергерой | суперсіла</annotation>
 		<annotation cp="🦸🏻" type="tts">супергерой: светлы тон скуры</annotation>
@@ -2516,6 +2687,42 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🚶🏾‍♀" type="tts">жанчына ідзе: сярэдняцёмны тон скуры</annotation>
 		<annotation cp="🚶🏿‍♀">жанчына | жанчына ідзе | пешшу | хадзьба | цёмны тон скуры | шпацыраваць</annotation>
 		<annotation cp="🚶🏿‍♀" type="tts">жанчына ідзе: цёмны тон скуры</annotation>
+		<annotation cp="🚶‍➡">, | накіраваныя | пешшу | ўправа | хадзьба | чалавек ідзе | шпацыраваць</annotation>
+		<annotation cp="🚶‍➡" type="tts">чалавек ідзе: , накіраваныя ўправа</annotation>
+		<annotation cp="🚶🏻‍➡">, | накіраваныя | пешшу | светлы тон скуры | ўправа | хадзьба | чалавек ідзе | шпацыраваць</annotation>
+		<annotation cp="🚶🏻‍➡" type="tts">чалавек ідзе: светлы тон скуры , накіраваныя ўправа</annotation>
+		<annotation cp="🚶🏼‍➡">, | накіраваныя | пешшу | сярэднясветлы тон скуры | ўправа | хадзьба | чалавек ідзе | шпацыраваць</annotation>
+		<annotation cp="🚶🏼‍➡" type="tts">чалавек ідзе: сярэднясветлы тон скуры , накіраваныя ўправа</annotation>
+		<annotation cp="🚶🏽‍➡">, | накіраваныя | пешшу | сярэдні тон скуры | ўправа | хадзьба | чалавек ідзе | шпацыраваць</annotation>
+		<annotation cp="🚶🏽‍➡" type="tts">чалавек ідзе: сярэдні тон скуры , накіраваныя ўправа</annotation>
+		<annotation cp="🚶🏾‍➡">, | накіраваныя | пешшу | сярэдняцёмны тон скуры | ўправа | хадзьба | чалавек ідзе | шпацыраваць</annotation>
+		<annotation cp="🚶🏾‍➡" type="tts">чалавек ідзе: сярэдняцёмны тон скуры , накіраваныя ўправа</annotation>
+		<annotation cp="🚶🏿‍➡">, | накіраваныя | пешшу | ўправа | хадзьба | цёмны тон скуры | чалавек ідзе | шпацыраваць</annotation>
+		<annotation cp="🚶🏿‍➡" type="tts">чалавек ідзе: цёмны тон скуры , накіраваныя ўправа</annotation>
+		<annotation cp="🚶‍♀‍➡">, | жанчына | жанчына ідзе | накіраваныя | пешшу | ўправа | хадзьба | шпацыраваць</annotation>
+		<annotation cp="🚶‍♀‍➡" type="tts">жанчына ідзе: , накіраваныя ўправа</annotation>
+		<annotation cp="🚶🏻‍♀‍➡">, | жанчына | жанчына ідзе | накіраваныя | пешшу | светлы тон скуры | ўправа | хадзьба | шпацыраваць</annotation>
+		<annotation cp="🚶🏻‍♀‍➡" type="tts">жанчына ідзе: светлы тон скуры , накіраваныя ўправа</annotation>
+		<annotation cp="🚶🏼‍♀‍➡">, | жанчына | жанчына ідзе | накіраваныя | пешшу | сярэднясветлы тон скуры | ўправа | хадзьба | шпацыраваць</annotation>
+		<annotation cp="🚶🏼‍♀‍➡" type="tts">жанчына ідзе: сярэднясветлы тон скуры , накіраваныя ўправа</annotation>
+		<annotation cp="🚶🏽‍♀‍➡">, | жанчына | жанчына ідзе | накіраваныя | пешшу | сярэдні тон скуры | ўправа | хадзьба | шпацыраваць</annotation>
+		<annotation cp="🚶🏽‍♀‍➡" type="tts">жанчына ідзе: сярэдні тон скуры , накіраваныя ўправа</annotation>
+		<annotation cp="🚶🏾‍♀‍➡">, | жанчына | жанчына ідзе | накіраваныя | пешшу | сярэдняцёмны тон скуры | ўправа | хадзьба | шпацыраваць</annotation>
+		<annotation cp="🚶🏾‍♀‍➡" type="tts">жанчына ідзе: сярэдняцёмны тон скуры , накіраваныя ўправа</annotation>
+		<annotation cp="🚶🏿‍♀‍➡">, | жанчына | жанчына ідзе | накіраваныя | пешшу | ўправа | хадзьба | цёмны тон скуры | шпацыраваць</annotation>
+		<annotation cp="🚶🏿‍♀‍➡" type="tts">жанчына ідзе: цёмны тон скуры , накіраваныя ўправа</annotation>
+		<annotation cp="🚶‍♂‍➡">, | мужчына | мужчына ідзе | накіраваныя | пешшу | ўправа | хадзьба | шпацыраваць</annotation>
+		<annotation cp="🚶‍♂‍➡" type="tts">мужчына ідзе: , накіраваныя ўправа</annotation>
+		<annotation cp="🚶🏻‍♂‍➡">, | мужчына | мужчына ідзе | накіраваныя | пешшу | светлы тон скуры | ўправа | хадзьба | шпацыраваць</annotation>
+		<annotation cp="🚶🏻‍♂‍➡" type="tts">мужчына ідзе: светлы тон скуры , накіраваныя ўправа</annotation>
+		<annotation cp="🚶🏼‍♂‍➡">, | мужчына | мужчына ідзе | накіраваныя | пешшу | сярэднясветлы тон скуры | ўправа | хадзьба | шпацыраваць</annotation>
+		<annotation cp="🚶🏼‍♂‍➡" type="tts">мужчына ідзе: сярэднясветлы тон скуры , накіраваныя ўправа</annotation>
+		<annotation cp="🚶🏽‍♂‍➡">, | мужчына | мужчына ідзе | накіраваныя | пешшу | сярэдні тон скуры | ўправа | хадзьба | шпацыраваць</annotation>
+		<annotation cp="🚶🏽‍♂‍➡" type="tts">мужчына ідзе: сярэдні тон скуры , накіраваныя ўправа</annotation>
+		<annotation cp="🚶🏾‍♂‍➡">, | мужчына | мужчына ідзе | накіраваныя | пешшу | сярэдняцёмны тон скуры | ўправа | хадзьба | шпацыраваць</annotation>
+		<annotation cp="🚶🏾‍♂‍➡" type="tts">мужчына ідзе: сярэдняцёмны тон скуры , накіраваныя ўправа</annotation>
+		<annotation cp="🚶🏿‍♂‍➡">, | мужчына | мужчына ідзе | накіраваныя | пешшу | ўправа | хадзьба | цёмны тон скуры | шпацыраваць</annotation>
+		<annotation cp="🚶🏿‍♂‍➡" type="tts">мужчына ідзе: цёмны тон скуры , накіраваныя ўправа</annotation>
 		<annotation cp="🧍🏻">светлы тон скуры | стаяць | стойма | чалавек стаіць</annotation>
 		<annotation cp="🧍🏻" type="tts">чалавек стаіць: светлы тон скуры</annotation>
 		<annotation cp="🧍🏼">стаяць | стойма | сярэднясветлы тон скуры | чалавек стаіць</annotation>
@@ -2576,6 +2783,42 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🧎🏾‍♀" type="tts">жанчына стаіць на каленях: сярэдняцёмны тон скуры</annotation>
 		<annotation cp="🧎🏿‍♀">жанчына | жанчына стаіць на каленях | стаіць на каленях | цёмны тон скуры</annotation>
 		<annotation cp="🧎🏿‍♀" type="tts">жанчына стаіць на каленях: цёмны тон скуры</annotation>
+		<annotation cp="🧎‍➡">, | кленчыць | накіраваныя | стаяць на каленях | ўправа | чалавек на каленях</annotation>
+		<annotation cp="🧎‍➡" type="tts">чалавек на каленях: , накіраваныя ўправа</annotation>
+		<annotation cp="🧎🏻‍➡">, | кленчыць | накіраваныя | светлы тон скуры | стаяць на каленях | ўправа | чалавек на каленях</annotation>
+		<annotation cp="🧎🏻‍➡" type="tts">чалавек на каленях: светлы тон скуры , накіраваныя ўправа</annotation>
+		<annotation cp="🧎🏼‍➡">, | кленчыць | накіраваныя | стаяць на каленях | сярэднясветлы тон скуры | ўправа | чалавек на каленях</annotation>
+		<annotation cp="🧎🏼‍➡" type="tts">чалавек на каленях: сярэднясветлы тон скуры , накіраваныя ўправа</annotation>
+		<annotation cp="🧎🏽‍➡">, | кленчыць | накіраваныя | стаяць на каленях | сярэдні тон скуры | ўправа | чалавек на каленях</annotation>
+		<annotation cp="🧎🏽‍➡" type="tts">чалавек на каленях: сярэдні тон скуры , накіраваныя ўправа</annotation>
+		<annotation cp="🧎🏾‍➡">, | кленчыць | накіраваныя | стаяць на каленях | сярэдняцёмны тон скуры | ўправа | чалавек на каленях</annotation>
+		<annotation cp="🧎🏾‍➡" type="tts">чалавек на каленях: сярэдняцёмны тон скуры , накіраваныя ўправа</annotation>
+		<annotation cp="🧎🏿‍➡">, | кленчыць | накіраваныя | стаяць на каленях | ўправа | цёмны тон скуры | чалавек на каленях</annotation>
+		<annotation cp="🧎🏿‍➡" type="tts">чалавек на каленях: цёмны тон скуры , накіраваныя ўправа</annotation>
+		<annotation cp="🧎‍♀‍➡">, | жанчына | жанчына стаіць на каленях | накіраваныя | стаіць на каленях | ўправа</annotation>
+		<annotation cp="🧎‍♀‍➡" type="tts">жанчына стаіць на каленях: , накіраваныя ўправа</annotation>
+		<annotation cp="🧎🏻‍♀‍➡">, | жанчына | жанчына стаіць на каленях | накіраваныя | светлы тон скуры | стаіць на каленях | ўправа</annotation>
+		<annotation cp="🧎🏻‍♀‍➡" type="tts">жанчына стаіць на каленях: светлы тон скуры , накіраваныя ўправа</annotation>
+		<annotation cp="🧎🏼‍♀‍➡">, | жанчына | жанчына стаіць на каленях | накіраваныя | стаіць на каленях | сярэднясветлы тон скуры | ўправа</annotation>
+		<annotation cp="🧎🏼‍♀‍➡" type="tts">жанчына стаіць на каленях: сярэднясветлы тон скуры , накіраваныя ўправа</annotation>
+		<annotation cp="🧎🏽‍♀‍➡">, | жанчына | жанчына стаіць на каленях | накіраваныя | стаіць на каленях | сярэдні тон скуры | ўправа</annotation>
+		<annotation cp="🧎🏽‍♀‍➡" type="tts">жанчына стаіць на каленях: сярэдні тон скуры , накіраваныя ўправа</annotation>
+		<annotation cp="🧎🏾‍♀‍➡">, | жанчына | жанчына стаіць на каленях | накіраваныя | стаіць на каленях | сярэдняцёмны тон скуры | ўправа</annotation>
+		<annotation cp="🧎🏾‍♀‍➡" type="tts">жанчына стаіць на каленях: сярэдняцёмны тон скуры , накіраваныя ўправа</annotation>
+		<annotation cp="🧎🏿‍♀‍➡">, | жанчына | жанчына стаіць на каленях | накіраваныя | стаіць на каленях | ўправа | цёмны тон скуры</annotation>
+		<annotation cp="🧎🏿‍♀‍➡" type="tts">жанчына стаіць на каленях: цёмны тон скуры , накіраваныя ўправа</annotation>
+		<annotation cp="🧎‍♂‍➡">, | мужчына | мужчына стаіць на каленях | накіраваныя | стаіць на каленях | ўправа</annotation>
+		<annotation cp="🧎‍♂‍➡" type="tts">мужчына стаіць на каленях: , накіраваныя ўправа</annotation>
+		<annotation cp="🧎🏻‍♂‍➡">, | мужчына | мужчына стаіць на каленях | накіраваныя | светлы тон скуры | стаіць на каленях | ўправа</annotation>
+		<annotation cp="🧎🏻‍♂‍➡" type="tts">мужчына стаіць на каленях: светлы тон скуры , накіраваныя ўправа</annotation>
+		<annotation cp="🧎🏼‍♂‍➡">, | мужчына | мужчына стаіць на каленях | накіраваныя | стаіць на каленях | сярэднясветлы тон скуры | ўправа</annotation>
+		<annotation cp="🧎🏼‍♂‍➡" type="tts">мужчына стаіць на каленях: сярэднясветлы тон скуры , накіраваныя ўправа</annotation>
+		<annotation cp="🧎🏽‍♂‍➡">, | мужчына | мужчына стаіць на каленях | накіраваныя | стаіць на каленях | сярэдні тон скуры | ўправа</annotation>
+		<annotation cp="🧎🏽‍♂‍➡" type="tts">мужчына стаіць на каленях: сярэдні тон скуры , накіраваныя ўправа</annotation>
+		<annotation cp="🧎🏾‍♂‍➡">, | мужчына | мужчына стаіць на каленях | накіраваныя | стаіць на каленях | сярэдняцёмны тон скуры | ўправа</annotation>
+		<annotation cp="🧎🏾‍♂‍➡" type="tts">мужчына стаіць на каленях: сярэдняцёмны тон скуры , накіраваныя ўправа</annotation>
+		<annotation cp="🧎🏿‍♂‍➡">, | мужчына | мужчына стаіць на каленях | накіраваныя | стаіць на каленях | ўправа | цёмны тон скуры</annotation>
+		<annotation cp="🧎🏿‍♂‍➡" type="tts">мужчына стаіць на каленях: цёмны тон скуры , накіраваныя ўправа</annotation>
 		<annotation cp="🧑🏻‍🦯">асаблівыя фізічныя патрэбы | інваліднасць | светлы тон скуры | сляпы | чалавек з палкай</annotation>
 		<annotation cp="🧑🏻‍🦯" type="tts">чалавек з палкай: светлы тон скуры</annotation>
 		<annotation cp="🧑🏼‍🦯">асаблівыя фізічныя патрэбы | інваліднасць | сляпы | сярэднясветлы тон скуры | чалавек з палкай</annotation>
@@ -2586,6 +2829,18 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🧑🏾‍🦯" type="tts">чалавек з палкай: сярэдняцёмны тон скуры</annotation>
 		<annotation cp="🧑🏿‍🦯">асаблівыя фізічныя патрэбы | інваліднасць | сляпы | цёмны тон скуры | чалавек з палкай</annotation>
 		<annotation cp="🧑🏿‍🦯" type="tts">чалавек з палкай: цёмны тон скуры</annotation>
+		<annotation cp="🧑‍🦯‍➡">, | асаблівыя фізічныя патрэбы | інваліднасць | накіраваныя | сляпы | ўправа | чалавек з палкай</annotation>
+		<annotation cp="🧑‍🦯‍➡" type="tts">чалавек з палкай: , накіраваныя ўправа</annotation>
+		<annotation cp="🧑🏻‍🦯‍➡">, | асаблівыя фізічныя патрэбы | інваліднасць | накіраваныя | светлы тон скуры | сляпы | ўправа | чалавек з палкай</annotation>
+		<annotation cp="🧑🏻‍🦯‍➡" type="tts">чалавек з палкай: светлы тон скуры , накіраваныя ўправа</annotation>
+		<annotation cp="🧑🏼‍🦯‍➡">, | асаблівыя фізічныя патрэбы | інваліднасць | накіраваныя | сляпы | сярэднясветлы тон скуры | ўправа | чалавек з палкай</annotation>
+		<annotation cp="🧑🏼‍🦯‍➡" type="tts">чалавек з палкай: сярэднясветлы тон скуры , накіраваныя ўправа</annotation>
+		<annotation cp="🧑🏽‍🦯‍➡">, | асаблівыя фізічныя патрэбы | інваліднасць | накіраваныя | сляпы | сярэдні тон скуры | ўправа | чалавек з палкай</annotation>
+		<annotation cp="🧑🏽‍🦯‍➡" type="tts">чалавек з палкай: сярэдні тон скуры , накіраваныя ўправа</annotation>
+		<annotation cp="🧑🏾‍🦯‍➡">, | асаблівыя фізічныя патрэбы | інваліднасць | накіраваныя | сляпы | сярэдняцёмны тон скуры | ўправа | чалавек з палкай</annotation>
+		<annotation cp="🧑🏾‍🦯‍➡" type="tts">чалавек з палкай: сярэдняцёмны тон скуры , накіраваныя ўправа</annotation>
+		<annotation cp="🧑🏿‍🦯‍➡">, | асаблівыя фізічныя патрэбы | інваліднасць | накіраваныя | сляпы | ўправа | цёмны тон скуры | чалавек з палкай</annotation>
+		<annotation cp="🧑🏿‍🦯‍➡" type="tts">чалавек з палкай: цёмны тон скуры , накіраваныя ўправа</annotation>
 		<annotation cp="👨🏻‍🦯">асаблівыя фізічныя патрэбы | інваліднасць | мужчына | мужчына з палкай | светлы тон скуры | сляпы</annotation>
 		<annotation cp="👨🏻‍🦯" type="tts">мужчына з палкай: светлы тон скуры</annotation>
 		<annotation cp="👨🏼‍🦯">асаблівыя фізічныя патрэбы | інваліднасць | мужчына | мужчына з палкай | сляпы | сярэднясветлы тон скуры</annotation>
@@ -2596,6 +2851,18 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👨🏾‍🦯" type="tts">мужчына з палкай: сярэдняцёмны тон скуры</annotation>
 		<annotation cp="👨🏿‍🦯">асаблівыя фізічныя патрэбы | інваліднасць | мужчына | мужчына з палкай | сляпы | цёмны тон скуры</annotation>
 		<annotation cp="👨🏿‍🦯" type="tts">мужчына з палкай: цёмны тон скуры</annotation>
+		<annotation cp="👨‍🦯‍➡">, | асаблівыя фізічныя патрэбы | інваліднасць | мужчына | мужчына з палкай | накіраваныя | сляпы | ўправа</annotation>
+		<annotation cp="👨‍🦯‍➡" type="tts">мужчына з палкай: , накіраваныя ўправа</annotation>
+		<annotation cp="👨🏻‍🦯‍➡">, | асаблівыя фізічныя патрэбы | інваліднасць | мужчына | мужчына з палкай | накіраваныя | светлы тон скуры | сляпы | ўправа</annotation>
+		<annotation cp="👨🏻‍🦯‍➡" type="tts">мужчына з палкай: светлы тон скуры , накіраваныя ўправа</annotation>
+		<annotation cp="👨🏼‍🦯‍➡">, | асаблівыя фізічныя патрэбы | інваліднасць | мужчына | мужчына з палкай | накіраваныя | сляпы | сярэднясветлы тон скуры | ўправа</annotation>
+		<annotation cp="👨🏼‍🦯‍➡" type="tts">мужчына з палкай: сярэднясветлы тон скуры , накіраваныя ўправа</annotation>
+		<annotation cp="👨🏽‍🦯‍➡">, | асаблівыя фізічныя патрэбы | інваліднасць | мужчына | мужчына з палкай | накіраваныя | сляпы | сярэдні тон скуры | ўправа</annotation>
+		<annotation cp="👨🏽‍🦯‍➡" type="tts">мужчына з палкай: сярэдні тон скуры , накіраваныя ўправа</annotation>
+		<annotation cp="👨🏾‍🦯‍➡">, | асаблівыя фізічныя патрэбы | інваліднасць | мужчына | мужчына з палкай | накіраваныя | сляпы | сярэдняцёмны тон скуры | ўправа</annotation>
+		<annotation cp="👨🏾‍🦯‍➡" type="tts">мужчына з палкай: сярэдняцёмны тон скуры , накіраваныя ўправа</annotation>
+		<annotation cp="👨🏿‍🦯‍➡">, | асаблівыя фізічныя патрэбы | інваліднасць | мужчына | мужчына з палкай | накіраваныя | сляпы | ўправа | цёмны тон скуры</annotation>
+		<annotation cp="👨🏿‍🦯‍➡" type="tts">мужчына з палкай: цёмны тон скуры , накіраваныя ўправа</annotation>
 		<annotation cp="👩🏻‍🦯">асаблівыя фізічныя патрэбы | жанчына | жанчына з палкай | інваліднасць | светлы тон скуры | сляпы</annotation>
 		<annotation cp="👩🏻‍🦯" type="tts">жанчына з палкай: светлы тон скуры</annotation>
 		<annotation cp="👩🏼‍🦯">асаблівыя фізічныя патрэбы | жанчына | жанчына з палкай | інваліднасць | сляпы | сярэднясветлы тон скуры</annotation>
@@ -2606,6 +2873,18 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👩🏾‍🦯" type="tts">жанчына з палкай: сярэдняцёмны тон скуры</annotation>
 		<annotation cp="👩🏿‍🦯">асаблівыя фізічныя патрэбы | жанчына | жанчына з палкай | інваліднасць | сляпы | цёмны тон скуры</annotation>
 		<annotation cp="👩🏿‍🦯" type="tts">жанчына з палкай: цёмны тон скуры</annotation>
+		<annotation cp="👩‍🦯‍➡">, | асаблівыя фізічныя патрэбы | жанчына | жанчына з палкай | інваліднасць | накіраваныя | сляпы | ўправа</annotation>
+		<annotation cp="👩‍🦯‍➡" type="tts">жанчына з палкай: , накіраваныя ўправа</annotation>
+		<annotation cp="👩🏻‍🦯‍➡">, | асаблівыя фізічныя патрэбы | жанчына | жанчына з палкай | інваліднасць | накіраваныя | светлы тон скуры | сляпы | ўправа</annotation>
+		<annotation cp="👩🏻‍🦯‍➡" type="tts">жанчына з палкай: светлы тон скуры , накіраваныя ўправа</annotation>
+		<annotation cp="👩🏼‍🦯‍➡">, | асаблівыя фізічныя патрэбы | жанчына | жанчына з палкай | інваліднасць | накіраваныя | сляпы | сярэднясветлы тон скуры | ўправа</annotation>
+		<annotation cp="👩🏼‍🦯‍➡" type="tts">жанчына з палкай: сярэднясветлы тон скуры , накіраваныя ўправа</annotation>
+		<annotation cp="👩🏽‍🦯‍➡">, | асаблівыя фізічныя патрэбы | жанчына | жанчына з палкай | інваліднасць | накіраваныя | сляпы | сярэдні тон скуры | ўправа</annotation>
+		<annotation cp="👩🏽‍🦯‍➡" type="tts">жанчына з палкай: сярэдні тон скуры , накіраваныя ўправа</annotation>
+		<annotation cp="👩🏾‍🦯‍➡">, | асаблівыя фізічныя патрэбы | жанчына | жанчына з палкай | інваліднасць | накіраваныя | сляпы | сярэдняцёмны тон скуры | ўправа</annotation>
+		<annotation cp="👩🏾‍🦯‍➡" type="tts">жанчына з палкай: сярэдняцёмны тон скуры , накіраваныя ўправа</annotation>
+		<annotation cp="👩🏿‍🦯‍➡">, | асаблівыя фізічныя патрэбы | жанчына | жанчына з палкай | інваліднасць | накіраваныя | сляпы | ўправа | цёмны тон скуры</annotation>
+		<annotation cp="👩🏿‍🦯‍➡" type="tts">жанчына з палкай: цёмны тон скуры , накіраваныя ўправа</annotation>
 		<annotation cp="🧑🏻‍🦼">асаблівыя фізічныя патрэбы | інваліднасць | інвалідная каляска | светлы тон скуры | чалавек у інваліднай калясцы з маторам</annotation>
 		<annotation cp="🧑🏻‍🦼" type="tts">чалавек у інваліднай калясцы з маторам: светлы тон скуры</annotation>
 		<annotation cp="🧑🏼‍🦼">асаблівыя фізічныя патрэбы | інваліднасць | інвалідная каляска | сярэднясветлы тон скуры | чалавек у інваліднай калясцы з маторам</annotation>
@@ -2616,6 +2895,18 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🧑🏾‍🦼" type="tts">чалавек у інваліднай калясцы з маторам: сярэдняцёмны тон скуры</annotation>
 		<annotation cp="🧑🏿‍🦼">асаблівыя фізічныя патрэбы | інваліднасць | інвалідная каляска | цёмны тон скуры | чалавек у інваліднай калясцы з маторам</annotation>
 		<annotation cp="🧑🏿‍🦼" type="tts">чалавек у інваліднай калясцы з маторам: цёмны тон скуры</annotation>
+		<annotation cp="🧑‍🦼‍➡">, | асаблівыя фізічныя патрэбы | інваліднасць | інвалідная каляска | накіраваныя | ўправа | чалавек у інваліднай калясцы з маторам</annotation>
+		<annotation cp="🧑‍🦼‍➡" type="tts">чалавек у інваліднай калясцы з маторам: , накіраваныя ўправа</annotation>
+		<annotation cp="🧑🏻‍🦼‍➡">, | асаблівыя фізічныя патрэбы | інваліднасць | інвалідная каляска | накіраваныя | светлы тон скуры | ўправа | чалавек у інваліднай калясцы з маторам</annotation>
+		<annotation cp="🧑🏻‍🦼‍➡" type="tts">чалавек у інваліднай калясцы з маторам: светлы тон скуры , накіраваныя ўправа</annotation>
+		<annotation cp="🧑🏼‍🦼‍➡">, | асаблівыя фізічныя патрэбы | інваліднасць | інвалідная каляска | накіраваныя | сярэднясветлы тон скуры | ўправа | чалавек у інваліднай калясцы з маторам</annotation>
+		<annotation cp="🧑🏼‍🦼‍➡" type="tts">чалавек у інваліднай калясцы з маторам: сярэднясветлы тон скуры , накіраваныя ўправа</annotation>
+		<annotation cp="🧑🏽‍🦼‍➡">, | асаблівыя фізічныя патрэбы | інваліднасць | інвалідная каляска | накіраваныя | сярэдні тон скуры | ўправа | чалавек у інваліднай калясцы з маторам</annotation>
+		<annotation cp="🧑🏽‍🦼‍➡" type="tts">чалавек у інваліднай калясцы з маторам: сярэдні тон скуры , накіраваныя ўправа</annotation>
+		<annotation cp="🧑🏾‍🦼‍➡">, | асаблівыя фізічныя патрэбы | інваліднасць | інвалідная каляска | накіраваныя | сярэдняцёмны тон скуры | ўправа | чалавек у інваліднай калясцы з маторам</annotation>
+		<annotation cp="🧑🏾‍🦼‍➡" type="tts">чалавек у інваліднай калясцы з маторам: сярэдняцёмны тон скуры , накіраваныя ўправа</annotation>
+		<annotation cp="🧑🏿‍🦼‍➡">, | асаблівыя фізічныя патрэбы | інваліднасць | інвалідная каляска | накіраваныя | ўправа | цёмны тон скуры | чалавек у інваліднай калясцы з маторам</annotation>
+		<annotation cp="🧑🏿‍🦼‍➡" type="tts">чалавек у інваліднай калясцы з маторам: цёмны тон скуры , накіраваныя ўправа</annotation>
 		<annotation cp="👨🏻‍🦼">асаблівыя фізічныя патрэбы | інваліднасць | інвалідная каляска | мужчына | мужчына ў інваліднай калясцы з маторам | светлы тон скуры</annotation>
 		<annotation cp="👨🏻‍🦼" type="tts">мужчына ў інваліднай калясцы з маторам: светлы тон скуры</annotation>
 		<annotation cp="👨🏼‍🦼">асаблівыя фізічныя патрэбы | інваліднасць | інвалідная каляска | мужчына | мужчына ў інваліднай калясцы з маторам | сярэднясветлы тон скуры</annotation>
@@ -2626,6 +2917,18 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👨🏾‍🦼" type="tts">мужчына ў інваліднай калясцы з маторам: сярэдняцёмны тон скуры</annotation>
 		<annotation cp="👨🏿‍🦼">асаблівыя фізічныя патрэбы | інваліднасць | інвалідная каляска | мужчына | мужчына ў інваліднай калясцы з маторам | цёмны тон скуры</annotation>
 		<annotation cp="👨🏿‍🦼" type="tts">мужчына ў інваліднай калясцы з маторам: цёмны тон скуры</annotation>
+		<annotation cp="👨‍🦼‍➡">, | асаблівыя фізічныя патрэбы | інваліднасць | інвалідная каляска | мужчына | мужчына ў інваліднай калясцы з маторам | накіраваныя | ўправа</annotation>
+		<annotation cp="👨‍🦼‍➡" type="tts">мужчына ў інваліднай калясцы з маторам: , накіраваныя ўправа</annotation>
+		<annotation cp="👨🏻‍🦼‍➡">, | асаблівыя фізічныя патрэбы | інваліднасць | інвалідная каляска | мужчына | мужчына ў інваліднай калясцы з маторам | накіраваныя | светлы тон скуры | ўправа</annotation>
+		<annotation cp="👨🏻‍🦼‍➡" type="tts">мужчына ў інваліднай калясцы з маторам: светлы тон скуры , накіраваныя ўправа</annotation>
+		<annotation cp="👨🏼‍🦼‍➡">, | асаблівыя фізічныя патрэбы | інваліднасць | інвалідная каляска | мужчына | мужчына ў інваліднай калясцы з маторам | накіраваныя | сярэднясветлы тон скуры | ўправа</annotation>
+		<annotation cp="👨🏼‍🦼‍➡" type="tts">мужчына ў інваліднай калясцы з маторам: сярэднясветлы тон скуры , накіраваныя ўправа</annotation>
+		<annotation cp="👨🏽‍🦼‍➡">, | асаблівыя фізічныя патрэбы | інваліднасць | інвалідная каляска | мужчына | мужчына ў інваліднай калясцы з маторам | накіраваныя | сярэдні тон скуры | ўправа</annotation>
+		<annotation cp="👨🏽‍🦼‍➡" type="tts">мужчына ў інваліднай калясцы з маторам: сярэдні тон скуры , накіраваныя ўправа</annotation>
+		<annotation cp="👨🏾‍🦼‍➡">, | асаблівыя фізічныя патрэбы | інваліднасць | інвалідная каляска | мужчына | мужчына ў інваліднай калясцы з маторам | накіраваныя | сярэдняцёмны тон скуры | ўправа</annotation>
+		<annotation cp="👨🏾‍🦼‍➡" type="tts">мужчына ў інваліднай калясцы з маторам: сярэдняцёмны тон скуры , накіраваныя ўправа</annotation>
+		<annotation cp="👨🏿‍🦼‍➡">, | асаблівыя фізічныя патрэбы | інваліднасць | інвалідная каляска | мужчына | мужчына ў інваліднай калясцы з маторам | накіраваныя | ўправа | цёмны тон скуры</annotation>
+		<annotation cp="👨🏿‍🦼‍➡" type="tts">мужчына ў інваліднай калясцы з маторам: цёмны тон скуры , накіраваныя ўправа</annotation>
 		<annotation cp="👩🏻‍🦼">асаблівыя фізічныя патрэбы | жанчына | жанчына ў інваліднай калясцы з маторам | інваліднасць | інвалідная каляска | светлы тон скуры</annotation>
 		<annotation cp="👩🏻‍🦼" type="tts">жанчына ў інваліднай калясцы з маторам: светлы тон скуры</annotation>
 		<annotation cp="👩🏼‍🦼">асаблівыя фізічныя патрэбы | жанчына | жанчына ў інваліднай калясцы з маторам | інваліднасць | інвалідная каляска | сярэднясветлы тон скуры</annotation>
@@ -2636,6 +2939,18 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👩🏾‍🦼" type="tts">жанчына ў інваліднай калясцы з маторам: сярэдняцёмны тон скуры</annotation>
 		<annotation cp="👩🏿‍🦼">асаблівыя фізічныя патрэбы | жанчына | жанчына ў інваліднай калясцы з маторам | інваліднасць | інвалідная каляска | цёмны тон скуры</annotation>
 		<annotation cp="👩🏿‍🦼" type="tts">жанчына ў інваліднай калясцы з маторам: цёмны тон скуры</annotation>
+		<annotation cp="👩‍🦼‍➡">, | асаблівыя фізічныя патрэбы | жанчына | жанчына ў інваліднай калясцы з маторам | інваліднасць | інвалідная каляска | накіраваныя | ўправа</annotation>
+		<annotation cp="👩‍🦼‍➡" type="tts">жанчына ў інваліднай калясцы з маторам: , накіраваныя ўправа</annotation>
+		<annotation cp="👩🏻‍🦼‍➡">, | асаблівыя фізічныя патрэбы | жанчына | жанчына ў інваліднай калясцы з маторам | інваліднасць | інвалідная каляска | накіраваныя | светлы тон скуры | ўправа</annotation>
+		<annotation cp="👩🏻‍🦼‍➡" type="tts">жанчына ў інваліднай калясцы з маторам: светлы тон скуры , накіраваныя ўправа</annotation>
+		<annotation cp="👩🏼‍🦼‍➡">, | асаблівыя фізічныя патрэбы | жанчына | жанчына ў інваліднай калясцы з маторам | інваліднасць | інвалідная каляска | накіраваныя | сярэднясветлы тон скуры | ўправа</annotation>
+		<annotation cp="👩🏼‍🦼‍➡" type="tts">жанчына ў інваліднай калясцы з маторам: сярэднясветлы тон скуры , накіраваныя ўправа</annotation>
+		<annotation cp="👩🏽‍🦼‍➡">, | асаблівыя фізічныя патрэбы | жанчына | жанчына ў інваліднай калясцы з маторам | інваліднасць | інвалідная каляска | накіраваныя | сярэдні тон скуры | ўправа</annotation>
+		<annotation cp="👩🏽‍🦼‍➡" type="tts">жанчына ў інваліднай калясцы з маторам: сярэдні тон скуры , накіраваныя ўправа</annotation>
+		<annotation cp="👩🏾‍🦼‍➡">, | асаблівыя фізічныя патрэбы | жанчына | жанчына ў інваліднай калясцы з маторам | інваліднасць | інвалідная каляска | накіраваныя | сярэдняцёмны тон скуры | ўправа</annotation>
+		<annotation cp="👩🏾‍🦼‍➡" type="tts">жанчына ў інваліднай калясцы з маторам: сярэдняцёмны тон скуры , накіраваныя ўправа</annotation>
+		<annotation cp="👩🏿‍🦼‍➡">, | асаблівыя фізічныя патрэбы | жанчына | жанчына ў інваліднай калясцы з маторам | інваліднасць | інвалідная каляска | накіраваныя | ўправа | цёмны тон скуры</annotation>
+		<annotation cp="👩🏿‍🦼‍➡" type="tts">жанчына ў інваліднай калясцы з маторам: цёмны тон скуры , накіраваныя ўправа</annotation>
 		<annotation cp="🧑🏻‍🦽">асаблівыя фізічныя патрэбы | інваліднасць | інвалідная каляска | светлы тон скуры | чалавек у калясцы з ручным прывадам</annotation>
 		<annotation cp="🧑🏻‍🦽" type="tts">чалавек у калясцы з ручным прывадам: светлы тон скуры</annotation>
 		<annotation cp="🧑🏼‍🦽">асаблівыя фізічныя патрэбы | інваліднасць | інвалідная каляска | сярэднясветлы тон скуры | чалавек у калясцы з ручным прывадам</annotation>
@@ -2646,6 +2961,18 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🧑🏾‍🦽" type="tts">чалавек у калясцы з ручным прывадам: сярэдняцёмны тон скуры</annotation>
 		<annotation cp="🧑🏿‍🦽">асаблівыя фізічныя патрэбы | інваліднасць | інвалідная каляска | цёмны тон скуры | чалавек у калясцы з ручным прывадам</annotation>
 		<annotation cp="🧑🏿‍🦽" type="tts">чалавек у калясцы з ручным прывадам: цёмны тон скуры</annotation>
+		<annotation cp="🧑‍🦽‍➡">, | асаблівыя фізічныя патрэбы | інваліднасць | інвалідная каляска | накіраваныя | ўправа | чалавек у калясцы з ручным прывадам</annotation>
+		<annotation cp="🧑‍🦽‍➡" type="tts">чалавек у калясцы з ручным прывадам: , накіраваныя ўправа</annotation>
+		<annotation cp="🧑🏻‍🦽‍➡">, | асаблівыя фізічныя патрэбы | інваліднасць | інвалідная каляска | накіраваныя | светлы тон скуры | ўправа | чалавек у калясцы з ручным прывадам</annotation>
+		<annotation cp="🧑🏻‍🦽‍➡" type="tts">чалавек у калясцы з ручным прывадам: светлы тон скуры , накіраваныя ўправа</annotation>
+		<annotation cp="🧑🏼‍🦽‍➡">, | асаблівыя фізічныя патрэбы | інваліднасць | інвалідная каляска | накіраваныя | сярэднясветлы тон скуры | ўправа | чалавек у калясцы з ручным прывадам</annotation>
+		<annotation cp="🧑🏼‍🦽‍➡" type="tts">чалавек у калясцы з ручным прывадам: сярэднясветлы тон скуры , накіраваныя ўправа</annotation>
+		<annotation cp="🧑🏽‍🦽‍➡">, | асаблівыя фізічныя патрэбы | інваліднасць | інвалідная каляска | накіраваныя | сярэдні тон скуры | ўправа | чалавек у калясцы з ручным прывадам</annotation>
+		<annotation cp="🧑🏽‍🦽‍➡" type="tts">чалавек у калясцы з ручным прывадам: сярэдні тон скуры , накіраваныя ўправа</annotation>
+		<annotation cp="🧑🏾‍🦽‍➡">, | асаблівыя фізічныя патрэбы | інваліднасць | інвалідная каляска | накіраваныя | сярэдняцёмны тон скуры | ўправа | чалавек у калясцы з ручным прывадам</annotation>
+		<annotation cp="🧑🏾‍🦽‍➡" type="tts">чалавек у калясцы з ручным прывадам: сярэдняцёмны тон скуры , накіраваныя ўправа</annotation>
+		<annotation cp="🧑🏿‍🦽‍➡">, | асаблівыя фізічныя патрэбы | інваліднасць | інвалідная каляска | накіраваныя | ўправа | цёмны тон скуры | чалавек у калясцы з ручным прывадам</annotation>
+		<annotation cp="🧑🏿‍🦽‍➡" type="tts">чалавек у калясцы з ручным прывадам: цёмны тон скуры , накіраваныя ўправа</annotation>
 		<annotation cp="👨🏻‍🦽">асаблівыя фізічныя патрэбы | інваліднасць | інвалідная каляска | мужчына | мужчына ў калясцы з ручным прывадам | светлы тон скуры</annotation>
 		<annotation cp="👨🏻‍🦽" type="tts">мужчына ў калясцы з ручным прывадам: светлы тон скуры</annotation>
 		<annotation cp="👨🏼‍🦽">асаблівыя фізічныя патрэбы | інваліднасць | інвалідная каляска | мужчына | мужчына ў калясцы з ручным прывадам | сярэднясветлы тон скуры</annotation>
@@ -2656,6 +2983,18 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👨🏾‍🦽" type="tts">мужчына ў калясцы з ручным прывадам: сярэдняцёмны тон скуры</annotation>
 		<annotation cp="👨🏿‍🦽">асаблівыя фізічныя патрэбы | інваліднасць | інвалідная каляска | мужчына | мужчына ў калясцы з ручным прывадам | цёмны тон скуры</annotation>
 		<annotation cp="👨🏿‍🦽" type="tts">мужчына ў калясцы з ручным прывадам: цёмны тон скуры</annotation>
+		<annotation cp="👨‍🦽‍➡">, | асаблівыя фізічныя патрэбы | інваліднасць | інвалідная каляска | мужчына | мужчына ў калясцы з ручным прывадам | накіраваныя | ўправа</annotation>
+		<annotation cp="👨‍🦽‍➡" type="tts">мужчына ў калясцы з ручным прывадам: , накіраваныя ўправа</annotation>
+		<annotation cp="👨🏻‍🦽‍➡">, | асаблівыя фізічныя патрэбы | інваліднасць | інвалідная каляска | мужчына | мужчына ў калясцы з ручным прывадам | накіраваныя | светлы тон скуры | ўправа</annotation>
+		<annotation cp="👨🏻‍🦽‍➡" type="tts">мужчына ў калясцы з ручным прывадам: светлы тон скуры , накіраваныя ўправа</annotation>
+		<annotation cp="👨🏼‍🦽‍➡">, | асаблівыя фізічныя патрэбы | інваліднасць | інвалідная каляска | мужчына | мужчына ў калясцы з ручным прывадам | накіраваныя | сярэднясветлы тон скуры | ўправа</annotation>
+		<annotation cp="👨🏼‍🦽‍➡" type="tts">мужчына ў калясцы з ручным прывадам: сярэднясветлы тон скуры , накіраваныя ўправа</annotation>
+		<annotation cp="👨🏽‍🦽‍➡">, | асаблівыя фізічныя патрэбы | інваліднасць | інвалідная каляска | мужчына | мужчына ў калясцы з ручным прывадам | накіраваныя | сярэдні тон скуры | ўправа</annotation>
+		<annotation cp="👨🏽‍🦽‍➡" type="tts">мужчына ў калясцы з ручным прывадам: сярэдні тон скуры , накіраваныя ўправа</annotation>
+		<annotation cp="👨🏾‍🦽‍➡">, | асаблівыя фізічныя патрэбы | інваліднасць | інвалідная каляска | мужчына | мужчына ў калясцы з ручным прывадам | накіраваныя | сярэдняцёмны тон скуры | ўправа</annotation>
+		<annotation cp="👨🏾‍🦽‍➡" type="tts">мужчына ў калясцы з ручным прывадам: сярэдняцёмны тон скуры , накіраваныя ўправа</annotation>
+		<annotation cp="👨🏿‍🦽‍➡">, | асаблівыя фізічныя патрэбы | інваліднасць | інвалідная каляска | мужчына | мужчына ў калясцы з ручным прывадам | накіраваныя | ўправа | цёмны тон скуры</annotation>
+		<annotation cp="👨🏿‍🦽‍➡" type="tts">мужчына ў калясцы з ручным прывадам: цёмны тон скуры , накіраваныя ўправа</annotation>
 		<annotation cp="👩🏻‍🦽">асаблівыя фізічныя патрэбы | жанчына | жанчына ў калясцы з ручным прывадам | інваліднасць | інвалідная каляска | светлы тон скуры</annotation>
 		<annotation cp="👩🏻‍🦽" type="tts">жанчына ў калясцы з ручным прывадам: светлы тон скуры</annotation>
 		<annotation cp="👩🏼‍🦽">асаблівыя фізічныя патрэбы | жанчына | жанчына ў калясцы з ручным прывадам | інваліднасць | інвалідная каляска | сярэднясветлы тон скуры</annotation>
@@ -2666,6 +3005,18 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👩🏾‍🦽" type="tts">жанчына ў калясцы з ручным прывадам: сярэдняцёмны тон скуры</annotation>
 		<annotation cp="👩🏿‍🦽">асаблівыя фізічныя патрэбы | жанчына | жанчына ў калясцы з ручным прывадам | інваліднасць | інвалідная каляска | цёмны тон скуры</annotation>
 		<annotation cp="👩🏿‍🦽" type="tts">жанчына ў калясцы з ручным прывадам: цёмны тон скуры</annotation>
+		<annotation cp="👩‍🦽‍➡">, | асаблівыя фізічныя патрэбы | жанчына | жанчына ў калясцы з ручным прывадам | інваліднасць | інвалідная каляска | накіраваныя | ўправа</annotation>
+		<annotation cp="👩‍🦽‍➡" type="tts">жанчына ў калясцы з ручным прывадам: , накіраваныя ўправа</annotation>
+		<annotation cp="👩🏻‍🦽‍➡">, | асаблівыя фізічныя патрэбы | жанчына | жанчына ў калясцы з ручным прывадам | інваліднасць | інвалідная каляска | накіраваныя | светлы тон скуры | ўправа</annotation>
+		<annotation cp="👩🏻‍🦽‍➡" type="tts">жанчына ў калясцы з ручным прывадам: светлы тон скуры , накіраваныя ўправа</annotation>
+		<annotation cp="👩🏼‍🦽‍➡">, | асаблівыя фізічныя патрэбы | жанчына | жанчына ў калясцы з ручным прывадам | інваліднасць | інвалідная каляска | накіраваныя | сярэднясветлы тон скуры | ўправа</annotation>
+		<annotation cp="👩🏼‍🦽‍➡" type="tts">жанчына ў калясцы з ручным прывадам: сярэднясветлы тон скуры , накіраваныя ўправа</annotation>
+		<annotation cp="👩🏽‍🦽‍➡">, | асаблівыя фізічныя патрэбы | жанчына | жанчына ў калясцы з ручным прывадам | інваліднасць | інвалідная каляска | накіраваныя | сярэдні тон скуры | ўправа</annotation>
+		<annotation cp="👩🏽‍🦽‍➡" type="tts">жанчына ў калясцы з ручным прывадам: сярэдні тон скуры , накіраваныя ўправа</annotation>
+		<annotation cp="👩🏾‍🦽‍➡">, | асаблівыя фізічныя патрэбы | жанчына | жанчына ў калясцы з ручным прывадам | інваліднасць | інвалідная каляска | накіраваныя | сярэдняцёмны тон скуры | ўправа</annotation>
+		<annotation cp="👩🏾‍🦽‍➡" type="tts">жанчына ў калясцы з ручным прывадам: сярэдняцёмны тон скуры , накіраваныя ўправа</annotation>
+		<annotation cp="👩🏿‍🦽‍➡">, | асаблівыя фізічныя патрэбы | жанчына | жанчына ў калясцы з ручным прывадам | інваліднасць | інвалідная каляска | накіраваныя | ўправа | цёмны тон скуры</annotation>
+		<annotation cp="👩🏿‍🦽‍➡" type="tts">жанчына ў калясцы з ручным прывадам: цёмны тон скуры , накіраваныя ўправа</annotation>
 		<annotation cp="🏃🏻">бег | марафон | светлы тон скуры | чалавек бяжыць</annotation>
 		<annotation cp="🏃🏻" type="tts">чалавек бяжыць: светлы тон скуры</annotation>
 		<annotation cp="🏃🏼">бег | марафон | сярэднясветлы тон скуры | чалавек бяжыць</annotation>
@@ -2696,6 +3047,42 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🏃🏾‍♀" type="tts">жанчына бяжыць: сярэдняцёмны тон скуры</annotation>
 		<annotation cp="🏃🏿‍♀">бег | жанчына | жанчына бяжыць | марафон | спорт | цёмны тон скуры</annotation>
 		<annotation cp="🏃🏿‍♀" type="tts">жанчына бяжыць: цёмны тон скуры</annotation>
+		<annotation cp="🏃‍➡">, | бег | марафон | накіраваныя | ўправа | чалавек бяжыць</annotation>
+		<annotation cp="🏃‍➡" type="tts">чалавек бяжыць: , накіраваныя ўправа</annotation>
+		<annotation cp="🏃🏻‍➡">, | бег | марафон | накіраваныя | светлы тон скуры | ўправа | чалавек бяжыць</annotation>
+		<annotation cp="🏃🏻‍➡" type="tts">чалавек бяжыць: светлы тон скуры , накіраваныя ўправа</annotation>
+		<annotation cp="🏃🏼‍➡">, | бег | марафон | накіраваныя | сярэднясветлы тон скуры | ўправа | чалавек бяжыць</annotation>
+		<annotation cp="🏃🏼‍➡" type="tts">чалавек бяжыць: сярэднясветлы тон скуры , накіраваныя ўправа</annotation>
+		<annotation cp="🏃🏽‍➡">, | бег | марафон | накіраваныя | сярэдні тон скуры | ўправа | чалавек бяжыць</annotation>
+		<annotation cp="🏃🏽‍➡" type="tts">чалавек бяжыць: сярэдні тон скуры , накіраваныя ўправа</annotation>
+		<annotation cp="🏃🏾‍➡">, | бег | марафон | накіраваныя | сярэдняцёмны тон скуры | ўправа | чалавек бяжыць</annotation>
+		<annotation cp="🏃🏾‍➡" type="tts">чалавек бяжыць: сярэдняцёмны тон скуры , накіраваныя ўправа</annotation>
+		<annotation cp="🏃🏿‍➡">, | бег | марафон | накіраваныя | ўправа | цёмны тон скуры | чалавек бяжыць</annotation>
+		<annotation cp="🏃🏿‍➡" type="tts">чалавек бяжыць: цёмны тон скуры , накіраваныя ўправа</annotation>
+		<annotation cp="🏃‍♀‍➡">, | бег | жанчына | жанчына бяжыць | марафон | накіраваныя | спорт | ўправа</annotation>
+		<annotation cp="🏃‍♀‍➡" type="tts">жанчына бяжыць: , накіраваныя ўправа</annotation>
+		<annotation cp="🏃🏻‍♀‍➡">, | бег | жанчына | жанчына бяжыць | марафон | накіраваныя | светлы тон скуры | спорт | ўправа</annotation>
+		<annotation cp="🏃🏻‍♀‍➡" type="tts">жанчына бяжыць: светлы тон скуры , накіраваныя ўправа</annotation>
+		<annotation cp="🏃🏼‍♀‍➡">, | бег | жанчына | жанчына бяжыць | марафон | накіраваныя | спорт | сярэднясветлы тон скуры | ўправа</annotation>
+		<annotation cp="🏃🏼‍♀‍➡" type="tts">жанчына бяжыць: сярэднясветлы тон скуры , накіраваныя ўправа</annotation>
+		<annotation cp="🏃🏽‍♀‍➡">, | бег | жанчына | жанчына бяжыць | марафон | накіраваныя | спорт | сярэдні тон скуры | ўправа</annotation>
+		<annotation cp="🏃🏽‍♀‍➡" type="tts">жанчына бяжыць: сярэдні тон скуры , накіраваныя ўправа</annotation>
+		<annotation cp="🏃🏾‍♀‍➡">, | бег | жанчына | жанчына бяжыць | марафон | накіраваныя | спорт | сярэдняцёмны тон скуры | ўправа</annotation>
+		<annotation cp="🏃🏾‍♀‍➡" type="tts">жанчына бяжыць: сярэдняцёмны тон скуры , накіраваныя ўправа</annotation>
+		<annotation cp="🏃🏿‍♀‍➡">, | бег | жанчына | жанчына бяжыць | марафон | накіраваныя | спорт | ўправа | цёмны тон скуры</annotation>
+		<annotation cp="🏃🏿‍♀‍➡" type="tts">жанчына бяжыць: цёмны тон скуры , накіраваныя ўправа</annotation>
+		<annotation cp="🏃‍♂‍➡">, | бег | марафон | мужчына | мужчына бяжыць | накіраваныя | спорт | ўправа</annotation>
+		<annotation cp="🏃‍♂‍➡" type="tts">мужчына бяжыць: , накіраваныя ўправа</annotation>
+		<annotation cp="🏃🏻‍♂‍➡">, | бег | марафон | мужчына | мужчына бяжыць | накіраваныя | светлы тон скуры | спорт | ўправа</annotation>
+		<annotation cp="🏃🏻‍♂‍➡" type="tts">мужчына бяжыць: светлы тон скуры , накіраваныя ўправа</annotation>
+		<annotation cp="🏃🏼‍♂‍➡">, | бег | марафон | мужчына | мужчына бяжыць | накіраваныя | спорт | сярэднясветлы тон скуры | ўправа</annotation>
+		<annotation cp="🏃🏼‍♂‍➡" type="tts">мужчына бяжыць: сярэднясветлы тон скуры , накіраваныя ўправа</annotation>
+		<annotation cp="🏃🏽‍♂‍➡">, | бег | марафон | мужчына | мужчына бяжыць | накіраваныя | спорт | сярэдні тон скуры | ўправа</annotation>
+		<annotation cp="🏃🏽‍♂‍➡" type="tts">мужчына бяжыць: сярэдні тон скуры , накіраваныя ўправа</annotation>
+		<annotation cp="🏃🏾‍♂‍➡">, | бег | марафон | мужчына | мужчына бяжыць | накіраваныя | спорт | сярэдняцёмны тон скуры | ўправа</annotation>
+		<annotation cp="🏃🏾‍♂‍➡" type="tts">мужчына бяжыць: сярэдняцёмны тон скуры , накіраваныя ўправа</annotation>
+		<annotation cp="🏃🏿‍♂‍➡">, | бег | марафон | мужчына | мужчына бяжыць | накіраваныя | спорт | ўправа | цёмны тон скуры</annotation>
+		<annotation cp="🏃🏿‍♂‍➡" type="tts">мужчына бяжыць: цёмны тон скуры , накіраваныя ўправа</annotation>
 		<annotation cp="💃🏻">жанчына | светлы тон скуры | танцорка | танцы</annotation>
 		<annotation cp="💃🏻" type="tts">танцорка: светлы тон скуры</annotation>
 		<annotation cp="💃🏼">жанчына | сярэднясветлы тон скуры | танцорка | танцы</annotation>
@@ -3985,7 +4372,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🇺🇳">Сцяг</annotation>
 		<annotation cp="🇺🇳" type="tts">Сцяг: Арганізацыя Аб’яднаных Нацый</annotation>
 		<annotation cp="🇺🇸">Сцяг</annotation>
-		<annotation cp="🇺🇸" type="tts">Сцяг: Злучаныя Штаты</annotation>
+		<annotation cp="🇺🇸" type="tts">Сцяг: Злучаныя Штаты Амерыкі</annotation>
 		<annotation cp="🇺🇾">Сцяг</annotation>
 		<annotation cp="🇺🇾" type="tts">Сцяг: Уругвай</annotation>
 		<annotation cp="🇺🇿">Сцяг</annotation>

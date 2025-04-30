@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE ldml SYSTEM "../../common/dtd/ldml.dtd">
-<!-- Copyright © 1991-2020 Unicode, Inc.
+<!-- Copyright © 1991-2024 Unicode, Inc.
 For terms of use, see http://www.unicode.org/copyright.html
-Unicode and the Unicode Logo are registered trademarks of Unicode, Inc. in the U.S. and other countries.
+SPDX-License-Identifier: Unicode-3.0
 CLDR data files are interpreted according to the LDML specification (http://unicode.org/reports/tr35/)
+
+Derived short names and annotations, using GenerateDerivedAnnotations.java. See warnings in /annotations/ file.
 -->
-<!-- Derived short names and annotations, using GenerateDerivedAnnotations.java. See warnings in /annotations/ file. -->
 <ldml>
 	<identity>
 		<version number="$Revision$"/>
@@ -62,6 +63,106 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🖖🏾" type="tts">saliwt fulcanaidd: arlliw croen canolig-tywyll</annotation>
 		<annotation cp="🖖🏿">arlliw croen tywyll | bys | corff | llaw | saliwt fulcanaidd | spock</annotation>
 		<annotation cp="🖖🏿" type="tts">saliwt fulcanaidd: arlliw croen tywyll</annotation>
+		<annotation cp="🫱🏻">arlliw croen golau | de | i’r dde | llaw | llaw i’r dde</annotation>
+		<annotation cp="🫱🏻" type="tts">llaw i’r dde: arlliw croen golau</annotation>
+		<annotation cp="🫱🏼">arlliw croen canolig-golau | de | i’r dde | llaw | llaw i’r dde</annotation>
+		<annotation cp="🫱🏼" type="tts">llaw i’r dde: arlliw croen canolig-golau</annotation>
+		<annotation cp="🫱🏽">arlliw croen canolog | de | i’r dde | llaw | llaw i’r dde</annotation>
+		<annotation cp="🫱🏽" type="tts">llaw i’r dde: arlliw croen canolog</annotation>
+		<annotation cp="🫱🏾">arlliw croen canolig-tywyll | de | i’r dde | llaw | llaw i’r dde</annotation>
+		<annotation cp="🫱🏾" type="tts">llaw i’r dde: arlliw croen canolig-tywyll</annotation>
+		<annotation cp="🫱🏿">arlliw croen tywyll | de | i’r dde | llaw | llaw i’r dde</annotation>
+		<annotation cp="🫱🏿" type="tts">llaw i’r dde: arlliw croen tywyll</annotation>
+		<annotation cp="🫱🏻‍🫲🏼">arlliw croen canolig-golau | arlliw croen golau | cyfarfod | cytuno | llaw | ysgwyd | ysgwyd dwylo</annotation>
+		<annotation cp="🫱🏻‍🫲🏼" type="tts">ysgwyd dwylo: arlliw croen golau, arlliw croen canolig-golau</annotation>
+		<annotation cp="🫱🏻‍🫲🏽">arlliw croen canolog | arlliw croen golau | cyfarfod | cytuno | llaw | ysgwyd | ysgwyd dwylo</annotation>
+		<annotation cp="🫱🏻‍🫲🏽" type="tts">ysgwyd dwylo: arlliw croen golau, arlliw croen canolog</annotation>
+		<annotation cp="🫱🏻‍🫲🏾">arlliw croen canolig-tywyll | arlliw croen golau | cyfarfod | cytuno | llaw | ysgwyd | ysgwyd dwylo</annotation>
+		<annotation cp="🫱🏻‍🫲🏾" type="tts">ysgwyd dwylo: arlliw croen golau, arlliw croen canolig-tywyll</annotation>
+		<annotation cp="🫱🏻‍🫲🏿">arlliw croen golau | arlliw croen tywyll | cyfarfod | cytuno | llaw | ysgwyd | ysgwyd dwylo</annotation>
+		<annotation cp="🫱🏻‍🫲🏿" type="tts">ysgwyd dwylo: arlliw croen golau, arlliw croen tywyll</annotation>
+		<annotation cp="🫱🏼‍🫲🏻">arlliw croen canolig-golau | arlliw croen golau | cyfarfod | cytuno | llaw | ysgwyd | ysgwyd dwylo</annotation>
+		<annotation cp="🫱🏼‍🫲🏻" type="tts">ysgwyd dwylo: arlliw croen canolig-golau, arlliw croen golau</annotation>
+		<annotation cp="🫱🏼‍🫲🏽">arlliw croen canolig-golau | arlliw croen canolog | cyfarfod | cytuno | llaw | ysgwyd | ysgwyd dwylo</annotation>
+		<annotation cp="🫱🏼‍🫲🏽" type="tts">ysgwyd dwylo: arlliw croen canolig-golau, arlliw croen canolog</annotation>
+		<annotation cp="🫱🏼‍🫲🏾">arlliw croen canolig-golau | arlliw croen canolig-tywyll | cyfarfod | cytuno | llaw | ysgwyd | ysgwyd dwylo</annotation>
+		<annotation cp="🫱🏼‍🫲🏾" type="tts">ysgwyd dwylo: arlliw croen canolig-golau, arlliw croen canolig-tywyll</annotation>
+		<annotation cp="🫱🏼‍🫲🏿">arlliw croen canolig-golau | arlliw croen tywyll | cyfarfod | cytuno | llaw | ysgwyd | ysgwyd dwylo</annotation>
+		<annotation cp="🫱🏼‍🫲🏿" type="tts">ysgwyd dwylo: arlliw croen canolig-golau, arlliw croen tywyll</annotation>
+		<annotation cp="🫱🏽‍🫲🏻">arlliw croen canolog | arlliw croen golau | cyfarfod | cytuno | llaw | ysgwyd | ysgwyd dwylo</annotation>
+		<annotation cp="🫱🏽‍🫲🏻" type="tts">ysgwyd dwylo: arlliw croen canolog, arlliw croen golau</annotation>
+		<annotation cp="🫱🏽‍🫲🏼">arlliw croen canolig-golau | arlliw croen canolog | cyfarfod | cytuno | llaw | ysgwyd | ysgwyd dwylo</annotation>
+		<annotation cp="🫱🏽‍🫲🏼" type="tts">ysgwyd dwylo: arlliw croen canolog, arlliw croen canolig-golau</annotation>
+		<annotation cp="🫱🏽‍🫲🏾">arlliw croen canolig-tywyll | arlliw croen canolog | cyfarfod | cytuno | llaw | ysgwyd | ysgwyd dwylo</annotation>
+		<annotation cp="🫱🏽‍🫲🏾" type="tts">ysgwyd dwylo: arlliw croen canolog, arlliw croen canolig-tywyll</annotation>
+		<annotation cp="🫱🏽‍🫲🏿">arlliw croen canolog | arlliw croen tywyll | cyfarfod | cytuno | llaw | ysgwyd | ysgwyd dwylo</annotation>
+		<annotation cp="🫱🏽‍🫲🏿" type="tts">ysgwyd dwylo: arlliw croen canolog, arlliw croen tywyll</annotation>
+		<annotation cp="🫱🏾‍🫲🏻">arlliw croen canolig-tywyll | arlliw croen golau | cyfarfod | cytuno | llaw | ysgwyd | ysgwyd dwylo</annotation>
+		<annotation cp="🫱🏾‍🫲🏻" type="tts">ysgwyd dwylo: arlliw croen canolig-tywyll, arlliw croen golau</annotation>
+		<annotation cp="🫱🏾‍🫲🏼">arlliw croen canolig-golau | arlliw croen canolig-tywyll | cyfarfod | cytuno | llaw | ysgwyd | ysgwyd dwylo</annotation>
+		<annotation cp="🫱🏾‍🫲🏼" type="tts">ysgwyd dwylo: arlliw croen canolig-tywyll, arlliw croen canolig-golau</annotation>
+		<annotation cp="🫱🏾‍🫲🏽">arlliw croen canolig-tywyll | arlliw croen canolog | cyfarfod | cytuno | llaw | ysgwyd | ysgwyd dwylo</annotation>
+		<annotation cp="🫱🏾‍🫲🏽" type="tts">ysgwyd dwylo: arlliw croen canolig-tywyll, arlliw croen canolog</annotation>
+		<annotation cp="🫱🏾‍🫲🏿">arlliw croen canolig-tywyll | arlliw croen tywyll | cyfarfod | cytuno | llaw | ysgwyd | ysgwyd dwylo</annotation>
+		<annotation cp="🫱🏾‍🫲🏿" type="tts">ysgwyd dwylo: arlliw croen canolig-tywyll, arlliw croen tywyll</annotation>
+		<annotation cp="🫱🏿‍🫲🏻">arlliw croen golau | arlliw croen tywyll | cyfarfod | cytuno | llaw | ysgwyd | ysgwyd dwylo</annotation>
+		<annotation cp="🫱🏿‍🫲🏻" type="tts">ysgwyd dwylo: arlliw croen tywyll, arlliw croen golau</annotation>
+		<annotation cp="🫱🏿‍🫲🏼">arlliw croen canolig-golau | arlliw croen tywyll | cyfarfod | cytuno | llaw | ysgwyd | ysgwyd dwylo</annotation>
+		<annotation cp="🫱🏿‍🫲🏼" type="tts">ysgwyd dwylo: arlliw croen tywyll, arlliw croen canolig-golau</annotation>
+		<annotation cp="🫱🏿‍🫲🏽">arlliw croen canolog | arlliw croen tywyll | cyfarfod | cytuno | llaw | ysgwyd | ysgwyd dwylo</annotation>
+		<annotation cp="🫱🏿‍🫲🏽" type="tts">ysgwyd dwylo: arlliw croen tywyll, arlliw croen canolog</annotation>
+		<annotation cp="🫱🏿‍🫲🏾">arlliw croen canolig-tywyll | arlliw croen tywyll | cyfarfod | cytuno | llaw | ysgwyd | ysgwyd dwylo</annotation>
+		<annotation cp="🫱🏿‍🫲🏾" type="tts">ysgwyd dwylo: arlliw croen tywyll, arlliw croen canolig-tywyll</annotation>
+		<annotation cp="🫲🏻">arlliw croen golau | chwith | i’r chwith | llaw | llaw i’r chwith</annotation>
+		<annotation cp="🫲🏻" type="tts">llaw i’r chwith: arlliw croen golau</annotation>
+		<annotation cp="🫲🏼">arlliw croen canolig-golau | chwith | i’r chwith | llaw | llaw i’r chwith</annotation>
+		<annotation cp="🫲🏼" type="tts">llaw i’r chwith: arlliw croen canolig-golau</annotation>
+		<annotation cp="🫲🏽">arlliw croen canolog | chwith | i’r chwith | llaw | llaw i’r chwith</annotation>
+		<annotation cp="🫲🏽" type="tts">llaw i’r chwith: arlliw croen canolog</annotation>
+		<annotation cp="🫲🏾">arlliw croen canolig-tywyll | chwith | i’r chwith | llaw | llaw i’r chwith</annotation>
+		<annotation cp="🫲🏾" type="tts">llaw i’r chwith: arlliw croen canolig-tywyll</annotation>
+		<annotation cp="🫲🏿">arlliw croen tywyll | chwith | i’r chwith | llaw | llaw i’r chwith</annotation>
+		<annotation cp="🫲🏿" type="tts">llaw i’r chwith: arlliw croen tywyll</annotation>
+		<annotation cp="🫳🏻">anfon | arlliw croen golau | gollwng | llaw palmwydd i lawr | sîw</annotation>
+		<annotation cp="🫳🏻" type="tts">llaw palmwydd i lawr: arlliw croen golau</annotation>
+		<annotation cp="🫳🏼">anfon | arlliw croen canolig-golau | gollwng | llaw palmwydd i lawr | sîw</annotation>
+		<annotation cp="🫳🏼" type="tts">llaw palmwydd i lawr: arlliw croen canolig-golau</annotation>
+		<annotation cp="🫳🏽">anfon | arlliw croen canolog | gollwng | llaw palmwydd i lawr | sîw</annotation>
+		<annotation cp="🫳🏽" type="tts">llaw palmwydd i lawr: arlliw croen canolog</annotation>
+		<annotation cp="🫳🏾">anfon | arlliw croen canolig-tywyll | gollwng | llaw palmwydd i lawr | sîw</annotation>
+		<annotation cp="🫳🏾" type="tts">llaw palmwydd i lawr: arlliw croen canolig-tywyll</annotation>
+		<annotation cp="🫳🏿">anfon | arlliw croen tywyll | gollwng | llaw palmwydd i lawr | sîw</annotation>
+		<annotation cp="🫳🏿" type="tts">llaw palmwydd i lawr: arlliw croen tywyll</annotation>
+		<annotation cp="🫴🏻">arlliw croen golau | cynnig | dal | dod | galw | llaw palmwydd i fyny</annotation>
+		<annotation cp="🫴🏻" type="tts">llaw palmwydd i fyny: arlliw croen golau</annotation>
+		<annotation cp="🫴🏼">arlliw croen canolig-golau | cynnig | dal | dod | galw | llaw palmwydd i fyny</annotation>
+		<annotation cp="🫴🏼" type="tts">llaw palmwydd i fyny: arlliw croen canolig-golau</annotation>
+		<annotation cp="🫴🏽">arlliw croen canolog | cynnig | dal | dod | galw | llaw palmwydd i fyny</annotation>
+		<annotation cp="🫴🏽" type="tts">llaw palmwydd i fyny: arlliw croen canolog</annotation>
+		<annotation cp="🫴🏾">arlliw croen canolig-tywyll | cynnig | dal | dod | galw | llaw palmwydd i fyny</annotation>
+		<annotation cp="🫴🏾" type="tts">llaw palmwydd i fyny: arlliw croen canolig-tywyll</annotation>
+		<annotation cp="🫴🏿">arlliw croen tywyll | cynnig | dal | dod | galw | llaw palmwydd i fyny</annotation>
+		<annotation cp="🫴🏿" type="tts">llaw palmwydd i fyny: arlliw croen tywyll</annotation>
+		<annotation cp="🫷🏻">arlliw croen golau | aros | chwith | gwrthod | gwthio | llaw yn gwthio i’r chwith | pump uchel | rhwystro | seibio | stopio</annotation>
+		<annotation cp="🫷🏻" type="tts">llaw yn gwthio i’r chwith: arlliw croen golau</annotation>
+		<annotation cp="🫷🏼">arlliw croen canolig-golau | aros | chwith | gwrthod | gwthio | llaw yn gwthio i’r chwith | pump uchel | rhwystro | seibio | stopio</annotation>
+		<annotation cp="🫷🏼" type="tts">llaw yn gwthio i’r chwith: arlliw croen canolig-golau</annotation>
+		<annotation cp="🫷🏽">arlliw croen canolog | aros | chwith | gwrthod | gwthio | llaw yn gwthio i’r chwith | pump uchel | rhwystro | seibio | stopio</annotation>
+		<annotation cp="🫷🏽" type="tts">llaw yn gwthio i’r chwith: arlliw croen canolog</annotation>
+		<annotation cp="🫷🏾">arlliw croen canolig-tywyll | aros | chwith | gwrthod | gwthio | llaw yn gwthio i’r chwith | pump uchel | rhwystro | seibio | stopio</annotation>
+		<annotation cp="🫷🏾" type="tts">llaw yn gwthio i’r chwith: arlliw croen canolig-tywyll</annotation>
+		<annotation cp="🫷🏿">arlliw croen tywyll | aros | chwith | gwrthod | gwthio | llaw yn gwthio i’r chwith | pump uchel | rhwystro | seibio | stopio</annotation>
+		<annotation cp="🫷🏿" type="tts">llaw yn gwthio i’r chwith: arlliw croen tywyll</annotation>
+		<annotation cp="🫸🏻">arlliw croen golau | aros | gwrthod | gwthio | i’r dde | llaw yn gwthio i’r dde | pump uchel | rhwystro | seibio | stopio</annotation>
+		<annotation cp="🫸🏻" type="tts">llaw yn gwthio i’r dde: arlliw croen golau</annotation>
+		<annotation cp="🫸🏼">arlliw croen canolig-golau | aros | gwrthod | gwthio | i’r dde | llaw yn gwthio i’r dde | pump uchel | rhwystro | seibio | stopio</annotation>
+		<annotation cp="🫸🏼" type="tts">llaw yn gwthio i’r dde: arlliw croen canolig-golau</annotation>
+		<annotation cp="🫸🏽">arlliw croen canolog | aros | gwrthod | gwthio | i’r dde | llaw yn gwthio i’r dde | pump uchel | rhwystro | seibio | stopio</annotation>
+		<annotation cp="🫸🏽" type="tts">llaw yn gwthio i’r dde: arlliw croen canolog</annotation>
+		<annotation cp="🫸🏾">arlliw croen canolig-tywyll | aros | gwrthod | gwthio | i’r dde | llaw yn gwthio i’r dde | pump uchel | rhwystro | seibio | stopio</annotation>
+		<annotation cp="🫸🏾" type="tts">llaw yn gwthio i’r dde: arlliw croen canolig-tywyll</annotation>
+		<annotation cp="🫸🏿">arlliw croen tywyll | aros | gwrthod | gwthio | i’r dde | llaw yn gwthio i’r dde | pump uchel | rhwystro | seibio | stopio</annotation>
+		<annotation cp="🫸🏿" type="tts">llaw yn gwthio i’r dde: arlliw croen tywyll</annotation>
 		<annotation cp="👌🏻">arlliw croen golau | corff | llaw | llaw ocê | ok</annotation>
 		<annotation cp="👌🏻" type="tts">llaw ocê: arlliw croen golau</annotation>
 		<annotation cp="👌🏼">arlliw croen canolig-golau | corff | llaw | llaw ocê | ok</annotation>
@@ -112,6 +213,16 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🤞🏾" type="tts">bysedd wedi’u croesi: arlliw croen canolig-tywyll</annotation>
 		<annotation cp="🤞🏿">arlliw croen tywyll | bys | bysedd wedi’u croesi | croesi | llaw | lwc</annotation>
 		<annotation cp="🤞🏿" type="tts">bysedd wedi’u croesi: arlliw croen tywyll</annotation>
+		<annotation cp="🫰🏻">arian | arlliw croen golau | calon | cariad | clecian | drud | llaw gyda bys mynegai a bawd wedi’i chroesi</annotation>
+		<annotation cp="🫰🏻" type="tts">llaw gyda bys mynegai a bawd wedi’u croesi: arlliw croen golau</annotation>
+		<annotation cp="🫰🏼">arian | arlliw croen canolig-golau | calon | cariad | clecian | drud | llaw gyda bys mynegai a bawd wedi’i chroesi</annotation>
+		<annotation cp="🫰🏼" type="tts">llaw gyda bys mynegai a bawd wedi’u croesi: arlliw croen canolig-golau</annotation>
+		<annotation cp="🫰🏽">arian | arlliw croen canolog | calon | cariad | clecian | drud | llaw gyda bys mynegai a bawd wedi’i chroesi</annotation>
+		<annotation cp="🫰🏽" type="tts">llaw gyda bys mynegai a bawd wedi’u croesi: arlliw croen canolog</annotation>
+		<annotation cp="🫰🏾">arian | arlliw croen canolig-tywyll | calon | cariad | clecian | drud | llaw gyda bys mynegai a bawd wedi’i chroesi</annotation>
+		<annotation cp="🫰🏾" type="tts">llaw gyda bys mynegai a bawd wedi’u croesi: arlliw croen canolig-tywyll</annotation>
+		<annotation cp="🫰🏿">arian | arlliw croen tywyll | calon | cariad | clecian | drud | llaw gyda bys mynegai a bawd wedi’i chroesi</annotation>
+		<annotation cp="🫰🏿" type="tts">llaw gyda bys mynegai a bawd wedi’u croesi: arlliw croen tywyll</annotation>
 		<annotation cp="🤟🏻">arlliw croen golau | arwydd caru ti | caru ti | llaw</annotation>
 		<annotation cp="🤟🏻" type="tts">arwydd caru ti: arlliw croen golau</annotation>
 		<annotation cp="🤟🏼">arlliw croen canolig-golau | arwydd caru ti | caru ti | llaw</annotation>
@@ -202,6 +313,16 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="☝🏾" type="tts">mynegfys yn pwyntio i fyny: arlliw croen canolig-tywyll</annotation>
 		<annotation cp="☝🏿">arlliw croen tywyll | corff | i fyny | mynegfys | mynegfys yn pwyntio i fyny | pwyntio</annotation>
 		<annotation cp="☝🏿" type="tts">mynegfys yn pwyntio i fyny: arlliw croen tywyll</annotation>
+		<annotation cp="🫵🏻">arlliw croen golau | bys mynegai yn pwyntio at y gwyliwr | chi | pwynt | ti</annotation>
+		<annotation cp="🫵🏻" type="tts">bys mynegai yn pwyntio at y gwyliwr: arlliw croen golau</annotation>
+		<annotation cp="🫵🏼">arlliw croen canolig-golau | bys mynegai yn pwyntio at y gwyliwr | chi | pwynt | ti</annotation>
+		<annotation cp="🫵🏼" type="tts">bys mynegai yn pwyntio at y gwyliwr: arlliw croen canolig-golau</annotation>
+		<annotation cp="🫵🏽">arlliw croen canolog | bys mynegai yn pwyntio at y gwyliwr | chi | pwynt | ti</annotation>
+		<annotation cp="🫵🏽" type="tts">bys mynegai yn pwyntio at y gwyliwr: arlliw croen canolog</annotation>
+		<annotation cp="🫵🏾">arlliw croen canolig-tywyll | bys mynegai yn pwyntio at y gwyliwr | chi | pwynt | ti</annotation>
+		<annotation cp="🫵🏾" type="tts">bys mynegai yn pwyntio at y gwyliwr: arlliw croen canolig-tywyll</annotation>
+		<annotation cp="🫵🏿">arlliw croen tywyll | bys mynegai yn pwyntio at y gwyliwr | chi | pwynt | ti</annotation>
+		<annotation cp="🫵🏿" type="tts">bys mynegai yn pwyntio at y gwyliwr: arlliw croen tywyll</annotation>
 		<annotation cp="👍🏻">arlliw croen golau | bys bawd | bys bawd i fyny | corff | ok</annotation>
 		<annotation cp="👍🏻" type="tts">bys bawd i fyny: arlliw croen golau</annotation>
 		<annotation cp="👍🏼">arlliw croen canolig-golau | bys bawd | bys bawd i fyny | corff | ok</annotation>
@@ -282,6 +403,16 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🙌🏾" type="tts">person yn codi dwylo: arlliw croen canolig-tywyll</annotation>
 		<annotation cp="🙌🏿">arlliw croen tywyll | corff | dathliad | llaw | person yn codi dwylo | ystum</annotation>
 		<annotation cp="🙌🏿" type="tts">person yn codi dwylo: arlliw croen tywyll</annotation>
+		<annotation cp="🫶🏻">arlliw croen golau | cariad | dwylo calon</annotation>
+		<annotation cp="🫶🏻" type="tts">dwylo calon: arlliw croen golau</annotation>
+		<annotation cp="🫶🏼">arlliw croen canolig-golau | cariad | dwylo calon</annotation>
+		<annotation cp="🫶🏼" type="tts">dwylo calon: arlliw croen canolig-golau</annotation>
+		<annotation cp="🫶🏽">arlliw croen canolog | cariad | dwylo calon</annotation>
+		<annotation cp="🫶🏽" type="tts">dwylo calon: arlliw croen canolog</annotation>
+		<annotation cp="🫶🏾">arlliw croen canolig-tywyll | cariad | dwylo calon</annotation>
+		<annotation cp="🫶🏾" type="tts">dwylo calon: arlliw croen canolig-tywyll</annotation>
+		<annotation cp="🫶🏿">arlliw croen tywyll | cariad | dwylo calon</annotation>
+		<annotation cp="🫶🏿" type="tts">dwylo calon: arlliw croen tywyll</annotation>
 		<annotation cp="👐🏻">agored | arlliw croen golau | corff | dwylo agored | llaw</annotation>
 		<annotation cp="👐🏻" type="tts">dwylo agored: arlliw croen golau</annotation>
 		<annotation cp="👐🏼">agored | arlliw croen canolig-golau | corff | dwylo agored | llaw</annotation>
@@ -302,6 +433,16 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🤲🏾" type="tts">cledrau dwylo yn yr awyr gyda’u gilydd: arlliw croen canolig-tywyll</annotation>
 		<annotation cp="🤲🏿">arlliw croen tywyll | cledrau dwylo yn yr awyr gyda’u gilydd | gweddïo</annotation>
 		<annotation cp="🤲🏿" type="tts">cledrau dwylo yn yr awyr gyda’u gilydd: arlliw croen tywyll</annotation>
+		<annotation cp="🤝🏻">arlliw croen golau | cyfarfod | cytuno | llaw | ysgwyd | ysgwyd dwylo</annotation>
+		<annotation cp="🤝🏻" type="tts">ysgwyd dwylo: arlliw croen golau</annotation>
+		<annotation cp="🤝🏼">arlliw croen canolig-golau | cyfarfod | cytuno | llaw | ysgwyd | ysgwyd dwylo</annotation>
+		<annotation cp="🤝🏼" type="tts">ysgwyd dwylo: arlliw croen canolig-golau</annotation>
+		<annotation cp="🤝🏽">arlliw croen canolog | cyfarfod | cytuno | llaw | ysgwyd | ysgwyd dwylo</annotation>
+		<annotation cp="🤝🏽" type="tts">ysgwyd dwylo: arlliw croen canolog</annotation>
+		<annotation cp="🤝🏾">arlliw croen canolig-tywyll | cyfarfod | cytuno | llaw | ysgwyd | ysgwyd dwylo</annotation>
+		<annotation cp="🤝🏾" type="tts">ysgwyd dwylo: arlliw croen canolig-tywyll</annotation>
+		<annotation cp="🤝🏿">arlliw croen tywyll | cyfarfod | cytuno | llaw | ysgwyd | ysgwyd dwylo</annotation>
+		<annotation cp="🤝🏿" type="tts">ysgwyd dwylo: arlliw croen tywyll</annotation>
 		<annotation cp="🙏🏻">arlliw croen golau | corff | dwylo wedi plygu | gweddi | plygu | ystum</annotation>
 		<annotation cp="🙏🏻" type="tts">dwylo wedi plygu: arlliw croen golau</annotation>
 		<annotation cp="🙏🏼">arlliw croen canolig-golau | corff | dwylo wedi plygu | gweddi | plygu | ystum</annotation>
@@ -442,15 +583,15 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👧🏾" type="tts">merch: arlliw croen canolig-tywyll</annotation>
 		<annotation cp="👧🏿">arlliw croen tywyll | benywaidd | ifanc | merch | y Forwyn</annotation>
 		<annotation cp="👧🏿" type="tts">merch: arlliw croen tywyll</annotation>
-		<annotation cp="🧑🏻">arlliw croen golau | niwtral o ran rhyw | oedolyn | person</annotation>
+		<annotation cp="🧑🏻">arlliw croen golau | niwtral o ran rhywedd | oedolyn | person</annotation>
 		<annotation cp="🧑🏻" type="tts">person: arlliw croen golau</annotation>
-		<annotation cp="🧑🏼">arlliw croen canolig-golau | niwtral o ran rhyw | oedolyn | person</annotation>
+		<annotation cp="🧑🏼">arlliw croen canolig-golau | niwtral o ran rhywedd | oedolyn | person</annotation>
 		<annotation cp="🧑🏼" type="tts">person: arlliw croen canolig-golau</annotation>
-		<annotation cp="🧑🏽">arlliw croen canolog | niwtral o ran rhyw | oedolyn | person</annotation>
+		<annotation cp="🧑🏽">arlliw croen canolog | niwtral o ran rhywedd | oedolyn | person</annotation>
 		<annotation cp="🧑🏽" type="tts">person: arlliw croen canolog</annotation>
-		<annotation cp="🧑🏾">arlliw croen canolig-tywyll | niwtral o ran rhyw | oedolyn | person</annotation>
+		<annotation cp="🧑🏾">arlliw croen canolig-tywyll | niwtral o ran rhywedd | oedolyn | person</annotation>
 		<annotation cp="🧑🏾" type="tts">person: arlliw croen canolig-tywyll</annotation>
-		<annotation cp="🧑🏿">arlliw croen tywyll | niwtral o ran rhyw | oedolyn | person</annotation>
+		<annotation cp="🧑🏿">arlliw croen tywyll | niwtral o ran rhywedd | oedolyn | person</annotation>
 		<annotation cp="🧑🏿" type="tts">person: arlliw croen tywyll</annotation>
 		<annotation cp="👱🏻">arlliw croen golau | gwallt golau | person â gwallt golau</annotation>
 		<annotation cp="👱🏻" type="tts">person â gwallt golau: arlliw croen golau</annotation>
@@ -542,53 +683,53 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🧑🏿‍❤‍🧑🏽" type="tts">pâr a chalon: person, person, arlliw croen tywyll, arlliw croen canolog</annotation>
 		<annotation cp="🧑🏿‍❤‍🧑🏾">arlliw croen canolig-tywyll | arlliw croen tywyll | calon | cariad | pâr | pâr a chalon | person</annotation>
 		<annotation cp="🧑🏿‍❤‍🧑🏾" type="tts">pâr a chalon: person, person, arlliw croen tywyll, arlliw croen canolig-tywyll</annotation>
-		<annotation cp="🧑‍🦰">gwallt coch | niwtral o ran rhyw | oedolyn | person</annotation>
+		<annotation cp="🧑‍🦰">gwallt coch | niwtral o ran rhywedd | oedolyn | person</annotation>
 		<annotation cp="🧑‍🦰" type="tts">person: gwallt coch</annotation>
-		<annotation cp="🧑🏻‍🦰">arlliw croen golau | gwallt coch | niwtral o ran rhyw | oedolyn | person</annotation>
+		<annotation cp="🧑🏻‍🦰">arlliw croen golau | gwallt coch | niwtral o ran rhywedd | oedolyn | person</annotation>
 		<annotation cp="🧑🏻‍🦰" type="tts">person: arlliw croen golau, gwallt coch</annotation>
-		<annotation cp="🧑🏼‍🦰">arlliw croen canolig-golau | gwallt coch | niwtral o ran rhyw | oedolyn | person</annotation>
+		<annotation cp="🧑🏼‍🦰">arlliw croen canolig-golau | gwallt coch | niwtral o ran rhywedd | oedolyn | person</annotation>
 		<annotation cp="🧑🏼‍🦰" type="tts">person: arlliw croen canolig-golau, gwallt coch</annotation>
-		<annotation cp="🧑🏽‍🦰">arlliw croen canolog | gwallt coch | niwtral o ran rhyw | oedolyn | person</annotation>
+		<annotation cp="🧑🏽‍🦰">arlliw croen canolog | gwallt coch | niwtral o ran rhywedd | oedolyn | person</annotation>
 		<annotation cp="🧑🏽‍🦰" type="tts">person: arlliw croen canolog, gwallt coch</annotation>
-		<annotation cp="🧑🏾‍🦰">arlliw croen canolig-tywyll | gwallt coch | niwtral o ran rhyw | oedolyn | person</annotation>
+		<annotation cp="🧑🏾‍🦰">arlliw croen canolig-tywyll | gwallt coch | niwtral o ran rhywedd | oedolyn | person</annotation>
 		<annotation cp="🧑🏾‍🦰" type="tts">person: arlliw croen canolig-tywyll, gwallt coch</annotation>
-		<annotation cp="🧑🏿‍🦰">arlliw croen tywyll | gwallt coch | niwtral o ran rhyw | oedolyn | person</annotation>
+		<annotation cp="🧑🏿‍🦰">arlliw croen tywyll | gwallt coch | niwtral o ran rhywedd | oedolyn | person</annotation>
 		<annotation cp="🧑🏿‍🦰" type="tts">person: arlliw croen tywyll, gwallt coch</annotation>
-		<annotation cp="🧑‍🦱">gwallt cyrliog | niwtral o ran rhyw | oedolyn | person</annotation>
+		<annotation cp="🧑‍🦱">gwallt cyrliog | niwtral o ran rhywedd | oedolyn | person</annotation>
 		<annotation cp="🧑‍🦱" type="tts">person: gwallt cyrliog</annotation>
-		<annotation cp="🧑🏻‍🦱">arlliw croen golau | gwallt cyrliog | niwtral o ran rhyw | oedolyn | person</annotation>
+		<annotation cp="🧑🏻‍🦱">arlliw croen golau | gwallt cyrliog | niwtral o ran rhywedd | oedolyn | person</annotation>
 		<annotation cp="🧑🏻‍🦱" type="tts">person: arlliw croen golau, gwallt cyrliog</annotation>
-		<annotation cp="🧑🏼‍🦱">arlliw croen canolig-golau | gwallt cyrliog | niwtral o ran rhyw | oedolyn | person</annotation>
+		<annotation cp="🧑🏼‍🦱">arlliw croen canolig-golau | gwallt cyrliog | niwtral o ran rhywedd | oedolyn | person</annotation>
 		<annotation cp="🧑🏼‍🦱" type="tts">person: arlliw croen canolig-golau, gwallt cyrliog</annotation>
-		<annotation cp="🧑🏽‍🦱">arlliw croen canolog | gwallt cyrliog | niwtral o ran rhyw | oedolyn | person</annotation>
+		<annotation cp="🧑🏽‍🦱">arlliw croen canolog | gwallt cyrliog | niwtral o ran rhywedd | oedolyn | person</annotation>
 		<annotation cp="🧑🏽‍🦱" type="tts">person: arlliw croen canolog, gwallt cyrliog</annotation>
-		<annotation cp="🧑🏾‍🦱">arlliw croen canolig-tywyll | gwallt cyrliog | niwtral o ran rhyw | oedolyn | person</annotation>
+		<annotation cp="🧑🏾‍🦱">arlliw croen canolig-tywyll | gwallt cyrliog | niwtral o ran rhywedd | oedolyn | person</annotation>
 		<annotation cp="🧑🏾‍🦱" type="tts">person: arlliw croen canolig-tywyll, gwallt cyrliog</annotation>
-		<annotation cp="🧑🏿‍🦱">arlliw croen tywyll | gwallt cyrliog | niwtral o ran rhyw | oedolyn | person</annotation>
+		<annotation cp="🧑🏿‍🦱">arlliw croen tywyll | gwallt cyrliog | niwtral o ran rhywedd | oedolyn | person</annotation>
 		<annotation cp="🧑🏿‍🦱" type="tts">person: arlliw croen tywyll, gwallt cyrliog</annotation>
-		<annotation cp="🧑‍🦳">gwallt gwyn | niwtral o ran rhyw | oedolyn | person</annotation>
+		<annotation cp="🧑‍🦳">gwallt gwyn | niwtral o ran rhywedd | oedolyn | person</annotation>
 		<annotation cp="🧑‍🦳" type="tts">person: gwallt gwyn</annotation>
-		<annotation cp="🧑🏻‍🦳">arlliw croen golau | gwallt gwyn | niwtral o ran rhyw | oedolyn | person</annotation>
+		<annotation cp="🧑🏻‍🦳">arlliw croen golau | gwallt gwyn | niwtral o ran rhywedd | oedolyn | person</annotation>
 		<annotation cp="🧑🏻‍🦳" type="tts">person: arlliw croen golau, gwallt gwyn</annotation>
-		<annotation cp="🧑🏼‍🦳">arlliw croen canolig-golau | gwallt gwyn | niwtral o ran rhyw | oedolyn | person</annotation>
+		<annotation cp="🧑🏼‍🦳">arlliw croen canolig-golau | gwallt gwyn | niwtral o ran rhywedd | oedolyn | person</annotation>
 		<annotation cp="🧑🏼‍🦳" type="tts">person: arlliw croen canolig-golau, gwallt gwyn</annotation>
-		<annotation cp="🧑🏽‍🦳">arlliw croen canolog | gwallt gwyn | niwtral o ran rhyw | oedolyn | person</annotation>
+		<annotation cp="🧑🏽‍🦳">arlliw croen canolog | gwallt gwyn | niwtral o ran rhywedd | oedolyn | person</annotation>
 		<annotation cp="🧑🏽‍🦳" type="tts">person: arlliw croen canolog, gwallt gwyn</annotation>
-		<annotation cp="🧑🏾‍🦳">arlliw croen canolig-tywyll | gwallt gwyn | niwtral o ran rhyw | oedolyn | person</annotation>
+		<annotation cp="🧑🏾‍🦳">arlliw croen canolig-tywyll | gwallt gwyn | niwtral o ran rhywedd | oedolyn | person</annotation>
 		<annotation cp="🧑🏾‍🦳" type="tts">person: arlliw croen canolig-tywyll, gwallt gwyn</annotation>
-		<annotation cp="🧑🏿‍🦳">arlliw croen tywyll | gwallt gwyn | niwtral o ran rhyw | oedolyn | person</annotation>
+		<annotation cp="🧑🏿‍🦳">arlliw croen tywyll | gwallt gwyn | niwtral o ran rhywedd | oedolyn | person</annotation>
 		<annotation cp="🧑🏿‍🦳" type="tts">person: arlliw croen tywyll, gwallt gwyn</annotation>
-		<annotation cp="🧑‍🦲">moel | niwtral o ran rhyw | oedolyn | person</annotation>
+		<annotation cp="🧑‍🦲">moel | niwtral o ran rhywedd | oedolyn | person</annotation>
 		<annotation cp="🧑‍🦲" type="tts">person: moel</annotation>
-		<annotation cp="🧑🏻‍🦲">arlliw croen golau | moel | niwtral o ran rhyw | oedolyn | person</annotation>
+		<annotation cp="🧑🏻‍🦲">arlliw croen golau | moel | niwtral o ran rhywedd | oedolyn | person</annotation>
 		<annotation cp="🧑🏻‍🦲" type="tts">person: arlliw croen golau, moel</annotation>
-		<annotation cp="🧑🏼‍🦲">arlliw croen canolig-golau | moel | niwtral o ran rhyw | oedolyn | person</annotation>
+		<annotation cp="🧑🏼‍🦲">arlliw croen canolig-golau | moel | niwtral o ran rhywedd | oedolyn | person</annotation>
 		<annotation cp="🧑🏼‍🦲" type="tts">person: arlliw croen canolig-golau, moel</annotation>
-		<annotation cp="🧑🏽‍🦲">arlliw croen canolog | moel | niwtral o ran rhyw | oedolyn | person</annotation>
+		<annotation cp="🧑🏽‍🦲">arlliw croen canolog | moel | niwtral o ran rhywedd | oedolyn | person</annotation>
 		<annotation cp="🧑🏽‍🦲" type="tts">person: arlliw croen canolog, moel</annotation>
-		<annotation cp="🧑🏾‍🦲">arlliw croen canolig-tywyll | moel | niwtral o ran rhyw | oedolyn | person</annotation>
+		<annotation cp="🧑🏾‍🦲">arlliw croen canolig-tywyll | moel | niwtral o ran rhywedd | oedolyn | person</annotation>
 		<annotation cp="🧑🏾‍🦲" type="tts">person: arlliw croen canolig-tywyll, moel</annotation>
-		<annotation cp="🧑🏿‍🦲">arlliw croen tywyll | moel | niwtral o ran rhyw | oedolyn | person</annotation>
+		<annotation cp="🧑🏿‍🦲">arlliw croen tywyll | moel | niwtral o ran rhywedd | oedolyn | person</annotation>
 		<annotation cp="🧑🏿‍🦲" type="tts">person: arlliw croen tywyll, moel</annotation>
 		<annotation cp="👨🏻">arlliw croen golau | dyn | oedolyn</annotation>
 		<annotation cp="👨🏻" type="tts">dyn: arlliw croen golau</annotation>
@@ -1996,6 +2137,16 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👷🏾‍♀" type="tts">gweithiwr adeiladu benywaidd: arlliw croen canolig-tywyll</annotation>
 		<annotation cp="👷🏿‍♀">adeiladu | arlliw croen tywyll | benywaidd | gweithiwr adeiladu benywaidd | gweithwraig | menyw</annotation>
 		<annotation cp="👷🏿‍♀" type="tts">gweithiwr adeiladu benywaidd: arlliw croen tywyll</annotation>
+		<annotation cp="🫅🏻">arlliw croen golau | bonheddig | breindal | brenhinol | brenin | person â choron</annotation>
+		<annotation cp="🫅🏻" type="tts">person â choron: arlliw croen golau</annotation>
+		<annotation cp="🫅🏼">arlliw croen canolig-golau | bonheddig | breindal | brenhinol | brenin | person â choron</annotation>
+		<annotation cp="🫅🏼" type="tts">person â choron: arlliw croen canolig-golau</annotation>
+		<annotation cp="🫅🏽">arlliw croen canolog | bonheddig | breindal | brenhinol | brenin | person â choron</annotation>
+		<annotation cp="🫅🏽" type="tts">person â choron: arlliw croen canolog</annotation>
+		<annotation cp="🫅🏾">arlliw croen canolig-tywyll | bonheddig | breindal | brenhinol | brenin | person â choron</annotation>
+		<annotation cp="🫅🏾" type="tts">person â choron: arlliw croen canolig-tywyll</annotation>
+		<annotation cp="🫅🏿">arlliw croen tywyll | bonheddig | breindal | brenhinol | brenin | person â choron</annotation>
+		<annotation cp="🫅🏿" type="tts">person â choron: arlliw croen tywyll</annotation>
 		<annotation cp="🤴🏻">arlliw croen golau | tywysog</annotation>
 		<annotation cp="🤴🏻" type="tts">tywysog: arlliw croen golau</annotation>
 		<annotation cp="🤴🏼">arlliw croen canolig-golau | tywysog</annotation>
@@ -2136,6 +2287,26 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🤰🏾" type="tts">menyw feichiog: arlliw croen canolig-tywyll</annotation>
 		<annotation cp="🤰🏿">arlliw croen tywyll | beichiog | menyw | menyw feichiog</annotation>
 		<annotation cp="🤰🏿" type="tts">menyw feichiog: arlliw croen tywyll</annotation>
+		<annotation cp="🫃🏻">arlliw croen golau | beichiog | bol | chwyddedig | dyn beichiog | llawn</annotation>
+		<annotation cp="🫃🏻" type="tts">dyn beichiog: arlliw croen golau</annotation>
+		<annotation cp="🫃🏼">arlliw croen canolig-golau | beichiog | bol | chwyddedig | dyn beichiog | llawn</annotation>
+		<annotation cp="🫃🏼" type="tts">dyn beichiog: arlliw croen canolig-golau</annotation>
+		<annotation cp="🫃🏽">arlliw croen canolog | beichiog | bol | chwyddedig | dyn beichiog | llawn</annotation>
+		<annotation cp="🫃🏽" type="tts">dyn beichiog: arlliw croen canolog</annotation>
+		<annotation cp="🫃🏾">arlliw croen canolig-tywyll | beichiog | bol | chwyddedig | dyn beichiog | llawn</annotation>
+		<annotation cp="🫃🏾" type="tts">dyn beichiog: arlliw croen canolig-tywyll</annotation>
+		<annotation cp="🫃🏿">arlliw croen tywyll | beichiog | bol | chwyddedig | dyn beichiog | llawn</annotation>
+		<annotation cp="🫃🏿" type="tts">dyn beichiog: arlliw croen tywyll</annotation>
+		<annotation cp="🫄🏻">arlliw croen golau | beichiog | bol | chwyddedig | llawn | person beichiog</annotation>
+		<annotation cp="🫄🏻" type="tts">person beichiog: arlliw croen golau</annotation>
+		<annotation cp="🫄🏼">arlliw croen canolig-golau | beichiog | bol | chwyddedig | llawn | person beichiog</annotation>
+		<annotation cp="🫄🏼" type="tts">person beichiog: arlliw croen canolig-golau</annotation>
+		<annotation cp="🫄🏽">arlliw croen canolog | beichiog | bol | chwyddedig | llawn | person beichiog</annotation>
+		<annotation cp="🫄🏽" type="tts">person beichiog: arlliw croen canolog</annotation>
+		<annotation cp="🫄🏾">arlliw croen canolig-tywyll | beichiog | bol | chwyddedig | llawn | person beichiog</annotation>
+		<annotation cp="🫄🏾" type="tts">person beichiog: arlliw croen canolig-tywyll</annotation>
+		<annotation cp="🫄🏿">arlliw croen tywyll | beichiog | bol | chwyddedig | llawn | person beichiog</annotation>
+		<annotation cp="🫄🏿" type="tts">person beichiog: arlliw croen tywyll</annotation>
 		<annotation cp="🤱🏻">arlliw croen golau | babi | bron | bwydo o’r fron | nyrsio</annotation>
 		<annotation cp="🤱🏻" type="tts">bwydo o’r fron: arlliw croen golau</annotation>
 		<annotation cp="🤱🏼">arlliw croen canolig-golau | babi | bron | bwydo o’r fron | nyrsio</annotation>
@@ -2206,15 +2377,15 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🤶🏾" type="tts">Siân Corn: arlliw croen canolig-tywyll</annotation>
 		<annotation cp="🤶🏿">arlliw croen tywyll | mam | Siân Corn | y Nadolig</annotation>
 		<annotation cp="🤶🏿" type="tts">Siân Corn: arlliw croen tywyll</annotation>
-		<annotation cp="🧑🏻‍🎄">arlliw croen golau | Claus, nadolig | mx claus</annotation>
+		<annotation cp="🧑🏻‍🎄">arlliw croen golau | Claus | gwyliau | het | mx claus | nadolig | nadolig llawen | person | sion corn</annotation>
 		<annotation cp="🧑🏻‍🎄" type="tts">mx claus: arlliw croen golau</annotation>
-		<annotation cp="🧑🏼‍🎄">arlliw croen canolig-golau | Claus, nadolig | mx claus</annotation>
+		<annotation cp="🧑🏼‍🎄">arlliw croen canolig-golau | Claus | gwyliau | het | mx claus | nadolig | nadolig llawen | person | sion corn</annotation>
 		<annotation cp="🧑🏼‍🎄" type="tts">mx claus: arlliw croen canolig-golau</annotation>
-		<annotation cp="🧑🏽‍🎄">arlliw croen canolog | Claus, nadolig | mx claus</annotation>
+		<annotation cp="🧑🏽‍🎄">arlliw croen canolog | Claus | gwyliau | het | mx claus | nadolig | nadolig llawen | person | sion corn</annotation>
 		<annotation cp="🧑🏽‍🎄" type="tts">mx claus: arlliw croen canolog</annotation>
-		<annotation cp="🧑🏾‍🎄">arlliw croen canolig-tywyll | Claus, nadolig | mx claus</annotation>
+		<annotation cp="🧑🏾‍🎄">arlliw croen canolig-tywyll | Claus | gwyliau | het | mx claus | nadolig | nadolig llawen | person | sion corn</annotation>
 		<annotation cp="🧑🏾‍🎄" type="tts">mx claus: arlliw croen canolig-tywyll</annotation>
-		<annotation cp="🧑🏿‍🎄">arlliw croen tywyll | Claus, nadolig | mx claus</annotation>
+		<annotation cp="🧑🏿‍🎄">arlliw croen tywyll | Claus | gwyliau | het | mx claus | nadolig | nadolig llawen | person | sion corn</annotation>
 		<annotation cp="🧑🏿‍🎄" type="tts">mx claus: arlliw croen tywyll</annotation>
 		<annotation cp="🦸🏻">archarwr | archbŵer | arlliw croen golau | arwr | arwres | da</annotation>
 		<annotation cp="🦸🏻" type="tts">archarwr: arlliw croen golau</annotation>
@@ -2516,6 +2687,42 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🚶🏾‍♀" type="tts">menyw yn cerdded: arlliw croen canolig-tywyll</annotation>
 		<annotation cp="🚶🏿‍♀">arlliw croen tywyll | cerdded | heicio | menyw | menyw yn cerdded</annotation>
 		<annotation cp="🚶🏿‍♀" type="tts">menyw yn cerdded: arlliw croen tywyll</annotation>
+		<annotation cp="🚶‍➡">cerdded | dde | heicio | i’r | person yn cerdded | wynebu</annotation>
+		<annotation cp="🚶‍➡" type="tts">person yn cerdded: wynebu i’r dde</annotation>
+		<annotation cp="🚶🏻‍➡">arlliw croen golau | cerdded | dde | heicio | i’r | person yn cerdded | wynebu</annotation>
+		<annotation cp="🚶🏻‍➡" type="tts">person yn cerdded: arlliw croen golau, wynebu i’r dde</annotation>
+		<annotation cp="🚶🏼‍➡">arlliw croen canolig-golau | cerdded | dde | heicio | i’r | person yn cerdded | wynebu</annotation>
+		<annotation cp="🚶🏼‍➡" type="tts">person yn cerdded: arlliw croen canolig-golau, wynebu i’r dde</annotation>
+		<annotation cp="🚶🏽‍➡">arlliw croen canolog | cerdded | dde | heicio | i’r | person yn cerdded | wynebu</annotation>
+		<annotation cp="🚶🏽‍➡" type="tts">person yn cerdded: arlliw croen canolog, wynebu i’r dde</annotation>
+		<annotation cp="🚶🏾‍➡">arlliw croen canolig-tywyll | cerdded | dde | heicio | i’r | person yn cerdded | wynebu</annotation>
+		<annotation cp="🚶🏾‍➡" type="tts">person yn cerdded: arlliw croen canolig-tywyll, wynebu i’r dde</annotation>
+		<annotation cp="🚶🏿‍➡">arlliw croen tywyll | cerdded | dde | heicio | i’r | person yn cerdded | wynebu</annotation>
+		<annotation cp="🚶🏿‍➡" type="tts">person yn cerdded: arlliw croen tywyll, wynebu i’r dde</annotation>
+		<annotation cp="🚶‍♀‍➡">cerdded | dde | heicio | i’r | menyw | menyw yn cerdded | wynebu</annotation>
+		<annotation cp="🚶‍♀‍➡" type="tts">menyw yn cerdded: wynebu i’r dde</annotation>
+		<annotation cp="🚶🏻‍♀‍➡">arlliw croen golau | cerdded | dde | heicio | i’r | menyw | menyw yn cerdded | wynebu</annotation>
+		<annotation cp="🚶🏻‍♀‍➡" type="tts">menyw yn cerdded: arlliw croen golau, wynebu i’r dde</annotation>
+		<annotation cp="🚶🏼‍♀‍➡">arlliw croen canolig-golau | cerdded | dde | heicio | i’r | menyw | menyw yn cerdded | wynebu</annotation>
+		<annotation cp="🚶🏼‍♀‍➡" type="tts">menyw yn cerdded: arlliw croen canolig-golau, wynebu i’r dde</annotation>
+		<annotation cp="🚶🏽‍♀‍➡">arlliw croen canolog | cerdded | dde | heicio | i’r | menyw | menyw yn cerdded | wynebu</annotation>
+		<annotation cp="🚶🏽‍♀‍➡" type="tts">menyw yn cerdded: arlliw croen canolog, wynebu i’r dde</annotation>
+		<annotation cp="🚶🏾‍♀‍➡">arlliw croen canolig-tywyll | cerdded | dde | heicio | i’r | menyw | menyw yn cerdded | wynebu</annotation>
+		<annotation cp="🚶🏾‍♀‍➡" type="tts">menyw yn cerdded: arlliw croen canolig-tywyll, wynebu i’r dde</annotation>
+		<annotation cp="🚶🏿‍♀‍➡">arlliw croen tywyll | cerdded | dde | heicio | i’r | menyw | menyw yn cerdded | wynebu</annotation>
+		<annotation cp="🚶🏿‍♀‍➡" type="tts">menyw yn cerdded: arlliw croen tywyll, wynebu i’r dde</annotation>
+		<annotation cp="🚶‍♂‍➡">cerdded | dde | dyn | dyn yn cerdded | heicio | i’r | wynebu</annotation>
+		<annotation cp="🚶‍♂‍➡" type="tts">dyn yn cerdded: wynebu i’r dde</annotation>
+		<annotation cp="🚶🏻‍♂‍➡">arlliw croen golau | cerdded | dde | dyn | dyn yn cerdded | heicio | i’r | wynebu</annotation>
+		<annotation cp="🚶🏻‍♂‍➡" type="tts">dyn yn cerdded: arlliw croen golau, wynebu i’r dde</annotation>
+		<annotation cp="🚶🏼‍♂‍➡">arlliw croen canolig-golau | cerdded | dde | dyn | dyn yn cerdded | heicio | i’r | wynebu</annotation>
+		<annotation cp="🚶🏼‍♂‍➡" type="tts">dyn yn cerdded: arlliw croen canolig-golau, wynebu i’r dde</annotation>
+		<annotation cp="🚶🏽‍♂‍➡">arlliw croen canolog | cerdded | dde | dyn | dyn yn cerdded | heicio | i’r | wynebu</annotation>
+		<annotation cp="🚶🏽‍♂‍➡" type="tts">dyn yn cerdded: arlliw croen canolog, wynebu i’r dde</annotation>
+		<annotation cp="🚶🏾‍♂‍➡">arlliw croen canolig-tywyll | cerdded | dde | dyn | dyn yn cerdded | heicio | i’r | wynebu</annotation>
+		<annotation cp="🚶🏾‍♂‍➡" type="tts">dyn yn cerdded: arlliw croen canolig-tywyll, wynebu i’r dde</annotation>
+		<annotation cp="🚶🏿‍♂‍➡">arlliw croen tywyll | cerdded | dde | dyn | dyn yn cerdded | heicio | i’r | wynebu</annotation>
+		<annotation cp="🚶🏿‍♂‍➡" type="tts">dyn yn cerdded: arlliw croen tywyll, wynebu i’r dde</annotation>
 		<annotation cp="🧍🏻">arlliw croen golau | dwy droed | person yn sefyll | sefyll</annotation>
 		<annotation cp="🧍🏻" type="tts">person yn sefyll: arlliw croen golau</annotation>
 		<annotation cp="🧍🏼">arlliw croen canolig-golau | dwy droed | person yn sefyll | sefyll</annotation>
@@ -2576,6 +2783,42 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🧎🏾‍♀" type="tts">menyw yn penlinio: arlliw croen canolig-tywyll</annotation>
 		<annotation cp="🧎🏿‍♀">arlliw croen tywyll | menyw / penlinio | menyw yn penlinio</annotation>
 		<annotation cp="🧎🏿‍♀" type="tts">menyw yn penlinio: arlliw croen tywyll</annotation>
+		<annotation cp="🧎‍➡">dde | i’r | penlinio | person yn penlinio | wynebu</annotation>
+		<annotation cp="🧎‍➡" type="tts">person yn penlinio: wynebu i’r dde</annotation>
+		<annotation cp="🧎🏻‍➡">arlliw croen golau | dde | i’r | penlinio | person yn penlinio | wynebu</annotation>
+		<annotation cp="🧎🏻‍➡" type="tts">person yn penlinio: arlliw croen golau, wynebu i’r dde</annotation>
+		<annotation cp="🧎🏼‍➡">arlliw croen canolig-golau | dde | i’r | penlinio | person yn penlinio | wynebu</annotation>
+		<annotation cp="🧎🏼‍➡" type="tts">person yn penlinio: arlliw croen canolig-golau, wynebu i’r dde</annotation>
+		<annotation cp="🧎🏽‍➡">arlliw croen canolog | dde | i’r | penlinio | person yn penlinio | wynebu</annotation>
+		<annotation cp="🧎🏽‍➡" type="tts">person yn penlinio: arlliw croen canolog, wynebu i’r dde</annotation>
+		<annotation cp="🧎🏾‍➡">arlliw croen canolig-tywyll | dde | i’r | penlinio | person yn penlinio | wynebu</annotation>
+		<annotation cp="🧎🏾‍➡" type="tts">person yn penlinio: arlliw croen canolig-tywyll, wynebu i’r dde</annotation>
+		<annotation cp="🧎🏿‍➡">arlliw croen tywyll | dde | i’r | penlinio | person yn penlinio | wynebu</annotation>
+		<annotation cp="🧎🏿‍➡" type="tts">person yn penlinio: arlliw croen tywyll, wynebu i’r dde</annotation>
+		<annotation cp="🧎‍♀‍➡">dde | i’r | menyw / penlinio | menyw yn penlinio | wynebu</annotation>
+		<annotation cp="🧎‍♀‍➡" type="tts">menyw yn penlinio: wynebu i’r dde</annotation>
+		<annotation cp="🧎🏻‍♀‍➡">arlliw croen golau | dde | i’r | menyw / penlinio | menyw yn penlinio | wynebu</annotation>
+		<annotation cp="🧎🏻‍♀‍➡" type="tts">menyw yn penlinio: arlliw croen golau, wynebu i’r dde</annotation>
+		<annotation cp="🧎🏼‍♀‍➡">arlliw croen canolig-golau | dde | i’r | menyw / penlinio | menyw yn penlinio | wynebu</annotation>
+		<annotation cp="🧎🏼‍♀‍➡" type="tts">menyw yn penlinio: arlliw croen canolig-golau, wynebu i’r dde</annotation>
+		<annotation cp="🧎🏽‍♀‍➡">arlliw croen canolog | dde | i’r | menyw / penlinio | menyw yn penlinio | wynebu</annotation>
+		<annotation cp="🧎🏽‍♀‍➡" type="tts">menyw yn penlinio: arlliw croen canolog, wynebu i’r dde</annotation>
+		<annotation cp="🧎🏾‍♀‍➡">arlliw croen canolig-tywyll | dde | i’r | menyw / penlinio | menyw yn penlinio | wynebu</annotation>
+		<annotation cp="🧎🏾‍♀‍➡" type="tts">menyw yn penlinio: arlliw croen canolig-tywyll, wynebu i’r dde</annotation>
+		<annotation cp="🧎🏿‍♀‍➡">arlliw croen tywyll | dde | i’r | menyw / penlinio | menyw yn penlinio | wynebu</annotation>
+		<annotation cp="🧎🏿‍♀‍➡" type="tts">menyw yn penlinio: arlliw croen tywyll, wynebu i’r dde</annotation>
+		<annotation cp="🧎‍♂‍➡">dde | dyn | dyn yn penlinio | i’r | penlinio | wynebu</annotation>
+		<annotation cp="🧎‍♂‍➡" type="tts">dyn yn penlinio: wynebu i’r dde</annotation>
+		<annotation cp="🧎🏻‍♂‍➡">arlliw croen golau | dde | dyn | dyn yn penlinio | i’r | penlinio | wynebu</annotation>
+		<annotation cp="🧎🏻‍♂‍➡" type="tts">dyn yn penlinio: arlliw croen golau, wynebu i’r dde</annotation>
+		<annotation cp="🧎🏼‍♂‍➡">arlliw croen canolig-golau | dde | dyn | dyn yn penlinio | i’r | penlinio | wynebu</annotation>
+		<annotation cp="🧎🏼‍♂‍➡" type="tts">dyn yn penlinio: arlliw croen canolig-golau, wynebu i’r dde</annotation>
+		<annotation cp="🧎🏽‍♂‍➡">arlliw croen canolog | dde | dyn | dyn yn penlinio | i’r | penlinio | wynebu</annotation>
+		<annotation cp="🧎🏽‍♂‍➡" type="tts">dyn yn penlinio: arlliw croen canolog, wynebu i’r dde</annotation>
+		<annotation cp="🧎🏾‍♂‍➡">arlliw croen canolig-tywyll | dde | dyn | dyn yn penlinio | i’r | penlinio | wynebu</annotation>
+		<annotation cp="🧎🏾‍♂‍➡" type="tts">dyn yn penlinio: arlliw croen canolig-tywyll, wynebu i’r dde</annotation>
+		<annotation cp="🧎🏿‍♂‍➡">arlliw croen tywyll | dde | dyn | dyn yn penlinio | i’r | penlinio | wynebu</annotation>
+		<annotation cp="🧎🏿‍♂‍➡" type="tts">dyn yn penlinio: arlliw croen tywyll, wynebu i’r dde</annotation>
 		<annotation cp="🧑🏻‍🦯">arlliw croen golau | dall | hygyrchedd | person â ffon gerdded</annotation>
 		<annotation cp="🧑🏻‍🦯" type="tts">person â ffon gerdded: arlliw croen golau</annotation>
 		<annotation cp="🧑🏼‍🦯">arlliw croen canolig-golau | dall | hygyrchedd | person â ffon gerdded</annotation>
@@ -2586,6 +2829,18 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🧑🏾‍🦯" type="tts">person â ffon gerdded: arlliw croen canolig-tywyll</annotation>
 		<annotation cp="🧑🏿‍🦯">arlliw croen tywyll | dall | hygyrchedd | person â ffon gerdded</annotation>
 		<annotation cp="🧑🏿‍🦯" type="tts">person â ffon gerdded: arlliw croen tywyll</annotation>
+		<annotation cp="🧑‍🦯‍➡">dall | dde | hygyrchedd | i’r | person â ffon gerdded | wynebu</annotation>
+		<annotation cp="🧑‍🦯‍➡" type="tts">person â ffon gerdded: wynebu i’r dde</annotation>
+		<annotation cp="🧑🏻‍🦯‍➡">arlliw croen golau | dall | dde | hygyrchedd | i’r | person â ffon gerdded | wynebu</annotation>
+		<annotation cp="🧑🏻‍🦯‍➡" type="tts">person â ffon gerdded: arlliw croen golau, wynebu i’r dde</annotation>
+		<annotation cp="🧑🏼‍🦯‍➡">arlliw croen canolig-golau | dall | dde | hygyrchedd | i’r | person â ffon gerdded | wynebu</annotation>
+		<annotation cp="🧑🏼‍🦯‍➡" type="tts">person â ffon gerdded: arlliw croen canolig-golau, wynebu i’r dde</annotation>
+		<annotation cp="🧑🏽‍🦯‍➡">arlliw croen canolog | dall | dde | hygyrchedd | i’r | person â ffon gerdded | wynebu</annotation>
+		<annotation cp="🧑🏽‍🦯‍➡" type="tts">person â ffon gerdded: arlliw croen canolog, wynebu i’r dde</annotation>
+		<annotation cp="🧑🏾‍🦯‍➡">arlliw croen canolig-tywyll | dall | dde | hygyrchedd | i’r | person â ffon gerdded | wynebu</annotation>
+		<annotation cp="🧑🏾‍🦯‍➡" type="tts">person â ffon gerdded: arlliw croen canolig-tywyll, wynebu i’r dde</annotation>
+		<annotation cp="🧑🏿‍🦯‍➡">arlliw croen tywyll | dall | dde | hygyrchedd | i’r | person â ffon gerdded | wynebu</annotation>
+		<annotation cp="🧑🏿‍🦯‍➡" type="tts">person â ffon gerdded: arlliw croen tywyll, wynebu i’r dde</annotation>
 		<annotation cp="👨🏻‍🦯">arlliw croen golau | dall | dyn | dyn â ffon wen | hygyrchedd</annotation>
 		<annotation cp="👨🏻‍🦯" type="tts">dyn â ffon wen: arlliw croen golau</annotation>
 		<annotation cp="👨🏼‍🦯">arlliw croen canolig-golau | dall | dyn | dyn â ffon wen | hygyrchedd</annotation>
@@ -2596,6 +2851,18 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👨🏾‍🦯" type="tts">dyn â ffon wen: arlliw croen canolig-tywyll</annotation>
 		<annotation cp="👨🏿‍🦯">arlliw croen tywyll | dall | dyn | dyn â ffon wen | hygyrchedd</annotation>
 		<annotation cp="👨🏿‍🦯" type="tts">dyn â ffon wen: arlliw croen tywyll</annotation>
+		<annotation cp="👨‍🦯‍➡">dall | dde | dyn | dyn â ffon wen | hygyrchedd | i’r | wynebu</annotation>
+		<annotation cp="👨‍🦯‍➡" type="tts">dyn â ffon wen: wynebu i’r dde</annotation>
+		<annotation cp="👨🏻‍🦯‍➡">arlliw croen golau | dall | dde | dyn | dyn â ffon wen | hygyrchedd | i’r | wynebu</annotation>
+		<annotation cp="👨🏻‍🦯‍➡" type="tts">dyn â ffon wen: arlliw croen golau, wynebu i’r dde</annotation>
+		<annotation cp="👨🏼‍🦯‍➡">arlliw croen canolig-golau | dall | dde | dyn | dyn â ffon wen | hygyrchedd | i’r | wynebu</annotation>
+		<annotation cp="👨🏼‍🦯‍➡" type="tts">dyn â ffon wen: arlliw croen canolig-golau, wynebu i’r dde</annotation>
+		<annotation cp="👨🏽‍🦯‍➡">arlliw croen canolog | dall | dde | dyn | dyn â ffon wen | hygyrchedd | i’r | wynebu</annotation>
+		<annotation cp="👨🏽‍🦯‍➡" type="tts">dyn â ffon wen: arlliw croen canolog, wynebu i’r dde</annotation>
+		<annotation cp="👨🏾‍🦯‍➡">arlliw croen canolig-tywyll | dall | dde | dyn | dyn â ffon wen | hygyrchedd | i’r | wynebu</annotation>
+		<annotation cp="👨🏾‍🦯‍➡" type="tts">dyn â ffon wen: arlliw croen canolig-tywyll, wynebu i’r dde</annotation>
+		<annotation cp="👨🏿‍🦯‍➡">arlliw croen tywyll | dall | dde | dyn | dyn â ffon wen | hygyrchedd | i’r | wynebu</annotation>
+		<annotation cp="👨🏿‍🦯‍➡" type="tts">dyn â ffon wen: arlliw croen tywyll, wynebu i’r dde</annotation>
 		<annotation cp="👩🏻‍🦯">arlliw croen golau | dall | hygyrchedd | menyw | menyw â ffon wen</annotation>
 		<annotation cp="👩🏻‍🦯" type="tts">menyw â ffon wen: arlliw croen golau</annotation>
 		<annotation cp="👩🏼‍🦯">arlliw croen canolig-golau | dall | hygyrchedd | menyw | menyw â ffon wen</annotation>
@@ -2606,6 +2873,18 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👩🏾‍🦯" type="tts">menyw â ffon wen: arlliw croen canolig-tywyll</annotation>
 		<annotation cp="👩🏿‍🦯">arlliw croen tywyll | dall | hygyrchedd | menyw | menyw â ffon wen</annotation>
 		<annotation cp="👩🏿‍🦯" type="tts">menyw â ffon wen: arlliw croen tywyll</annotation>
+		<annotation cp="👩‍🦯‍➡">dall | dde | hygyrchedd | i’r | menyw | menyw â ffon wen | wynebu</annotation>
+		<annotation cp="👩‍🦯‍➡" type="tts">menyw â ffon wen: wynebu i’r dde</annotation>
+		<annotation cp="👩🏻‍🦯‍➡">arlliw croen golau | dall | dde | hygyrchedd | i’r | menyw | menyw â ffon wen | wynebu</annotation>
+		<annotation cp="👩🏻‍🦯‍➡" type="tts">menyw â ffon wen: arlliw croen golau, wynebu i’r dde</annotation>
+		<annotation cp="👩🏼‍🦯‍➡">arlliw croen canolig-golau | dall | dde | hygyrchedd | i’r | menyw | menyw â ffon wen | wynebu</annotation>
+		<annotation cp="👩🏼‍🦯‍➡" type="tts">menyw â ffon wen: arlliw croen canolig-golau, wynebu i’r dde</annotation>
+		<annotation cp="👩🏽‍🦯‍➡">arlliw croen canolog | dall | dde | hygyrchedd | i’r | menyw | menyw â ffon wen | wynebu</annotation>
+		<annotation cp="👩🏽‍🦯‍➡" type="tts">menyw â ffon wen: arlliw croen canolog, wynebu i’r dde</annotation>
+		<annotation cp="👩🏾‍🦯‍➡">arlliw croen canolig-tywyll | dall | dde | hygyrchedd | i’r | menyw | menyw â ffon wen | wynebu</annotation>
+		<annotation cp="👩🏾‍🦯‍➡" type="tts">menyw â ffon wen: arlliw croen canolig-tywyll, wynebu i’r dde</annotation>
+		<annotation cp="👩🏿‍🦯‍➡">arlliw croen tywyll | dall | dde | hygyrchedd | i’r | menyw | menyw â ffon wen | wynebu</annotation>
+		<annotation cp="👩🏿‍🦯‍➡" type="tts">menyw â ffon wen: arlliw croen tywyll, wynebu i’r dde</annotation>
 		<annotation cp="🧑🏻‍🦼">arlliw croen golau | cadair olwyn | hygyrchedd | person mewn cadair olwyn drydan</annotation>
 		<annotation cp="🧑🏻‍🦼" type="tts">person mewn cadair olwyn drydan: arlliw croen golau</annotation>
 		<annotation cp="🧑🏼‍🦼">arlliw croen canolig-golau | cadair olwyn | hygyrchedd | person mewn cadair olwyn drydan</annotation>
@@ -2616,6 +2895,18 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🧑🏾‍🦼" type="tts">person mewn cadair olwyn drydan: arlliw croen canolig-tywyll</annotation>
 		<annotation cp="🧑🏿‍🦼">arlliw croen tywyll | cadair olwyn | hygyrchedd | person mewn cadair olwyn drydan</annotation>
 		<annotation cp="🧑🏿‍🦼" type="tts">person mewn cadair olwyn drydan: arlliw croen tywyll</annotation>
+		<annotation cp="🧑‍🦼‍➡">cadair olwyn | dde | hygyrchedd | i’r | person mewn cadair olwyn drydan | wynebu</annotation>
+		<annotation cp="🧑‍🦼‍➡" type="tts">person mewn cadair olwyn drydan: wynebu i’r dde</annotation>
+		<annotation cp="🧑🏻‍🦼‍➡">arlliw croen golau | cadair olwyn | dde | hygyrchedd | i’r | person mewn cadair olwyn drydan | wynebu</annotation>
+		<annotation cp="🧑🏻‍🦼‍➡" type="tts">person mewn cadair olwyn drydan: arlliw croen golau, wynebu i’r dde</annotation>
+		<annotation cp="🧑🏼‍🦼‍➡">arlliw croen canolig-golau | cadair olwyn | dde | hygyrchedd | i’r | person mewn cadair olwyn drydan | wynebu</annotation>
+		<annotation cp="🧑🏼‍🦼‍➡" type="tts">person mewn cadair olwyn drydan: arlliw croen canolig-golau, wynebu i’r dde</annotation>
+		<annotation cp="🧑🏽‍🦼‍➡">arlliw croen canolog | cadair olwyn | dde | hygyrchedd | i’r | person mewn cadair olwyn drydan | wynebu</annotation>
+		<annotation cp="🧑🏽‍🦼‍➡" type="tts">person mewn cadair olwyn drydan: arlliw croen canolog, wynebu i’r dde</annotation>
+		<annotation cp="🧑🏾‍🦼‍➡">arlliw croen canolig-tywyll | cadair olwyn | dde | hygyrchedd | i’r | person mewn cadair olwyn drydan | wynebu</annotation>
+		<annotation cp="🧑🏾‍🦼‍➡" type="tts">person mewn cadair olwyn drydan: arlliw croen canolig-tywyll, wynebu i’r dde</annotation>
+		<annotation cp="🧑🏿‍🦼‍➡">arlliw croen tywyll | cadair olwyn | dde | hygyrchedd | i’r | person mewn cadair olwyn drydan | wynebu</annotation>
+		<annotation cp="🧑🏿‍🦼‍➡" type="tts">person mewn cadair olwyn drydan: arlliw croen tywyll, wynebu i’r dde</annotation>
 		<annotation cp="👨🏻‍🦼">arlliw croen golau | cadair olwyn | dyn | dyn mewn cadair olwyn fodur | hygyrchedd</annotation>
 		<annotation cp="👨🏻‍🦼" type="tts">dyn mewn cadair olwyn fodur: arlliw croen golau</annotation>
 		<annotation cp="👨🏼‍🦼">arlliw croen canolig-golau | cadair olwyn | dyn | dyn mewn cadair olwyn fodur | hygyrchedd</annotation>
@@ -2626,6 +2917,18 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👨🏾‍🦼" type="tts">dyn mewn cadair olwyn fodur: arlliw croen canolig-tywyll</annotation>
 		<annotation cp="👨🏿‍🦼">arlliw croen tywyll | cadair olwyn | dyn | dyn mewn cadair olwyn fodur | hygyrchedd</annotation>
 		<annotation cp="👨🏿‍🦼" type="tts">dyn mewn cadair olwyn fodur: arlliw croen tywyll</annotation>
+		<annotation cp="👨‍🦼‍➡">cadair olwyn | dde | dyn | dyn mewn cadair olwyn fodur | hygyrchedd | i’r | wynebu</annotation>
+		<annotation cp="👨‍🦼‍➡" type="tts">dyn mewn cadair olwyn fodur: wynebu i’r dde</annotation>
+		<annotation cp="👨🏻‍🦼‍➡">arlliw croen golau | cadair olwyn | dde | dyn | dyn mewn cadair olwyn fodur | hygyrchedd | i’r | wynebu</annotation>
+		<annotation cp="👨🏻‍🦼‍➡" type="tts">dyn mewn cadair olwyn fodur: arlliw croen golau, wynebu i’r dde</annotation>
+		<annotation cp="👨🏼‍🦼‍➡">arlliw croen canolig-golau | cadair olwyn | dde | dyn | dyn mewn cadair olwyn fodur | hygyrchedd | i’r | wynebu</annotation>
+		<annotation cp="👨🏼‍🦼‍➡" type="tts">dyn mewn cadair olwyn fodur: arlliw croen canolig-golau, wynebu i’r dde</annotation>
+		<annotation cp="👨🏽‍🦼‍➡">arlliw croen canolog | cadair olwyn | dde | dyn | dyn mewn cadair olwyn fodur | hygyrchedd | i’r | wynebu</annotation>
+		<annotation cp="👨🏽‍🦼‍➡" type="tts">dyn mewn cadair olwyn fodur: arlliw croen canolog, wynebu i’r dde</annotation>
+		<annotation cp="👨🏾‍🦼‍➡">arlliw croen canolig-tywyll | cadair olwyn | dde | dyn | dyn mewn cadair olwyn fodur | hygyrchedd | i’r | wynebu</annotation>
+		<annotation cp="👨🏾‍🦼‍➡" type="tts">dyn mewn cadair olwyn fodur: arlliw croen canolig-tywyll, wynebu i’r dde</annotation>
+		<annotation cp="👨🏿‍🦼‍➡">arlliw croen tywyll | cadair olwyn | dde | dyn | dyn mewn cadair olwyn fodur | hygyrchedd | i’r | wynebu</annotation>
+		<annotation cp="👨🏿‍🦼‍➡" type="tts">dyn mewn cadair olwyn fodur: arlliw croen tywyll, wynebu i’r dde</annotation>
 		<annotation cp="👩🏻‍🦼">arlliw croen golau | cadair olwyn | hygyrchedd | menyw | menyw mewn cadair olwyn fodur</annotation>
 		<annotation cp="👩🏻‍🦼" type="tts">menyw mewn cadair olwyn fodur: arlliw croen golau</annotation>
 		<annotation cp="👩🏼‍🦼">arlliw croen canolig-golau | cadair olwyn | hygyrchedd | menyw | menyw mewn cadair olwyn fodur</annotation>
@@ -2636,6 +2939,18 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👩🏾‍🦼" type="tts">menyw mewn cadair olwyn fodur: arlliw croen canolig-tywyll</annotation>
 		<annotation cp="👩🏿‍🦼">arlliw croen tywyll | cadair olwyn | hygyrchedd | menyw | menyw mewn cadair olwyn fodur</annotation>
 		<annotation cp="👩🏿‍🦼" type="tts">menyw mewn cadair olwyn fodur: arlliw croen tywyll</annotation>
+		<annotation cp="👩‍🦼‍➡">cadair olwyn | dde | hygyrchedd | i’r | menyw | menyw mewn cadair olwyn fodur | wynebu</annotation>
+		<annotation cp="👩‍🦼‍➡" type="tts">menyw mewn cadair olwyn fodur: wynebu i’r dde</annotation>
+		<annotation cp="👩🏻‍🦼‍➡">arlliw croen golau | cadair olwyn | dde | hygyrchedd | i’r | menyw | menyw mewn cadair olwyn fodur | wynebu</annotation>
+		<annotation cp="👩🏻‍🦼‍➡" type="tts">menyw mewn cadair olwyn fodur: arlliw croen golau, wynebu i’r dde</annotation>
+		<annotation cp="👩🏼‍🦼‍➡">arlliw croen canolig-golau | cadair olwyn | dde | hygyrchedd | i’r | menyw | menyw mewn cadair olwyn fodur | wynebu</annotation>
+		<annotation cp="👩🏼‍🦼‍➡" type="tts">menyw mewn cadair olwyn fodur: arlliw croen canolig-golau, wynebu i’r dde</annotation>
+		<annotation cp="👩🏽‍🦼‍➡">arlliw croen canolog | cadair olwyn | dde | hygyrchedd | i’r | menyw | menyw mewn cadair olwyn fodur | wynebu</annotation>
+		<annotation cp="👩🏽‍🦼‍➡" type="tts">menyw mewn cadair olwyn fodur: arlliw croen canolog, wynebu i’r dde</annotation>
+		<annotation cp="👩🏾‍🦼‍➡">arlliw croen canolig-tywyll | cadair olwyn | dde | hygyrchedd | i’r | menyw | menyw mewn cadair olwyn fodur | wynebu</annotation>
+		<annotation cp="👩🏾‍🦼‍➡" type="tts">menyw mewn cadair olwyn fodur: arlliw croen canolig-tywyll, wynebu i’r dde</annotation>
+		<annotation cp="👩🏿‍🦼‍➡">arlliw croen tywyll | cadair olwyn | dde | hygyrchedd | i’r | menyw | menyw mewn cadair olwyn fodur | wynebu</annotation>
+		<annotation cp="👩🏿‍🦼‍➡" type="tts">menyw mewn cadair olwyn fodur: arlliw croen tywyll, wynebu i’r dde</annotation>
 		<annotation cp="🧑🏻‍🦽">arlliw croen golau | cadair olwyn | hygyrchedd | person mewn cadair olwyn â llaw</annotation>
 		<annotation cp="🧑🏻‍🦽" type="tts">person mewn cadair olwyn â llaw: arlliw croen golau</annotation>
 		<annotation cp="🧑🏼‍🦽">arlliw croen canolig-golau | cadair olwyn | hygyrchedd | person mewn cadair olwyn â llaw</annotation>
@@ -2646,6 +2961,18 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🧑🏾‍🦽" type="tts">person mewn cadair olwyn â llaw: arlliw croen canolig-tywyll</annotation>
 		<annotation cp="🧑🏿‍🦽">arlliw croen tywyll | cadair olwyn | hygyrchedd | person mewn cadair olwyn â llaw</annotation>
 		<annotation cp="🧑🏿‍🦽" type="tts">person mewn cadair olwyn â llaw: arlliw croen tywyll</annotation>
+		<annotation cp="🧑‍🦽‍➡">cadair olwyn | dde | hygyrchedd | i’r | person mewn cadair olwyn â llaw | wynebu</annotation>
+		<annotation cp="🧑‍🦽‍➡" type="tts">person mewn cadair olwyn â llaw: wynebu i’r dde</annotation>
+		<annotation cp="🧑🏻‍🦽‍➡">arlliw croen golau | cadair olwyn | dde | hygyrchedd | i’r | person mewn cadair olwyn â llaw | wynebu</annotation>
+		<annotation cp="🧑🏻‍🦽‍➡" type="tts">person mewn cadair olwyn â llaw: arlliw croen golau, wynebu i’r dde</annotation>
+		<annotation cp="🧑🏼‍🦽‍➡">arlliw croen canolig-golau | cadair olwyn | dde | hygyrchedd | i’r | person mewn cadair olwyn â llaw | wynebu</annotation>
+		<annotation cp="🧑🏼‍🦽‍➡" type="tts">person mewn cadair olwyn â llaw: arlliw croen canolig-golau, wynebu i’r dde</annotation>
+		<annotation cp="🧑🏽‍🦽‍➡">arlliw croen canolog | cadair olwyn | dde | hygyrchedd | i’r | person mewn cadair olwyn â llaw | wynebu</annotation>
+		<annotation cp="🧑🏽‍🦽‍➡" type="tts">person mewn cadair olwyn â llaw: arlliw croen canolog, wynebu i’r dde</annotation>
+		<annotation cp="🧑🏾‍🦽‍➡">arlliw croen canolig-tywyll | cadair olwyn | dde | hygyrchedd | i’r | person mewn cadair olwyn â llaw | wynebu</annotation>
+		<annotation cp="🧑🏾‍🦽‍➡" type="tts">person mewn cadair olwyn â llaw: arlliw croen canolig-tywyll, wynebu i’r dde</annotation>
+		<annotation cp="🧑🏿‍🦽‍➡">arlliw croen tywyll | cadair olwyn | dde | hygyrchedd | i’r | person mewn cadair olwyn â llaw | wynebu</annotation>
+		<annotation cp="🧑🏿‍🦽‍➡" type="tts">person mewn cadair olwyn â llaw: arlliw croen tywyll, wynebu i’r dde</annotation>
 		<annotation cp="👨🏻‍🦽">arlliw croen golau | cadair olwyn | dyn | dyn mewn cadair olwyn | hygyrchedd</annotation>
 		<annotation cp="👨🏻‍🦽" type="tts">dyn mewn cadair olwyn: arlliw croen golau</annotation>
 		<annotation cp="👨🏼‍🦽">arlliw croen canolig-golau | cadair olwyn | dyn | dyn mewn cadair olwyn | hygyrchedd</annotation>
@@ -2656,6 +2983,18 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👨🏾‍🦽" type="tts">dyn mewn cadair olwyn: arlliw croen canolig-tywyll</annotation>
 		<annotation cp="👨🏿‍🦽">arlliw croen tywyll | cadair olwyn | dyn | dyn mewn cadair olwyn | hygyrchedd</annotation>
 		<annotation cp="👨🏿‍🦽" type="tts">dyn mewn cadair olwyn: arlliw croen tywyll</annotation>
+		<annotation cp="👨‍🦽‍➡">cadair olwyn | dde | dyn | dyn mewn cadair olwyn | hygyrchedd | i’r | wynebu</annotation>
+		<annotation cp="👨‍🦽‍➡" type="tts">dyn mewn cadair olwyn: wynebu i’r dde</annotation>
+		<annotation cp="👨🏻‍🦽‍➡">arlliw croen golau | cadair olwyn | dde | dyn | dyn mewn cadair olwyn | hygyrchedd | i’r | wynebu</annotation>
+		<annotation cp="👨🏻‍🦽‍➡" type="tts">dyn mewn cadair olwyn: arlliw croen golau, wynebu i’r dde</annotation>
+		<annotation cp="👨🏼‍🦽‍➡">arlliw croen canolig-golau | cadair olwyn | dde | dyn | dyn mewn cadair olwyn | hygyrchedd | i’r | wynebu</annotation>
+		<annotation cp="👨🏼‍🦽‍➡" type="tts">dyn mewn cadair olwyn: arlliw croen canolig-golau, wynebu i’r dde</annotation>
+		<annotation cp="👨🏽‍🦽‍➡">arlliw croen canolog | cadair olwyn | dde | dyn | dyn mewn cadair olwyn | hygyrchedd | i’r | wynebu</annotation>
+		<annotation cp="👨🏽‍🦽‍➡" type="tts">dyn mewn cadair olwyn: arlliw croen canolog, wynebu i’r dde</annotation>
+		<annotation cp="👨🏾‍🦽‍➡">arlliw croen canolig-tywyll | cadair olwyn | dde | dyn | dyn mewn cadair olwyn | hygyrchedd | i’r | wynebu</annotation>
+		<annotation cp="👨🏾‍🦽‍➡" type="tts">dyn mewn cadair olwyn: arlliw croen canolig-tywyll, wynebu i’r dde</annotation>
+		<annotation cp="👨🏿‍🦽‍➡">arlliw croen tywyll | cadair olwyn | dde | dyn | dyn mewn cadair olwyn | hygyrchedd | i’r | wynebu</annotation>
+		<annotation cp="👨🏿‍🦽‍➡" type="tts">dyn mewn cadair olwyn: arlliw croen tywyll, wynebu i’r dde</annotation>
 		<annotation cp="👩🏻‍🦽">arlliw croen golau | cadair olwyn | hygyrchedd | menyw | menyw mewn cadair olwyn</annotation>
 		<annotation cp="👩🏻‍🦽" type="tts">menyw mewn cadair olwyn: arlliw croen golau</annotation>
 		<annotation cp="👩🏼‍🦽">arlliw croen canolig-golau | cadair olwyn | hygyrchedd | menyw | menyw mewn cadair olwyn</annotation>
@@ -2666,6 +3005,18 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👩🏾‍🦽" type="tts">menyw mewn cadair olwyn: arlliw croen canolig-tywyll</annotation>
 		<annotation cp="👩🏿‍🦽">arlliw croen tywyll | cadair olwyn | hygyrchedd | menyw | menyw mewn cadair olwyn</annotation>
 		<annotation cp="👩🏿‍🦽" type="tts">menyw mewn cadair olwyn: arlliw croen tywyll</annotation>
+		<annotation cp="👩‍🦽‍➡">cadair olwyn | dde | hygyrchedd | i’r | menyw | menyw mewn cadair olwyn | wynebu</annotation>
+		<annotation cp="👩‍🦽‍➡" type="tts">menyw mewn cadair olwyn: wynebu i’r dde</annotation>
+		<annotation cp="👩🏻‍🦽‍➡">arlliw croen golau | cadair olwyn | dde | hygyrchedd | i’r | menyw | menyw mewn cadair olwyn | wynebu</annotation>
+		<annotation cp="👩🏻‍🦽‍➡" type="tts">menyw mewn cadair olwyn: arlliw croen golau, wynebu i’r dde</annotation>
+		<annotation cp="👩🏼‍🦽‍➡">arlliw croen canolig-golau | cadair olwyn | dde | hygyrchedd | i’r | menyw | menyw mewn cadair olwyn | wynebu</annotation>
+		<annotation cp="👩🏼‍🦽‍➡" type="tts">menyw mewn cadair olwyn: arlliw croen canolig-golau, wynebu i’r dde</annotation>
+		<annotation cp="👩🏽‍🦽‍➡">arlliw croen canolog | cadair olwyn | dde | hygyrchedd | i’r | menyw | menyw mewn cadair olwyn | wynebu</annotation>
+		<annotation cp="👩🏽‍🦽‍➡" type="tts">menyw mewn cadair olwyn: arlliw croen canolog, wynebu i’r dde</annotation>
+		<annotation cp="👩🏾‍🦽‍➡">arlliw croen canolig-tywyll | cadair olwyn | dde | hygyrchedd | i’r | menyw | menyw mewn cadair olwyn | wynebu</annotation>
+		<annotation cp="👩🏾‍🦽‍➡" type="tts">menyw mewn cadair olwyn: arlliw croen canolig-tywyll, wynebu i’r dde</annotation>
+		<annotation cp="👩🏿‍🦽‍➡">arlliw croen tywyll | cadair olwyn | dde | hygyrchedd | i’r | menyw | menyw mewn cadair olwyn | wynebu</annotation>
+		<annotation cp="👩🏿‍🦽‍➡" type="tts">menyw mewn cadair olwyn: arlliw croen tywyll, wynebu i’r dde</annotation>
 		<annotation cp="🏃🏻">arlliw croen golau | marathon | person yn rhedeg | rhedeg</annotation>
 		<annotation cp="🏃🏻" type="tts">person yn rhedeg: arlliw croen golau</annotation>
 		<annotation cp="🏃🏼">arlliw croen canolig-golau | marathon | person yn rhedeg | rhedeg</annotation>
@@ -2696,6 +3047,42 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🏃🏾‍♀" type="tts">menyw yn rhedeg: arlliw croen canolig-tywyll</annotation>
 		<annotation cp="🏃🏿‍♀">arlliw croen tywyll | marathon | menyw | menyw yn rhedeg | ras | rhedeg</annotation>
 		<annotation cp="🏃🏿‍♀" type="tts">menyw yn rhedeg: arlliw croen tywyll</annotation>
+		<annotation cp="🏃‍➡">dde | i’r | marathon | person yn rhedeg | rhedeg | wynebu</annotation>
+		<annotation cp="🏃‍➡" type="tts">person yn rhedeg: wynebu i’r dde</annotation>
+		<annotation cp="🏃🏻‍➡">arlliw croen golau | dde | i’r | marathon | person yn rhedeg | rhedeg | wynebu</annotation>
+		<annotation cp="🏃🏻‍➡" type="tts">person yn rhedeg: arlliw croen golau, wynebu i’r dde</annotation>
+		<annotation cp="🏃🏼‍➡">arlliw croen canolig-golau | dde | i’r | marathon | person yn rhedeg | rhedeg | wynebu</annotation>
+		<annotation cp="🏃🏼‍➡" type="tts">person yn rhedeg: arlliw croen canolig-golau, wynebu i’r dde</annotation>
+		<annotation cp="🏃🏽‍➡">arlliw croen canolog | dde | i’r | marathon | person yn rhedeg | rhedeg | wynebu</annotation>
+		<annotation cp="🏃🏽‍➡" type="tts">person yn rhedeg: arlliw croen canolog, wynebu i’r dde</annotation>
+		<annotation cp="🏃🏾‍➡">arlliw croen canolig-tywyll | dde | i’r | marathon | person yn rhedeg | rhedeg | wynebu</annotation>
+		<annotation cp="🏃🏾‍➡" type="tts">person yn rhedeg: arlliw croen canolig-tywyll, wynebu i’r dde</annotation>
+		<annotation cp="🏃🏿‍➡">arlliw croen tywyll | dde | i’r | marathon | person yn rhedeg | rhedeg | wynebu</annotation>
+		<annotation cp="🏃🏿‍➡" type="tts">person yn rhedeg: arlliw croen tywyll, wynebu i’r dde</annotation>
+		<annotation cp="🏃‍♀‍➡">dde | i’r | marathon | menyw | menyw yn rhedeg | ras | rhedeg | wynebu</annotation>
+		<annotation cp="🏃‍♀‍➡" type="tts">menyw yn rhedeg: wynebu i’r dde</annotation>
+		<annotation cp="🏃🏻‍♀‍➡">arlliw croen golau | dde | i’r | marathon | menyw | menyw yn rhedeg | ras | rhedeg | wynebu</annotation>
+		<annotation cp="🏃🏻‍♀‍➡" type="tts">menyw yn rhedeg: arlliw croen golau, wynebu i’r dde</annotation>
+		<annotation cp="🏃🏼‍♀‍➡">arlliw croen canolig-golau | dde | i’r | marathon | menyw | menyw yn rhedeg | ras | rhedeg | wynebu</annotation>
+		<annotation cp="🏃🏼‍♀‍➡" type="tts">menyw yn rhedeg: arlliw croen canolig-golau, wynebu i’r dde</annotation>
+		<annotation cp="🏃🏽‍♀‍➡">arlliw croen canolog | dde | i’r | marathon | menyw | menyw yn rhedeg | ras | rhedeg | wynebu</annotation>
+		<annotation cp="🏃🏽‍♀‍➡" type="tts">menyw yn rhedeg: arlliw croen canolog, wynebu i’r dde</annotation>
+		<annotation cp="🏃🏾‍♀‍➡">arlliw croen canolig-tywyll | dde | i’r | marathon | menyw | menyw yn rhedeg | ras | rhedeg | wynebu</annotation>
+		<annotation cp="🏃🏾‍♀‍➡" type="tts">menyw yn rhedeg: arlliw croen canolig-tywyll, wynebu i’r dde</annotation>
+		<annotation cp="🏃🏿‍♀‍➡">arlliw croen tywyll | dde | i’r | marathon | menyw | menyw yn rhedeg | ras | rhedeg | wynebu</annotation>
+		<annotation cp="🏃🏿‍♀‍➡" type="tts">menyw yn rhedeg: arlliw croen tywyll, wynebu i’r dde</annotation>
+		<annotation cp="🏃‍♂‍➡">dde | dyn | dyn yn rhedeg | i’r | marathon | ras | rhedeg | wynebu</annotation>
+		<annotation cp="🏃‍♂‍➡" type="tts">dyn yn rhedeg: wynebu i’r dde</annotation>
+		<annotation cp="🏃🏻‍♂‍➡">arlliw croen golau | dde | dyn | dyn yn rhedeg | i’r | marathon | ras | rhedeg | wynebu</annotation>
+		<annotation cp="🏃🏻‍♂‍➡" type="tts">dyn yn rhedeg: arlliw croen golau, wynebu i’r dde</annotation>
+		<annotation cp="🏃🏼‍♂‍➡">arlliw croen canolig-golau | dde | dyn | dyn yn rhedeg | i’r | marathon | ras | rhedeg | wynebu</annotation>
+		<annotation cp="🏃🏼‍♂‍➡" type="tts">dyn yn rhedeg: arlliw croen canolig-golau, wynebu i’r dde</annotation>
+		<annotation cp="🏃🏽‍♂‍➡">arlliw croen canolog | dde | dyn | dyn yn rhedeg | i’r | marathon | ras | rhedeg | wynebu</annotation>
+		<annotation cp="🏃🏽‍♂‍➡" type="tts">dyn yn rhedeg: arlliw croen canolog, wynebu i’r dde</annotation>
+		<annotation cp="🏃🏾‍♂‍➡">arlliw croen canolig-tywyll | dde | dyn | dyn yn rhedeg | i’r | marathon | ras | rhedeg | wynebu</annotation>
+		<annotation cp="🏃🏾‍♂‍➡" type="tts">dyn yn rhedeg: arlliw croen canolig-tywyll, wynebu i’r dde</annotation>
+		<annotation cp="🏃🏿‍♂‍➡">arlliw croen tywyll | dde | dyn | dyn yn rhedeg | i’r | marathon | ras | rhedeg | wynebu</annotation>
+		<annotation cp="🏃🏿‍♂‍➡" type="tts">dyn yn rhedeg: arlliw croen tywyll, wynebu i’r dde</annotation>
 		<annotation cp="💃🏻">arlliw croen golau | dawnsio | menyw | menyw yn dawnsio</annotation>
 		<annotation cp="💃🏻" type="tts">menyw yn dawnsio: arlliw croen golau</annotation>
 		<annotation cp="💃🏼">arlliw croen canolig-golau | dawnsio | menyw | menyw yn dawnsio</annotation>
@@ -3983,7 +4370,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🇺🇲">baner</annotation>
 		<annotation cp="🇺🇲" type="tts">baner: Ynysoedd Pellennig UDA</annotation>
 		<annotation cp="🇺🇳">baner</annotation>
-		<annotation cp="🇺🇳" type="tts">baner: y Cenhedloedd Unedig</annotation>
+		<annotation cp="🇺🇳" type="tts">baner: Y Cenhedloedd Unedig</annotation>
 		<annotation cp="🇺🇸">baner</annotation>
 		<annotation cp="🇺🇸" type="tts">baner: Yr Unol Daleithiau</annotation>
 		<annotation cp="🇺🇾">baner</annotation>

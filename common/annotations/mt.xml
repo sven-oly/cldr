@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE ldml SYSTEM "../../common/dtd/ldml.dtd">
-<!-- Copyright © 1991-2020 Unicode, Inc.
+<!-- Copyright © 1991-2024 Unicode, Inc.
 For terms of use, see http://www.unicode.org/copyright.html
-Unicode and the Unicode Logo are registered trademarks of Unicode, Inc. in the U.S. and other countries.
+SPDX-License-Identifier: Unicode-3.0
 CLDR data files are interpreted according to the LDML specification (http://unicode.org/reports/tr35/)
-
-Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/ for derived annotations.
 -->
 <ldml>
 	<identity>
@@ -237,8 +235,6 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🙉" type="tts">xadina li ma tisma’ ebda ħażen</annotation>
 		<annotation cp="🙊">ġesti | ħażen | ma | mhux | pprojbit | pprojbiti | tkellem | wiċċ | xadina | xadina li ma titkellem ebda ħażen</annotation>
 		<annotation cp="🙊" type="tts">xadina li ma titkellem ebda ħażen</annotation>
-		<annotation cp="💋">bews | marka ta’ bewsa | xofftejn</annotation>
-		<annotation cp="💋" type="tts">marka ta’ bewsa</annotation>
 		<annotation cp="💌">imħabba | ittra | ittra ta’ mħabba | posta | qalb</annotation>
 		<annotation cp="💌" type="tts">ittra ta’ mħabba</annotation>
 		<annotation cp="💘">kupidu | qalb bi vleġġa | vleġġa</annotation>
@@ -275,6 +271,8 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="💜" type="tts">qalb vjola</annotation>
 		<annotation cp="🖤">ħażen | ħażin | iswed | qalb sewda</annotation>
 		<annotation cp="🖤" type="tts">qalb sewda</annotation>
+		<annotation cp="💋">bews | marka ta’ bewsa | xofftejn</annotation>
+		<annotation cp="💋" type="tts">marka ta’ bewsa</annotation>
 		<annotation cp="💯">100 | mija | mitt punt | punteġġ | sħiħ</annotation>
 		<annotation cp="💯" type="tts">mitt punt</annotation>
 		<annotation cp="💢">irrabjat | irrabjat ħafna | komiku | simbolu ta’ rabja</annotation>
@@ -289,8 +287,6 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="💨" type="tts">jaħrab ’l hemm</annotation>
 		<annotation cp="🕳">toqba</annotation>
 		<annotation cp="🕳" type="tts">toqba</annotation>
-		<annotation cp="💣">bomba | komiku</annotation>
-		<annotation cp="💣" type="tts">bomba</annotation>
 		<annotation cp="💬">buzzieqa | bużżieqa | bużżieqa tad-diskors | djalogu | komik | taħdit</annotation>
 		<annotation cp="💬" type="tts">bużżieqa tad-diskors</annotation>
 		<annotation cp="👁‍🗨">bużżieqa tad-diskors | għajn | għajnejn f’bużżieqa tad-diskors | xhud</annotation>
@@ -577,7 +573,7 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🤱" type="tts">irdigħ</annotation>
 		<annotation cp="👼">anġlu | fantasija | ħrafa | tarbija | wiċċ</annotation>
 		<annotation cp="👼" type="tts">anġlu tarbija</annotation>
-		<annotation cp="🎅">ċelebarazzjoni | klaws | Milied | missier | santa | Santa Klaws</annotation>
+		<annotation cp="🎅">ċelebarazzjoni | klaws | Milied | missier | santa</annotation>
 		<annotation cp="🎅" type="tts">Santa Klaws</annotation>
 		<annotation cp="🤶">ċelebarazzjoni | il-Milied | Is-Sinjura | Klaws | omm</annotation>
 		<annotation cp="🤶" type="tts">Is-Sinjura Klaws</annotation>
@@ -777,14 +773,14 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="💏" type="tts">bewsa</annotation>
 		<annotation cp="💑">imħabba | koppja | koppja b’qalb</annotation>
 		<annotation cp="💑" type="tts">koppja b’qalb</annotation>
-		<annotation cp="👪">familja</annotation>
-		<annotation cp="👪" type="tts">familja</annotation>
 		<annotation cp="🗣">jitkellmu | ras | silwett | titkellem | wiċċ</annotation>
 		<annotation cp="🗣" type="tts">titkellem ras</annotation>
 		<annotation cp="👤">bust | bust f’silwett | silwett</annotation>
 		<annotation cp="👤" type="tts">bust f’silwett</annotation>
 		<annotation cp="👥">bust | busti f’silwett | silwett</annotation>
 		<annotation cp="👥" type="tts">busti f’silwett</annotation>
+		<annotation cp="👪">familja</annotation>
+		<annotation cp="👪" type="tts">familja</annotation>
 		<annotation cp="👣">ħwejjeġ | impronta | ipprintja | marki tas-saqajn</annotation>
 		<annotation cp="👣" type="tts">marki tas-saqajn</annotation>
 		<annotation cp="🐵">wiċċ | wiċċ ta’ xadina | xadina</annotation>
@@ -943,6 +939,12 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🐙" type="tts">qarnita</annotation>
 		<annotation cp="🐚">qoxra | spirali</annotation>
 		<annotation cp="🐚" type="tts">qoxra spirali</annotation>
+		<annotation cp="🦀">Cancer | granċ | żodjaku</annotation>
+		<annotation cp="🦀" type="tts">granċ</annotation>
+		<annotation cp="🦐">frott tal-baħar | gamblu | ikel | żgħir</annotation>
+		<annotation cp="🦐" type="tts">gamblu</annotation>
+		<annotation cp="🦑">ikel | klamari | mollusk</annotation>
+		<annotation cp="🦑" type="tts">klamari</annotation>
 		<annotation cp="🐌">bebbuxu</annotation>
 		<annotation cp="🐌" type="tts">bebbuxu</annotation>
 		<annotation cp="🦋">farfett | insett | sabiħ</annotation>
@@ -1007,6 +1009,8 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🍂" type="tts">werqa mwaqqa’</annotation>
 		<annotation cp="🍃">onfoħ | riħ | tixxejjer | werqa | werqa tixxejjer fir-riħ</annotation>
 		<annotation cp="🍃" type="tts">werqa tixxejjer fir-riħ</annotation>
+		<annotation cp="🍄">faqqiegħa | fungu velenuż</annotation>
+		<annotation cp="🍄" type="tts">faqqiegħa</annotation>
 		<annotation cp="🍇">frott | għenba | għeneb</annotation>
 		<annotation cp="🍇" type="tts">għeneb</annotation>
 		<annotation cp="🍈">bettieħa | frott</annotation>
@@ -1055,8 +1059,6 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🥒" type="tts">ħjara</annotation>
 		<annotation cp="🥦">brokkoli | kaboċċa selvaġġa</annotation>
 		<annotation cp="🥦" type="tts">brokkoli</annotation>
-		<annotation cp="🍄">faqqiegħa | fungu velenuż</annotation>
-		<annotation cp="🍄" type="tts">faqqiegħa</annotation>
 		<annotation cp="🥜">ħaxix | ikel | karawett | lewż</annotation>
 		<annotation cp="🥜" type="tts">karawett</annotation>
 		<annotation cp="🌰">pjanta | qastan</annotation>
@@ -1145,12 +1147,6 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🥠" type="tts">fortune cookie</annotation>
 		<annotation cp="🥡">kaxxa tat-takeout | oyster pail</annotation>
 		<annotation cp="🥡" type="tts">kaxxa tat-takeout</annotation>
-		<annotation cp="🦀">Cancer | granċ | żodjaku</annotation>
-		<annotation cp="🦀" type="tts">granċ</annotation>
-		<annotation cp="🦐">frott tal-baħar | gamblu | ikel | żgħir</annotation>
-		<annotation cp="🦐" type="tts">gamblu</annotation>
-		<annotation cp="🦑">ikel | klamari | mollusk</annotation>
-		<annotation cp="🦑" type="tts">klamari</annotation>
 		<annotation cp="🍦">artab | deżerta | ġelat | ħelu | krema | silġ</annotation>
 		<annotation cp="🍦" type="tts">ġelat artab</annotation>
 		<annotation cp="🍧">deżerta | ħelu | imqaxxar | silġ</annotation>
@@ -1675,7 +1671,7 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🏀" type="tts">basketball</annotation>
 		<annotation cp="🏐">ballun | logħba | volleyball</annotation>
 		<annotation cp="🏐" type="tts">volleyball</annotation>
-		<annotation cp="🏈">amerikan | ballun | futbol | futbol Amerikan</annotation>
+		<annotation cp="🏈">amerikan | ballun | futbol</annotation>
 		<annotation cp="🏈" type="tts">futbol Amerikan</annotation>
 		<annotation cp="🏉">ballun | futbol | futbol tar-rugby | rugby</annotation>
 		<annotation cp="🏉" type="tts">futbol tar-rugby</annotation>
@@ -1715,6 +1711,8 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🥌" type="tts">ġebla tal-curling</annotation>
 		<annotation cp="🎯">-mira | bull | bullseye | għajn | logħba | tir | tir dirett | vleġġa</annotation>
 		<annotation cp="🎯" type="tts">tir dirett</annotation>
+		<annotation cp="🔫">arma | għodda | pistola | revolvers | xkubetta</annotation>
+		<annotation cp="🔫" type="tts">pistola</annotation>
 		<annotation cp="🎱">8 | ballun | ballun ta’ pool 8 | billiard | logħba | tmien</annotation>
 		<annotation cp="🎱" type="tts">ballun ta’ pool 8</annotation>
 		<annotation cp="🔮">ballun | boċċa tal-kristal | fantasija | fortuna | għodda | ħrafa | kristall</annotation>
@@ -1741,7 +1739,7 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🀄" type="tts">mahjong red dragon</annotation>
 		<annotation cp="🎴">fjuri | fjuri tal-karti tal-logħob | Ġappuniż | jilgħab | karta | logħba</annotation>
 		<annotation cp="🎴" type="tts">fjuri tal-karti tal-logħob</annotation>
-		<annotation cp="🎭">arti | arti, żfin u mużika | maskra | performattivi | teatru</annotation>
+		<annotation cp="🎭">arti | arti, żfin u mużika | maskra | performattivi | teatru | żfin u mużika</annotation>
 		<annotation cp="🎭" type="tts">arti, żfin u mużika</annotation>
 		<annotation cp="🖼">arti | frejm | mużew | pittura | stampa | stampa fi frejm</annotation>
 		<annotation cp="🖼" type="tts">stampa fi frejm</annotation>
@@ -2087,8 +2085,8 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🗡" type="tts">stallet</annotation>
 		<annotation cp="⚔">arma | inkroċjati | xwabel</annotation>
 		<annotation cp="⚔" type="tts">xwabel inkroċjati</annotation>
-		<annotation cp="🔫">arma | għodda | pistola | revolvers | xkubetta</annotation>
-		<annotation cp="🔫" type="tts">pistola</annotation>
+		<annotation cp="💣">bomba | komiku</annotation>
+		<annotation cp="💣" type="tts">bomba</annotation>
 		<annotation cp="🏹">arċier | arma | għodda | qaws | qaws u vleġġa | Sagittarius | sparar bil-qaws | vleġġa | zodjaku</annotation>
 		<annotation cp="🏹" type="tts">qaws u vleġġa</annotation>
 		<annotation cp="🛡">arma | tarka</annotation>
@@ -2431,7 +2429,7 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="ℹ" type="tts">informazzjoni</annotation>
 		<annotation cp="🆔">buttuna ID | id | identità</annotation>
 		<annotation cp="🆔" type="tts">buttuna ID</annotation>
-		<annotation cp="Ⓜ">ċirku | ċirku M | m</annotation>
+		<annotation cp="Ⓜ">ċirku | m</annotation>
 		<annotation cp="Ⓜ" type="tts">ċirku M</annotation>
 		<annotation cp="🆕">buttuna NEW | new</annotation>
 		<annotation cp="🆕" type="tts">buttuna NEW</annotation>

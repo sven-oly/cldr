@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE ldml SYSTEM "../../common/dtd/ldml.dtd">
-<!-- Copyright © 1991-2020 Unicode, Inc.
+<!-- Copyright © 1991-2024 Unicode, Inc.
 For terms of use, see http://www.unicode.org/copyright.html
-Unicode and the Unicode Logo are registered trademarks of Unicode, Inc. in the U.S. and other countries.
+SPDX-License-Identifier: Unicode-3.0
 CLDR data files are interpreted according to the LDML specification (http://unicode.org/reports/tr35/)
-
-Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/ for derived annotations.
 -->
 <ldml>
 	<identity>
@@ -245,8 +243,6 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🙉" type="tts">makimaki kore-rongo-kino</annotation>
 		<annotation cp="🙊">kanohi | kāo | kāore | kino | kōrero | makimaki | makimaki kore-kōrero-kino | tohu ā-ringa | whakakāhore | whakakore</annotation>
 		<annotation cp="🙊" type="tts">makimaki kore-kōrero-kino</annotation>
-		<annotation cp="💋">kihi | ngutu | tohu kihi</annotation>
-		<annotation cp="💋" type="tts">tohu kihi</annotation>
 		<annotation cp="💌">aroha | manawa | mēra | reta</annotation>
 		<annotation cp="💌" type="tts">reta aroha</annotation>
 		<annotation cp="💘">kupiti | manawa me te pere | pere</annotation>
@@ -283,6 +279,8 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="💜" type="tts">manawa poroporo</annotation>
 		<annotation cp="🖤">kino | manawa pango | nanakia | pango</annotation>
 		<annotation cp="🖤" type="tts">manawa pango</annotation>
+		<annotation cp="💋">kihi | ngutu | tohu kihi</annotation>
+		<annotation cp="💋" type="tts">tohu kihi</annotation>
 		<annotation cp="💯">100 | kī | kotahi rau | piro | rau piro</annotation>
 		<annotation cp="💯" type="tts">rau piro</annotation>
 		<annotation cp="💢">pōrangi | pukuriri | tohu riri | whakakata</annotation>
@@ -297,8 +295,6 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="💨" type="tts">rere atu ana</annotation>
 		<annotation cp="🕳">puare</annotation>
 		<annotation cp="🕳" type="tts">puare</annotation>
-		<annotation cp="💣">pōma | whakakata</annotation>
-		<annotation cp="💣" type="tts">pōma</annotation>
 		<annotation cp="💬">kōrero | mirumiru | pūangi | whakakata</annotation>
 		<annotation cp="💬" type="tts">pūangi kōrero</annotation>
 		<annotation cp="👁‍🗨">kaiwhakaatu | karu | karu rō mirumiru kōrero | mirumiru kōrero</annotation>
@@ -785,14 +781,14 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="💏" type="tts">kihi</annotation>
 		<annotation cp="💑">aroha | tokorua | tokorua me te manawa</annotation>
 		<annotation cp="💑" type="tts">tokorua me te manawa</annotation>
-		<annotation cp="👪">whānau</annotation>
-		<annotation cp="👪" type="tts">whānau</annotation>
 		<annotation cp="🗣">ataata | kanohi | kōrero | kōrero ana | upoko</annotation>
 		<annotation cp="🗣" type="tts">upoko kōrero</annotation>
 		<annotation cp="👤">ataata | poho | poho rō ataata</annotation>
 		<annotation cp="👤" type="tts">poho rō ataata</annotation>
 		<annotation cp="👥">ataata | ngā poho rō ataata | poho</annotation>
 		<annotation cp="👥" type="tts">ngā poho rō ataata</annotation>
+		<annotation cp="👪">whānau</annotation>
+		<annotation cp="👪" type="tts">whānau</annotation>
 		<annotation cp="👣">kākahu | ngā tapuwae | tā | tapuwae</annotation>
 		<annotation cp="👣" type="tts">ngā tapuwae</annotation>
 		<annotation cp="🐵">kanohi | makimaki</annotation>
@@ -951,6 +947,12 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🐙" type="tts">wheke</annotation>
 		<annotation cp="🐚">anga | tōrino</annotation>
 		<annotation cp="🐚" type="tts">anga tōrino</annotation>
+		<annotation cp="🦀">Cancer | pāpaka | poutiriao</annotation>
+		<annotation cp="🦀" type="tts">pāpaka</annotation>
+		<annotation cp="🦐">kai | kōuraura | mātaitai | ririki</annotation>
+		<annotation cp="🦐" type="tts">kōuraura</annotation>
+		<annotation cp="🦑">kai | kota | ngū</annotation>
+		<annotation cp="🦑" type="tts">ngū</annotation>
 		<annotation cp="🐌">hātaretare</annotation>
 		<annotation cp="🐌" type="tts">hātaretare</annotation>
 		<annotation cp="🦋">ātaahua | pēpeke | pūrerehua</annotation>
@@ -1015,6 +1017,8 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🍂" type="tts">rau makere</annotation>
 		<annotation cp="🍃">hau | kapakapa | puhi | rau</annotation>
 		<annotation cp="🍃" type="tts">rau kapakapa hau</annotation>
+		<annotation cp="🍄">harore | tūruporaka</annotation>
+		<annotation cp="🍄" type="tts">harore</annotation>
 		<annotation cp="🍇">hua | karepe | ngā karepe</annotation>
 		<annotation cp="🍇" type="tts">ngā karepe</annotation>
 		<annotation cp="🍈">hua | merengi</annotation>
@@ -1063,8 +1067,6 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🥒" type="tts">kūkama</annotation>
 		<annotation cp="🥦">kāpeti kōraha | porokori</annotation>
 		<annotation cp="🥦" type="tts">porokori</annotation>
-		<annotation cp="🍄">harore | tūruporaka</annotation>
-		<annotation cp="🍄" type="tts">harore</annotation>
 		<annotation cp="🥜">huawhenua | kai | nati | pīnati</annotation>
 		<annotation cp="🥜" type="tts">pīnati</annotation>
 		<annotation cp="🌰">hetenati | tipu</annotation>
@@ -1153,12 +1155,6 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🥠" type="tts">pihikete matapae</annotation>
 		<annotation cp="🥡">paepae tio | pouaka kaweatu</annotation>
 		<annotation cp="🥡" type="tts">pouaka kaweatu</annotation>
-		<annotation cp="🦀">Cancer | pāpaka | poutiriao</annotation>
-		<annotation cp="🦀" type="tts">pāpaka</annotation>
-		<annotation cp="🦐">kai | kōuraura | mātaitai | ririki</annotation>
-		<annotation cp="🦐" type="tts">kōuraura</annotation>
-		<annotation cp="🦑">kai | kota | ngū</annotation>
-		<annotation cp="🦑" type="tts">ngū</annotation>
 		<annotation cp="🍦">aihikirīmi | huka | kirīmi | ngohengohe | puruni | reka</annotation>
 		<annotation cp="🍦" type="tts">aihikirīmi ngohengohe</annotation>
 		<annotation cp="🍧">heua | huka | huka heuheu | puruni | reka</annotation>
@@ -1723,6 +1719,8 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🥌" type="tts">pōhatu whakakōrino</annotation>
 		<annotation cp="🎯">karu | kēmu | pā | pā hāngai | pere | pironga | pūru</annotation>
 		<annotation cp="🎯" type="tts">pā hāngai</annotation>
+		<annotation cp="🔫">pū | pū ā-ringa | pū hurihuri | rākau-riri | utauta</annotation>
+		<annotation cp="🔫" type="tts">pū</annotation>
 		<annotation cp="🎱">8 | kēmu | piriota | pōro | waru</annotation>
 		<annotation cp="🎱" type="tts">piriota 8 pōro</annotation>
 		<annotation cp="🔮">atamaha | matakite | moemoeā | pakiwaitara | pōro | utauta</annotation>
@@ -1971,7 +1969,7 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🏷" type="tts">tapanga</annotation>
 		<annotation cp="💰">moni | pēke | tāra</annotation>
 		<annotation cp="💰" type="tts">pēke moni</annotation>
-		<annotation cp="💴">momo moni | moni | monipepa | monipepa Yen | pēke | pepa | pire | yen</annotation>
+		<annotation cp="💴">momo moni | moni | monipepa | pēke | pepa | pire | yen</annotation>
 		<annotation cp="💴" type="tts">monipepa Yen</annotation>
 		<annotation cp="💵">momo moni | moni | monipepa | pēke | pepa | pire | tāra</annotation>
 		<annotation cp="💵" type="tts">monipepa tāra</annotation>
@@ -2095,8 +2093,8 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🗡" type="tts">oka</annotation>
 		<annotation cp="⚔">hoari | rākau-riri | whakawhiri</annotation>
 		<annotation cp="⚔" type="tts">hoari whakawhiri</annotation>
-		<annotation cp="🔫">pū | pū ā-ringa | pū hurihuri | rākau-riri | utauta</annotation>
-		<annotation cp="🔫" type="tts">pū</annotation>
+		<annotation cp="💣">pōma | whakakata</annotation>
+		<annotation cp="💣" type="tts">pōma</annotation>
 		<annotation cp="🏹">kaikōpere | kōpere | kōpere me ngā pere | kōperetanga | pere | poutiriao | rākau-riri | Sagittarius | utauta</annotation>
 		<annotation cp="🏹" type="tts">kōpere me ngā pere</annotation>
 		<annotation cp="🛡">pākai | rākau-riri</annotation>
@@ -2233,15 +2231,15 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🔃" type="tts">pere poutū whakatekaraka</annotation>
 		<annotation cp="🔄">kōaro | pātene pere kōaro | pere</annotation>
 		<annotation cp="🔄" type="tts">pātene pere kōaro</annotation>
-		<annotation cp="🔙">hoki | pere | pere HOKI</annotation>
+		<annotation cp="🔙">hoki | pere</annotation>
 		<annotation cp="🔙" type="tts">pere HOKI</annotation>
-		<annotation cp="🔚">mutunga | pere | pere MUTUNGA</annotation>
+		<annotation cp="🔚">mutunga | pere</annotation>
 		<annotation cp="🔚" type="tts">pere MUTUNGA</annotation>
 		<annotation cp="🔛">kā | pere | pere KĀ! | tohu</annotation>
 		<annotation cp="🔛" type="tts">pere KĀ!</annotation>
-		<annotation cp="🔜">ākuanei | pere | pere ĀKUANEI</annotation>
+		<annotation cp="🔜">ākuanei | pere</annotation>
 		<annotation cp="🔜" type="tts">pere ĀKUANEI</annotation>
-		<annotation cp="🔝">ake | pere | pere RUNGA | runga</annotation>
+		<annotation cp="🔝">ake | pere | runga</annotation>
 		<annotation cp="🔝" type="tts">pere RUNGA</annotation>
 		<annotation cp="🛐">karakia | momo karakia | wāhi karakia</annotation>
 		<annotation cp="🛐" type="tts">wāhi karakia</annotation>
@@ -2305,7 +2303,7 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="⏩" type="tts">pātene tere whakamua</annotation>
 		<annotation cp="⏭">pātene riu panuku | pere | riu panuku | tapatoru | tironga panuku</annotation>
 		<annotation cp="⏭" type="tts">pātene riu panuku</annotation>
-		<annotation cp="⏯">matau | pātene purei, taihoa rānei | pere | purei | taihoa | tapatoru</annotation>
+		<annotation cp="⏯">matau | pātene purei | pātene purei, taihoa rānei | pere | purei | taihoa | taihoa rānei | tapatoru</annotation>
 		<annotation cp="⏯" type="tts">pātene purei, taihoa rānei</annotation>
 		<annotation cp="◀">mauī | pātene whakamuri | pere | tapatoru | whakamuri</annotation>
 		<annotation cp="◀" type="tts">pātene whakamuri</annotation>

@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE ldml SYSTEM "../../common/dtd/ldml.dtd">
-<!-- Copyright © 1991-2020 Unicode, Inc.
+<!-- Copyright © 1991-2024 Unicode, Inc.
 For terms of use, see http://www.unicode.org/copyright.html
-Unicode and the Unicode Logo are registered trademarks of Unicode, Inc. in the U.S. and other countries.
+SPDX-License-Identifier: Unicode-3.0
 CLDR data files are interpreted according to the LDML specification (http://unicode.org/reports/tr35/)
+
+Derived short names and annotations, using GenerateDerivedAnnotations.java. See warnings in /annotations/ file.
 -->
-<!-- Derived short names and annotations, using GenerateDerivedAnnotations.java. See warnings in /annotations/ file. -->
 <ldml>
 	<identity>
 		<version number="$Revision$"/>
@@ -62,6 +63,106 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🖖🏾" type="tts">वुलकन सॅल्युट: मध्यम-गाढ कातीचो रंग</annotation>
 		<annotation cp="🖖🏿">गाढ कातीचो रंग | बोट | वुलकन | वुलकन सॅल्युट | स्पॉक | हात</annotation>
 		<annotation cp="🖖🏿" type="tts">वुलकन सॅल्युट: गाढ कातीचो रंग</annotation>
+		<annotation cp="🫱🏻">उजळ कातीचो रंग | उजवीकडेन | उजवीकडेन दाखोवपी हात | उजवो | हात</annotation>
+		<annotation cp="🫱🏻" type="tts">उजवीकडेन दाखोवपी हात: उजळ कातीचो रंग</annotation>
+		<annotation cp="🫱🏼">उजवीकडेन | उजवीकडेन दाखोवपी हात | उजवो | मध्यम-उजळ कातीचो रंग | हात</annotation>
+		<annotation cp="🫱🏼" type="tts">उजवीकडेन दाखोवपी हात: मध्यम-उजळ कातीचो रंग</annotation>
+		<annotation cp="🫱🏽">उजवीकडेन | उजवीकडेन दाखोवपी हात | उजवो | मध्यम कातीचो रंग | हात</annotation>
+		<annotation cp="🫱🏽" type="tts">उजवीकडेन दाखोवपी हात: मध्यम कातीचो रंग</annotation>
+		<annotation cp="🫱🏾">उजवीकडेन | उजवीकडेन दाखोवपी हात | उजवो | मध्यम-गाढ कातीचो रंग | हात</annotation>
+		<annotation cp="🫱🏾" type="tts">उजवीकडेन दाखोवपी हात: मध्यम-गाढ कातीचो रंग</annotation>
+		<annotation cp="🫱🏿">उजवीकडेन | उजवीकडेन दाखोवपी हात | उजवो | गाढ कातीचो रंग | हात</annotation>
+		<annotation cp="🫱🏿" type="tts">उजवीकडेन दाखोवपी हात: गाढ कातीचो रंग</annotation>
+		<annotation cp="🫱🏻‍🫲🏼">उजळ कातीचो रंग | करार | बसकां | मध्यम-उजळ कातीचो रंग | शेक | शेकहँड | हात</annotation>
+		<annotation cp="🫱🏻‍🫲🏼" type="tts">शेकहँड: उजळ कातीचो रंग, मध्यम-उजळ कातीचो रंग</annotation>
+		<annotation cp="🫱🏻‍🫲🏽">उजळ कातीचो रंग | करार | बसकां | मध्यम कातीचो रंग | शेक | शेकहँड | हात</annotation>
+		<annotation cp="🫱🏻‍🫲🏽" type="tts">शेकहँड: उजळ कातीचो रंग, मध्यम कातीचो रंग</annotation>
+		<annotation cp="🫱🏻‍🫲🏾">उजळ कातीचो रंग | करार | बसकां | मध्यम-गाढ कातीचो रंग | शेक | शेकहँड | हात</annotation>
+		<annotation cp="🫱🏻‍🫲🏾" type="tts">शेकहँड: उजळ कातीचो रंग, मध्यम-गाढ कातीचो रंग</annotation>
+		<annotation cp="🫱🏻‍🫲🏿">उजळ कातीचो रंग | करार | गाढ कातीचो रंग | बसकां | शेक | शेकहँड | हात</annotation>
+		<annotation cp="🫱🏻‍🫲🏿" type="tts">शेकहँड: उजळ कातीचो रंग, गाढ कातीचो रंग</annotation>
+		<annotation cp="🫱🏼‍🫲🏻">उजळ कातीचो रंग | करार | बसकां | मध्यम-उजळ कातीचो रंग | शेक | शेकहँड | हात</annotation>
+		<annotation cp="🫱🏼‍🫲🏻" type="tts">शेकहँड: मध्यम-उजळ कातीचो रंग, उजळ कातीचो रंग</annotation>
+		<annotation cp="🫱🏼‍🫲🏽">करार | बसकां | मध्यम कातीचो रंग | मध्यम-उजळ कातीचो रंग | शेक | शेकहँड | हात</annotation>
+		<annotation cp="🫱🏼‍🫲🏽" type="tts">शेकहँड: मध्यम-उजळ कातीचो रंग, मध्यम कातीचो रंग</annotation>
+		<annotation cp="🫱🏼‍🫲🏾">करार | बसकां | मध्यम-उजळ कातीचो रंग | मध्यम-गाढ कातीचो रंग | शेक | शेकहँड | हात</annotation>
+		<annotation cp="🫱🏼‍🫲🏾" type="tts">शेकहँड: मध्यम-उजळ कातीचो रंग, मध्यम-गाढ कातीचो रंग</annotation>
+		<annotation cp="🫱🏼‍🫲🏿">करार | गाढ कातीचो रंग | बसकां | मध्यम-उजळ कातीचो रंग | शेक | शेकहँड | हात</annotation>
+		<annotation cp="🫱🏼‍🫲🏿" type="tts">शेकहँड: मध्यम-उजळ कातीचो रंग, गाढ कातीचो रंग</annotation>
+		<annotation cp="🫱🏽‍🫲🏻">उजळ कातीचो रंग | करार | बसकां | मध्यम कातीचो रंग | शेक | शेकहँड | हात</annotation>
+		<annotation cp="🫱🏽‍🫲🏻" type="tts">शेकहँड: मध्यम कातीचो रंग, उजळ कातीचो रंग</annotation>
+		<annotation cp="🫱🏽‍🫲🏼">करार | बसकां | मध्यम कातीचो रंग | मध्यम-उजळ कातीचो रंग | शेक | शेकहँड | हात</annotation>
+		<annotation cp="🫱🏽‍🫲🏼" type="tts">शेकहँड: मध्यम कातीचो रंग, मध्यम-उजळ कातीचो रंग</annotation>
+		<annotation cp="🫱🏽‍🫲🏾">करार | बसकां | मध्यम कातीचो रंग | मध्यम-गाढ कातीचो रंग | शेक | शेकहँड | हात</annotation>
+		<annotation cp="🫱🏽‍🫲🏾" type="tts">शेकहँड: मध्यम कातीचो रंग, मध्यम-गाढ कातीचो रंग</annotation>
+		<annotation cp="🫱🏽‍🫲🏿">करार | गाढ कातीचो रंग | बसकां | मध्यम कातीचो रंग | शेक | शेकहँड | हात</annotation>
+		<annotation cp="🫱🏽‍🫲🏿" type="tts">शेकहँड: मध्यम कातीचो रंग, गाढ कातीचो रंग</annotation>
+		<annotation cp="🫱🏾‍🫲🏻">उजळ कातीचो रंग | करार | बसकां | मध्यम-गाढ कातीचो रंग | शेक | शेकहँड | हात</annotation>
+		<annotation cp="🫱🏾‍🫲🏻" type="tts">शेकहँड: मध्यम-गाढ कातीचो रंग, उजळ कातीचो रंग</annotation>
+		<annotation cp="🫱🏾‍🫲🏼">करार | बसकां | मध्यम-उजळ कातीचो रंग | मध्यम-गाढ कातीचो रंग | शेक | शेकहँड | हात</annotation>
+		<annotation cp="🫱🏾‍🫲🏼" type="tts">शेकहँड: मध्यम-गाढ कातीचो रंग, मध्यम-उजळ कातीचो रंग</annotation>
+		<annotation cp="🫱🏾‍🫲🏽">करार | बसकां | मध्यम कातीचो रंग | मध्यम-गाढ कातीचो रंग | शेक | शेकहँड | हात</annotation>
+		<annotation cp="🫱🏾‍🫲🏽" type="tts">शेकहँड: मध्यम-गाढ कातीचो रंग, मध्यम कातीचो रंग</annotation>
+		<annotation cp="🫱🏾‍🫲🏿">करार | गाढ कातीचो रंग | बसकां | मध्यम-गाढ कातीचो रंग | शेक | शेकहँड | हात</annotation>
+		<annotation cp="🫱🏾‍🫲🏿" type="tts">शेकहँड: मध्यम-गाढ कातीचो रंग, गाढ कातीचो रंग</annotation>
+		<annotation cp="🫱🏿‍🫲🏻">उजळ कातीचो रंग | करार | गाढ कातीचो रंग | बसकां | शेक | शेकहँड | हात</annotation>
+		<annotation cp="🫱🏿‍🫲🏻" type="tts">शेकहँड: गाढ कातीचो रंग, उजळ कातीचो रंग</annotation>
+		<annotation cp="🫱🏿‍🫲🏼">करार | गाढ कातीचो रंग | बसकां | मध्यम-उजळ कातीचो रंग | शेक | शेकहँड | हात</annotation>
+		<annotation cp="🫱🏿‍🫲🏼" type="tts">शेकहँड: गाढ कातीचो रंग, मध्यम-उजळ कातीचो रंग</annotation>
+		<annotation cp="🫱🏿‍🫲🏽">करार | गाढ कातीचो रंग | बसकां | मध्यम कातीचो रंग | शेक | शेकहँड | हात</annotation>
+		<annotation cp="🫱🏿‍🫲🏽" type="tts">शेकहँड: गाढ कातीचो रंग, मध्यम कातीचो रंग</annotation>
+		<annotation cp="🫱🏿‍🫲🏾">करार | गाढ कातीचो रंग | बसकां | मध्यम-गाढ कातीचो रंग | शेक | शेकहँड | हात</annotation>
+		<annotation cp="🫱🏿‍🫲🏾" type="tts">शेकहँड: गाढ कातीचो रंग, मध्यम-गाढ कातीचो रंग</annotation>
+		<annotation cp="🫲🏻">उजळ कातीचो रंग | दावीकडेन | दावीकडेन दाखोवपी हात | दावो | हात</annotation>
+		<annotation cp="🫲🏻" type="tts">दावीकडेन दाखोवपी हात: उजळ कातीचो रंग</annotation>
+		<annotation cp="🫲🏼">दावीकडेन | दावीकडेन दाखोवपी हात | दावो | मध्यम-उजळ कातीचो रंग | हात</annotation>
+		<annotation cp="🫲🏼" type="tts">दावीकडेन दाखोवपी हात: मध्यम-उजळ कातीचो रंग</annotation>
+		<annotation cp="🫲🏽">दावीकडेन | दावीकडेन दाखोवपी हात | दावो | मध्यम कातीचो रंग | हात</annotation>
+		<annotation cp="🫲🏽" type="tts">दावीकडेन दाखोवपी हात: मध्यम कातीचो रंग</annotation>
+		<annotation cp="🫲🏾">दावीकडेन | दावीकडेन दाखोवपी हात | दावो | मध्यम-गाढ कातीचो रंग | हात</annotation>
+		<annotation cp="🫲🏾" type="tts">दावीकडेन दाखोवपी हात: मध्यम-गाढ कातीचो रंग</annotation>
+		<annotation cp="🫲🏿">गाढ कातीचो रंग | दावीकडेन | दावीकडेन दाखोवपी हात | दावो | हात</annotation>
+		<annotation cp="🫲🏿" type="tts">दावीकडेन दाखोवपी हात: गाढ कातीचो रंग</annotation>
+		<annotation cp="🫳🏻">आमडप | उजळ कातीचो रंग | उडोवप | तळवो सकयल आशिल्लो हात | न्हयकारप</annotation>
+		<annotation cp="🫳🏻" type="tts">तळवो सकयल आशिल्लो हात: उजळ कातीचो रंग</annotation>
+		<annotation cp="🫳🏼">आमडप | उडोवप | तळवो सकयल आशिल्लो हात | न्हयकारप | मध्यम-उजळ कातीचो रंग</annotation>
+		<annotation cp="🫳🏼" type="tts">तळवो सकयल आशिल्लो हात: मध्यम-उजळ कातीचो रंग</annotation>
+		<annotation cp="🫳🏽">आमडप | उडोवप | तळवो सकयल आशिल्लो हात | न्हयकारप | मध्यम कातीचो रंग</annotation>
+		<annotation cp="🫳🏽" type="tts">तळवो सकयल आशिल्लो हात: मध्यम कातीचो रंग</annotation>
+		<annotation cp="🫳🏾">आमडप | उडोवप | तळवो सकयल आशिल्लो हात | न्हयकारप | मध्यम-गाढ कातीचो रंग</annotation>
+		<annotation cp="🫳🏾" type="tts">तळवो सकयल आशिल्लो हात: मध्यम-गाढ कातीचो रंग</annotation>
+		<annotation cp="🫳🏿">आमडप | उडोवप | गाढ कातीचो रंग | तळवो सकयल आशिल्लो हात | न्हयकारप</annotation>
+		<annotation cp="🫳🏿" type="tts">तळवो सकयल आशिल्लो हात: गाढ कातीचो रंग</annotation>
+		<annotation cp="🫴🏻">आफोवप | उजळ कातीचो रंग | तळवो वयर आशिल्लो हात | धरप | प्रस्ताव | येवप</annotation>
+		<annotation cp="🫴🏻" type="tts">तळवो वयर आशिल्लो हात: उजळ कातीचो रंग</annotation>
+		<annotation cp="🫴🏼">आफोवप | तळवो वयर आशिल्लो हात | धरप | प्रस्ताव | मध्यम-उजळ कातीचो रंग | येवप</annotation>
+		<annotation cp="🫴🏼" type="tts">तळवो वयर आशिल्लो हात: मध्यम-उजळ कातीचो रंग</annotation>
+		<annotation cp="🫴🏽">आफोवप | तळवो वयर आशिल्लो हात | धरप | प्रस्ताव | मध्यम कातीचो रंग | येवप</annotation>
+		<annotation cp="🫴🏽" type="tts">तळवो वयर आशिल्लो हात: मध्यम कातीचो रंग</annotation>
+		<annotation cp="🫴🏾">आफोवप | तळवो वयर आशिल्लो हात | धरप | प्रस्ताव | मध्यम-गाढ कातीचो रंग | येवप</annotation>
+		<annotation cp="🫴🏾" type="tts">तळवो वयर आशिल्लो हात: मध्यम-गाढ कातीचो रंग</annotation>
+		<annotation cp="🫴🏿">आफोवप | गाढ कातीचो रंग | तळवो वयर आशिल्लो हात | धरप | प्रस्ताव | येवप</annotation>
+		<annotation cp="🫴🏿" type="tts">तळवो वयर आशिल्लो हात: गाढ कातीचो रंग</annotation>
+		<annotation cp="🫷🏻">उजळ कातीचो रंग | दावीकडेन | दावीकडेन धुकलपी हात | धुकलप | न्हयकारप | राव | वांट पळय | हाय फायव्ह</annotation>
+		<annotation cp="🫷🏻" type="tts">दावीकडेन धुकलपी हात: उजळ कातीचो रंग</annotation>
+		<annotation cp="🫷🏼">दावीकडेन | दावीकडेन धुकलपी हात | धुकलप | न्हयकारप | मध्यम-उजळ कातीचो रंग | राव | वांट पळय | हाय फायव्ह</annotation>
+		<annotation cp="🫷🏼" type="tts">दावीकडेन धुकलपी हात: मध्यम-उजळ कातीचो रंग</annotation>
+		<annotation cp="🫷🏽">दावीकडेन | दावीकडेन धुकलपी हात | धुकलप | न्हयकारप | मध्यम कातीचो रंग | राव | वांट पळय | हाय फायव्ह</annotation>
+		<annotation cp="🫷🏽" type="tts">दावीकडेन धुकलपी हात: मध्यम कातीचो रंग</annotation>
+		<annotation cp="🫷🏾">दावीकडेन | दावीकडेन धुकलपी हात | धुकलप | न्हयकारप | मध्यम-गाढ कातीचो रंग | राव | वांट पळय | हाय फायव्ह</annotation>
+		<annotation cp="🫷🏾" type="tts">दावीकडेन धुकलपी हात: मध्यम-गाढ कातीचो रंग</annotation>
+		<annotation cp="🫷🏿">गाढ कातीचो रंग | दावीकडेन | दावीकडेन धुकलपी हात | धुकलप | न्हयकारप | राव | वांट पळय | हाय फायव्ह</annotation>
+		<annotation cp="🫷🏿" type="tts">दावीकडेन धुकलपी हात: गाढ कातीचो रंग</annotation>
+		<annotation cp="🫸🏻">उजळ कातीचो रंग | उजवीकडेन | उजवीकडेन धुकलपी हात | धुकलप | न्हयकारप | राव | वांट पळय | हाय फायव्ह</annotation>
+		<annotation cp="🫸🏻" type="tts">उजवीकडेन धुकलपी हात: उजळ कातीचो रंग</annotation>
+		<annotation cp="🫸🏼">उजवीकडेन | उजवीकडेन धुकलपी हात | धुकलप | न्हयकारप | मध्यम-उजळ कातीचो रंग | राव | वांट पळय | हाय फायव्ह</annotation>
+		<annotation cp="🫸🏼" type="tts">उजवीकडेन धुकलपी हात: मध्यम-उजळ कातीचो रंग</annotation>
+		<annotation cp="🫸🏽">उजवीकडेन | उजवीकडेन धुकलपी हात | धुकलप | न्हयकारप | मध्यम कातीचो रंग | राव | वांट पळय | हाय फायव्ह</annotation>
+		<annotation cp="🫸🏽" type="tts">उजवीकडेन धुकलपी हात: मध्यम कातीचो रंग</annotation>
+		<annotation cp="🫸🏾">उजवीकडेन | उजवीकडेन धुकलपी हात | धुकलप | न्हयकारप | मध्यम-गाढ कातीचो रंग | राव | वांट पळय | हाय फायव्ह</annotation>
+		<annotation cp="🫸🏾" type="tts">उजवीकडेन धुकलपी हात: मध्यम-गाढ कातीचो रंग</annotation>
+		<annotation cp="🫸🏿">उजवीकडेन | उजवीकडेन धुकलपी हात | गाढ कातीचो रंग | धुकलप | न्हयकारप | राव | वांट पळय | हाय फायव्ह</annotation>
+		<annotation cp="🫸🏿" type="tts">उजवीकडेन धुकलपी हात: गाढ कातीचो रंग</annotation>
 		<annotation cp="👌🏻">उजळ कातीचो रंग | ओके | हात</annotation>
 		<annotation cp="👌🏻" type="tts">ओके हात: उजळ कातीचो रंग</annotation>
 		<annotation cp="👌🏼">ओके | मध्यम-उजळ कातीचो रंग | हात</annotation>
@@ -112,6 +213,16 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🤞🏾" type="tts">क्रॉस केल्लीं बोटां: मध्यम-गाढ कातीचो रंग</annotation>
 		<annotation cp="🤞🏿">क्रॉस | क्रॉस केल्लीं बोटां | गाढ कातीचो रंग | नशीब | बोट | हात</annotation>
 		<annotation cp="🤞🏿" type="tts">क्रॉस केल्लीं बोटां: गाढ कातीचो रंग</annotation>
+		<annotation cp="🫰🏻">उजळ कातीचो रंग | काळीज | चुटकी मारप | पयली दोन बोटां आनी आखणो क्रॉस केल्लो हात | मोग | म्हारग | स्नॅप</annotation>
+		<annotation cp="🫰🏻" type="tts">पयली दोन बोटां आनी आखणो क्रॉस केल्लो हात: उजळ कातीचो रंग</annotation>
+		<annotation cp="🫰🏼">काळीज | चुटकी मारप | पयली दोन बोटां आनी आखणो क्रॉस केल्लो हात | मध्यम-उजळ कातीचो रंग | मोग | म्हारग | स्नॅप</annotation>
+		<annotation cp="🫰🏼" type="tts">पयली दोन बोटां आनी आखणो क्रॉस केल्लो हात: मध्यम-उजळ कातीचो रंग</annotation>
+		<annotation cp="🫰🏽">काळीज | चुटकी मारप | पयली दोन बोटां आनी आखणो क्रॉस केल्लो हात | मध्यम कातीचो रंग | मोग | म्हारग | स्नॅप</annotation>
+		<annotation cp="🫰🏽" type="tts">पयली दोन बोटां आनी आखणो क्रॉस केल्लो हात: मध्यम कातीचो रंग</annotation>
+		<annotation cp="🫰🏾">काळीज | चुटकी मारप | पयली दोन बोटां आनी आखणो क्रॉस केल्लो हात | मध्यम-गाढ कातीचो रंग | मोग | म्हारग | स्नॅप</annotation>
+		<annotation cp="🫰🏾" type="tts">पयली दोन बोटां आनी आखणो क्रॉस केल्लो हात: मध्यम-गाढ कातीचो रंग</annotation>
+		<annotation cp="🫰🏿">काळीज | गाढ कातीचो रंग | चुटकी मारप | पयली दोन बोटां आनी आखणो क्रॉस केल्लो हात | मोग | म्हारग | स्नॅप</annotation>
+		<annotation cp="🫰🏿" type="tts">पयली दोन बोटां आनी आखणो क्रॉस केल्लो हात: गाढ कातीचो रंग</annotation>
 		<annotation cp="🤟🏻">आयलवयु | उजळ कातीचो रंग | तुजेर मोग करता हावभाव | हात</annotation>
 		<annotation cp="🤟🏻" type="tts">तुजेर मोग करता हावभाव: उजळ कातीचो रंग</annotation>
 		<annotation cp="🤟🏼">आयलवयु | तुजेर मोग करता हावभाव | मध्यम-उजळ कातीचो रंग | हात</annotation>
@@ -202,6 +313,16 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="☝🏾" type="tts">तर्जनी वयर दाखयता: मध्यम-गाढ कातीचो रंग</annotation>
 		<annotation cp="☝🏿">गाढ कातीचो रंग | तर्जनी | दाखयता | बोट | वयर | हात</annotation>
 		<annotation cp="☝🏿" type="tts">तर्जनी वयर दाखयता: गाढ कातीचो रंग</annotation>
+		<annotation cp="🫵🏻">उजळ कातीचो रंग | तुमी | पळोवप्याकडेन दाखोवपी बोट | बोट दाखोवप</annotation>
+		<annotation cp="🫵🏻" type="tts">पळोवप्याकडेन दाखोवपी बोट: उजळ कातीचो रंग</annotation>
+		<annotation cp="🫵🏼">तुमी | पळोवप्याकडेन दाखोवपी बोट | बोट दाखोवप | मध्यम-उजळ कातीचो रंग</annotation>
+		<annotation cp="🫵🏼" type="tts">पळोवप्याकडेन दाखोवपी बोट: मध्यम-उजळ कातीचो रंग</annotation>
+		<annotation cp="🫵🏽">तुमी | पळोवप्याकडेन दाखोवपी बोट | बोट दाखोवप | मध्यम कातीचो रंग</annotation>
+		<annotation cp="🫵🏽" type="tts">पळोवप्याकडेन दाखोवपी बोट: मध्यम कातीचो रंग</annotation>
+		<annotation cp="🫵🏾">तुमी | पळोवप्याकडेन दाखोवपी बोट | बोट दाखोवप | मध्यम-गाढ कातीचो रंग</annotation>
+		<annotation cp="🫵🏾" type="tts">पळोवप्याकडेन दाखोवपी बोट: मध्यम-गाढ कातीचो रंग</annotation>
+		<annotation cp="🫵🏿">गाढ कातीचो रंग | तुमी | पळोवप्याकडेन दाखोवपी बोट | बोट दाखोवप</annotation>
+		<annotation cp="🫵🏿" type="tts">पळोवप्याकडेन दाखोवपी बोट: गाढ कातीचो रंग</annotation>
 		<annotation cp="👍🏻">+1 | आखाणो | उजळ कातीचो रंग | वयर | हात</annotation>
 		<annotation cp="👍🏻" type="tts">आखाणो वयर: उजळ कातीचो रंग</annotation>
 		<annotation cp="👍🏼">+1 | आखाणो | मध्यम-उजळ कातीचो रंग | वयर | हात</annotation>
@@ -282,6 +403,16 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🙌🏾" type="tts">उखलिल्ले हात: मध्यम-गाढ कातीचो रंग</annotation>
 		<annotation cp="🙌🏿">उखलिल्लें | उखलिल्ले हात | गाढ कातीचो रंग | सुवाळो | हात | हावभाव | हुर्रे</annotation>
 		<annotation cp="🙌🏿" type="tts">उखलिल्ले हात: गाढ कातीचो रंग</annotation>
+		<annotation cp="🫶🏻">उजळ कातीचो रंग | काळजाचो आकार केल्ले हात | मोग</annotation>
+		<annotation cp="🫶🏻" type="tts">काळजाचो आकार केल्ले हात: उजळ कातीचो रंग</annotation>
+		<annotation cp="🫶🏼">काळजाचो आकार केल्ले हात | मध्यम-उजळ कातीचो रंग | मोग</annotation>
+		<annotation cp="🫶🏼" type="tts">काळजाचो आकार केल्ले हात: मध्यम-उजळ कातीचो रंग</annotation>
+		<annotation cp="🫶🏽">काळजाचो आकार केल्ले हात | मध्यम कातीचो रंग | मोग</annotation>
+		<annotation cp="🫶🏽" type="tts">काळजाचो आकार केल्ले हात: मध्यम कातीचो रंग</annotation>
+		<annotation cp="🫶🏾">काळजाचो आकार केल्ले हात | मध्यम-गाढ कातीचो रंग | मोग</annotation>
+		<annotation cp="🫶🏾" type="tts">काळजाचो आकार केल्ले हात: मध्यम-गाढ कातीचो रंग</annotation>
+		<annotation cp="🫶🏿">काळजाचो आकार केल्ले हात | गाढ कातीचो रंग | मोग</annotation>
+		<annotation cp="🫶🏿" type="tts">काळजाचो आकार केल्ले हात: गाढ कातीचो रंग</annotation>
 		<annotation cp="👐🏻">उकतें | उकते हात | उजळ कातीचो रंग | हात</annotation>
 		<annotation cp="👐🏻" type="tts">उकते हात: उजळ कातीचो रंग</annotation>
 		<annotation cp="👐🏼">उकतें | उकते हात | मध्यम-उजळ कातीचो रंग | हात</annotation>
@@ -302,6 +433,16 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🤲🏾" type="tts">ओंजळ एकठांय: मध्यम-गाढ कातीचो रंग</annotation>
 		<annotation cp="🤲🏿">एकठांय ओंजळ | ओंजळ एकठांय | गाढ कातीचो रंग | प्रार्थना</annotation>
 		<annotation cp="🤲🏿" type="tts">ओंजळ एकठांय: गाढ कातीचो रंग</annotation>
+		<annotation cp="🤝🏻">उजळ कातीचो रंग | करार | बसकां | शेक | शेकहँड | हात</annotation>
+		<annotation cp="🤝🏻" type="tts">शेकहँड: उजळ कातीचो रंग</annotation>
+		<annotation cp="🤝🏼">करार | बसकां | मध्यम-उजळ कातीचो रंग | शेक | शेकहँड | हात</annotation>
+		<annotation cp="🤝🏼" type="tts">शेकहँड: मध्यम-उजळ कातीचो रंग</annotation>
+		<annotation cp="🤝🏽">करार | बसकां | मध्यम कातीचो रंग | शेक | शेकहँड | हात</annotation>
+		<annotation cp="🤝🏽" type="tts">शेकहँड: मध्यम कातीचो रंग</annotation>
+		<annotation cp="🤝🏾">करार | बसकां | मध्यम-गाढ कातीचो रंग | शेक | शेकहँड | हात</annotation>
+		<annotation cp="🤝🏾" type="tts">शेकहँड: मध्यम-गाढ कातीचो रंग</annotation>
+		<annotation cp="🤝🏿">करार | गाढ कातीचो रंग | बसकां | शेक | शेकहँड | हात</annotation>
+		<annotation cp="🤝🏿" type="tts">शेकहँड: गाढ कातीचो रंग</annotation>
 		<annotation cp="🙏🏻">उजळ कातीचो रंग | जोडिल्ले हात | देव बरें करूं | प्रार्थना | याचना | विचारप | हात | हात जोडप</annotation>
 		<annotation cp="🙏🏻" type="tts">जोडिल्ले हात: उजळ कातीचो रंग</annotation>
 		<annotation cp="🙏🏼">जोडिल्ले हात | देव बरें करूं | प्रार्थना | मध्यम-उजळ कातीचो रंग | याचना | विचारप | हात | हात जोडप</annotation>
@@ -312,25 +453,25 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🙏🏾" type="tts">जोडिल्ले हात: मध्यम-गाढ कातीचो रंग</annotation>
 		<annotation cp="🙏🏿">गाढ कातीचो रंग | जोडिल्ले हात | देव बरें करूं | प्रार्थना | याचना | विचारप | हात | हात जोडप</annotation>
 		<annotation cp="🙏🏿" type="tts">जोडिल्ले हात: गाढ कातीचो रंग</annotation>
-		<annotation cp="✍🏻">उजळ कातीचो रंग | बरोवपाचो हात | हात । बरोवप । बरोवपाचो हात</annotation>
+		<annotation cp="✍🏻">उजळ कातीचो रंग | बरोवप | बरोवपाचो हात | हात</annotation>
 		<annotation cp="✍🏻" type="tts">बरोवपाचो हात: उजळ कातीचो रंग</annotation>
-		<annotation cp="✍🏼">बरोवपाचो हात | मध्यम-उजळ कातीचो रंग | हात । बरोवप । बरोवपाचो हात</annotation>
+		<annotation cp="✍🏼">बरोवप | बरोवपाचो हात | मध्यम-उजळ कातीचो रंग | हात</annotation>
 		<annotation cp="✍🏼" type="tts">बरोवपाचो हात: मध्यम-उजळ कातीचो रंग</annotation>
-		<annotation cp="✍🏽">बरोवपाचो हात | मध्यम कातीचो रंग | हात । बरोवप । बरोवपाचो हात</annotation>
+		<annotation cp="✍🏽">बरोवप | बरोवपाचो हात | मध्यम कातीचो रंग | हात</annotation>
 		<annotation cp="✍🏽" type="tts">बरोवपाचो हात: मध्यम कातीचो रंग</annotation>
-		<annotation cp="✍🏾">बरोवपाचो हात | मध्यम-गाढ कातीचो रंग | हात । बरोवप । बरोवपाचो हात</annotation>
+		<annotation cp="✍🏾">बरोवप | बरोवपाचो हात | मध्यम-गाढ कातीचो रंग | हात</annotation>
 		<annotation cp="✍🏾" type="tts">बरोवपाचो हात: मध्यम-गाढ कातीचो रंग</annotation>
-		<annotation cp="✍🏿">गाढ कातीचो रंग | बरोवपाचो हात | हात । बरोवप । बरोवपाचो हात</annotation>
+		<annotation cp="✍🏿">गाढ कातीचो रंग | बरोवप | बरोवपाचो हात | हात</annotation>
 		<annotation cp="✍🏿" type="tts">बरोवपाचो हात: गाढ कातीचो रंग</annotation>
-		<annotation cp="💅🏻">उजळ कातीचो रंग | जतन । सौंदर्यप्रसाधन । मॅनिक्युअर ।नेल पॉलिश | नेल पॉलिश</annotation>
+		<annotation cp="💅🏻">उजळ कातीचो रंग | जतन | नेल पॉलिश | मॅनिक्युअर | सौंदर्यप्रसाधन</annotation>
 		<annotation cp="💅🏻" type="tts">नेल पॉलिश: उजळ कातीचो रंग</annotation>
-		<annotation cp="💅🏼">जतन । सौंदर्यप्रसाधन । मॅनिक्युअर ।नेल पॉलिश | नेल पॉलिश | मध्यम-उजळ कातीचो रंग</annotation>
+		<annotation cp="💅🏼">जतन | नेल पॉलिश | मध्यम-उजळ कातीचो रंग | मॅनिक्युअर | सौंदर्यप्रसाधन</annotation>
 		<annotation cp="💅🏼" type="tts">नेल पॉलिश: मध्यम-उजळ कातीचो रंग</annotation>
-		<annotation cp="💅🏽">जतन । सौंदर्यप्रसाधन । मॅनिक्युअर ।नेल पॉलिश | नेल पॉलिश | मध्यम कातीचो रंग</annotation>
+		<annotation cp="💅🏽">जतन | नेल पॉलिश | मध्यम कातीचो रंग | मॅनिक्युअर | सौंदर्यप्रसाधन</annotation>
 		<annotation cp="💅🏽" type="tts">नेल पॉलिश: मध्यम कातीचो रंग</annotation>
-		<annotation cp="💅🏾">जतन । सौंदर्यप्रसाधन । मॅनिक्युअर ।नेल पॉलिश | नेल पॉलिश | मध्यम-गाढ कातीचो रंग</annotation>
+		<annotation cp="💅🏾">जतन | नेल पॉलिश | मध्यम-गाढ कातीचो रंग | मॅनिक्युअर | सौंदर्यप्रसाधन</annotation>
 		<annotation cp="💅🏾" type="tts">नेल पॉलिश: मध्यम-गाढ कातीचो रंग</annotation>
-		<annotation cp="💅🏿">गाढ कातीचो रंग | जतन । सौंदर्यप्रसाधन । मॅनिक्युअर ।नेल पॉलिश | नेल पॉलिश</annotation>
+		<annotation cp="💅🏿">गाढ कातीचो रंग | जतन | नेल पॉलिश | मॅनिक्युअर | सौंदर्यप्रसाधन</annotation>
 		<annotation cp="💅🏿" type="tts">नेल पॉलिश: गाढ कातीचो रंग</annotation>
 		<annotation cp="🤳🏻">उजळ कातीचो रंग | कॅमेरा | फोन | सेल्फी</annotation>
 		<annotation cp="🤳🏻" type="tts">सेल्फी: उजळ कातीचो रंग</annotation>
@@ -382,15 +523,15 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👂🏾" type="tts">कान: मध्यम-गाढ कातीचो रंग</annotation>
 		<annotation cp="👂🏿">कान | कूड | गाढ कातीचो रंग</annotation>
 		<annotation cp="👂🏿" type="tts">कान: गाढ कातीचो रंग</annotation>
-		<annotation cp="🦻🏻">आयकुपाचें यंत्र बसयल्लो कान | उजळ कातीचो रंग | ऍक्सॅसिबिलिटी। आयकुपाचें यंत्र बसयल्लो कान। आयकूंक कठीण</annotation>
+		<annotation cp="🦻🏻">आयकुपाचें यंत्र बसयल्लो कान | आयकूंक कठीण | उजळ कातीचो रंग | ऍक्सॅसिबिलिटी</annotation>
 		<annotation cp="🦻🏻" type="tts">आयकुपाचें यंत्र बसयल्लो कान: उजळ कातीचो रंग</annotation>
-		<annotation cp="🦻🏼">आयकुपाचें यंत्र बसयल्लो कान | ऍक्सॅसिबिलिटी। आयकुपाचें यंत्र बसयल्लो कान। आयकूंक कठीण | मध्यम-उजळ कातीचो रंग</annotation>
+		<annotation cp="🦻🏼">आयकुपाचें यंत्र बसयल्लो कान | आयकूंक कठीण | ऍक्सॅसिबिलिटी | मध्यम-उजळ कातीचो रंग</annotation>
 		<annotation cp="🦻🏼" type="tts">आयकुपाचें यंत्र बसयल्लो कान: मध्यम-उजळ कातीचो रंग</annotation>
-		<annotation cp="🦻🏽">आयकुपाचें यंत्र बसयल्लो कान | ऍक्सॅसिबिलिटी। आयकुपाचें यंत्र बसयल्लो कान। आयकूंक कठीण | मध्यम कातीचो रंग</annotation>
+		<annotation cp="🦻🏽">आयकुपाचें यंत्र बसयल्लो कान | आयकूंक कठीण | ऍक्सॅसिबिलिटी | मध्यम कातीचो रंग</annotation>
 		<annotation cp="🦻🏽" type="tts">आयकुपाचें यंत्र बसयल्लो कान: मध्यम कातीचो रंग</annotation>
-		<annotation cp="🦻🏾">आयकुपाचें यंत्र बसयल्लो कान | ऍक्सॅसिबिलिटी। आयकुपाचें यंत्र बसयल्लो कान। आयकूंक कठीण | मध्यम-गाढ कातीचो रंग</annotation>
+		<annotation cp="🦻🏾">आयकुपाचें यंत्र बसयल्लो कान | आयकूंक कठीण | ऍक्सॅसिबिलिटी | मध्यम-गाढ कातीचो रंग</annotation>
 		<annotation cp="🦻🏾" type="tts">आयकुपाचें यंत्र बसयल्लो कान: मध्यम-गाढ कातीचो रंग</annotation>
-		<annotation cp="🦻🏿">आयकुपाचें यंत्र बसयल्लो कान | ऍक्सॅसिबिलिटी। आयकुपाचें यंत्र बसयल्लो कान। आयकूंक कठीण | गाढ कातीचो रंग</annotation>
+		<annotation cp="🦻🏿">आयकुपाचें यंत्र बसयल्लो कान | आयकूंक कठीण | ऍक्सॅसिबिलिटी | गाढ कातीचो रंग</annotation>
 		<annotation cp="🦻🏿" type="tts">आयकुपाचें यंत्र बसयल्लो कान: गाढ कातीचो रंग</annotation>
 		<annotation cp="👃🏻">उजळ कातीचो रंग | कूड | नाक</annotation>
 		<annotation cp="👃🏻" type="tts">नाक: उजळ कातीचो रंग</annotation>
@@ -412,15 +553,15 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👶🏾" type="tts">शिशु: मध्यम-गाढ कातीचो रंग</annotation>
 		<annotation cp="👶🏿">गाढ कातीचो रंग | शिशु | सान</annotation>
 		<annotation cp="👶🏿" type="tts">शिशु: गाढ कातीचो रंग</annotation>
-		<annotation cp="🧒🏻">उजळ कातीचो रंग | बाळक । तटस्थ लिंग। अनिर्दिश्ट लिंग । तरणाटो | भुरगें</annotation>
+		<annotation cp="🧒🏻">अनिर्दिश्ट लिंग | उजळ कातीचो रंग | तटस्थ लिंग | तरणाटो | बाळक | भुरगें</annotation>
 		<annotation cp="🧒🏻" type="tts">भुरगें: उजळ कातीचो रंग</annotation>
-		<annotation cp="🧒🏼">बाळक । तटस्थ लिंग। अनिर्दिश्ट लिंग । तरणाटो | भुरगें | मध्यम-उजळ कातीचो रंग</annotation>
+		<annotation cp="🧒🏼">अनिर्दिश्ट लिंग | तटस्थ लिंग | तरणाटो | बाळक | भुरगें | मध्यम-उजळ कातीचो रंग</annotation>
 		<annotation cp="🧒🏼" type="tts">भुरगें: मध्यम-उजळ कातीचो रंग</annotation>
-		<annotation cp="🧒🏽">बाळक । तटस्थ लिंग। अनिर्दिश्ट लिंग । तरणाटो | भुरगें | मध्यम कातीचो रंग</annotation>
+		<annotation cp="🧒🏽">अनिर्दिश्ट लिंग | तटस्थ लिंग | तरणाटो | बाळक | भुरगें | मध्यम कातीचो रंग</annotation>
 		<annotation cp="🧒🏽" type="tts">भुरगें: मध्यम कातीचो रंग</annotation>
-		<annotation cp="🧒🏾">बाळक । तटस्थ लिंग। अनिर्दिश्ट लिंग । तरणाटो | भुरगें | मध्यम-गाढ कातीचो रंग</annotation>
+		<annotation cp="🧒🏾">अनिर्दिश्ट लिंग | तटस्थ लिंग | तरणाटो | बाळक | भुरगें | मध्यम-गाढ कातीचो रंग</annotation>
 		<annotation cp="🧒🏾" type="tts">भुरगें: मध्यम-गाढ कातीचो रंग</annotation>
-		<annotation cp="🧒🏿">गाढ कातीचो रंग | बाळक । तटस्थ लिंग। अनिर्दिश्ट लिंग । तरणाटो | भुरगें</annotation>
+		<annotation cp="🧒🏿">अनिर्दिश्ट लिंग | गाढ कातीचो रंग | तटस्थ लिंग | तरणाटो | बाळक | भुरगें</annotation>
 		<annotation cp="🧒🏿" type="tts">भुरगें: गाढ कातीचो रंग</annotation>
 		<annotation cp="👦🏻">उजळ कातीचो रंग | चलो | सान</annotation>
 		<annotation cp="👦🏻" type="tts">चलो: उजळ कातीचो रंग</annotation>
@@ -442,15 +583,15 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👧🏾" type="tts">चली: मध्यम-गाढ कातीचो रंग</annotation>
 		<annotation cp="👧🏿">कन्या | गाढ कातीचो रंग | चली | रास | सान</annotation>
 		<annotation cp="👧🏿" type="tts">चली: गाढ कातीचो रंग</annotation>
-		<annotation cp="🧑🏻">उजळ कातीचो रंग | प्रौढ । तटस्थ लिंग । व्यक्ती । अनिर्दिश्ट लिंग | व्यक्ती</annotation>
+		<annotation cp="🧑🏻">अनिर्दिश्ट लिंग | उजळ कातीचो रंग | तटस्थ लिंग | प्रौढ | व्यक्ती</annotation>
 		<annotation cp="🧑🏻" type="tts">व्यक्ती: उजळ कातीचो रंग</annotation>
-		<annotation cp="🧑🏼">प्रौढ । तटस्थ लिंग । व्यक्ती । अनिर्दिश्ट लिंग | मध्यम-उजळ कातीचो रंग | व्यक्ती</annotation>
+		<annotation cp="🧑🏼">अनिर्दिश्ट लिंग | तटस्थ लिंग | प्रौढ | मध्यम-उजळ कातीचो रंग | व्यक्ती</annotation>
 		<annotation cp="🧑🏼" type="tts">व्यक्ती: मध्यम-उजळ कातीचो रंग</annotation>
-		<annotation cp="🧑🏽">प्रौढ । तटस्थ लिंग । व्यक्ती । अनिर्दिश्ट लिंग | मध्यम कातीचो रंग | व्यक्ती</annotation>
+		<annotation cp="🧑🏽">अनिर्दिश्ट लिंग | तटस्थ लिंग | प्रौढ | मध्यम कातीचो रंग | व्यक्ती</annotation>
 		<annotation cp="🧑🏽" type="tts">व्यक्ती: मध्यम कातीचो रंग</annotation>
-		<annotation cp="🧑🏾">प्रौढ । तटस्थ लिंग । व्यक्ती । अनिर्दिश्ट लिंग | मध्यम-गाढ कातीचो रंग | व्यक्ती</annotation>
+		<annotation cp="🧑🏾">अनिर्दिश्ट लिंग | तटस्थ लिंग | प्रौढ | मध्यम-गाढ कातीचो रंग | व्यक्ती</annotation>
 		<annotation cp="🧑🏾" type="tts">व्यक्ती: मध्यम-गाढ कातीचो रंग</annotation>
-		<annotation cp="🧑🏿">गाढ कातीचो रंग | प्रौढ । तटस्थ लिंग । व्यक्ती । अनिर्दिश्ट लिंग | व्यक्ती</annotation>
+		<annotation cp="🧑🏿">अनिर्दिश्ट लिंग | गाढ कातीचो रंग | तटस्थ लिंग | प्रौढ | व्यक्ती</annotation>
 		<annotation cp="🧑🏿" type="tts">व्यक्ती: गाढ कातीचो रंग</annotation>
 		<annotation cp="👱🏻">उजळ कातीचो रंग | केंस | पिंगशे | पिंगश्या केंसाचो व्यक्ती: पिंगशे केंस | व्यक्ती | व्यक्ती: पिंगशे केंस</annotation>
 		<annotation cp="👱🏻" type="tts">व्यक्ती: उजळ कातीचो रंग, पिंगशे केंस</annotation>
@@ -542,53 +683,53 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🧑🏿‍❤‍🧑🏽" type="tts">काळीज आसपी जोडपें: व्यक्ती, व्यक्ती, गाढ कातीचो रंग, मध्यम कातीचो रंग</annotation>
 		<annotation cp="🧑🏿‍❤‍🧑🏾">काळीज आसपी जोडपें | गाढ कातीचो रंग | जोडपें | मध्यम-गाढ कातीचो रंग | मोग | व्यक्ती</annotation>
 		<annotation cp="🧑🏿‍❤‍🧑🏾" type="tts">काळीज आसपी जोडपें: व्यक्ती, व्यक्ती, गाढ कातीचो रंग, मध्यम-गाढ कातीचो रंग</annotation>
-		<annotation cp="🧑‍🦰">तांबशें केंस | प्रौढ । तटस्थ लिंग । व्यक्ती । अनिर्दिश्ट लिंग | व्यक्ती</annotation>
+		<annotation cp="🧑‍🦰">अनिर्दिश्ट लिंग | तटस्थ लिंग | तांबशें केंस | प्रौढ | व्यक्ती</annotation>
 		<annotation cp="🧑‍🦰" type="tts">व्यक्ती: तांबशें केंस</annotation>
-		<annotation cp="🧑🏻‍🦰">उजळ कातीचो रंग | तांबशें केंस | प्रौढ । तटस्थ लिंग । व्यक्ती । अनिर्दिश्ट लिंग | व्यक्ती</annotation>
+		<annotation cp="🧑🏻‍🦰">अनिर्दिश्ट लिंग | उजळ कातीचो रंग | तटस्थ लिंग | तांबशें केंस | प्रौढ | व्यक्ती</annotation>
 		<annotation cp="🧑🏻‍🦰" type="tts">व्यक्ती: उजळ कातीचो रंग, तांबशें केंस</annotation>
-		<annotation cp="🧑🏼‍🦰">तांबशें केंस | प्रौढ । तटस्थ लिंग । व्यक्ती । अनिर्दिश्ट लिंग | मध्यम-उजळ कातीचो रंग | व्यक्ती</annotation>
+		<annotation cp="🧑🏼‍🦰">अनिर्दिश्ट लिंग | तटस्थ लिंग | तांबशें केंस | प्रौढ | मध्यम-उजळ कातीचो रंग | व्यक्ती</annotation>
 		<annotation cp="🧑🏼‍🦰" type="tts">व्यक्ती: मध्यम-उजळ कातीचो रंग, तांबशें केंस</annotation>
-		<annotation cp="🧑🏽‍🦰">तांबशें केंस | प्रौढ । तटस्थ लिंग । व्यक्ती । अनिर्दिश्ट लिंग | मध्यम कातीचो रंग | व्यक्ती</annotation>
+		<annotation cp="🧑🏽‍🦰">अनिर्दिश्ट लिंग | तटस्थ लिंग | तांबशें केंस | प्रौढ | मध्यम कातीचो रंग | व्यक्ती</annotation>
 		<annotation cp="🧑🏽‍🦰" type="tts">व्यक्ती: मध्यम कातीचो रंग, तांबशें केंस</annotation>
-		<annotation cp="🧑🏾‍🦰">तांबशें केंस | प्रौढ । तटस्थ लिंग । व्यक्ती । अनिर्दिश्ट लिंग | मध्यम-गाढ कातीचो रंग | व्यक्ती</annotation>
+		<annotation cp="🧑🏾‍🦰">अनिर्दिश्ट लिंग | तटस्थ लिंग | तांबशें केंस | प्रौढ | मध्यम-गाढ कातीचो रंग | व्यक्ती</annotation>
 		<annotation cp="🧑🏾‍🦰" type="tts">व्यक्ती: मध्यम-गाढ कातीचो रंग, तांबशें केंस</annotation>
-		<annotation cp="🧑🏿‍🦰">गाढ कातीचो रंग | तांबशें केंस | प्रौढ । तटस्थ लिंग । व्यक्ती । अनिर्दिश्ट लिंग | व्यक्ती</annotation>
+		<annotation cp="🧑🏿‍🦰">अनिर्दिश्ट लिंग | गाढ कातीचो रंग | तटस्थ लिंग | तांबशें केंस | प्रौढ | व्यक्ती</annotation>
 		<annotation cp="🧑🏿‍🦰" type="tts">व्यक्ती: गाढ कातीचो रंग, तांबशें केंस</annotation>
-		<annotation cp="🧑‍🦱">कुरळे मुदयाळें केंस | प्रौढ । तटस्थ लिंग । व्यक्ती । अनिर्दिश्ट लिंग | व्यक्ती</annotation>
+		<annotation cp="🧑‍🦱">अनिर्दिश्ट लिंग | कुरळे मुदयाळें केंस | तटस्थ लिंग | प्रौढ | व्यक्ती</annotation>
 		<annotation cp="🧑‍🦱" type="tts">व्यक्ती: कुरळे मुदयाळें केंस</annotation>
-		<annotation cp="🧑🏻‍🦱">उजळ कातीचो रंग | कुरळे मुदयाळें केंस | प्रौढ । तटस्थ लिंग । व्यक्ती । अनिर्दिश्ट लिंग | व्यक्ती</annotation>
+		<annotation cp="🧑🏻‍🦱">अनिर्दिश्ट लिंग | उजळ कातीचो रंग | कुरळे मुदयाळें केंस | तटस्थ लिंग | प्रौढ | व्यक्ती</annotation>
 		<annotation cp="🧑🏻‍🦱" type="tts">व्यक्ती: उजळ कातीचो रंग, कुरळे मुदयाळें केंस</annotation>
-		<annotation cp="🧑🏼‍🦱">कुरळे मुदयाळें केंस | प्रौढ । तटस्थ लिंग । व्यक्ती । अनिर्दिश्ट लिंग | मध्यम-उजळ कातीचो रंग | व्यक्ती</annotation>
+		<annotation cp="🧑🏼‍🦱">अनिर्दिश्ट लिंग | कुरळे मुदयाळें केंस | तटस्थ लिंग | प्रौढ | मध्यम-उजळ कातीचो रंग | व्यक्ती</annotation>
 		<annotation cp="🧑🏼‍🦱" type="tts">व्यक्ती: मध्यम-उजळ कातीचो रंग, कुरळे मुदयाळें केंस</annotation>
-		<annotation cp="🧑🏽‍🦱">कुरळे मुदयाळें केंस | प्रौढ । तटस्थ लिंग । व्यक्ती । अनिर्दिश्ट लिंग | मध्यम कातीचो रंग | व्यक्ती</annotation>
+		<annotation cp="🧑🏽‍🦱">अनिर्दिश्ट लिंग | कुरळे मुदयाळें केंस | तटस्थ लिंग | प्रौढ | मध्यम कातीचो रंग | व्यक्ती</annotation>
 		<annotation cp="🧑🏽‍🦱" type="tts">व्यक्ती: मध्यम कातीचो रंग, कुरळे मुदयाळें केंस</annotation>
-		<annotation cp="🧑🏾‍🦱">कुरळे मुदयाळें केंस | प्रौढ । तटस्थ लिंग । व्यक्ती । अनिर्दिश्ट लिंग | मध्यम-गाढ कातीचो रंग | व्यक्ती</annotation>
+		<annotation cp="🧑🏾‍🦱">अनिर्दिश्ट लिंग | कुरळे मुदयाळें केंस | तटस्थ लिंग | प्रौढ | मध्यम-गाढ कातीचो रंग | व्यक्ती</annotation>
 		<annotation cp="🧑🏾‍🦱" type="tts">व्यक्ती: मध्यम-गाढ कातीचो रंग, कुरळे मुदयाळें केंस</annotation>
-		<annotation cp="🧑🏿‍🦱">कुरळे मुदयाळें केंस | गाढ कातीचो रंग | प्रौढ । तटस्थ लिंग । व्यक्ती । अनिर्दिश्ट लिंग | व्यक्ती</annotation>
+		<annotation cp="🧑🏿‍🦱">अनिर्दिश्ट लिंग | कुरळे मुदयाळें केंस | गाढ कातीचो रंग | तटस्थ लिंग | प्रौढ | व्यक्ती</annotation>
 		<annotation cp="🧑🏿‍🦱" type="tts">व्यक्ती: गाढ कातीचो रंग, कुरळे मुदयाळें केंस</annotation>
-		<annotation cp="🧑‍🦳">धवे केंस | प्रौढ । तटस्थ लिंग । व्यक्ती । अनिर्दिश्ट लिंग | व्यक्ती</annotation>
+		<annotation cp="🧑‍🦳">अनिर्दिश्ट लिंग | तटस्थ लिंग | धवे केंस | प्रौढ | व्यक्ती</annotation>
 		<annotation cp="🧑‍🦳" type="tts">व्यक्ती: धवे केंस</annotation>
-		<annotation cp="🧑🏻‍🦳">उजळ कातीचो रंग | धवे केंस | प्रौढ । तटस्थ लिंग । व्यक्ती । अनिर्दिश्ट लिंग | व्यक्ती</annotation>
+		<annotation cp="🧑🏻‍🦳">अनिर्दिश्ट लिंग | उजळ कातीचो रंग | तटस्थ लिंग | धवे केंस | प्रौढ | व्यक्ती</annotation>
 		<annotation cp="🧑🏻‍🦳" type="tts">व्यक्ती: उजळ कातीचो रंग, धवे केंस</annotation>
-		<annotation cp="🧑🏼‍🦳">धवे केंस | प्रौढ । तटस्थ लिंग । व्यक्ती । अनिर्दिश्ट लिंग | मध्यम-उजळ कातीचो रंग | व्यक्ती</annotation>
+		<annotation cp="🧑🏼‍🦳">अनिर्दिश्ट लिंग | तटस्थ लिंग | धवे केंस | प्रौढ | मध्यम-उजळ कातीचो रंग | व्यक्ती</annotation>
 		<annotation cp="🧑🏼‍🦳" type="tts">व्यक्ती: मध्यम-उजळ कातीचो रंग, धवे केंस</annotation>
-		<annotation cp="🧑🏽‍🦳">धवे केंस | प्रौढ । तटस्थ लिंग । व्यक्ती । अनिर्दिश्ट लिंग | मध्यम कातीचो रंग | व्यक्ती</annotation>
+		<annotation cp="🧑🏽‍🦳">अनिर्दिश्ट लिंग | तटस्थ लिंग | धवे केंस | प्रौढ | मध्यम कातीचो रंग | व्यक्ती</annotation>
 		<annotation cp="🧑🏽‍🦳" type="tts">व्यक्ती: मध्यम कातीचो रंग, धवे केंस</annotation>
-		<annotation cp="🧑🏾‍🦳">धवे केंस | प्रौढ । तटस्थ लिंग । व्यक्ती । अनिर्दिश्ट लिंग | मध्यम-गाढ कातीचो रंग | व्यक्ती</annotation>
+		<annotation cp="🧑🏾‍🦳">अनिर्दिश्ट लिंग | तटस्थ लिंग | धवे केंस | प्रौढ | मध्यम-गाढ कातीचो रंग | व्यक्ती</annotation>
 		<annotation cp="🧑🏾‍🦳" type="tts">व्यक्ती: मध्यम-गाढ कातीचो रंग, धवे केंस</annotation>
-		<annotation cp="🧑🏿‍🦳">गाढ कातीचो रंग | धवे केंस | प्रौढ । तटस्थ लिंग । व्यक्ती । अनिर्दिश्ट लिंग | व्यक्ती</annotation>
+		<annotation cp="🧑🏿‍🦳">अनिर्दिश्ट लिंग | गाढ कातीचो रंग | तटस्थ लिंग | धवे केंस | प्रौढ | व्यक्ती</annotation>
 		<annotation cp="🧑🏿‍🦳" type="tts">व्यक्ती: गाढ कातीचो रंग, धवे केंस</annotation>
-		<annotation cp="🧑‍🦲">तकलो | प्रौढ । तटस्थ लिंग । व्यक्ती । अनिर्दिश्ट लिंग | व्यक्ती</annotation>
+		<annotation cp="🧑‍🦲">अनिर्दिश्ट लिंग | तकलो | तटस्थ लिंग | प्रौढ | व्यक्ती</annotation>
 		<annotation cp="🧑‍🦲" type="tts">व्यक्ती: तकलो</annotation>
-		<annotation cp="🧑🏻‍🦲">उजळ कातीचो रंग | तकलो | प्रौढ । तटस्थ लिंग । व्यक्ती । अनिर्दिश्ट लिंग | व्यक्ती</annotation>
+		<annotation cp="🧑🏻‍🦲">अनिर्दिश्ट लिंग | उजळ कातीचो रंग | तकलो | तटस्थ लिंग | प्रौढ | व्यक्ती</annotation>
 		<annotation cp="🧑🏻‍🦲" type="tts">व्यक्ती: उजळ कातीचो रंग, तकलो</annotation>
-		<annotation cp="🧑🏼‍🦲">तकलो | प्रौढ । तटस्थ लिंग । व्यक्ती । अनिर्दिश्ट लिंग | मध्यम-उजळ कातीचो रंग | व्यक्ती</annotation>
+		<annotation cp="🧑🏼‍🦲">अनिर्दिश्ट लिंग | तकलो | तटस्थ लिंग | प्रौढ | मध्यम-उजळ कातीचो रंग | व्यक्ती</annotation>
 		<annotation cp="🧑🏼‍🦲" type="tts">व्यक्ती: मध्यम-उजळ कातीचो रंग, तकलो</annotation>
-		<annotation cp="🧑🏽‍🦲">तकलो | प्रौढ । तटस्थ लिंग । व्यक्ती । अनिर्दिश्ट लिंग | मध्यम कातीचो रंग | व्यक्ती</annotation>
+		<annotation cp="🧑🏽‍🦲">अनिर्दिश्ट लिंग | तकलो | तटस्थ लिंग | प्रौढ | मध्यम कातीचो रंग | व्यक्ती</annotation>
 		<annotation cp="🧑🏽‍🦲" type="tts">व्यक्ती: मध्यम कातीचो रंग, तकलो</annotation>
-		<annotation cp="🧑🏾‍🦲">तकलो | प्रौढ । तटस्थ लिंग । व्यक्ती । अनिर्दिश्ट लिंग | मध्यम-गाढ कातीचो रंग | व्यक्ती</annotation>
+		<annotation cp="🧑🏾‍🦲">अनिर्दिश्ट लिंग | तकलो | तटस्थ लिंग | प्रौढ | मध्यम-गाढ कातीचो रंग | व्यक्ती</annotation>
 		<annotation cp="🧑🏾‍🦲" type="tts">व्यक्ती: मध्यम-गाढ कातीचो रंग, तकलो</annotation>
-		<annotation cp="🧑🏿‍🦲">गाढ कातीचो रंग | तकलो | प्रौढ । तटस्थ लिंग । व्यक्ती । अनिर्दिश्ट लिंग | व्यक्ती</annotation>
+		<annotation cp="🧑🏿‍🦲">अनिर्दिश्ट लिंग | गाढ कातीचो रंग | तकलो | तटस्थ लिंग | प्रौढ | व्यक्ती</annotation>
 		<annotation cp="🧑🏿‍🦲" type="tts">व्यक्ती: गाढ कातीचो रंग, तकलो</annotation>
 		<annotation cp="👨🏻">उजळ कातीचो रंग | दादलो | प्रौढ</annotation>
 		<annotation cp="👨🏻" type="tts">दादलो: उजळ कातीचो रंग</annotation>
@@ -620,15 +761,15 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🧔🏾‍♂" type="tts">दादलो मनीस: मध्यम-गाढ कातीचो रंग, खाड</annotation>
 		<annotation cp="🧔🏿‍♂">खाड | गाढ कातीचो रंग | दादलो | दादलो मनीस: खाड</annotation>
 		<annotation cp="🧔🏿‍♂" type="tts">दादलो मनीस: गाढ कातीचो रंग, खाड</annotation>
-		<annotation cp="👱🏻‍♂">उजळ कातीचो रंग | केंस | दादलो | दादलो : पिंगशे केंस | दादलो: पिंगशे केंस | पिंगशे | पिंगशे केसांचो दादलो</annotation>
+		<annotation cp="👱🏻‍♂">उजळ कातीचो रंग | केंस | दादलो | दादलो : पिंगशे केंस | पिंगशे | पिंगशे केसांचो दादलो</annotation>
 		<annotation cp="👱🏻‍♂" type="tts">दादलो : उजळ कातीचो रंग, पिंगशे केंस</annotation>
-		<annotation cp="👱🏼‍♂">केंस | दादलो | दादलो : पिंगशे केंस | दादलो: पिंगशे केंस | पिंगशे | पिंगशे केसांचो दादलो | मध्यम-उजळ कातीचो रंग</annotation>
+		<annotation cp="👱🏼‍♂">केंस | दादलो | दादलो : पिंगशे केंस | पिंगशे | पिंगशे केसांचो दादलो | मध्यम-उजळ कातीचो रंग</annotation>
 		<annotation cp="👱🏼‍♂" type="tts">दादलो : मध्यम-उजळ कातीचो रंग, पिंगशे केंस</annotation>
-		<annotation cp="👱🏽‍♂">केंस | दादलो | दादलो : पिंगशे केंस | दादलो: पिंगशे केंस | पिंगशे | पिंगशे केसांचो दादलो | मध्यम कातीचो रंग</annotation>
+		<annotation cp="👱🏽‍♂">केंस | दादलो | दादलो : पिंगशे केंस | पिंगशे | पिंगशे केसांचो दादलो | मध्यम कातीचो रंग</annotation>
 		<annotation cp="👱🏽‍♂" type="tts">दादलो : मध्यम कातीचो रंग, पिंगशे केंस</annotation>
-		<annotation cp="👱🏾‍♂">केंस | दादलो | दादलो : पिंगशे केंस | दादलो: पिंगशे केंस | पिंगशे | पिंगशे केसांचो दादलो | मध्यम-गाढ कातीचो रंग</annotation>
+		<annotation cp="👱🏾‍♂">केंस | दादलो | दादलो : पिंगशे केंस | पिंगशे | पिंगशे केसांचो दादलो | मध्यम-गाढ कातीचो रंग</annotation>
 		<annotation cp="👱🏾‍♂" type="tts">दादलो : मध्यम-गाढ कातीचो रंग, पिंगशे केंस</annotation>
-		<annotation cp="👱🏿‍♂">केंस | गाढ कातीचो रंग | दादलो | दादलो : पिंगशे केंस | दादलो: पिंगशे केंस | पिंगशे | पिंगशे केसांचो दादलो</annotation>
+		<annotation cp="👱🏿‍♂">केंस | गाढ कातीचो रंग | दादलो | दादलो : पिंगशे केंस | पिंगशे | पिंगशे केसांचो दादलो</annotation>
 		<annotation cp="👱🏿‍♂" type="tts">दादलो : गाढ कातीचो रंग, पिंगशे केंस</annotation>
 		<annotation cp="👨🏻‍❤‍💋‍👨🏻">उजळ कातीचो रंग | उमो | जोडपें | दादलो</annotation>
 		<annotation cp="👨🏻‍❤‍💋‍👨🏻" type="tts">उमो: दादलो, दादलो, उजळ कातीचो रंग</annotation>
@@ -798,15 +939,15 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🧔🏾‍♀" type="tts">बायल मनीस: मध्यम-गाढ कातीचो रंग, खाड</annotation>
 		<annotation cp="🧔🏿‍♀">खाड | गाढ कातीचो रंग | बायल | बायल मनीस: खाड</annotation>
 		<annotation cp="🧔🏿‍♀" type="tts">बायल मनीस: गाढ कातीचो रंग, खाड</annotation>
-		<annotation cp="👱🏻‍♀">उजळ कातीचो रंग | केंस | पिंगशे | पिंगशे-केसांची बायल | बायल | बायल : पिंगशे केंस | बायल: पिंगशे केंस</annotation>
+		<annotation cp="👱🏻‍♀">उजळ कातीचो रंग | केंस | पिंगशे | पिंगशे-केसांची बायल | बायल | बायल : पिंगशे केंस</annotation>
 		<annotation cp="👱🏻‍♀" type="tts">बायल : उजळ कातीचो रंग, पिंगशे केंस</annotation>
-		<annotation cp="👱🏼‍♀">केंस | पिंगशे | पिंगशे-केसांची बायल | बायल | बायल : पिंगशे केंस | बायल: पिंगशे केंस | मध्यम-उजळ कातीचो रंग</annotation>
+		<annotation cp="👱🏼‍♀">केंस | पिंगशे | पिंगशे-केसांची बायल | बायल | बायल : पिंगशे केंस | मध्यम-उजळ कातीचो रंग</annotation>
 		<annotation cp="👱🏼‍♀" type="tts">बायल : मध्यम-उजळ कातीचो रंग, पिंगशे केंस</annotation>
-		<annotation cp="👱🏽‍♀">केंस | पिंगशे | पिंगशे-केसांची बायल | बायल | बायल : पिंगशे केंस | बायल: पिंगशे केंस | मध्यम कातीचो रंग</annotation>
+		<annotation cp="👱🏽‍♀">केंस | पिंगशे | पिंगशे-केसांची बायल | बायल | बायल : पिंगशे केंस | मध्यम कातीचो रंग</annotation>
 		<annotation cp="👱🏽‍♀" type="tts">बायल : मध्यम कातीचो रंग, पिंगशे केंस</annotation>
-		<annotation cp="👱🏾‍♀">केंस | पिंगशे | पिंगशे-केसांची बायल | बायल | बायल : पिंगशे केंस | बायल: पिंगशे केंस | मध्यम-गाढ कातीचो रंग</annotation>
+		<annotation cp="👱🏾‍♀">केंस | पिंगशे | पिंगशे-केसांची बायल | बायल | बायल : पिंगशे केंस | मध्यम-गाढ कातीचो रंग</annotation>
 		<annotation cp="👱🏾‍♀" type="tts">बायल : मध्यम-गाढ कातीचो रंग, पिंगशे केंस</annotation>
-		<annotation cp="👱🏿‍♀">केंस | गाढ कातीचो रंग | पिंगशे | पिंगशे-केसांची बायल | बायल | बायल : पिंगशे केंस | बायल: पिंगशे केंस</annotation>
+		<annotation cp="👱🏿‍♀">केंस | गाढ कातीचो रंग | पिंगशे | पिंगशे-केसांची बायल | बायल | बायल : पिंगशे केंस</annotation>
 		<annotation cp="👱🏿‍♀" type="tts">बायल : गाढ कातीचो रंग, पिंगशे केंस</annotation>
 		<annotation cp="👩🏻‍❤‍💋‍👨🏻">उजळ कातीचो रंग | उमो | जोडपें | दादलो | बायल</annotation>
 		<annotation cp="👩🏻‍❤‍💋‍👨🏻" type="tts">उमो: बायल, दादलो, उजळ कातीचो रंग</annotation>
@@ -1056,6 +1197,36 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👩🏾‍🦲" type="tts">बायल: मध्यम-गाढ कातीचो रंग, तकलो</annotation>
 		<annotation cp="👩🏿‍🦲">गाढ कातीचो रंग | तकलो | प्रौढ | बायल</annotation>
 		<annotation cp="👩🏿‍🦲" type="tts">बायल: गाढ कातीचो रंग, तकलो</annotation>
+		<annotation cp="🧓🏻">अउल्लेखीत लिंग | उजळ कातीचो रंग | जाणटो असो मनीस | जाण्टो | जाण्टो मनीस | प्रौढ | लिंग-तटस्थ</annotation>
+		<annotation cp="🧓🏻" type="tts">जाणटो असो मनीस: उजळ कातीचो रंग</annotation>
+		<annotation cp="🧓🏼">अउल्लेखीत लिंग | जाणटो असो मनीस | जाण्टो | जाण्टो मनीस | प्रौढ | मध्यम-उजळ कातीचो रंग | लिंग-तटस्थ</annotation>
+		<annotation cp="🧓🏼" type="tts">जाणटो असो मनीस: मध्यम-उजळ कातीचो रंग</annotation>
+		<annotation cp="🧓🏽">अउल्लेखीत लिंग | जाणटो असो मनीस | जाण्टो | जाण्टो मनीस | प्रौढ | मध्यम कातीचो रंग | लिंग-तटस्थ</annotation>
+		<annotation cp="🧓🏽" type="tts">जाणटो असो मनीस: मध्यम कातीचो रंग</annotation>
+		<annotation cp="🧓🏾">अउल्लेखीत लिंग | जाणटो असो मनीस | जाण्टो | जाण्टो मनीस | प्रौढ | मध्यम-गाढ कातीचो रंग | लिंग-तटस्थ</annotation>
+		<annotation cp="🧓🏾" type="tts">जाणटो असो मनीस: मध्यम-गाढ कातीचो रंग</annotation>
+		<annotation cp="🧓🏿">अउल्लेखीत लिंग | गाढ कातीचो रंग | जाणटो असो मनीस | जाण्टो | जाण्टो मनीस | प्रौढ | लिंग-तटस्थ</annotation>
+		<annotation cp="🧓🏿" type="tts">जाणटो असो मनीस: गाढ कातीचो रंग</annotation>
+		<annotation cp="👴🏻">उजळ कातीचो रंग | जाणटो | प्रौढ | मनीस</annotation>
+		<annotation cp="👴🏻" type="tts">जाणटो मनीस: उजळ कातीचो रंग</annotation>
+		<annotation cp="👴🏼">जाणटो | प्रौढ | मध्यम-उजळ कातीचो रंग | मनीस</annotation>
+		<annotation cp="👴🏼" type="tts">जाणटो मनीस: मध्यम-उजळ कातीचो रंग</annotation>
+		<annotation cp="👴🏽">जाणटो | प्रौढ | मध्यम कातीचो रंग | मनीस</annotation>
+		<annotation cp="👴🏽" type="tts">जाणटो मनीस: मध्यम कातीचो रंग</annotation>
+		<annotation cp="👴🏾">जाणटो | प्रौढ | मध्यम-गाढ कातीचो रंग | मनीस</annotation>
+		<annotation cp="👴🏾" type="tts">जाणटो मनीस: मध्यम-गाढ कातीचो रंग</annotation>
+		<annotation cp="👴🏿">गाढ कातीचो रंग | जाणटो | प्रौढ | मनीस</annotation>
+		<annotation cp="👴🏿" type="tts">जाणटो मनीस: गाढ कातीचो रंग</annotation>
+		<annotation cp="👵🏻">उजळ कातीचो रंग | जाणटी बायल | जाण्टी | प्रौढ | बायल</annotation>
+		<annotation cp="👵🏻" type="tts">जाणटी बायल: उजळ कातीचो रंग</annotation>
+		<annotation cp="👵🏼">जाणटी बायल | जाण्टी | प्रौढ | बायल | मध्यम-उजळ कातीचो रंग</annotation>
+		<annotation cp="👵🏼" type="tts">जाणटी बायल: मध्यम-उजळ कातीचो रंग</annotation>
+		<annotation cp="👵🏽">जाणटी बायल | जाण्टी | प्रौढ | बायल | मध्यम कातीचो रंग</annotation>
+		<annotation cp="👵🏽" type="tts">जाणटी बायल: मध्यम कातीचो रंग</annotation>
+		<annotation cp="👵🏾">जाणटी बायल | जाण्टी | प्रौढ | बायल | मध्यम-गाढ कातीचो रंग</annotation>
+		<annotation cp="👵🏾" type="tts">जाणटी बायल: मध्यम-गाढ कातीचो रंग</annotation>
+		<annotation cp="👵🏿">गाढ कातीचो रंग | जाणटी बायल | जाण्टी | प्रौढ | बायल</annotation>
+		<annotation cp="👵🏿" type="tts">जाणटी बायल: गाढ कातीचो रंग</annotation>
 		<annotation cp="🙍🏻">उजळ कातीचो रंग | मनीस | मनीस रागार जाता | रागार | रागार जाला | हावभाव</annotation>
 		<annotation cp="🙍🏻" type="tts">मनीस रागार जाता: उजळ कातीचो रंग</annotation>
 		<annotation cp="🙍🏼">मध्यम-उजळ कातीचो रंग | मनीस | मनीस रागार जाता | रागार | रागार जाला | हावभाव</annotation>
@@ -1066,25 +1237,25 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🙍🏾" type="tts">मनीस रागार जाता: मध्यम-गाढ कातीचो रंग</annotation>
 		<annotation cp="🙍🏿">गाढ कातीचो रंग | मनीस | मनीस रागार जाता | रागार | रागार जाला | हावभाव</annotation>
 		<annotation cp="🙍🏿" type="tts">मनीस रागार जाता: गाढ कातीचो रंग</annotation>
-		<annotation cp="🙍🏻‍♂">उजळ कातीचो रंग | दादलो | दादलो रागार जाता | रागार जाता | हावभाव</annotation>
+		<annotation cp="🙍🏻‍♂">असंतुश्ट | अस्वस्थ | उजळ कातीचो रंग | चिडचिडें | चिंतेस्त | निरशेल्लो | निराश जाल्लें | मनीस | मुखामळ घुंवडावप | रागार जाल्लो | हावभाव</annotation>
 		<annotation cp="🙍🏻‍♂" type="tts">दादलो रागार जाता: उजळ कातीचो रंग</annotation>
-		<annotation cp="🙍🏼‍♂">दादलो | दादलो रागार जाता | मध्यम-उजळ कातीचो रंग | रागार जाता | हावभाव</annotation>
+		<annotation cp="🙍🏼‍♂">असंतुश्ट | अस्वस्थ | चिडचिडें | चिंतेस्त | निरशेल्लो | निराश जाल्लें | मध्यम-उजळ कातीचो रंग | मनीस | मुखामळ घुंवडावप | रागार जाल्लो | हावभाव</annotation>
 		<annotation cp="🙍🏼‍♂" type="tts">दादलो रागार जाता: मध्यम-उजळ कातीचो रंग</annotation>
-		<annotation cp="🙍🏽‍♂">दादलो | दादलो रागार जाता | मध्यम कातीचो रंग | रागार जाता | हावभाव</annotation>
+		<annotation cp="🙍🏽‍♂">असंतुश्ट | अस्वस्थ | चिडचिडें | चिंतेस्त | निरशेल्लो | निराश जाल्लें | मध्यम कातीचो रंग | मनीस | मुखामळ घुंवडावप | रागार जाल्लो | हावभाव</annotation>
 		<annotation cp="🙍🏽‍♂" type="tts">दादलो रागार जाता: मध्यम कातीचो रंग</annotation>
-		<annotation cp="🙍🏾‍♂">दादलो | दादलो रागार जाता | मध्यम-गाढ कातीचो रंग | रागार जाता | हावभाव</annotation>
+		<annotation cp="🙍🏾‍♂">असंतुश्ट | अस्वस्थ | चिडचिडें | चिंतेस्त | निरशेल्लो | निराश जाल्लें | मध्यम-गाढ कातीचो रंग | मनीस | मुखामळ घुंवडावप | रागार जाल्लो | हावभाव</annotation>
 		<annotation cp="🙍🏾‍♂" type="tts">दादलो रागार जाता: मध्यम-गाढ कातीचो रंग</annotation>
-		<annotation cp="🙍🏿‍♂">गाढ कातीचो रंग | दादलो | दादलो रागार जाता | रागार जाता | हावभाव</annotation>
+		<annotation cp="🙍🏿‍♂">असंतुश्ट | अस्वस्थ | गाढ कातीचो रंग | चिडचिडें | चिंतेस्त | निरशेल्लो | निराश जाल्लें | मनीस | मुखामळ घुंवडावप | रागार जाल्लो | हावभाव</annotation>
 		<annotation cp="🙍🏿‍♂" type="tts">दादलो रागार जाता: गाढ कातीचो रंग</annotation>
-		<annotation cp="🙍🏻‍♀">उजळ कातीचो रंग | बायल | बायल रागार जाता | रागार जाता | हावभाव</annotation>
+		<annotation cp="🙍🏻‍♀">असंतुश्ट | अस्वस्थ | उजळ कातीचो रंग | चिडचिडें | चिंतेस्त | निरशेल्लो | निराश जाल्लें | बायल | मुखामळ घुंवडावप | रागार जाल्लो | हावभाव</annotation>
 		<annotation cp="🙍🏻‍♀" type="tts">बायल रागार जाता: उजळ कातीचो रंग</annotation>
-		<annotation cp="🙍🏼‍♀">बायल | बायल रागार जाता | मध्यम-उजळ कातीचो रंग | रागार जाता | हावभाव</annotation>
+		<annotation cp="🙍🏼‍♀">असंतुश्ट | अस्वस्थ | चिडचिडें | चिंतेस्त | निरशेल्लो | निराश जाल्लें | बायल | मध्यम-उजळ कातीचो रंग | मुखामळ घुंवडावप | रागार जाल्लो | हावभाव</annotation>
 		<annotation cp="🙍🏼‍♀" type="tts">बायल रागार जाता: मध्यम-उजळ कातीचो रंग</annotation>
-		<annotation cp="🙍🏽‍♀">बायल | बायल रागार जाता | मध्यम कातीचो रंग | रागार जाता | हावभाव</annotation>
+		<annotation cp="🙍🏽‍♀">असंतुश्ट | अस्वस्थ | चिडचिडें | चिंतेस्त | निरशेल्लो | निराश जाल्लें | बायल | मध्यम कातीचो रंग | मुखामळ घुंवडावप | रागार जाल्लो | हावभाव</annotation>
 		<annotation cp="🙍🏽‍♀" type="tts">बायल रागार जाता: मध्यम कातीचो रंग</annotation>
-		<annotation cp="🙍🏾‍♀">बायल | बायल रागार जाता | मध्यम-गाढ कातीचो रंग | रागार जाता | हावभाव</annotation>
+		<annotation cp="🙍🏾‍♀">असंतुश्ट | अस्वस्थ | चिडचिडें | चिंतेस्त | निरशेल्लो | निराश जाल्लें | बायल | मध्यम-गाढ कातीचो रंग | मुखामळ घुंवडावप | रागार जाल्लो | हावभाव</annotation>
 		<annotation cp="🙍🏾‍♀" type="tts">बायल रागार जाता: मध्यम-गाढ कातीचो रंग</annotation>
-		<annotation cp="🙍🏿‍♀">गाढ कातीचो रंग | बायल | बायल रागार जाता | रागार जाता | हावभाव</annotation>
+		<annotation cp="🙍🏿‍♀">असंतुश्ट | अस्वस्थ | गाढ कातीचो रंग | चिडचिडें | चिंतेस्त | निरशेल्लो | निराश जाल्लें | बायल | मुखामळ घुंवडावप | रागार जाल्लो | हावभाव</annotation>
 		<annotation cp="🙍🏿‍♀" type="tts">बायल रागार जाता: गाढ कातीचो रंग</annotation>
 		<annotation cp="🙎🏻">उजळ कातीचो रंग | पावट करता | व्यक्ती पावट करता | हावभाव</annotation>
 		<annotation cp="🙎🏻" type="tts">व्यक्ती पावट करता: उजळ कातीचो रंग</annotation>
@@ -1116,65 +1287,65 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🙎🏾‍♀" type="tts">बायल पावट करता: मध्यम-गाढ कातीचो रंग</annotation>
 		<annotation cp="🙎🏿‍♀">गाढ कातीचो रंग | पावट करता | बायल | बायल पावट करता | हावभाव</annotation>
 		<annotation cp="🙎🏿‍♀" type="tts">बायल पावट करता: गाढ कातीचो रंग</annotation>
-		<annotation cp="🙅🏻">उजळ कातीचो रंग | निषिध्द । हावभाव । हात । ना असो हावभाव करपी व्यक्ती । प्रतिबंधीत | व्यक्ती ना असो हावभाव करता</annotation>
+		<annotation cp="🙅🏻">उजळ कातीचो रंग | ना असो हावभाव करपी व्यक्ती | निषिध्द | प्रतिबंधीत | व्यक्ती ना असो हावभाव करता | हात | हावभाव</annotation>
 		<annotation cp="🙅🏻" type="tts">व्यक्ती ना असो हावभाव करता: उजळ कातीचो रंग</annotation>
-		<annotation cp="🙅🏼">निषिध्द । हावभाव । हात । ना असो हावभाव करपी व्यक्ती । प्रतिबंधीत | मध्यम-उजळ कातीचो रंग | व्यक्ती ना असो हावभाव करता</annotation>
+		<annotation cp="🙅🏼">ना असो हावभाव करपी व्यक्ती | निषिध्द | प्रतिबंधीत | मध्यम-उजळ कातीचो रंग | व्यक्ती ना असो हावभाव करता | हात | हावभाव</annotation>
 		<annotation cp="🙅🏼" type="tts">व्यक्ती ना असो हावभाव करता: मध्यम-उजळ कातीचो रंग</annotation>
-		<annotation cp="🙅🏽">निषिध्द । हावभाव । हात । ना असो हावभाव करपी व्यक्ती । प्रतिबंधीत | मध्यम कातीचो रंग | व्यक्ती ना असो हावभाव करता</annotation>
+		<annotation cp="🙅🏽">ना असो हावभाव करपी व्यक्ती | निषिध्द | प्रतिबंधीत | मध्यम कातीचो रंग | व्यक्ती ना असो हावभाव करता | हात | हावभाव</annotation>
 		<annotation cp="🙅🏽" type="tts">व्यक्ती ना असो हावभाव करता: मध्यम कातीचो रंग</annotation>
-		<annotation cp="🙅🏾">निषिध्द । हावभाव । हात । ना असो हावभाव करपी व्यक्ती । प्रतिबंधीत | मध्यम-गाढ कातीचो रंग | व्यक्ती ना असो हावभाव करता</annotation>
+		<annotation cp="🙅🏾">ना असो हावभाव करपी व्यक्ती | निषिध्द | प्रतिबंधीत | मध्यम-गाढ कातीचो रंग | व्यक्ती ना असो हावभाव करता | हात | हावभाव</annotation>
 		<annotation cp="🙅🏾" type="tts">व्यक्ती ना असो हावभाव करता: मध्यम-गाढ कातीचो रंग</annotation>
-		<annotation cp="🙅🏿">गाढ कातीचो रंग | निषिध्द । हावभाव । हात । ना असो हावभाव करपी व्यक्ती । प्रतिबंधीत | व्यक्ती ना असो हावभाव करता</annotation>
+		<annotation cp="🙅🏿">गाढ कातीचो रंग | ना असो हावभाव करपी व्यक्ती | निषिध्द | प्रतिबंधीत | व्यक्ती ना असो हावभाव करता | हात | हावभाव</annotation>
 		<annotation cp="🙅🏿" type="tts">व्यक्ती ना असो हावभाव करता: गाढ कातीचो रंग</annotation>
-		<annotation cp="🙅🏻‍♂">उजळ कातीचो रंग | ना असो हावभाव करपी दादलो | निषिध्द । हावभाव । हात । दादलो । ना असो हावभाव करपी दादलो प्रतिबंधीत</annotation>
+		<annotation cp="🙅🏻‍♂">उजळ कातीचो रंग | ना | निषिद्ध | बंदी घालप | मनीस | हात | हावभाव</annotation>
 		<annotation cp="🙅🏻‍♂" type="tts">ना असो हावभाव करपी दादलो: उजळ कातीचो रंग</annotation>
-		<annotation cp="🙅🏼‍♂">ना असो हावभाव करपी दादलो | निषिध्द । हावभाव । हात । दादलो । ना असो हावभाव करपी दादलो प्रतिबंधीत | मध्यम-उजळ कातीचो रंग</annotation>
+		<annotation cp="🙅🏼‍♂">ना | निषिद्ध | बंदी घालप | मध्यम-उजळ कातीचो रंग | मनीस | हात | हावभाव</annotation>
 		<annotation cp="🙅🏼‍♂" type="tts">ना असो हावभाव करपी दादलो: मध्यम-उजळ कातीचो रंग</annotation>
-		<annotation cp="🙅🏽‍♂">ना असो हावभाव करपी दादलो | निषिध्द । हावभाव । हात । दादलो । ना असो हावभाव करपी दादलो प्रतिबंधीत | मध्यम कातीचो रंग</annotation>
+		<annotation cp="🙅🏽‍♂">ना | निषिद्ध | बंदी घालप | मध्यम कातीचो रंग | मनीस | हात | हावभाव</annotation>
 		<annotation cp="🙅🏽‍♂" type="tts">ना असो हावभाव करपी दादलो: मध्यम कातीचो रंग</annotation>
-		<annotation cp="🙅🏾‍♂">ना असो हावभाव करपी दादलो | निषिध्द । हावभाव । हात । दादलो । ना असो हावभाव करपी दादलो प्रतिबंधीत | मध्यम-गाढ कातीचो रंग</annotation>
+		<annotation cp="🙅🏾‍♂">ना | निषिद्ध | बंदी घालप | मध्यम-गाढ कातीचो रंग | मनीस | हात | हावभाव</annotation>
 		<annotation cp="🙅🏾‍♂" type="tts">ना असो हावभाव करपी दादलो: मध्यम-गाढ कातीचो रंग</annotation>
-		<annotation cp="🙅🏿‍♂">गाढ कातीचो रंग | ना असो हावभाव करपी दादलो | निषिध्द । हावभाव । हात । दादलो । ना असो हावभाव करपी दादलो प्रतिबंधीत</annotation>
+		<annotation cp="🙅🏿‍♂">गाढ कातीचो रंग | ना | निषिद्ध | बंदी घालप | मनीस | हात | हावभाव</annotation>
 		<annotation cp="🙅🏿‍♂" type="tts">ना असो हावभाव करपी दादलो: गाढ कातीचो रंग</annotation>
-		<annotation cp="🙅🏻‍♀">उजळ कातीचो रंग | ना असो हावभाव करपी बायल | निषिध्द । हावभाव । हात । प्रतिबंधीत । बायल । ना असो हावभाव करपी बायल</annotation>
+		<annotation cp="🙅🏻‍♀">उजळ कातीचो रंग | ना असो हावभाव करपी बायल | निषिध्द | प्रतिबंधीत | बायल | हात | हावभाव</annotation>
 		<annotation cp="🙅🏻‍♀" type="tts">ना असो हावभाव करपी बायल: उजळ कातीचो रंग</annotation>
-		<annotation cp="🙅🏼‍♀">ना असो हावभाव करपी बायल | निषिध्द । हावभाव । हात । प्रतिबंधीत । बायल । ना असो हावभाव करपी बायल | मध्यम-उजळ कातीचो रंग</annotation>
+		<annotation cp="🙅🏼‍♀">ना असो हावभाव करपी बायल | निषिध्द | प्रतिबंधीत | बायल | मध्यम-उजळ कातीचो रंग | हात | हावभाव</annotation>
 		<annotation cp="🙅🏼‍♀" type="tts">ना असो हावभाव करपी बायल: मध्यम-उजळ कातीचो रंग</annotation>
-		<annotation cp="🙅🏽‍♀">ना असो हावभाव करपी बायल | निषिध्द । हावभाव । हात । प्रतिबंधीत । बायल । ना असो हावभाव करपी बायल | मध्यम कातीचो रंग</annotation>
+		<annotation cp="🙅🏽‍♀">ना असो हावभाव करपी बायल | निषिध्द | प्रतिबंधीत | बायल | मध्यम कातीचो रंग | हात | हावभाव</annotation>
 		<annotation cp="🙅🏽‍♀" type="tts">ना असो हावभाव करपी बायल: मध्यम कातीचो रंग</annotation>
-		<annotation cp="🙅🏾‍♀">ना असो हावभाव करपी बायल | निषिध्द । हावभाव । हात । प्रतिबंधीत । बायल । ना असो हावभाव करपी बायल | मध्यम-गाढ कातीचो रंग</annotation>
+		<annotation cp="🙅🏾‍♀">ना असो हावभाव करपी बायल | निषिध्द | प्रतिबंधीत | बायल | मध्यम-गाढ कातीचो रंग | हात | हावभाव</annotation>
 		<annotation cp="🙅🏾‍♀" type="tts">ना असो हावभाव करपी बायल: मध्यम-गाढ कातीचो रंग</annotation>
-		<annotation cp="🙅🏿‍♀">गाढ कातीचो रंग | ना असो हावभाव करपी बायल | निषिध्द । हावभाव । हात । प्रतिबंधीत । बायल । ना असो हावभाव करपी बायल</annotation>
+		<annotation cp="🙅🏿‍♀">गाढ कातीचो रंग | ना असो हावभाव करपी बायल | निषिध्द | प्रतिबंधीत | बायल | हात | हावभाव</annotation>
 		<annotation cp="🙅🏿‍♀" type="tts">ना असो हावभाव करपी बायल: गाढ कातीचो रंग</annotation>
-		<annotation cp="🙆🏻">उजळ कातीचो रंग | बरें आसा असो हावभाव करपी व्यक्ती | हावभाव । हात । बरें आसा । बरें आसा असो हावभाव करपी व्यक्ती</annotation>
+		<annotation cp="🙆🏻">उजळ कातीचो रंग | बरें आसा | बरें आसा असो हावभाव करपी व्यक्ती | हात | हावभाव</annotation>
 		<annotation cp="🙆🏻" type="tts">बरें आसा असो हावभाव करपी व्यक्ती: उजळ कातीचो रंग</annotation>
-		<annotation cp="🙆🏼">बरें आसा असो हावभाव करपी व्यक्ती | मध्यम-उजळ कातीचो रंग | हावभाव । हात । बरें आसा । बरें आसा असो हावभाव करपी व्यक्ती</annotation>
+		<annotation cp="🙆🏼">बरें आसा | बरें आसा असो हावभाव करपी व्यक्ती | मध्यम-उजळ कातीचो रंग | हात | हावभाव</annotation>
 		<annotation cp="🙆🏼" type="tts">बरें आसा असो हावभाव करपी व्यक्ती: मध्यम-उजळ कातीचो रंग</annotation>
-		<annotation cp="🙆🏽">बरें आसा असो हावभाव करपी व्यक्ती | मध्यम कातीचो रंग | हावभाव । हात । बरें आसा । बरें आसा असो हावभाव करपी व्यक्ती</annotation>
+		<annotation cp="🙆🏽">बरें आसा | बरें आसा असो हावभाव करपी व्यक्ती | मध्यम कातीचो रंग | हात | हावभाव</annotation>
 		<annotation cp="🙆🏽" type="tts">बरें आसा असो हावभाव करपी व्यक्ती: मध्यम कातीचो रंग</annotation>
-		<annotation cp="🙆🏾">बरें आसा असो हावभाव करपी व्यक्ती | मध्यम-गाढ कातीचो रंग | हावभाव । हात । बरें आसा । बरें आसा असो हावभाव करपी व्यक्ती</annotation>
+		<annotation cp="🙆🏾">बरें आसा | बरें आसा असो हावभाव करपी व्यक्ती | मध्यम-गाढ कातीचो रंग | हात | हावभाव</annotation>
 		<annotation cp="🙆🏾" type="tts">बरें आसा असो हावभाव करपी व्यक्ती: मध्यम-गाढ कातीचो रंग</annotation>
-		<annotation cp="🙆🏿">गाढ कातीचो रंग | बरें आसा असो हावभाव करपी व्यक्ती | हावभाव । हात । बरें आसा । बरें आसा असो हावभाव करपी व्यक्ती</annotation>
+		<annotation cp="🙆🏿">गाढ कातीचो रंग | बरें आसा | बरें आसा असो हावभाव करपी व्यक्ती | हात | हावभाव</annotation>
 		<annotation cp="🙆🏿" type="tts">बरें आसा असो हावभाव करपी व्यक्ती: गाढ कातीचो रंग</annotation>
-		<annotation cp="🙆🏻‍♂">उजळ कातीचो रंग | बरें आसा असो हावभाव करपी दादलो | हावभाव । हात । दादलो । बरें आसा असो हावभाव करपी दादलो । बरें आसा</annotation>
+		<annotation cp="🙆🏻‍♂">उजळ कातीचो रंग | दादलो | बरें आसा | बरें आसा असो हावभाव करपी दादलो | हात | हावभाव</annotation>
 		<annotation cp="🙆🏻‍♂" type="tts">बरें आसा असो हावभाव करपी दादलो: उजळ कातीचो रंग</annotation>
-		<annotation cp="🙆🏼‍♂">बरें आसा असो हावभाव करपी दादलो | मध्यम-उजळ कातीचो रंग | हावभाव । हात । दादलो । बरें आसा असो हावभाव करपी दादलो । बरें आसा</annotation>
+		<annotation cp="🙆🏼‍♂">दादलो | बरें आसा | बरें आसा असो हावभाव करपी दादलो | मध्यम-उजळ कातीचो रंग | हात | हावभाव</annotation>
 		<annotation cp="🙆🏼‍♂" type="tts">बरें आसा असो हावभाव करपी दादलो: मध्यम-उजळ कातीचो रंग</annotation>
-		<annotation cp="🙆🏽‍♂">बरें आसा असो हावभाव करपी दादलो | मध्यम कातीचो रंग | हावभाव । हात । दादलो । बरें आसा असो हावभाव करपी दादलो । बरें आसा</annotation>
+		<annotation cp="🙆🏽‍♂">दादलो | बरें आसा | बरें आसा असो हावभाव करपी दादलो | मध्यम कातीचो रंग | हात | हावभाव</annotation>
 		<annotation cp="🙆🏽‍♂" type="tts">बरें आसा असो हावभाव करपी दादलो: मध्यम कातीचो रंग</annotation>
-		<annotation cp="🙆🏾‍♂">बरें आसा असो हावभाव करपी दादलो | मध्यम-गाढ कातीचो रंग | हावभाव । हात । दादलो । बरें आसा असो हावभाव करपी दादलो । बरें आसा</annotation>
+		<annotation cp="🙆🏾‍♂">दादलो | बरें आसा | बरें आसा असो हावभाव करपी दादलो | मध्यम-गाढ कातीचो रंग | हात | हावभाव</annotation>
 		<annotation cp="🙆🏾‍♂" type="tts">बरें आसा असो हावभाव करपी दादलो: मध्यम-गाढ कातीचो रंग</annotation>
-		<annotation cp="🙆🏿‍♂">गाढ कातीचो रंग | बरें आसा असो हावभाव करपी दादलो | हावभाव । हात । दादलो । बरें आसा असो हावभाव करपी दादलो । बरें आसा</annotation>
+		<annotation cp="🙆🏿‍♂">गाढ कातीचो रंग | दादलो | बरें आसा | बरें आसा असो हावभाव करपी दादलो | हात | हावभाव</annotation>
 		<annotation cp="🙆🏿‍♂" type="tts">बरें आसा असो हावभाव करपी दादलो: गाढ कातीचो रंग</annotation>
-		<annotation cp="🙆🏻‍♀">उजळ कातीचो रंग | बरें आसा असो हावभाव करपी बायल | हावभाव । हात । बरें आसा । बायल । बरें आसा असो हावभाव करपी बायल</annotation>
+		<annotation cp="🙆🏻‍♀">उजळ कातीचो रंग | बरें आसा | बरें आसा असो हावभाव करपी बायल | बायल | हात | हावभाव</annotation>
 		<annotation cp="🙆🏻‍♀" type="tts">बरें आसा असो हावभाव करपी बायल: उजळ कातीचो रंग</annotation>
-		<annotation cp="🙆🏼‍♀">बरें आसा असो हावभाव करपी बायल | मध्यम-उजळ कातीचो रंग | हावभाव । हात । बरें आसा । बायल । बरें आसा असो हावभाव करपी बायल</annotation>
+		<annotation cp="🙆🏼‍♀">बरें आसा | बरें आसा असो हावभाव करपी बायल | बायल | मध्यम-उजळ कातीचो रंग | हात | हावभाव</annotation>
 		<annotation cp="🙆🏼‍♀" type="tts">बरें आसा असो हावभाव करपी बायल: मध्यम-उजळ कातीचो रंग</annotation>
-		<annotation cp="🙆🏽‍♀">बरें आसा असो हावभाव करपी बायल | मध्यम कातीचो रंग | हावभाव । हात । बरें आसा । बायल । बरें आसा असो हावभाव करपी बायल</annotation>
+		<annotation cp="🙆🏽‍♀">बरें आसा | बरें आसा असो हावभाव करपी बायल | बायल | मध्यम कातीचो रंग | हात | हावभाव</annotation>
 		<annotation cp="🙆🏽‍♀" type="tts">बरें आसा असो हावभाव करपी बायल: मध्यम कातीचो रंग</annotation>
-		<annotation cp="🙆🏾‍♀">बरें आसा असो हावभाव करपी बायल | मध्यम-गाढ कातीचो रंग | हावभाव । हात । बरें आसा । बायल । बरें आसा असो हावभाव करपी बायल</annotation>
+		<annotation cp="🙆🏾‍♀">बरें आसा | बरें आसा असो हावभाव करपी बायल | बायल | मध्यम-गाढ कातीचो रंग | हात | हावभाव</annotation>
 		<annotation cp="🙆🏾‍♀" type="tts">बरें आसा असो हावभाव करपी बायल: मध्यम-गाढ कातीचो रंग</annotation>
-		<annotation cp="🙆🏿‍♀">गाढ कातीचो रंग | बरें आसा असो हावभाव करपी बायल | हावभाव । हात । बरें आसा । बायल । बरें आसा असो हावभाव करपी बायल</annotation>
+		<annotation cp="🙆🏿‍♀">गाढ कातीचो रंग | बरें आसा | बरें आसा असो हावभाव करपी बायल | बायल | हात | हावभाव</annotation>
 		<annotation cp="🙆🏿‍♀" type="tts">बरें आसा असो हावभाव करपी बायल: गाढ कातीचो रंग</annotation>
 		<annotation cp="💁🏻">आदार | उजळ कातीचो रंग | ट्रे धरिल्ल्या वेटरावरीं हातमुद्रा | ट्रे धरिल्ल्या वेटरावरीं हातमुद्रा करपी व्यक्ती | बायर हात वयर काडटा | बेबनाव | म्हायती | हात</annotation>
 		<annotation cp="💁🏻" type="tts">बायर हात वयर काडटा: उजळ कातीचो रंग</annotation>
@@ -1186,45 +1357,45 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="💁🏾" type="tts">बायर हात वयर काडटा: मध्यम-गाढ कातीचो रंग</annotation>
 		<annotation cp="💁🏿">आदार | गाढ कातीचो रंग | ट्रे धरिल्ल्या वेटरावरीं हातमुद्रा | ट्रे धरिल्ल्या वेटरावरीं हातमुद्रा करपी व्यक्ती | बायर हात वयर काडटा | बेबनाव | म्हायती | हात</annotation>
 		<annotation cp="💁🏿" type="tts">बायर हात वयर काडटा: गाढ कातीचो रंग</annotation>
-		<annotation cp="💁🏻‍♂">उजळ कातीचो रंग | ट्रे धरिल्ल्या वेटरावरीं हातमुद्रा करपी दादलो | दादलो । ट्रे धरिल्ल्या वेटरावरीं हातमुद्रा करपी दादलो । बेबनाव । ट्रे धरिल्ल्या वेटरावरीं हातमुद्रा करपी दादलो</annotation>
+		<annotation cp="💁🏻‍♂">उजळ कातीचो रंग | ट्रे धरिल्ल्या वेटरावरीं हातमुद्रा करपी दादलो | दादलो | बेबनाव</annotation>
 		<annotation cp="💁🏻‍♂" type="tts">ट्रे धरिल्ल्या वेटरावरीं हातमुद्रा करपी दादलो: उजळ कातीचो रंग</annotation>
-		<annotation cp="💁🏼‍♂">ट्रे धरिल्ल्या वेटरावरीं हातमुद्रा करपी दादलो | दादलो । ट्रे धरिल्ल्या वेटरावरीं हातमुद्रा करपी दादलो । बेबनाव । ट्रे धरिल्ल्या वेटरावरीं हातमुद्रा करपी दादलो | मध्यम-उजळ कातीचो रंग</annotation>
+		<annotation cp="💁🏼‍♂">ट्रे धरिल्ल्या वेटरावरीं हातमुद्रा करपी दादलो | दादलो | बेबनाव | मध्यम-उजळ कातीचो रंग</annotation>
 		<annotation cp="💁🏼‍♂" type="tts">ट्रे धरिल्ल्या वेटरावरीं हातमुद्रा करपी दादलो: मध्यम-उजळ कातीचो रंग</annotation>
-		<annotation cp="💁🏽‍♂">ट्रे धरिल्ल्या वेटरावरीं हातमुद्रा करपी दादलो | दादलो । ट्रे धरिल्ल्या वेटरावरीं हातमुद्रा करपी दादलो । बेबनाव । ट्रे धरिल्ल्या वेटरावरीं हातमुद्रा करपी दादलो | मध्यम कातीचो रंग</annotation>
+		<annotation cp="💁🏽‍♂">ट्रे धरिल्ल्या वेटरावरीं हातमुद्रा करपी दादलो | दादलो | बेबनाव | मध्यम कातीचो रंग</annotation>
 		<annotation cp="💁🏽‍♂" type="tts">ट्रे धरिल्ल्या वेटरावरीं हातमुद्रा करपी दादलो: मध्यम कातीचो रंग</annotation>
-		<annotation cp="💁🏾‍♂">ट्रे धरिल्ल्या वेटरावरीं हातमुद्रा करपी दादलो | दादलो । ट्रे धरिल्ल्या वेटरावरीं हातमुद्रा करपी दादलो । बेबनाव । ट्रे धरिल्ल्या वेटरावरीं हातमुद्रा करपी दादलो | मध्यम-गाढ कातीचो रंग</annotation>
+		<annotation cp="💁🏾‍♂">ट्रे धरिल्ल्या वेटरावरीं हातमुद्रा करपी दादलो | दादलो | बेबनाव | मध्यम-गाढ कातीचो रंग</annotation>
 		<annotation cp="💁🏾‍♂" type="tts">ट्रे धरिल्ल्या वेटरावरीं हातमुद्रा करपी दादलो: मध्यम-गाढ कातीचो रंग</annotation>
-		<annotation cp="💁🏿‍♂">गाढ कातीचो रंग | ट्रे धरिल्ल्या वेटरावरीं हातमुद्रा करपी दादलो | दादलो । ट्रे धरिल्ल्या वेटरावरीं हातमुद्रा करपी दादलो । बेबनाव । ट्रे धरिल्ल्या वेटरावरीं हातमुद्रा करपी दादलो</annotation>
+		<annotation cp="💁🏿‍♂">गाढ कातीचो रंग | ट्रे धरिल्ल्या वेटरावरीं हातमुद्रा करपी दादलो | दादलो | बेबनाव</annotation>
 		<annotation cp="💁🏿‍♂" type="tts">ट्रे धरिल्ल्या वेटरावरीं हातमुद्रा करपी दादलो: गाढ कातीचो रंग</annotation>
-		<annotation cp="💁🏻‍♀">उजळ कातीचो रंग | ट्रे धरिल्ल्या वेटरावरीं हातमुद्रा | ट्रे धरिल्ल्या वेटरावरीं हातमुद्रा करपी व्यक्ती | बायल | बायल हात वयर काडटा | बेबनाव</annotation>
+		<annotation cp="💁🏻‍♀">उजळ कातीचो रंग | ट्रे धरिल्ल्या वेटरावरीं हातमुद्रा | बायल | बायल हात वयर काडटा | बेबनाव</annotation>
 		<annotation cp="💁🏻‍♀" type="tts">बायल हात वयर काडटा: उजळ कातीचो रंग</annotation>
-		<annotation cp="💁🏼‍♀">ट्रे धरिल्ल्या वेटरावरीं हातमुद्रा | ट्रे धरिल्ल्या वेटरावरीं हातमुद्रा करपी व्यक्ती | बायल | बायल हात वयर काडटा | बेबनाव | मध्यम-उजळ कातीचो रंग</annotation>
+		<annotation cp="💁🏼‍♀">ट्रे धरिल्ल्या वेटरावरीं हातमुद्रा | बायल | बायल हात वयर काडटा | बेबनाव | मध्यम-उजळ कातीचो रंग</annotation>
 		<annotation cp="💁🏼‍♀" type="tts">बायल हात वयर काडटा: मध्यम-उजळ कातीचो रंग</annotation>
-		<annotation cp="💁🏽‍♀">ट्रे धरिल्ल्या वेटरावरीं हातमुद्रा | ट्रे धरिल्ल्या वेटरावरीं हातमुद्रा करपी व्यक्ती | बायल | बायल हात वयर काडटा | बेबनाव | मध्यम कातीचो रंग</annotation>
+		<annotation cp="💁🏽‍♀">ट्रे धरिल्ल्या वेटरावरीं हातमुद्रा | बायल | बायल हात वयर काडटा | बेबनाव | मध्यम कातीचो रंग</annotation>
 		<annotation cp="💁🏽‍♀" type="tts">बायल हात वयर काडटा: मध्यम कातीचो रंग</annotation>
-		<annotation cp="💁🏾‍♀">ट्रे धरिल्ल्या वेटरावरीं हातमुद्रा | ट्रे धरिल्ल्या वेटरावरीं हातमुद्रा करपी व्यक्ती | बायल | बायल हात वयर काडटा | बेबनाव | मध्यम-गाढ कातीचो रंग</annotation>
+		<annotation cp="💁🏾‍♀">ट्रे धरिल्ल्या वेटरावरीं हातमुद्रा | बायल | बायल हात वयर काडटा | बेबनाव | मध्यम-गाढ कातीचो रंग</annotation>
 		<annotation cp="💁🏾‍♀" type="tts">बायल हात वयर काडटा: मध्यम-गाढ कातीचो रंग</annotation>
-		<annotation cp="💁🏿‍♀">गाढ कातीचो रंग | ट्रे धरिल्ल्या वेटरावरीं हातमुद्रा | ट्रे धरिल्ल्या वेटरावरीं हातमुद्रा करपी व्यक्ती | बायल | बायल हात वयर काडटा | बेबनाव</annotation>
+		<annotation cp="💁🏿‍♀">गाढ कातीचो रंग | ट्रे धरिल्ल्या वेटरावरीं हातमुद्रा | बायल | बायल हात वयर काडटा | बेबनाव</annotation>
 		<annotation cp="💁🏿‍♀" type="tts">बायल हात वयर काडटा: गाढ कातीचो रंग</annotation>
-		<annotation cp="🙋🏻">उजळ कातीचो रंग | व्यक्ती हात वयर काडटा | हावभाव। हात। खुशाल। व्यक्ती हात वयर काडटा। वयर काडला</annotation>
+		<annotation cp="🙋🏻">उजळ कातीचो रंग | खुशाल | वयर काडला | व्यक्ती हात वयर काडटा | हात | हावभाव</annotation>
 		<annotation cp="🙋🏻" type="tts">व्यक्ती हात वयर काडटा: उजळ कातीचो रंग</annotation>
-		<annotation cp="🙋🏼">मध्यम-उजळ कातीचो रंग | व्यक्ती हात वयर काडटा | हावभाव। हात। खुशाल। व्यक्ती हात वयर काडटा। वयर काडला</annotation>
+		<annotation cp="🙋🏼">खुशाल | मध्यम-उजळ कातीचो रंग | वयर काडला | व्यक्ती हात वयर काडटा | हात | हावभाव</annotation>
 		<annotation cp="🙋🏼" type="tts">व्यक्ती हात वयर काडटा: मध्यम-उजळ कातीचो रंग</annotation>
-		<annotation cp="🙋🏽">मध्यम कातीचो रंग | व्यक्ती हात वयर काडटा | हावभाव। हात। खुशाल। व्यक्ती हात वयर काडटा। वयर काडला</annotation>
+		<annotation cp="🙋🏽">खुशाल | मध्यम कातीचो रंग | वयर काडला | व्यक्ती हात वयर काडटा | हात | हावभाव</annotation>
 		<annotation cp="🙋🏽" type="tts">व्यक्ती हात वयर काडटा: मध्यम कातीचो रंग</annotation>
-		<annotation cp="🙋🏾">मध्यम-गाढ कातीचो रंग | व्यक्ती हात वयर काडटा | हावभाव। हात। खुशाल। व्यक्ती हात वयर काडटा। वयर काडला</annotation>
+		<annotation cp="🙋🏾">खुशाल | मध्यम-गाढ कातीचो रंग | वयर काडला | व्यक्ती हात वयर काडटा | हात | हावभाव</annotation>
 		<annotation cp="🙋🏾" type="tts">व्यक्ती हात वयर काडटा: मध्यम-गाढ कातीचो रंग</annotation>
-		<annotation cp="🙋🏿">गाढ कातीचो रंग | व्यक्ती हात वयर काडटा | हावभाव। हात। खुशाल। व्यक्ती हात वयर काडटा। वयर काडला</annotation>
+		<annotation cp="🙋🏿">खुशाल | गाढ कातीचो रंग | वयर काडला | व्यक्ती हात वयर काडटा | हात | हावभाव</annotation>
 		<annotation cp="🙋🏿" type="tts">व्यक्ती हात वयर काडटा: गाढ कातीचो रंग</annotation>
-		<annotation cp="🙋🏻‍♂">उजळ कातीचो रंग | दादलो हात वयर काडटा | हावभाव। दादलो। दादलो हात वयर काडटा। हात वयर काडटा</annotation>
+		<annotation cp="🙋🏻‍♂">उजळ कातीचो रंग | दादलो | दादलो हात वयर काडटा | हात वयर काडटा | हावभाव</annotation>
 		<annotation cp="🙋🏻‍♂" type="tts">दादलो हात वयर काडटा: उजळ कातीचो रंग</annotation>
-		<annotation cp="🙋🏼‍♂">दादलो हात वयर काडटा | मध्यम-उजळ कातीचो रंग | हावभाव। दादलो। दादलो हात वयर काडटा। हात वयर काडटा</annotation>
+		<annotation cp="🙋🏼‍♂">दादलो | दादलो हात वयर काडटा | मध्यम-उजळ कातीचो रंग | हात वयर काडटा | हावभाव</annotation>
 		<annotation cp="🙋🏼‍♂" type="tts">दादलो हात वयर काडटा: मध्यम-उजळ कातीचो रंग</annotation>
-		<annotation cp="🙋🏽‍♂">दादलो हात वयर काडटा | मध्यम कातीचो रंग | हावभाव। दादलो। दादलो हात वयर काडटा। हात वयर काडटा</annotation>
+		<annotation cp="🙋🏽‍♂">दादलो | दादलो हात वयर काडटा | मध्यम कातीचो रंग | हात वयर काडटा | हावभाव</annotation>
 		<annotation cp="🙋🏽‍♂" type="tts">दादलो हात वयर काडटा: मध्यम कातीचो रंग</annotation>
-		<annotation cp="🙋🏾‍♂">दादलो हात वयर काडटा | मध्यम-गाढ कातीचो रंग | हावभाव। दादलो। दादलो हात वयर काडटा। हात वयर काडटा</annotation>
+		<annotation cp="🙋🏾‍♂">दादलो | दादलो हात वयर काडटा | मध्यम-गाढ कातीचो रंग | हात वयर काडटा | हावभाव</annotation>
 		<annotation cp="🙋🏾‍♂" type="tts">दादलो हात वयर काडटा: मध्यम-गाढ कातीचो रंग</annotation>
-		<annotation cp="🙋🏿‍♂">गाढ कातीचो रंग | दादलो हात वयर काडटा | हावभाव। दादलो। दादलो हात वयर काडटा। हात वयर काडटा</annotation>
+		<annotation cp="🙋🏿‍♂">गाढ कातीचो रंग | दादलो | दादलो हात वयर काडटा | हात वयर काडटा | हावभाव</annotation>
 		<annotation cp="🙋🏿‍♂" type="tts">दादलो हात वयर काडटा: गाढ कातीचो रंग</annotation>
 		<annotation cp="🙋🏻‍♀">उजळ कातीचो रंग | बायल | बायल हात उबारता | बायल हात वयर काडटा | हात वयर काडटा | हावभाव</annotation>
 		<annotation cp="🙋🏻‍♀" type="tts">बायल हात उबारता: उजळ कातीचो रंग</annotation>
@@ -1336,25 +1507,25 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🤷🏾" type="tts">खांद उबारून आपूण न्हय असो हावभाव करपी व्यक्ती: मध्यम-गाढ कातीचो रंग</annotation>
 		<annotation cp="🤷🏿">उदासीनता | खांद उबारून आपूण न्हय असो हावभाव करपी व्यक्ती | खांद उबारून नकळो म्हूण केल्लो हावभाव | गाढ कातीचो रंग | दुबाव | दुर्लक्ष</annotation>
 		<annotation cp="🤷🏿" type="tts">खांद उबारून आपूण न्हय असो हावभाव करपी व्यक्ती: गाढ कातीचो रंग</annotation>
-		<annotation cp="🤷🏻‍♂">उजळ कातीचो रंग | उदासीनता | खांद उबारून आपूण न्हय असो हावभाव करपी दादलो | खांद उबारून आपूण न्हय वा आपूण नकळो असो हावभाव करपी दादलो | खांद उबारून नकळो म्हूण केल्लो हावभाव | दादलो | दुबाव | दुर्लक्ष | बेपरवाय</annotation>
+		<annotation cp="🤷🏻‍♂">उजळ कातीचो रंग | खांद उबारून आपूण न्हय वा आपूण नकळो असो हावभाव करपी दादलो | खांद उबारून नकळो म्हूण केल्लो हावभाव | दादलो | दुबाव | दुर्लक्ष</annotation>
 		<annotation cp="🤷🏻‍♂" type="tts">खांद उबारून आपूण न्हय वा आपूण नकळो असो हावभाव करपी दादलो: उजळ कातीचो रंग</annotation>
-		<annotation cp="🤷🏼‍♂">उदासीनता | खांद उबारून आपूण न्हय असो हावभाव करपी दादलो | खांद उबारून आपूण न्हय वा आपूण नकळो असो हावभाव करपी दादलो | खांद उबारून नकळो म्हूण केल्लो हावभाव | दादलो | दुबाव | दुर्लक्ष | बेपरवाय | मध्यम-उजळ कातीचो रंग</annotation>
+		<annotation cp="🤷🏼‍♂">खांद उबारून आपूण न्हय वा आपूण नकळो असो हावभाव करपी दादलो | खांद उबारून नकळो म्हूण केल्लो हावभाव | दादलो | दुबाव | दुर्लक्ष | मध्यम-उजळ कातीचो रंग</annotation>
 		<annotation cp="🤷🏼‍♂" type="tts">खांद उबारून आपूण न्हय वा आपूण नकळो असो हावभाव करपी दादलो: मध्यम-उजळ कातीचो रंग</annotation>
-		<annotation cp="🤷🏽‍♂">उदासीनता | खांद उबारून आपूण न्हय असो हावभाव करपी दादलो | खांद उबारून आपूण न्हय वा आपूण नकळो असो हावभाव करपी दादलो | खांद उबारून नकळो म्हूण केल्लो हावभाव | दादलो | दुबाव | दुर्लक्ष | बेपरवाय | मध्यम कातीचो रंग</annotation>
+		<annotation cp="🤷🏽‍♂">खांद उबारून आपूण न्हय वा आपूण नकळो असो हावभाव करपी दादलो | खांद उबारून नकळो म्हूण केल्लो हावभाव | दादलो | दुबाव | दुर्लक्ष | मध्यम कातीचो रंग</annotation>
 		<annotation cp="🤷🏽‍♂" type="tts">खांद उबारून आपूण न्हय वा आपूण नकळो असो हावभाव करपी दादलो: मध्यम कातीचो रंग</annotation>
-		<annotation cp="🤷🏾‍♂">उदासीनता | खांद उबारून आपूण न्हय असो हावभाव करपी दादलो | खांद उबारून आपूण न्हय वा आपूण नकळो असो हावभाव करपी दादलो | खांद उबारून नकळो म्हूण केल्लो हावभाव | दादलो | दुबाव | दुर्लक्ष | बेपरवाय | मध्यम-गाढ कातीचो रंग</annotation>
+		<annotation cp="🤷🏾‍♂">खांद उबारून आपूण न्हय वा आपूण नकळो असो हावभाव करपी दादलो | खांद उबारून नकळो म्हूण केल्लो हावभाव | दादलो | दुबाव | दुर्लक्ष | मध्यम-गाढ कातीचो रंग</annotation>
 		<annotation cp="🤷🏾‍♂" type="tts">खांद उबारून आपूण न्हय वा आपूण नकळो असो हावभाव करपी दादलो: मध्यम-गाढ कातीचो रंग</annotation>
-		<annotation cp="🤷🏿‍♂">उदासीनता | खांद उबारून आपूण न्हय असो हावभाव करपी दादलो | खांद उबारून आपूण न्हय वा आपूण नकळो असो हावभाव करपी दादलो | खांद उबारून नकळो म्हूण केल्लो हावभाव | गाढ कातीचो रंग | दादलो | दुबाव | दुर्लक्ष | बेपरवाय</annotation>
+		<annotation cp="🤷🏿‍♂">खांद उबारून आपूण न्हय वा आपूण नकळो असो हावभाव करपी दादलो | खांद उबारून नकळो म्हूण केल्लो हावभाव | गाढ कातीचो रंग | दादलो | दुबाव | दुर्लक्ष</annotation>
 		<annotation cp="🤷🏿‍♂" type="tts">खांद उबारून आपूण न्हय वा आपूण नकळो असो हावभाव करपी दादलो: गाढ कातीचो रंग</annotation>
-		<annotation cp="🤷🏻‍♀">उजळ कातीचो रंग | उदासीनता | खांद उबारून आपूण न्हय असो हावभाव करपी बायल | खांद उबारून आपूण न्हय वा आपूण नकळो असो हावभाव करपी बायल | खांद उबारून नकळो म्हूण केल्लो हावभाव | दुबाव | दुर्लक्ष | बायल | बेपरवाय</annotation>
+		<annotation cp="🤷🏻‍♀">idk | अज्ञान | अदमास काडचो | उजळ कातीचो रंग | उदासीनताय | खांदो वळोवप | घडये | जाणात | जें कितें | जो | दुन्नो | दुबाव | बायल</annotation>
 		<annotation cp="🤷🏻‍♀" type="tts">खांद उबारून आपूण न्हय वा आपूण नकळो असो हावभाव करपी बायल: उजळ कातीचो रंग</annotation>
-		<annotation cp="🤷🏼‍♀">उदासीनता | खांद उबारून आपूण न्हय असो हावभाव करपी बायल | खांद उबारून आपूण न्हय वा आपूण नकळो असो हावभाव करपी बायल | खांद उबारून नकळो म्हूण केल्लो हावभाव | दुबाव | दुर्लक्ष | बायल | बेपरवाय | मध्यम-उजळ कातीचो रंग</annotation>
+		<annotation cp="🤷🏼‍♀">idk | अज्ञान | अदमास काडचो | उदासीनताय | खांदो वळोवप | घडये | जाणात | जें कितें | जो | दुन्नो | दुबाव | बायल | मध्यम-उजळ कातीचो रंग</annotation>
 		<annotation cp="🤷🏼‍♀" type="tts">खांद उबारून आपूण न्हय वा आपूण नकळो असो हावभाव करपी बायल: मध्यम-उजळ कातीचो रंग</annotation>
-		<annotation cp="🤷🏽‍♀">उदासीनता | खांद उबारून आपूण न्हय असो हावभाव करपी बायल | खांद उबारून आपूण न्हय वा आपूण नकळो असो हावभाव करपी बायल | खांद उबारून नकळो म्हूण केल्लो हावभाव | दुबाव | दुर्लक्ष | बायल | बेपरवाय | मध्यम कातीचो रंग</annotation>
+		<annotation cp="🤷🏽‍♀">idk | अज्ञान | अदमास काडचो | उदासीनताय | खांदो वळोवप | घडये | जाणात | जें कितें | जो | दुन्नो | दुबाव | बायल | मध्यम कातीचो रंग</annotation>
 		<annotation cp="🤷🏽‍♀" type="tts">खांद उबारून आपूण न्हय वा आपूण नकळो असो हावभाव करपी बायल: मध्यम कातीचो रंग</annotation>
-		<annotation cp="🤷🏾‍♀">उदासीनता | खांद उबारून आपूण न्हय असो हावभाव करपी बायल | खांद उबारून आपूण न्हय वा आपूण नकळो असो हावभाव करपी बायल | खांद उबारून नकळो म्हूण केल्लो हावभाव | दुबाव | दुर्लक्ष | बायल | बेपरवाय | मध्यम-गाढ कातीचो रंग</annotation>
+		<annotation cp="🤷🏾‍♀">idk | अज्ञान | अदमास काडचो | उदासीनताय | खांदो वळोवप | घडये | जाणात | जें कितें | जो | दुन्नो | दुबाव | बायल | मध्यम-गाढ कातीचो रंग</annotation>
 		<annotation cp="🤷🏾‍♀" type="tts">खांद उबारून आपूण न्हय वा आपूण नकळो असो हावभाव करपी बायल: मध्यम-गाढ कातीचो रंग</annotation>
-		<annotation cp="🤷🏿‍♀">उदासीनता | खांद उबारून आपूण न्हय असो हावभाव करपी बायल | खांद उबारून आपूण न्हय वा आपूण नकळो असो हावभाव करपी बायल | खांद उबारून नकळो म्हूण केल्लो हावभाव | गाढ कातीचो रंग | दुबाव | दुर्लक्ष | बायल | बेपरवाय</annotation>
+		<annotation cp="🤷🏿‍♀">idk | अज्ञान | अदमास काडचो | उदासीनताय | खांदो वळोवप | गाढ कातीचो रंग | घडये | जाणात | जें कितें | जो | दुन्नो | दुबाव | बायल</annotation>
 		<annotation cp="🤷🏿‍♀" type="tts">खांद उबारून आपूण न्हय वा आपूण नकळो असो हावभाव करपी बायल: गाढ कातीचो रंग</annotation>
 		<annotation cp="🧑🏻‍⚕">उजळ कातीचो रंग | थॅरापिस्ट | दोतोर | नर्स | भलायकी कर्मचारी | भलायकी जतन</annotation>
 		<annotation cp="🧑🏻‍⚕" type="tts">भलायकी कर्मचारी: उजळ कातीचो रंग</annotation>
@@ -1566,35 +1737,35 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👩🏾‍🔧" type="tts">बायल मॅकानीक: मध्यम-गाढ कातीचो रंग</annotation>
 		<annotation cp="👩🏿‍🔧">इलॅक्ट्रिशियन | गाढ कातीचो रंग | प्लम्बर | बायल | मॅकानीक | वेपारी</annotation>
 		<annotation cp="👩🏿‍🔧" type="tts">बायल मॅकानीक: गाढ कातीचो रंग</annotation>
-		<annotation cp="🧑🏻‍🏭">असॅम्बली। फॅक्ट्री। उद्येगधंदो। कामगार | उजळ कातीचो रंग | फॅक्ट्री कामगार</annotation>
+		<annotation cp="🧑🏻‍🏭">असॅम्बली | उजळ कातीचो रंग | उद्येगधंदो | कामगार | फॅक्ट्री</annotation>
 		<annotation cp="🧑🏻‍🏭" type="tts">फॅक्ट्री कामगार: उजळ कातीचो रंग</annotation>
-		<annotation cp="🧑🏼‍🏭">असॅम्बली। फॅक्ट्री। उद्येगधंदो। कामगार | फॅक्ट्री कामगार | मध्यम-उजळ कातीचो रंग</annotation>
+		<annotation cp="🧑🏼‍🏭">असॅम्बली | उद्येगधंदो | कामगार | फॅक्ट्री | मध्यम-उजळ कातीचो रंग</annotation>
 		<annotation cp="🧑🏼‍🏭" type="tts">फॅक्ट्री कामगार: मध्यम-उजळ कातीचो रंग</annotation>
-		<annotation cp="🧑🏽‍🏭">असॅम्बली। फॅक्ट्री। उद्येगधंदो। कामगार | फॅक्ट्री कामगार | मध्यम कातीचो रंग</annotation>
+		<annotation cp="🧑🏽‍🏭">असॅम्बली | उद्येगधंदो | कामगार | फॅक्ट्री | मध्यम कातीचो रंग</annotation>
 		<annotation cp="🧑🏽‍🏭" type="tts">फॅक्ट्री कामगार: मध्यम कातीचो रंग</annotation>
-		<annotation cp="🧑🏾‍🏭">असॅम्बली। फॅक्ट्री। उद्येगधंदो। कामगार | फॅक्ट्री कामगार | मध्यम-गाढ कातीचो रंग</annotation>
+		<annotation cp="🧑🏾‍🏭">असॅम्बली | उद्येगधंदो | कामगार | फॅक्ट्री | मध्यम-गाढ कातीचो रंग</annotation>
 		<annotation cp="🧑🏾‍🏭" type="tts">फॅक्ट्री कामगार: मध्यम-गाढ कातीचो रंग</annotation>
-		<annotation cp="🧑🏿‍🏭">असॅम्बली। फॅक्ट्री। उद्येगधंदो। कामगार | गाढ कातीचो रंग | फॅक्ट्री कामगार</annotation>
+		<annotation cp="🧑🏿‍🏭">असॅम्बली | उद्येगधंदो | कामगार | गाढ कातीचो रंग | फॅक्ट्री</annotation>
 		<annotation cp="🧑🏿‍🏭" type="tts">फॅक्ट्री कामगार: गाढ कातीचो रंग</annotation>
-		<annotation cp="👨🏻‍🏭">असॅम्बली। फॅक्ट्री। उद्येगधंदो। दादलो। कामगार | उजळ कातीचो रंग | दादलो फॅक्ट्री कामगार</annotation>
+		<annotation cp="👨🏻‍🏭">असॅम्बली | उजळ कातीचो रंग | उद्येगधंदो | कामगार | दादलो | फॅक्ट्री</annotation>
 		<annotation cp="👨🏻‍🏭" type="tts">दादलो फॅक्ट्री कामगार: उजळ कातीचो रंग</annotation>
-		<annotation cp="👨🏼‍🏭">असॅम्बली। फॅक्ट्री। उद्येगधंदो। दादलो। कामगार | दादलो फॅक्ट्री कामगार | मध्यम-उजळ कातीचो रंग</annotation>
+		<annotation cp="👨🏼‍🏭">असॅम्बली | उद्येगधंदो | कामगार | दादलो | फॅक्ट्री | मध्यम-उजळ कातीचो रंग</annotation>
 		<annotation cp="👨🏼‍🏭" type="tts">दादलो फॅक्ट्री कामगार: मध्यम-उजळ कातीचो रंग</annotation>
-		<annotation cp="👨🏽‍🏭">असॅम्बली। फॅक्ट्री। उद्येगधंदो। दादलो। कामगार | दादलो फॅक्ट्री कामगार | मध्यम कातीचो रंग</annotation>
+		<annotation cp="👨🏽‍🏭">असॅम्बली | उद्येगधंदो | कामगार | दादलो | फॅक्ट्री | मध्यम कातीचो रंग</annotation>
 		<annotation cp="👨🏽‍🏭" type="tts">दादलो फॅक्ट्री कामगार: मध्यम कातीचो रंग</annotation>
-		<annotation cp="👨🏾‍🏭">असॅम्बली। फॅक्ट्री। उद्येगधंदो। दादलो। कामगार | दादलो फॅक्ट्री कामगार | मध्यम-गाढ कातीचो रंग</annotation>
+		<annotation cp="👨🏾‍🏭">असॅम्बली | उद्येगधंदो | कामगार | दादलो | फॅक्ट्री | मध्यम-गाढ कातीचो रंग</annotation>
 		<annotation cp="👨🏾‍🏭" type="tts">दादलो फॅक्ट्री कामगार: मध्यम-गाढ कातीचो रंग</annotation>
-		<annotation cp="👨🏿‍🏭">असॅम्बली। फॅक्ट्री। उद्येगधंदो। दादलो। कामगार | गाढ कातीचो रंग | दादलो फॅक्ट्री कामगार</annotation>
+		<annotation cp="👨🏿‍🏭">असॅम्बली | उद्येगधंदो | कामगार | गाढ कातीचो रंग | दादलो | फॅक्ट्री</annotation>
 		<annotation cp="👨🏿‍🏭" type="tts">दादलो फॅक्ट्री कामगार: गाढ कातीचो रंग</annotation>
-		<annotation cp="👩🏻‍🏭">असॅम्बली। फॅक्ट्री। उद्येगधंदो। बायल। कामगार | उजळ कातीचो रंग | बायल फॅक्ट्री कामगार</annotation>
+		<annotation cp="👩🏻‍🏭">असॅम्बली | उजळ कातीचो रंग | उद्येगधंदो | कामगार | फॅक्ट्री | बायल</annotation>
 		<annotation cp="👩🏻‍🏭" type="tts">बायल फॅक्ट्री कामगार: उजळ कातीचो रंग</annotation>
-		<annotation cp="👩🏼‍🏭">असॅम्बली। फॅक्ट्री। उद्येगधंदो। बायल। कामगार | बायल फॅक्ट्री कामगार | मध्यम-उजळ कातीचो रंग</annotation>
+		<annotation cp="👩🏼‍🏭">असॅम्बली | उद्येगधंदो | कामगार | फॅक्ट्री | बायल | मध्यम-उजळ कातीचो रंग</annotation>
 		<annotation cp="👩🏼‍🏭" type="tts">बायल फॅक्ट्री कामगार: मध्यम-उजळ कातीचो रंग</annotation>
-		<annotation cp="👩🏽‍🏭">असॅम्बली। फॅक्ट्री। उद्येगधंदो। बायल। कामगार | बायल फॅक्ट्री कामगार | मध्यम कातीचो रंग</annotation>
+		<annotation cp="👩🏽‍🏭">असॅम्बली | उद्येगधंदो | कामगार | फॅक्ट्री | बायल | मध्यम कातीचो रंग</annotation>
 		<annotation cp="👩🏽‍🏭" type="tts">बायल फॅक्ट्री कामगार: मध्यम कातीचो रंग</annotation>
-		<annotation cp="👩🏾‍🏭">असॅम्बली। फॅक्ट्री। उद्येगधंदो। बायल। कामगार | बायल फॅक्ट्री कामगार | मध्यम-गाढ कातीचो रंग</annotation>
+		<annotation cp="👩🏾‍🏭">असॅम्बली | उद्येगधंदो | कामगार | फॅक्ट्री | बायल | मध्यम-गाढ कातीचो रंग</annotation>
 		<annotation cp="👩🏾‍🏭" type="tts">बायल फॅक्ट्री कामगार: मध्यम-गाढ कातीचो रंग</annotation>
-		<annotation cp="👩🏿‍🏭">असॅम्बली। फॅक्ट्री। उद्येगधंदो। बायल। कामगार | गाढ कातीचो रंग | बायल फॅक्ट्री कामगार</annotation>
+		<annotation cp="👩🏿‍🏭">असॅम्बली | उद्येगधंदो | कामगार | गाढ कातीचो रंग | फॅक्ट्री | बायल</annotation>
 		<annotation cp="👩🏿‍🏭" type="tts">बायल फॅक्ट्री कामगार: गाढ कातीचो रंग</annotation>
 		<annotation cp="🧑🏻‍💼">उजळ कातीचो रंग | ऑफिस कर्मचारी | कचेरेंतलो कर्मचारी | कचेरेंतलो कामगार | मॅनेजर | वास्तुशास्त्रज्ञ | वास्तुशिल्पशास्त्रज्ञ | वेवसाय</annotation>
 		<annotation cp="🧑🏻‍💼" type="tts">कचेरेंतलो कर्मचारी: उजळ कातीचो रंग</annotation>
@@ -1646,15 +1817,15 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👨🏾‍🔬" type="tts">दादलो शास्त्रज्ञ: मध्यम-गाढ कातीचो रंग</annotation>
 		<annotation cp="👨🏿‍🔬">इंजिनियर | गाढ कातीचो रंग | जीवशास्त्रज्ञ | दादलो | फिजिसिस्ट | रसायनशास्त्रज्ञ | शास्त्रज्ञ</annotation>
 		<annotation cp="👨🏿‍🔬" type="tts">दादलो शास्त्रज्ञ: गाढ कातीचो रंग</annotation>
-		<annotation cp="👩🏻‍🔬">उजळ कातीचो रंग | बायल शास्त्रज्ञ</annotation>
+		<annotation cp="👩🏻‍🔬">अभियंतो | उजळ कातीचो रंग | गणीततज्ञ | जीवशास्त्रज्ञ | बायल | भौतिकशास्त्रज्ञ | रसायनशास्त्रज्ञ | शास्त्रज्ञ</annotation>
 		<annotation cp="👩🏻‍🔬" type="tts">बायल शास्त्रज्ञ: उजळ कातीचो रंग</annotation>
-		<annotation cp="👩🏼‍🔬">बायल शास्त्रज्ञ | मध्यम-उजळ कातीचो रंग</annotation>
+		<annotation cp="👩🏼‍🔬">अभियंतो | गणीततज्ञ | जीवशास्त्रज्ञ | बायल | भौतिकशास्त्रज्ञ | मध्यम-उजळ कातीचो रंग | रसायनशास्त्रज्ञ | शास्त्रज्ञ</annotation>
 		<annotation cp="👩🏼‍🔬" type="tts">बायल शास्त्रज्ञ: मध्यम-उजळ कातीचो रंग</annotation>
-		<annotation cp="👩🏽‍🔬">बायल शास्त्रज्ञ | मध्यम कातीचो रंग</annotation>
+		<annotation cp="👩🏽‍🔬">अभियंतो | गणीततज्ञ | जीवशास्त्रज्ञ | बायल | भौतिकशास्त्रज्ञ | मध्यम कातीचो रंग | रसायनशास्त्रज्ञ | शास्त्रज्ञ</annotation>
 		<annotation cp="👩🏽‍🔬" type="tts">बायल शास्त्रज्ञ: मध्यम कातीचो रंग</annotation>
-		<annotation cp="👩🏾‍🔬">बायल शास्त्रज्ञ | मध्यम-गाढ कातीचो रंग</annotation>
+		<annotation cp="👩🏾‍🔬">अभियंतो | गणीततज्ञ | जीवशास्त्रज्ञ | बायल | भौतिकशास्त्रज्ञ | मध्यम-गाढ कातीचो रंग | रसायनशास्त्रज्ञ | शास्त्रज्ञ</annotation>
 		<annotation cp="👩🏾‍🔬" type="tts">बायल शास्त्रज्ञ: मध्यम-गाढ कातीचो रंग</annotation>
-		<annotation cp="👩🏿‍🔬">गाढ कातीचो रंग | बायल शास्त्रज्ञ</annotation>
+		<annotation cp="👩🏿‍🔬">अभियंतो | गणीततज्ञ | गाढ कातीचो रंग | जीवशास्त्रज्ञ | बायल | भौतिकशास्त्रज्ञ | रसायनशास्त्रज्ञ | शास्त्रज्ञ</annotation>
 		<annotation cp="👩🏿‍🔬" type="tts">बायल शास्त्रज्ञ: गाढ कातीचो रंग</annotation>
 		<annotation cp="🧑🏻‍💻">इनवेंटर | उजळ कातीचो रंग | कोडर | टॅक्नोलॉजिस्ट | डॅवलॉपर | तंत्रज्ञ | सॉफ्टवॅर</annotation>
 		<annotation cp="🧑🏻‍💻" type="tts">तंत्रज्ञ: उजळ कातीचो रंग</annotation>
@@ -1966,6 +2137,16 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👷🏾‍♀" type="tts">बायल बांधकाम कामगार: मध्यम-गाढ कातीचो रंग</annotation>
 		<annotation cp="👷🏿‍♀">कामगार | गाढ कातीचो रंग | बांधकाम | बायल</annotation>
 		<annotation cp="👷🏿‍♀" type="tts">बायल बांधकाम कामगार: गाढ कातीचो रंग</annotation>
+		<annotation cp="🫅🏻">उजळ कातीचो रंग | तकलेर मुगूट घाल्लो मनीस | राजपरीवाराचो | राजासारको | राजेशाही | सरदार</annotation>
+		<annotation cp="🫅🏻" type="tts">तकलेर मुगूट घाल्लो मनीस: उजळ कातीचो रंग</annotation>
+		<annotation cp="🫅🏼">तकलेर मुगूट घाल्लो मनीस | मध्यम-उजळ कातीचो रंग | राजपरीवाराचो | राजासारको | राजेशाही | सरदार</annotation>
+		<annotation cp="🫅🏼" type="tts">तकलेर मुगूट घाल्लो मनीस: मध्यम-उजळ कातीचो रंग</annotation>
+		<annotation cp="🫅🏽">तकलेर मुगूट घाल्लो मनीस | मध्यम कातीचो रंग | राजपरीवाराचो | राजासारको | राजेशाही | सरदार</annotation>
+		<annotation cp="🫅🏽" type="tts">तकलेर मुगूट घाल्लो मनीस: मध्यम कातीचो रंग</annotation>
+		<annotation cp="🫅🏾">तकलेर मुगूट घाल्लो मनीस | मध्यम-गाढ कातीचो रंग | राजपरीवाराचो | राजासारको | राजेशाही | सरदार</annotation>
+		<annotation cp="🫅🏾" type="tts">तकलेर मुगूट घाल्लो मनीस: मध्यम-गाढ कातीचो रंग</annotation>
+		<annotation cp="🫅🏿">गाढ कातीचो रंग | तकलेर मुगूट घाल्लो मनीस | राजपरीवाराचो | राजासारको | राजेशाही | सरदार</annotation>
+		<annotation cp="🫅🏿" type="tts">तकलेर मुगूट घाल्लो मनीस: गाढ कातीचो रंग</annotation>
 		<annotation cp="🤴🏻">उजळ कातीचो रंग | राजकुंवर</annotation>
 		<annotation cp="🤴🏻" type="tts">राजकुंवर: उजळ कातीचो रंग</annotation>
 		<annotation cp="🤴🏼">मध्यम-उजळ कातीचो रंग | राजकुंवर</annotation>
@@ -2046,25 +2227,25 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🤵🏾" type="tts">फात घातिल्लो व्यक्ती: मध्यम-गाढ कातीचो रंग</annotation>
 		<annotation cp="🤵🏿">गाढ कातीचो रंग | न्हवरो | फात | फात घातिल्लो व्यक्ती | व्यक्ती</annotation>
 		<annotation cp="🤵🏿" type="tts">फात घातिल्लो व्यक्ती: गाढ कातीचो रंग</annotation>
-		<annotation cp="🤵🏻‍♂">उजळ कातीचो रंग | दादलो। फात घातिल्लो दादलो। फात | फात घातिल्लो दादलो</annotation>
+		<annotation cp="🤵🏻‍♂">उजळ कातीचो रंग | दादलो | फात | फात घातिल्लो दादलो</annotation>
 		<annotation cp="🤵🏻‍♂" type="tts">फात घातिल्लो दादलो: उजळ कातीचो रंग</annotation>
-		<annotation cp="🤵🏼‍♂">दादलो। फात घातिल्लो दादलो। फात | फात घातिल्लो दादलो | मध्यम-उजळ कातीचो रंग</annotation>
+		<annotation cp="🤵🏼‍♂">दादलो | फात | फात घातिल्लो दादलो | मध्यम-उजळ कातीचो रंग</annotation>
 		<annotation cp="🤵🏼‍♂" type="tts">फात घातिल्लो दादलो: मध्यम-उजळ कातीचो रंग</annotation>
-		<annotation cp="🤵🏽‍♂">दादलो। फात घातिल्लो दादलो। फात | फात घातिल्लो दादलो | मध्यम कातीचो रंग</annotation>
+		<annotation cp="🤵🏽‍♂">दादलो | फात | फात घातिल्लो दादलो | मध्यम कातीचो रंग</annotation>
 		<annotation cp="🤵🏽‍♂" type="tts">फात घातिल्लो दादलो: मध्यम कातीचो रंग</annotation>
-		<annotation cp="🤵🏾‍♂">दादलो। फात घातिल्लो दादलो। फात | फात घातिल्लो दादलो | मध्यम-गाढ कातीचो रंग</annotation>
+		<annotation cp="🤵🏾‍♂">दादलो | फात | फात घातिल्लो दादलो | मध्यम-गाढ कातीचो रंग</annotation>
 		<annotation cp="🤵🏾‍♂" type="tts">फात घातिल्लो दादलो: मध्यम-गाढ कातीचो रंग</annotation>
-		<annotation cp="🤵🏿‍♂">गाढ कातीचो रंग | दादलो। फात घातिल्लो दादलो। फात | फात घातिल्लो दादलो</annotation>
+		<annotation cp="🤵🏿‍♂">गाढ कातीचो रंग | दादलो | फात | फात घातिल्लो दादलो</annotation>
 		<annotation cp="🤵🏿‍♂" type="tts">फात घातिल्लो दादलो: गाढ कातीचो रंग</annotation>
-		<annotation cp="🤵🏻‍♀">उजळ कातीचो रंग | फात घातिल्ली बायल | फात। बायल। फात घातिल्ली बायल</annotation>
+		<annotation cp="🤵🏻‍♀">उजळ कातीचो रंग | फात | फात घातिल्ली बायल | बायल</annotation>
 		<annotation cp="🤵🏻‍♀" type="tts">फात घातिल्ली बायल: उजळ कातीचो रंग</annotation>
-		<annotation cp="🤵🏼‍♀">फात घातिल्ली बायल | फात। बायल। फात घातिल्ली बायल | मध्यम-उजळ कातीचो रंग</annotation>
+		<annotation cp="🤵🏼‍♀">फात | फात घातिल्ली बायल | बायल | मध्यम-उजळ कातीचो रंग</annotation>
 		<annotation cp="🤵🏼‍♀" type="tts">फात घातिल्ली बायल: मध्यम-उजळ कातीचो रंग</annotation>
-		<annotation cp="🤵🏽‍♀">फात घातिल्ली बायल | फात। बायल। फात घातिल्ली बायल | मध्यम कातीचो रंग</annotation>
+		<annotation cp="🤵🏽‍♀">फात | फात घातिल्ली बायल | बायल | मध्यम कातीचो रंग</annotation>
 		<annotation cp="🤵🏽‍♀" type="tts">फात घातिल्ली बायल: मध्यम कातीचो रंग</annotation>
-		<annotation cp="🤵🏾‍♀">फात घातिल्ली बायल | फात। बायल। फात घातिल्ली बायल | मध्यम-गाढ कातीचो रंग</annotation>
+		<annotation cp="🤵🏾‍♀">फात | फात घातिल्ली बायल | बायल | मध्यम-गाढ कातीचो रंग</annotation>
 		<annotation cp="🤵🏾‍♀" type="tts">फात घातिल्ली बायल: मध्यम-गाढ कातीचो रंग</annotation>
-		<annotation cp="🤵🏿‍♀">गाढ कातीचो रंग | फात घातिल्ली बायल | फात। बायल। फात घातिल्ली बायल</annotation>
+		<annotation cp="🤵🏿‍♀">गाढ कातीचो रंग | फात | फात घातिल्ली बायल | बायल</annotation>
 		<annotation cp="🤵🏿‍♀" type="tts">फात घातिल्ली बायल: गाढ कातीचो रंग</annotation>
 		<annotation cp="👰🏻">उजळ कातीचो रंग | लग्न | वेल | वेल घातिल्ली व्यक्ती | व्यक्ती | व्हंकल</annotation>
 		<annotation cp="👰🏻" type="tts">वेल घातिल्ली व्यक्ती: उजळ कातीचो रंग</annotation>
@@ -2106,6 +2287,26 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🤰🏾" type="tts">गुरवार बायल: मध्यम-गाढ कातीचो रंग</annotation>
 		<annotation cp="🤰🏿">गाढ कातीचो रंग | गुरवार | बायल</annotation>
 		<annotation cp="🤰🏿" type="tts">गुरवार बायल: गाढ कातीचो रंग</annotation>
+		<annotation cp="🫃🏻">आंगांन भरील्लो | उजळ कातीचो रंग | गुरवार | गुरवार दिसपी दादलो | फुगिल्लो | फुडें सरील्ले पोट</annotation>
+		<annotation cp="🫃🏻" type="tts">गुरवार दिसपी दादलो: उजळ कातीचो रंग</annotation>
+		<annotation cp="🫃🏼">आंगांन भरील्लो | गुरवार | गुरवार दिसपी दादलो | फुगिल्लो | फुडें सरील्ले पोट | मध्यम-उजळ कातीचो रंग</annotation>
+		<annotation cp="🫃🏼" type="tts">गुरवार दिसपी दादलो: मध्यम-उजळ कातीचो रंग</annotation>
+		<annotation cp="🫃🏽">आंगांन भरील्लो | गुरवार | गुरवार दिसपी दादलो | फुगिल्लो | फुडें सरील्ले पोट | मध्यम कातीचो रंग</annotation>
+		<annotation cp="🫃🏽" type="tts">गुरवार दिसपी दादलो: मध्यम कातीचो रंग</annotation>
+		<annotation cp="🫃🏾">आंगांन भरील्लो | गुरवार | गुरवार दिसपी दादलो | फुगिल्लो | फुडें सरील्ले पोट | मध्यम-गाढ कातीचो रंग</annotation>
+		<annotation cp="🫃🏾" type="tts">गुरवार दिसपी दादलो: मध्यम-गाढ कातीचो रंग</annotation>
+		<annotation cp="🫃🏿">आंगांन भरील्लो | गाढ कातीचो रंग | गुरवार | गुरवार दिसपी दादलो | फुगिल्लो | फुडें सरील्ले पोट</annotation>
+		<annotation cp="🫃🏿" type="tts">गुरवार दिसपी दादलो: गाढ कातीचो रंग</annotation>
+		<annotation cp="🫄🏻">आंगांन भरील्लो | उजळ कातीचो रंग | गुरवार | गुरवार मनीस | फुगिल्लो | फुडें सरील्ले पोट</annotation>
+		<annotation cp="🫄🏻" type="tts">गुरवार मनीस: उजळ कातीचो रंग</annotation>
+		<annotation cp="🫄🏼">आंगांन भरील्लो | गुरवार | गुरवार मनीस | फुगिल्लो | फुडें सरील्ले पोट | मध्यम-उजळ कातीचो रंग</annotation>
+		<annotation cp="🫄🏼" type="tts">गुरवार मनीस: मध्यम-उजळ कातीचो रंग</annotation>
+		<annotation cp="🫄🏽">आंगांन भरील्लो | गुरवार | गुरवार मनीस | फुगिल्लो | फुडें सरील्ले पोट | मध्यम कातीचो रंग</annotation>
+		<annotation cp="🫄🏽" type="tts">गुरवार मनीस: मध्यम कातीचो रंग</annotation>
+		<annotation cp="🫄🏾">आंगांन भरील्लो | गुरवार | गुरवार मनीस | फुगिल्लो | फुडें सरील्ले पोट | मध्यम-गाढ कातीचो रंग</annotation>
+		<annotation cp="🫄🏾" type="tts">गुरवार मनीस: मध्यम-गाढ कातीचो रंग</annotation>
+		<annotation cp="🫄🏿">आंगांन भरील्लो | गाढ कातीचो रंग | गुरवार | गुरवार मनीस | फुगिल्लो | फुडें सरील्ले पोट</annotation>
+		<annotation cp="🫄🏿" type="tts">गुरवार मनीस: गाढ कातीचो रंग</annotation>
 		<annotation cp="🤱🏻">उजळ कातीचो रंग | दूद दिवप | शिशू | स्तन | स्तन-पान</annotation>
 		<annotation cp="🤱🏻" type="tts">स्तन-पान: उजळ कातीचो रंग</annotation>
 		<annotation cp="🤱🏼">दूद दिवप | मध्यम-उजळ कातीचो रंग | शिशू | स्तन | स्तन-पान</annotation>
@@ -2126,25 +2327,25 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👩🏾‍🍼" type="tts">बायल बाळकाक दूद पाजता: मध्यम-गाढ कातीचो रंग</annotation>
 		<annotation cp="👩🏿‍🍼">गाढ कातीचो रंग | दूद पाजपी | बायल | बायल बाळकाक दूद पाजता | शिशू | स्तन-पान</annotation>
 		<annotation cp="👩🏿‍🍼" type="tts">बायल बाळकाक दूद पाजता: गाढ कातीचो रंग</annotation>
-		<annotation cp="👨🏻‍🍼">उजळ कातीचो रंग | दादलो बाळकाक दूद पिवयता | शिशू । दूद पाजता । दादलो । दूद पाजप</annotation>
+		<annotation cp="👨🏻‍🍼">उजळ कातीचो रंग | दादलो | दादलो बाळकाक दूद पिवयता | दूद पाजता | दूद पाजप | शिशू</annotation>
 		<annotation cp="👨🏻‍🍼" type="tts">दादलो बाळकाक दूद पिवयता: उजळ कातीचो रंग</annotation>
-		<annotation cp="👨🏼‍🍼">दादलो बाळकाक दूद पिवयता | मध्यम-उजळ कातीचो रंग | शिशू । दूद पाजता । दादलो । दूद पाजप</annotation>
+		<annotation cp="👨🏼‍🍼">दादलो | दादलो बाळकाक दूद पिवयता | दूद पाजता | दूद पाजप | मध्यम-उजळ कातीचो रंग | शिशू</annotation>
 		<annotation cp="👨🏼‍🍼" type="tts">दादलो बाळकाक दूद पिवयता: मध्यम-उजळ कातीचो रंग</annotation>
-		<annotation cp="👨🏽‍🍼">दादलो बाळकाक दूद पिवयता | मध्यम कातीचो रंग | शिशू । दूद पाजता । दादलो । दूद पाजप</annotation>
+		<annotation cp="👨🏽‍🍼">दादलो | दादलो बाळकाक दूद पिवयता | दूद पाजता | दूद पाजप | मध्यम कातीचो रंग | शिशू</annotation>
 		<annotation cp="👨🏽‍🍼" type="tts">दादलो बाळकाक दूद पिवयता: मध्यम कातीचो रंग</annotation>
-		<annotation cp="👨🏾‍🍼">दादलो बाळकाक दूद पिवयता | मध्यम-गाढ कातीचो रंग | शिशू । दूद पाजता । दादलो । दूद पाजप</annotation>
+		<annotation cp="👨🏾‍🍼">दादलो | दादलो बाळकाक दूद पिवयता | दूद पाजता | दूद पाजप | मध्यम-गाढ कातीचो रंग | शिशू</annotation>
 		<annotation cp="👨🏾‍🍼" type="tts">दादलो बाळकाक दूद पिवयता: मध्यम-गाढ कातीचो रंग</annotation>
-		<annotation cp="👨🏿‍🍼">गाढ कातीचो रंग | दादलो बाळकाक दूद पिवयता | शिशू । दूद पाजता । दादलो । दूद पाजप</annotation>
+		<annotation cp="👨🏿‍🍼">गाढ कातीचो रंग | दादलो | दादलो बाळकाक दूद पिवयता | दूद पाजता | दूद पाजप | शिशू</annotation>
 		<annotation cp="👨🏿‍🍼" type="tts">दादलो बाळकाक दूद पिवयता: गाढ कातीचो रंग</annotation>
-		<annotation cp="🧑🏻‍🍼">उजळ कातीचो रंग | व्यक्ती बाळकाक दूद पाजता | शिशू । दूद पाजता । दूद पाजपी व्यक्ती । व्यक्ती</annotation>
+		<annotation cp="🧑🏻‍🍼">उजळ कातीचो रंग | दूद पाजता | दूद पाजपी व्यक्ती | व्यक्ती | व्यक्ती बाळकाक दूद पाजता | शिशू</annotation>
 		<annotation cp="🧑🏻‍🍼" type="tts">व्यक्ती बाळकाक दूद पाजता: उजळ कातीचो रंग</annotation>
-		<annotation cp="🧑🏼‍🍼">मध्यम-उजळ कातीचो रंग | व्यक्ती बाळकाक दूद पाजता | शिशू । दूद पाजता । दूद पाजपी व्यक्ती । व्यक्ती</annotation>
+		<annotation cp="🧑🏼‍🍼">दूद पाजता | दूद पाजपी व्यक्ती | मध्यम-उजळ कातीचो रंग | व्यक्ती | व्यक्ती बाळकाक दूद पाजता | शिशू</annotation>
 		<annotation cp="🧑🏼‍🍼" type="tts">व्यक्ती बाळकाक दूद पाजता: मध्यम-उजळ कातीचो रंग</annotation>
-		<annotation cp="🧑🏽‍🍼">मध्यम कातीचो रंग | व्यक्ती बाळकाक दूद पाजता | शिशू । दूद पाजता । दूद पाजपी व्यक्ती । व्यक्ती</annotation>
+		<annotation cp="🧑🏽‍🍼">दूद पाजता | दूद पाजपी व्यक्ती | मध्यम कातीचो रंग | व्यक्ती | व्यक्ती बाळकाक दूद पाजता | शिशू</annotation>
 		<annotation cp="🧑🏽‍🍼" type="tts">व्यक्ती बाळकाक दूद पाजता: मध्यम कातीचो रंग</annotation>
-		<annotation cp="🧑🏾‍🍼">मध्यम-गाढ कातीचो रंग | व्यक्ती बाळकाक दूद पाजता | शिशू । दूद पाजता । दूद पाजपी व्यक्ती । व्यक्ती</annotation>
+		<annotation cp="🧑🏾‍🍼">दूद पाजता | दूद पाजपी व्यक्ती | मध्यम-गाढ कातीचो रंग | व्यक्ती | व्यक्ती बाळकाक दूद पाजता | शिशू</annotation>
 		<annotation cp="🧑🏾‍🍼" type="tts">व्यक्ती बाळकाक दूद पाजता: मध्यम-गाढ कातीचो रंग</annotation>
-		<annotation cp="🧑🏿‍🍼">गाढ कातीचो रंग | व्यक्ती बाळकाक दूद पाजता | शिशू । दूद पाजता । दूद पाजपी व्यक्ती । व्यक्ती</annotation>
+		<annotation cp="🧑🏿‍🍼">गाढ कातीचो रंग | दूद पाजता | दूद पाजपी व्यक्ती | व्यक्ती | व्यक्ती बाळकाक दूद पाजता | शिशू</annotation>
 		<annotation cp="🧑🏿‍🍼" type="tts">व्यक्ती बाळकाक दूद पाजता: गाढ कातीचो रंग</annotation>
 		<annotation cp="👼🏻">उजळ कातीचो रंग | चेरो | नवलकथा | परी | परी कथा | बाल</annotation>
 		<annotation cp="👼🏻" type="tts">बाल परी: उजळ कातीचो रंग</annotation>
@@ -2166,25 +2367,25 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🎅🏾" type="tts">सांता क्लॉज: मध्यम-गाढ कातीचो रंग</annotation>
 		<annotation cp="🎅🏿">क्लॉज | ख्रिस्तमस | गाढ कातीचो रंग | बापूय | सांता | सुवाळो</annotation>
 		<annotation cp="🎅🏿" type="tts">सांता क्लॉज: गाढ कातीचो रंग</annotation>
-		<annotation cp="🤶🏻">उजळ कातीचो रंग | श्रीमती क्लॉज | सुवाळो । नाताळ । क्लॉज । आवय । श्रीमती. । श्रीमती. क्लॉज</annotation>
+		<annotation cp="🤶🏻">आवय | उजळ कातीचो रंग | क्लॉज | नाताळ | श्रीमती क्लॉज | श्रीमती. | सुवाळो</annotation>
 		<annotation cp="🤶🏻" type="tts">श्रीमती क्लॉज: उजळ कातीचो रंग</annotation>
-		<annotation cp="🤶🏼">मध्यम-उजळ कातीचो रंग | श्रीमती क्लॉज | सुवाळो । नाताळ । क्लॉज । आवय । श्रीमती. । श्रीमती. क्लॉज</annotation>
+		<annotation cp="🤶🏼">आवय | क्लॉज | नाताळ | मध्यम-उजळ कातीचो रंग | श्रीमती क्लॉज | श्रीमती. | सुवाळो</annotation>
 		<annotation cp="🤶🏼" type="tts">श्रीमती क्लॉज: मध्यम-उजळ कातीचो रंग</annotation>
-		<annotation cp="🤶🏽">मध्यम कातीचो रंग | श्रीमती क्लॉज | सुवाळो । नाताळ । क्लॉज । आवय । श्रीमती. । श्रीमती. क्लॉज</annotation>
+		<annotation cp="🤶🏽">आवय | क्लॉज | नाताळ | मध्यम कातीचो रंग | श्रीमती क्लॉज | श्रीमती. | सुवाळो</annotation>
 		<annotation cp="🤶🏽" type="tts">श्रीमती क्लॉज: मध्यम कातीचो रंग</annotation>
-		<annotation cp="🤶🏾">मध्यम-गाढ कातीचो रंग | श्रीमती क्लॉज | सुवाळो । नाताळ । क्लॉज । आवय । श्रीमती. । श्रीमती. क्लॉज</annotation>
+		<annotation cp="🤶🏾">आवय | क्लॉज | नाताळ | मध्यम-गाढ कातीचो रंग | श्रीमती क्लॉज | श्रीमती. | सुवाळो</annotation>
 		<annotation cp="🤶🏾" type="tts">श्रीमती क्लॉज: मध्यम-गाढ कातीचो रंग</annotation>
-		<annotation cp="🤶🏿">गाढ कातीचो रंग | श्रीमती क्लॉज | सुवाळो । नाताळ । क्लॉज । आवय । श्रीमती. । श्रीमती. क्लॉज</annotation>
+		<annotation cp="🤶🏿">आवय | क्लॉज | गाढ कातीचो रंग | नाताळ | श्रीमती क्लॉज | श्रीमती. | सुवाळो</annotation>
 		<annotation cp="🤶🏿" type="tts">श्रीमती क्लॉज: गाढ कातीचो रंग</annotation>
-		<annotation cp="🧑🏻‍🎄">उजळ कातीचो रंग | क्लॉज, नाताळ । मॅक्स क्लॉज | मॅक्स क्लॉज</annotation>
+		<annotation cp="🧑🏻‍🎄">उजळ कातीचो रंग | काणी | क्लॉज | ख्रिस्तमस | नवल | नाताळ | परी | मॅ | मॅरी | सांता | सुटी | सुवाळो</annotation>
 		<annotation cp="🧑🏻‍🎄" type="tts">मॅक्स क्लॉज: उजळ कातीचो रंग</annotation>
-		<annotation cp="🧑🏼‍🎄">क्लॉज, नाताळ । मॅक्स क्लॉज | मध्यम-उजळ कातीचो रंग | मॅक्स क्लॉज</annotation>
+		<annotation cp="🧑🏼‍🎄">काणी | क्लॉज | ख्रिस्तमस | नवल | नाताळ | परी | मध्यम-उजळ कातीचो रंग | मॅ | मॅरी | सांता | सुटी | सुवाळो</annotation>
 		<annotation cp="🧑🏼‍🎄" type="tts">मॅक्स क्लॉज: मध्यम-उजळ कातीचो रंग</annotation>
-		<annotation cp="🧑🏽‍🎄">क्लॉज, नाताळ । मॅक्स क्लॉज | मध्यम कातीचो रंग | मॅक्स क्लॉज</annotation>
+		<annotation cp="🧑🏽‍🎄">काणी | क्लॉज | ख्रिस्तमस | नवल | नाताळ | परी | मध्यम कातीचो रंग | मॅ | मॅरी | सांता | सुटी | सुवाळो</annotation>
 		<annotation cp="🧑🏽‍🎄" type="tts">मॅक्स क्लॉज: मध्यम कातीचो रंग</annotation>
-		<annotation cp="🧑🏾‍🎄">क्लॉज, नाताळ । मॅक्स क्लॉज | मध्यम-गाढ कातीचो रंग | मॅक्स क्लॉज</annotation>
+		<annotation cp="🧑🏾‍🎄">काणी | क्लॉज | ख्रिस्तमस | नवल | नाताळ | परी | मध्यम-गाढ कातीचो रंग | मॅ | मॅरी | सांता | सुटी | सुवाळो</annotation>
 		<annotation cp="🧑🏾‍🎄" type="tts">मॅक्स क्लॉज: मध्यम-गाढ कातीचो रंग</annotation>
-		<annotation cp="🧑🏿‍🎄">क्लॉज, नाताळ । मॅक्स क्लॉज | गाढ कातीचो रंग | मॅक्स क्लॉज</annotation>
+		<annotation cp="🧑🏿‍🎄">काणी | क्लॉज | ख्रिस्तमस | गाढ कातीचो रंग | नवल | नाताळ | परी | मॅ | मॅरी | सांता | सुटी | सुवाळो</annotation>
 		<annotation cp="🧑🏿‍🎄" type="tts">मॅक्स क्लॉज: गाढ कातीचो रंग</annotation>
 		<annotation cp="🦸🏻">उजळ कातीचो रंग | उत्तम | सुपरपावर | सुपरहिरो | हिरो | हिरोईन</annotation>
 		<annotation cp="🦸🏻" type="tts">सुपरहिरो: उजळ कातीचो रंग</annotation>
@@ -2486,6 +2687,42 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🚶🏾‍♀" type="tts">बायल चलता: मध्यम-गाढ कातीचो रंग</annotation>
 		<annotation cp="🚶🏿‍♀">गाढ कातीचो रंग | चलता | चलपी बायल | ट्रेक | बायल | हायक</annotation>
 		<annotation cp="🚶🏿‍♀" type="tts">बायल चलता: गाढ कातीचो रंग</annotation>
+		<annotation cp="🚶‍➡">उजव्यान | चलता | चलप | ट्रेक | पळोवप | व्यक्ती चलता | हायक</annotation>
+		<annotation cp="🚶‍➡" type="tts">व्यक्ती चलता: उजव्यान पळोवप</annotation>
+		<annotation cp="🚶🏻‍➡">उजळ कातीचो रंग | उजव्यान | चलता | चलप | ट्रेक | पळोवप | व्यक्ती चलता | हायक</annotation>
+		<annotation cp="🚶🏻‍➡" type="tts">व्यक्ती चलता: उजळ कातीचो रंग, उजव्यान पळोवप</annotation>
+		<annotation cp="🚶🏼‍➡">उजव्यान | चलता | चलप | ट्रेक | पळोवप | मध्यम-उजळ कातीचो रंग | व्यक्ती चलता | हायक</annotation>
+		<annotation cp="🚶🏼‍➡" type="tts">व्यक्ती चलता: मध्यम-उजळ कातीचो रंग, उजव्यान पळोवप</annotation>
+		<annotation cp="🚶🏽‍➡">उजव्यान | चलता | चलप | ट्रेक | पळोवप | मध्यम कातीचो रंग | व्यक्ती चलता | हायक</annotation>
+		<annotation cp="🚶🏽‍➡" type="tts">व्यक्ती चलता: मध्यम कातीचो रंग, उजव्यान पळोवप</annotation>
+		<annotation cp="🚶🏾‍➡">उजव्यान | चलता | चलप | ट्रेक | पळोवप | मध्यम-गाढ कातीचो रंग | व्यक्ती चलता | हायक</annotation>
+		<annotation cp="🚶🏾‍➡" type="tts">व्यक्ती चलता: मध्यम-गाढ कातीचो रंग, उजव्यान पळोवप</annotation>
+		<annotation cp="🚶🏿‍➡">उजव्यान | गाढ कातीचो रंग | चलता | चलप | ट्रेक | पळोवप | व्यक्ती चलता | हायक</annotation>
+		<annotation cp="🚶🏿‍➡" type="tts">व्यक्ती चलता: गाढ कातीचो रंग, उजव्यान पळोवप</annotation>
+		<annotation cp="🚶‍♀‍➡">उजव्यान | चलता | चलपी बायल | ट्रेक | पळोवप | बायल | हायक</annotation>
+		<annotation cp="🚶‍♀‍➡" type="tts">बायल चलता: उजव्यान पळोवप</annotation>
+		<annotation cp="🚶🏻‍♀‍➡">उजळ कातीचो रंग | उजव्यान | चलता | चलपी बायल | ट्रेक | पळोवप | बायल | हायक</annotation>
+		<annotation cp="🚶🏻‍♀‍➡" type="tts">बायल चलता: उजळ कातीचो रंग, उजव्यान पळोवप</annotation>
+		<annotation cp="🚶🏼‍♀‍➡">उजव्यान | चलता | चलपी बायल | ट्रेक | पळोवप | बायल | मध्यम-उजळ कातीचो रंग | हायक</annotation>
+		<annotation cp="🚶🏼‍♀‍➡" type="tts">बायल चलता: मध्यम-उजळ कातीचो रंग, उजव्यान पळोवप</annotation>
+		<annotation cp="🚶🏽‍♀‍➡">उजव्यान | चलता | चलपी बायल | ट्रेक | पळोवप | बायल | मध्यम कातीचो रंग | हायक</annotation>
+		<annotation cp="🚶🏽‍♀‍➡" type="tts">बायल चलता: मध्यम कातीचो रंग, उजव्यान पळोवप</annotation>
+		<annotation cp="🚶🏾‍♀‍➡">उजव्यान | चलता | चलपी बायल | ट्रेक | पळोवप | बायल | मध्यम-गाढ कातीचो रंग | हायक</annotation>
+		<annotation cp="🚶🏾‍♀‍➡" type="tts">बायल चलता: मध्यम-गाढ कातीचो रंग, उजव्यान पळोवप</annotation>
+		<annotation cp="🚶🏿‍♀‍➡">उजव्यान | गाढ कातीचो रंग | चलता | चलपी बायल | ट्रेक | पळोवप | बायल | हायक</annotation>
+		<annotation cp="🚶🏿‍♀‍➡" type="tts">बायल चलता: गाढ कातीचो रंग, उजव्यान पळोवप</annotation>
+		<annotation cp="🚶‍♂‍➡">उजव्यान | चलता | चलपी दादलो | ट्रेक | दादलो | पळोवप | हायक</annotation>
+		<annotation cp="🚶‍♂‍➡" type="tts">दादलो चलता: उजव्यान पळोवप</annotation>
+		<annotation cp="🚶🏻‍♂‍➡">उजळ कातीचो रंग | उजव्यान | चलता | चलपी दादलो | ट्रेक | दादलो | पळोवप | हायक</annotation>
+		<annotation cp="🚶🏻‍♂‍➡" type="tts">दादलो चलता: उजळ कातीचो रंग, उजव्यान पळोवप</annotation>
+		<annotation cp="🚶🏼‍♂‍➡">उजव्यान | चलता | चलपी दादलो | ट्रेक | दादलो | पळोवप | मध्यम-उजळ कातीचो रंग | हायक</annotation>
+		<annotation cp="🚶🏼‍♂‍➡" type="tts">दादलो चलता: मध्यम-उजळ कातीचो रंग, उजव्यान पळोवप</annotation>
+		<annotation cp="🚶🏽‍♂‍➡">उजव्यान | चलता | चलपी दादलो | ट्रेक | दादलो | पळोवप | मध्यम कातीचो रंग | हायक</annotation>
+		<annotation cp="🚶🏽‍♂‍➡" type="tts">दादलो चलता: मध्यम कातीचो रंग, उजव्यान पळोवप</annotation>
+		<annotation cp="🚶🏾‍♂‍➡">उजव्यान | चलता | चलपी दादलो | ट्रेक | दादलो | पळोवप | मध्यम-गाढ कातीचो रंग | हायक</annotation>
+		<annotation cp="🚶🏾‍♂‍➡" type="tts">दादलो चलता: मध्यम-गाढ कातीचो रंग, उजव्यान पळोवप</annotation>
+		<annotation cp="🚶🏿‍♂‍➡">उजव्यान | गाढ कातीचो रंग | चलता | चलपी दादलो | ट्रेक | दादलो | पळोवप | हायक</annotation>
+		<annotation cp="🚶🏿‍♂‍➡" type="tts">दादलो चलता: गाढ कातीचो रंग, उजव्यान पळोवप</annotation>
 		<annotation cp="🧍🏻">उजळ कातीचो रंग | उबी राविल्ली | उबी राविल्ली व्यक्ती | उबे रावप</annotation>
 		<annotation cp="🧍🏻" type="tts">उबी राविल्ली व्यक्ती: उजळ कातीचो रंग</annotation>
 		<annotation cp="🧍🏼">उबी राविल्ली | उबी राविल्ली व्यक्ती | उबे रावप | मध्यम-उजळ कातीचो रंग</annotation>
@@ -2496,25 +2733,25 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🧍🏾" type="tts">उबी राविल्ली व्यक्ती: मध्यम-गाढ कातीचो रंग</annotation>
 		<annotation cp="🧍🏿">उबी राविल्ली | उबी राविल्ली व्यक्ती | उबे रावप | गाढ कातीचो रंग</annotation>
 		<annotation cp="🧍🏿" type="tts">उबी राविल्ली व्यक्ती: गाढ कातीचो रंग</annotation>
-		<annotation cp="🧍🏻‍♂">उजळ कातीचो रंग | उबो राविल्लो | उबो राविल्लो दादलो | दादलो</annotation>
+		<annotation cp="🧍🏻‍♂">उजळ कातीचो रंग | उबो | उबो राविल्लो | दादलो</annotation>
 		<annotation cp="🧍🏻‍♂" type="tts">उबो राविल्लो दादलो: उजळ कातीचो रंग</annotation>
-		<annotation cp="🧍🏼‍♂">उबो राविल्लो | उबो राविल्लो दादलो | दादलो | मध्यम-उजळ कातीचो रंग</annotation>
+		<annotation cp="🧍🏼‍♂">उबो | उबो राविल्लो | दादलो | मध्यम-उजळ कातीचो रंग</annotation>
 		<annotation cp="🧍🏼‍♂" type="tts">उबो राविल्लो दादलो: मध्यम-उजळ कातीचो रंग</annotation>
-		<annotation cp="🧍🏽‍♂">उबो राविल्लो | उबो राविल्लो दादलो | दादलो | मध्यम कातीचो रंग</annotation>
+		<annotation cp="🧍🏽‍♂">उबो | उबो राविल्लो | दादलो | मध्यम कातीचो रंग</annotation>
 		<annotation cp="🧍🏽‍♂" type="tts">उबो राविल्लो दादलो: मध्यम कातीचो रंग</annotation>
-		<annotation cp="🧍🏾‍♂">उबो राविल्लो | उबो राविल्लो दादलो | दादलो | मध्यम-गाढ कातीचो रंग</annotation>
+		<annotation cp="🧍🏾‍♂">उबो | उबो राविल्लो | दादलो | मध्यम-गाढ कातीचो रंग</annotation>
 		<annotation cp="🧍🏾‍♂" type="tts">उबो राविल्लो दादलो: मध्यम-गाढ कातीचो रंग</annotation>
-		<annotation cp="🧍🏿‍♂">उबो राविल्लो | उबो राविल्लो दादलो | गाढ कातीचो रंग | दादलो</annotation>
+		<annotation cp="🧍🏿‍♂">उबो | उबो राविल्लो | गाढ कातीचो रंग | दादलो</annotation>
 		<annotation cp="🧍🏿‍♂" type="tts">उबो राविल्लो दादलो: गाढ कातीचो रंग</annotation>
-		<annotation cp="🧍🏻‍♀">उजळ कातीचो रंग | उबी राविल्ली | उबी राविल्ली बायल | बायल</annotation>
+		<annotation cp="🧍🏻‍♀">उजळ कातीचो रंग | उबी | उबी आसा | बायल</annotation>
 		<annotation cp="🧍🏻‍♀" type="tts">उबी राविल्ली बायल: उजळ कातीचो रंग</annotation>
-		<annotation cp="🧍🏼‍♀">उबी राविल्ली | उबी राविल्ली बायल | बायल | मध्यम-उजळ कातीचो रंग</annotation>
+		<annotation cp="🧍🏼‍♀">उबी | उबी आसा | बायल | मध्यम-उजळ कातीचो रंग</annotation>
 		<annotation cp="🧍🏼‍♀" type="tts">उबी राविल्ली बायल: मध्यम-उजळ कातीचो रंग</annotation>
-		<annotation cp="🧍🏽‍♀">उबी राविल्ली | उबी राविल्ली बायल | बायल | मध्यम कातीचो रंग</annotation>
+		<annotation cp="🧍🏽‍♀">उबी | उबी आसा | बायल | मध्यम कातीचो रंग</annotation>
 		<annotation cp="🧍🏽‍♀" type="tts">उबी राविल्ली बायल: मध्यम कातीचो रंग</annotation>
-		<annotation cp="🧍🏾‍♀">उबी राविल्ली | उबी राविल्ली बायल | बायल | मध्यम-गाढ कातीचो रंग</annotation>
+		<annotation cp="🧍🏾‍♀">उबी | उबी आसा | बायल | मध्यम-गाढ कातीचो रंग</annotation>
 		<annotation cp="🧍🏾‍♀" type="tts">उबी राविल्ली बायल: मध्यम-गाढ कातीचो रंग</annotation>
-		<annotation cp="🧍🏿‍♀">उबी राविल्ली | उबी राविल्ली बायल | गाढ कातीचो रंग | बायल</annotation>
+		<annotation cp="🧍🏿‍♀">उबी | उबी आसा | गाढ कातीचो रंग | बायल</annotation>
 		<annotation cp="🧍🏿‍♀" type="tts">उबी राविल्ली बायल: गाढ कातीचो रंग</annotation>
 		<annotation cp="🧎🏻">उजळ कातीचो रंग | दिमी | दिमी घालून | व्यक्ती दिमयेर बसला | व्यक्ती दिमी घालून</annotation>
 		<annotation cp="🧎🏻" type="tts">व्यक्ती दिमयेर बसला: उजळ कातीचो रंग</annotation>
@@ -2546,6 +2783,42 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🧎🏾‍♀" type="tts">दिमी घालून बशिल्ली बायल: मध्यम-गाढ कातीचो रंग</annotation>
 		<annotation cp="🧎🏿‍♀">गाढ कातीचो रंग | दिमी घालून बशिल्ली | दिमी घालून बशिल्ली बायल | बायल</annotation>
 		<annotation cp="🧎🏿‍♀" type="tts">दिमी घालून बशिल्ली बायल: गाढ कातीचो रंग</annotation>
+		<annotation cp="🧎‍➡">उजव्यान | दिमी | दिमी घालून | पळोवप | व्यक्ती दिमयेर बसला | व्यक्ती दिमी घालून</annotation>
+		<annotation cp="🧎‍➡" type="tts">व्यक्ती दिमयेर बसला: उजव्यान पळोवप</annotation>
+		<annotation cp="🧎🏻‍➡">उजळ कातीचो रंग | उजव्यान | दिमी | दिमी घालून | पळोवप | व्यक्ती दिमयेर बसला | व्यक्ती दिमी घालून</annotation>
+		<annotation cp="🧎🏻‍➡" type="tts">व्यक्ती दिमयेर बसला: उजळ कातीचो रंग, उजव्यान पळोवप</annotation>
+		<annotation cp="🧎🏼‍➡">उजव्यान | दिमी | दिमी घालून | पळोवप | मध्यम-उजळ कातीचो रंग | व्यक्ती दिमयेर बसला | व्यक्ती दिमी घालून</annotation>
+		<annotation cp="🧎🏼‍➡" type="tts">व्यक्ती दिमयेर बसला: मध्यम-उजळ कातीचो रंग, उजव्यान पळोवप</annotation>
+		<annotation cp="🧎🏽‍➡">उजव्यान | दिमी | दिमी घालून | पळोवप | मध्यम कातीचो रंग | व्यक्ती दिमयेर बसला | व्यक्ती दिमी घालून</annotation>
+		<annotation cp="🧎🏽‍➡" type="tts">व्यक्ती दिमयेर बसला: मध्यम कातीचो रंग, उजव्यान पळोवप</annotation>
+		<annotation cp="🧎🏾‍➡">उजव्यान | दिमी | दिमी घालून | पळोवप | मध्यम-गाढ कातीचो रंग | व्यक्ती दिमयेर बसला | व्यक्ती दिमी घालून</annotation>
+		<annotation cp="🧎🏾‍➡" type="tts">व्यक्ती दिमयेर बसला: मध्यम-गाढ कातीचो रंग, उजव्यान पळोवप</annotation>
+		<annotation cp="🧎🏿‍➡">उजव्यान | गाढ कातीचो रंग | दिमी | दिमी घालून | पळोवप | व्यक्ती दिमयेर बसला | व्यक्ती दिमी घालून</annotation>
+		<annotation cp="🧎🏿‍➡" type="tts">व्यक्ती दिमयेर बसला: गाढ कातीचो रंग, उजव्यान पळोवप</annotation>
+		<annotation cp="🧎‍♀‍➡">उजव्यान | दिमी घालून बशिल्ली | दिमी घालून बशिल्ली बायल | पळोवप | बायल</annotation>
+		<annotation cp="🧎‍♀‍➡" type="tts">दिमी घालून बशिल्ली बायल: उजव्यान पळोवप</annotation>
+		<annotation cp="🧎🏻‍♀‍➡">उजळ कातीचो रंग | उजव्यान | दिमी घालून बशिल्ली | दिमी घालून बशिल्ली बायल | पळोवप | बायल</annotation>
+		<annotation cp="🧎🏻‍♀‍➡" type="tts">दिमी घालून बशिल्ली बायल: उजळ कातीचो रंग, उजव्यान पळोवप</annotation>
+		<annotation cp="🧎🏼‍♀‍➡">उजव्यान | दिमी घालून बशिल्ली | दिमी घालून बशिल्ली बायल | पळोवप | बायल | मध्यम-उजळ कातीचो रंग</annotation>
+		<annotation cp="🧎🏼‍♀‍➡" type="tts">दिमी घालून बशिल्ली बायल: मध्यम-उजळ कातीचो रंग, उजव्यान पळोवप</annotation>
+		<annotation cp="🧎🏽‍♀‍➡">उजव्यान | दिमी घालून बशिल्ली | दिमी घालून बशिल्ली बायल | पळोवप | बायल | मध्यम कातीचो रंग</annotation>
+		<annotation cp="🧎🏽‍♀‍➡" type="tts">दिमी घालून बशिल्ली बायल: मध्यम कातीचो रंग, उजव्यान पळोवप</annotation>
+		<annotation cp="🧎🏾‍♀‍➡">उजव्यान | दिमी घालून बशिल्ली | दिमी घालून बशिल्ली बायल | पळोवप | बायल | मध्यम-गाढ कातीचो रंग</annotation>
+		<annotation cp="🧎🏾‍♀‍➡" type="tts">दिमी घालून बशिल्ली बायल: मध्यम-गाढ कातीचो रंग, उजव्यान पळोवप</annotation>
+		<annotation cp="🧎🏿‍♀‍➡">उजव्यान | गाढ कातीचो रंग | दिमी घालून बशिल्ली | दिमी घालून बशिल्ली बायल | पळोवप | बायल</annotation>
+		<annotation cp="🧎🏿‍♀‍➡" type="tts">दिमी घालून बशिल्ली बायल: गाढ कातीचो रंग, उजव्यान पळोवप</annotation>
+		<annotation cp="🧎‍♂‍➡">उजव्यान | दादलो | दिमी घालून बशिल्लो | दिमी घालून बशिल्लो दादलो | पळोवप</annotation>
+		<annotation cp="🧎‍♂‍➡" type="tts">दिमी घालून बशिल्लो दादलो: उजव्यान पळोवप</annotation>
+		<annotation cp="🧎🏻‍♂‍➡">उजळ कातीचो रंग | उजव्यान | दादलो | दिमी घालून बशिल्लो | दिमी घालून बशिल्लो दादलो | पळोवप</annotation>
+		<annotation cp="🧎🏻‍♂‍➡" type="tts">दिमी घालून बशिल्लो दादलो: उजळ कातीचो रंग, उजव्यान पळोवप</annotation>
+		<annotation cp="🧎🏼‍♂‍➡">उजव्यान | दादलो | दिमी घालून बशिल्लो | दिमी घालून बशिल्लो दादलो | पळोवप | मध्यम-उजळ कातीचो रंग</annotation>
+		<annotation cp="🧎🏼‍♂‍➡" type="tts">दिमी घालून बशिल्लो दादलो: मध्यम-उजळ कातीचो रंग, उजव्यान पळोवप</annotation>
+		<annotation cp="🧎🏽‍♂‍➡">उजव्यान | दादलो | दिमी घालून बशिल्लो | दिमी घालून बशिल्लो दादलो | पळोवप | मध्यम कातीचो रंग</annotation>
+		<annotation cp="🧎🏽‍♂‍➡" type="tts">दिमी घालून बशिल्लो दादलो: मध्यम कातीचो रंग, उजव्यान पळोवप</annotation>
+		<annotation cp="🧎🏾‍♂‍➡">उजव्यान | दादलो | दिमी घालून बशिल्लो | दिमी घालून बशिल्लो दादलो | पळोवप | मध्यम-गाढ कातीचो रंग</annotation>
+		<annotation cp="🧎🏾‍♂‍➡" type="tts">दिमी घालून बशिल्लो दादलो: मध्यम-गाढ कातीचो रंग, उजव्यान पळोवप</annotation>
+		<annotation cp="🧎🏿‍♂‍➡">उजव्यान | गाढ कातीचो रंग | दादलो | दिमी घालून बशिल्लो | दिमी घालून बशिल्लो दादलो | पळोवप</annotation>
+		<annotation cp="🧎🏿‍♂‍➡" type="tts">दिमी घालून बशिल्लो दादलो: गाढ कातीचो रंग, उजव्यान पळोवप</annotation>
 		<annotation cp="🧑🏻‍🦯">आधाराची बडी घेवंन व्यक्ती | उजळ कातीचो रंग | ऍक्सॅसिबिलिटी | कुड्डें</annotation>
 		<annotation cp="🧑🏻‍🦯" type="tts">आधाराची बडी घेवंन व्यक्ती: उजळ कातीचो रंग</annotation>
 		<annotation cp="🧑🏼‍🦯">आधाराची बडी घेवंन व्यक्ती | ऍक्सॅसिबिलिटी | कुड्डें | मध्यम-उजळ कातीचो रंग</annotation>
@@ -2556,6 +2829,18 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🧑🏾‍🦯" type="tts">आधाराची बडी घेवंन व्यक्ती: मध्यम-गाढ कातीचो रंग</annotation>
 		<annotation cp="🧑🏿‍🦯">आधाराची बडी घेवंन व्यक्ती | ऍक्सॅसिबिलिटी | कुड्डें | गाढ कातीचो रंग</annotation>
 		<annotation cp="🧑🏿‍🦯" type="tts">आधाराची बडी घेवंन व्यक्ती: गाढ कातीचो रंग</annotation>
+		<annotation cp="🧑‍🦯‍➡">आधाराची बडी घेवंन व्यक्ती | उजव्यान | ऍक्सॅसिबिलिटी | कुड्डें | पळोवप</annotation>
+		<annotation cp="🧑‍🦯‍➡" type="tts">आधाराची बडी घेवंन व्यक्ती: उजव्यान पळोवप</annotation>
+		<annotation cp="🧑🏻‍🦯‍➡">आधाराची बडी घेवंन व्यक्ती | उजळ कातीचो रंग | उजव्यान | ऍक्सॅसिबिलिटी | कुड्डें | पळोवप</annotation>
+		<annotation cp="🧑🏻‍🦯‍➡" type="tts">आधाराची बडी घेवंन व्यक्ती: उजळ कातीचो रंग, उजव्यान पळोवप</annotation>
+		<annotation cp="🧑🏼‍🦯‍➡">आधाराची बडी घेवंन व्यक्ती | उजव्यान | ऍक्सॅसिबिलिटी | कुड्डें | पळोवप | मध्यम-उजळ कातीचो रंग</annotation>
+		<annotation cp="🧑🏼‍🦯‍➡" type="tts">आधाराची बडी घेवंन व्यक्ती: मध्यम-उजळ कातीचो रंग, उजव्यान पळोवप</annotation>
+		<annotation cp="🧑🏽‍🦯‍➡">आधाराची बडी घेवंन व्यक्ती | उजव्यान | ऍक्सॅसिबिलिटी | कुड्डें | पळोवप | मध्यम कातीचो रंग</annotation>
+		<annotation cp="🧑🏽‍🦯‍➡" type="tts">आधाराची बडी घेवंन व्यक्ती: मध्यम कातीचो रंग, उजव्यान पळोवप</annotation>
+		<annotation cp="🧑🏾‍🦯‍➡">आधाराची बडी घेवंन व्यक्ती | उजव्यान | ऍक्सॅसिबिलिटी | कुड्डें | पळोवप | मध्यम-गाढ कातीचो रंग</annotation>
+		<annotation cp="🧑🏾‍🦯‍➡" type="tts">आधाराची बडी घेवंन व्यक्ती: मध्यम-गाढ कातीचो रंग, उजव्यान पळोवप</annotation>
+		<annotation cp="🧑🏿‍🦯‍➡">आधाराची बडी घेवंन व्यक्ती | उजव्यान | ऍक्सॅसिबिलिटी | कुड्डें | गाढ कातीचो रंग | पळोवप</annotation>
+		<annotation cp="🧑🏿‍🦯‍➡" type="tts">आधाराची बडी घेवंन व्यक्ती: गाढ कातीचो रंग, उजव्यान पळोवप</annotation>
 		<annotation cp="👨🏻‍🦯">आधाराची बडी घेवंन दादलो | उजळ कातीचो रंग | ऍक्सॅसिबिलिटी | कुड्डो | दादलो</annotation>
 		<annotation cp="👨🏻‍🦯" type="tts">आधाराची बडी घेवंन दादलो: उजळ कातीचो रंग</annotation>
 		<annotation cp="👨🏼‍🦯">आधाराची बडी घेवंन दादलो | ऍक्सॅसिबिलिटी | कुड्डो | दादलो | मध्यम-उजळ कातीचो रंग</annotation>
@@ -2566,6 +2851,18 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👨🏾‍🦯" type="tts">आधाराची बडी घेवंन दादलो: मध्यम-गाढ कातीचो रंग</annotation>
 		<annotation cp="👨🏿‍🦯">आधाराची बडी घेवंन दादलो | ऍक्सॅसिबिलिटी | कुड्डो | गाढ कातीचो रंग | दादलो</annotation>
 		<annotation cp="👨🏿‍🦯" type="tts">आधाराची बडी घेवंन दादलो: गाढ कातीचो रंग</annotation>
+		<annotation cp="👨‍🦯‍➡">आधाराची बडी घेवंन दादलो | उजव्यान | ऍक्सॅसिबिलिटी | कुड्डो | दादलो | पळोवप</annotation>
+		<annotation cp="👨‍🦯‍➡" type="tts">आधाराची बडी घेवंन दादलो: उजव्यान पळोवप</annotation>
+		<annotation cp="👨🏻‍🦯‍➡">आधाराची बडी घेवंन दादलो | उजळ कातीचो रंग | उजव्यान | ऍक्सॅसिबिलिटी | कुड्डो | दादलो | पळोवप</annotation>
+		<annotation cp="👨🏻‍🦯‍➡" type="tts">आधाराची बडी घेवंन दादलो: उजळ कातीचो रंग, उजव्यान पळोवप</annotation>
+		<annotation cp="👨🏼‍🦯‍➡">आधाराची बडी घेवंन दादलो | उजव्यान | ऍक्सॅसिबिलिटी | कुड्डो | दादलो | पळोवप | मध्यम-उजळ कातीचो रंग</annotation>
+		<annotation cp="👨🏼‍🦯‍➡" type="tts">आधाराची बडी घेवंन दादलो: मध्यम-उजळ कातीचो रंग, उजव्यान पळोवप</annotation>
+		<annotation cp="👨🏽‍🦯‍➡">आधाराची बडी घेवंन दादलो | उजव्यान | ऍक्सॅसिबिलिटी | कुड्डो | दादलो | पळोवप | मध्यम कातीचो रंग</annotation>
+		<annotation cp="👨🏽‍🦯‍➡" type="tts">आधाराची बडी घेवंन दादलो: मध्यम कातीचो रंग, उजव्यान पळोवप</annotation>
+		<annotation cp="👨🏾‍🦯‍➡">आधाराची बडी घेवंन दादलो | उजव्यान | ऍक्सॅसिबिलिटी | कुड्डो | दादलो | पळोवप | मध्यम-गाढ कातीचो रंग</annotation>
+		<annotation cp="👨🏾‍🦯‍➡" type="tts">आधाराची बडी घेवंन दादलो: मध्यम-गाढ कातीचो रंग, उजव्यान पळोवप</annotation>
+		<annotation cp="👨🏿‍🦯‍➡">आधाराची बडी घेवंन दादलो | उजव्यान | ऍक्सॅसिबिलिटी | कुड्डो | गाढ कातीचो रंग | दादलो | पळोवप</annotation>
+		<annotation cp="👨🏿‍🦯‍➡" type="tts">आधाराची बडी घेवंन दादलो: गाढ कातीचो रंग, उजव्यान पळोवप</annotation>
 		<annotation cp="👩🏻‍🦯">आधाराची बडी घेवंन बायल | उजळ कातीचो रंग | ऍक्सॅसिबिलिटी | कुड्डी | बायल</annotation>
 		<annotation cp="👩🏻‍🦯" type="tts">आधाराची बडी घेवंन बायल: उजळ कातीचो रंग</annotation>
 		<annotation cp="👩🏼‍🦯">आधाराची बडी घेवंन बायल | ऍक्सॅसिबिलिटी | कुड्डी | बायल | मध्यम-उजळ कातीचो रंग</annotation>
@@ -2576,6 +2873,18 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👩🏾‍🦯" type="tts">आधाराची बडी घेवंन बायल: मध्यम-गाढ कातीचो रंग</annotation>
 		<annotation cp="👩🏿‍🦯">आधाराची बडी घेवंन बायल | ऍक्सॅसिबिलिटी | कुड्डी | गाढ कातीचो रंग | बायल</annotation>
 		<annotation cp="👩🏿‍🦯" type="tts">आधाराची बडी घेवंन बायल: गाढ कातीचो रंग</annotation>
+		<annotation cp="👩‍🦯‍➡">आधाराची बडी घेवंन बायल | उजव्यान | ऍक्सॅसिबिलिटी | कुड्डी | पळोवप | बायल</annotation>
+		<annotation cp="👩‍🦯‍➡" type="tts">आधाराची बडी घेवंन बायल: उजव्यान पळोवप</annotation>
+		<annotation cp="👩🏻‍🦯‍➡">आधाराची बडी घेवंन बायल | उजळ कातीचो रंग | उजव्यान | ऍक्सॅसिबिलिटी | कुड्डी | पळोवप | बायल</annotation>
+		<annotation cp="👩🏻‍🦯‍➡" type="tts">आधाराची बडी घेवंन बायल: उजळ कातीचो रंग, उजव्यान पळोवप</annotation>
+		<annotation cp="👩🏼‍🦯‍➡">आधाराची बडी घेवंन बायल | उजव्यान | ऍक्सॅसिबिलिटी | कुड्डी | पळोवप | बायल | मध्यम-उजळ कातीचो रंग</annotation>
+		<annotation cp="👩🏼‍🦯‍➡" type="tts">आधाराची बडी घेवंन बायल: मध्यम-उजळ कातीचो रंग, उजव्यान पळोवप</annotation>
+		<annotation cp="👩🏽‍🦯‍➡">आधाराची बडी घेवंन बायल | उजव्यान | ऍक्सॅसिबिलिटी | कुड्डी | पळोवप | बायल | मध्यम कातीचो रंग</annotation>
+		<annotation cp="👩🏽‍🦯‍➡" type="tts">आधाराची बडी घेवंन बायल: मध्यम कातीचो रंग, उजव्यान पळोवप</annotation>
+		<annotation cp="👩🏾‍🦯‍➡">आधाराची बडी घेवंन बायल | उजव्यान | ऍक्सॅसिबिलिटी | कुड्डी | पळोवप | बायल | मध्यम-गाढ कातीचो रंग</annotation>
+		<annotation cp="👩🏾‍🦯‍➡" type="tts">आधाराची बडी घेवंन बायल: मध्यम-गाढ कातीचो रंग, उजव्यान पळोवप</annotation>
+		<annotation cp="👩🏿‍🦯‍➡">आधाराची बडी घेवंन बायल | उजव्यान | ऍक्सॅसिबिलिटी | कुड्डी | गाढ कातीचो रंग | पळोवप | बायल</annotation>
+		<annotation cp="👩🏿‍🦯‍➡" type="tts">आधाराची बडी घेवंन बायल: गाढ कातीचो रंग, उजव्यान पळोवप</annotation>
 		<annotation cp="🧑🏻‍🦼">उजळ कातीचो रंग | ऍक्सॅसिबिलिटी | मोटर आसपी व्हिलचॅराचेर व्यक्ती | व्हिलचॅर</annotation>
 		<annotation cp="🧑🏻‍🦼" type="tts">मोटर आसपी व्हिलचॅराचेर व्यक्ती: उजळ कातीचो रंग</annotation>
 		<annotation cp="🧑🏼‍🦼">ऍक्सॅसिबिलिटी | मध्यम-उजळ कातीचो रंग | मोटर आसपी व्हिलचॅराचेर व्यक्ती | व्हिलचॅर</annotation>
@@ -2586,6 +2895,18 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🧑🏾‍🦼" type="tts">मोटर आसपी व्हिलचॅराचेर व्यक्ती: मध्यम-गाढ कातीचो रंग</annotation>
 		<annotation cp="🧑🏿‍🦼">ऍक्सॅसिबिलिटी | गाढ कातीचो रंग | मोटर आसपी व्हिलचॅराचेर व्यक्ती | व्हिलचॅर</annotation>
 		<annotation cp="🧑🏿‍🦼" type="tts">मोटर आसपी व्हिलचॅराचेर व्यक्ती: गाढ कातीचो रंग</annotation>
+		<annotation cp="🧑‍🦼‍➡">उजव्यान | ऍक्सॅसिबिलिटी | पळोवप | मोटर आसपी व्हिलचॅराचेर व्यक्ती | व्हिलचॅर</annotation>
+		<annotation cp="🧑‍🦼‍➡" type="tts">मोटर आसपी व्हिलचॅराचेर व्यक्ती: उजव्यान पळोवप</annotation>
+		<annotation cp="🧑🏻‍🦼‍➡">उजळ कातीचो रंग | उजव्यान | ऍक्सॅसिबिलिटी | पळोवप | मोटर आसपी व्हिलचॅराचेर व्यक्ती | व्हिलचॅर</annotation>
+		<annotation cp="🧑🏻‍🦼‍➡" type="tts">मोटर आसपी व्हिलचॅराचेर व्यक्ती: उजळ कातीचो रंग, उजव्यान पळोवप</annotation>
+		<annotation cp="🧑🏼‍🦼‍➡">उजव्यान | ऍक्सॅसिबिलिटी | पळोवप | मध्यम-उजळ कातीचो रंग | मोटर आसपी व्हिलचॅराचेर व्यक्ती | व्हिलचॅर</annotation>
+		<annotation cp="🧑🏼‍🦼‍➡" type="tts">मोटर आसपी व्हिलचॅराचेर व्यक्ती: मध्यम-उजळ कातीचो रंग, उजव्यान पळोवप</annotation>
+		<annotation cp="🧑🏽‍🦼‍➡">उजव्यान | ऍक्सॅसिबिलिटी | पळोवप | मध्यम कातीचो रंग | मोटर आसपी व्हिलचॅराचेर व्यक्ती | व्हिलचॅर</annotation>
+		<annotation cp="🧑🏽‍🦼‍➡" type="tts">मोटर आसपी व्हिलचॅराचेर व्यक्ती: मध्यम कातीचो रंग, उजव्यान पळोवप</annotation>
+		<annotation cp="🧑🏾‍🦼‍➡">उजव्यान | ऍक्सॅसिबिलिटी | पळोवप | मध्यम-गाढ कातीचो रंग | मोटर आसपी व्हिलचॅराचेर व्यक्ती | व्हिलचॅर</annotation>
+		<annotation cp="🧑🏾‍🦼‍➡" type="tts">मोटर आसपी व्हिलचॅराचेर व्यक्ती: मध्यम-गाढ कातीचो रंग, उजव्यान पळोवप</annotation>
+		<annotation cp="🧑🏿‍🦼‍➡">उजव्यान | ऍक्सॅसिबिलिटी | गाढ कातीचो रंग | पळोवप | मोटर आसपी व्हिलचॅराचेर व्यक्ती | व्हिलचॅर</annotation>
+		<annotation cp="🧑🏿‍🦼‍➡" type="tts">मोटर आसपी व्हिलचॅराचेर व्यक्ती: गाढ कातीचो रंग, उजव्यान पळोवप</annotation>
 		<annotation cp="👨🏻‍🦼">उजळ कातीचो रंग | ऍक्सॅसिबिलिटी | दादलो | मोटर आसपी व्हिलचॅराचेर दादलो | मोटर आसपी व्हीलचॅराचेर दादलो | व्हीलचॅर</annotation>
 		<annotation cp="👨🏻‍🦼" type="tts">मोटर आसपी व्हीलचॅराचेर दादलो: उजळ कातीचो रंग</annotation>
 		<annotation cp="👨🏼‍🦼">ऍक्सॅसिबिलिटी | दादलो | मध्यम-उजळ कातीचो रंग | मोटर आसपी व्हिलचॅराचेर दादलो | मोटर आसपी व्हीलचॅराचेर दादलो | व्हीलचॅर</annotation>
@@ -2596,6 +2917,18 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👨🏾‍🦼" type="tts">मोटर आसपी व्हीलचॅराचेर दादलो: मध्यम-गाढ कातीचो रंग</annotation>
 		<annotation cp="👨🏿‍🦼">ऍक्सॅसिबिलिटी | गाढ कातीचो रंग | दादलो | मोटर आसपी व्हिलचॅराचेर दादलो | मोटर आसपी व्हीलचॅराचेर दादलो | व्हीलचॅर</annotation>
 		<annotation cp="👨🏿‍🦼" type="tts">मोटर आसपी व्हीलचॅराचेर दादलो: गाढ कातीचो रंग</annotation>
+		<annotation cp="👨‍🦼‍➡">उजव्यान | ऍक्सॅसिबिलिटी | दादलो | पळोवप | मोटर आसपी व्हिलचॅराचेर दादलो | मोटर आसपी व्हीलचॅराचेर दादलो | व्हीलचॅर</annotation>
+		<annotation cp="👨‍🦼‍➡" type="tts">मोटर आसपी व्हीलचॅराचेर दादलो: उजव्यान पळोवप</annotation>
+		<annotation cp="👨🏻‍🦼‍➡">उजळ कातीचो रंग | उजव्यान | ऍक्सॅसिबिलिटी | दादलो | पळोवप | मोटर आसपी व्हिलचॅराचेर दादलो | मोटर आसपी व्हीलचॅराचेर दादलो | व्हीलचॅर</annotation>
+		<annotation cp="👨🏻‍🦼‍➡" type="tts">मोटर आसपी व्हीलचॅराचेर दादलो: उजळ कातीचो रंग, उजव्यान पळोवप</annotation>
+		<annotation cp="👨🏼‍🦼‍➡">उजव्यान | ऍक्सॅसिबिलिटी | दादलो | पळोवप | मध्यम-उजळ कातीचो रंग | मोटर आसपी व्हिलचॅराचेर दादलो | मोटर आसपी व्हीलचॅराचेर दादलो | व्हीलचॅर</annotation>
+		<annotation cp="👨🏼‍🦼‍➡" type="tts">मोटर आसपी व्हीलचॅराचेर दादलो: मध्यम-उजळ कातीचो रंग, उजव्यान पळोवप</annotation>
+		<annotation cp="👨🏽‍🦼‍➡">उजव्यान | ऍक्सॅसिबिलिटी | दादलो | पळोवप | मध्यम कातीचो रंग | मोटर आसपी व्हिलचॅराचेर दादलो | मोटर आसपी व्हीलचॅराचेर दादलो | व्हीलचॅर</annotation>
+		<annotation cp="👨🏽‍🦼‍➡" type="tts">मोटर आसपी व्हीलचॅराचेर दादलो: मध्यम कातीचो रंग, उजव्यान पळोवप</annotation>
+		<annotation cp="👨🏾‍🦼‍➡">उजव्यान | ऍक्सॅसिबिलिटी | दादलो | पळोवप | मध्यम-गाढ कातीचो रंग | मोटर आसपी व्हिलचॅराचेर दादलो | मोटर आसपी व्हीलचॅराचेर दादलो | व्हीलचॅर</annotation>
+		<annotation cp="👨🏾‍🦼‍➡" type="tts">मोटर आसपी व्हीलचॅराचेर दादलो: मध्यम-गाढ कातीचो रंग, उजव्यान पळोवप</annotation>
+		<annotation cp="👨🏿‍🦼‍➡">उजव्यान | ऍक्सॅसिबिलिटी | गाढ कातीचो रंग | दादलो | पळोवप | मोटर आसपी व्हिलचॅराचेर दादलो | मोटर आसपी व्हीलचॅराचेर दादलो | व्हीलचॅर</annotation>
+		<annotation cp="👨🏿‍🦼‍➡" type="tts">मोटर आसपी व्हीलचॅराचेर दादलो: गाढ कातीचो रंग, उजव्यान पळोवप</annotation>
 		<annotation cp="👩🏻‍🦼">उजळ कातीचो रंग | ऍक्सॅसिबिलिटी | बायल | मोटर आसपी व्हिलचॅराचेर बायल | व्हिलचॅर</annotation>
 		<annotation cp="👩🏻‍🦼" type="tts">मोटर आसपी व्हिलचॅराचेर बायल: उजळ कातीचो रंग</annotation>
 		<annotation cp="👩🏼‍🦼">ऍक्सॅसिबिलिटी | बायल | मध्यम-उजळ कातीचो रंग | मोटर आसपी व्हिलचॅराचेर बायल | व्हिलचॅर</annotation>
@@ -2606,6 +2939,18 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👩🏾‍🦼" type="tts">मोटर आसपी व्हिलचॅराचेर बायल: मध्यम-गाढ कातीचो रंग</annotation>
 		<annotation cp="👩🏿‍🦼">ऍक्सॅसिबिलिटी | गाढ कातीचो रंग | बायल | मोटर आसपी व्हिलचॅराचेर बायल | व्हिलचॅर</annotation>
 		<annotation cp="👩🏿‍🦼" type="tts">मोटर आसपी व्हिलचॅराचेर बायल: गाढ कातीचो रंग</annotation>
+		<annotation cp="👩‍🦼‍➡">उजव्यान | ऍक्सॅसिबिलिटी | पळोवप | बायल | मोटर आसपी व्हिलचॅराचेर बायल | व्हिलचॅर</annotation>
+		<annotation cp="👩‍🦼‍➡" type="tts">मोटर आसपी व्हिलचॅराचेर बायल: उजव्यान पळोवप</annotation>
+		<annotation cp="👩🏻‍🦼‍➡">उजळ कातीचो रंग | उजव्यान | ऍक्सॅसिबिलिटी | पळोवप | बायल | मोटर आसपी व्हिलचॅराचेर बायल | व्हिलचॅर</annotation>
+		<annotation cp="👩🏻‍🦼‍➡" type="tts">मोटर आसपी व्हिलचॅराचेर बायल: उजळ कातीचो रंग, उजव्यान पळोवप</annotation>
+		<annotation cp="👩🏼‍🦼‍➡">उजव्यान | ऍक्सॅसिबिलिटी | पळोवप | बायल | मध्यम-उजळ कातीचो रंग | मोटर आसपी व्हिलचॅराचेर बायल | व्हिलचॅर</annotation>
+		<annotation cp="👩🏼‍🦼‍➡" type="tts">मोटर आसपी व्हिलचॅराचेर बायल: मध्यम-उजळ कातीचो रंग, उजव्यान पळोवप</annotation>
+		<annotation cp="👩🏽‍🦼‍➡">उजव्यान | ऍक्सॅसिबिलिटी | पळोवप | बायल | मध्यम कातीचो रंग | मोटर आसपी व्हिलचॅराचेर बायल | व्हिलचॅर</annotation>
+		<annotation cp="👩🏽‍🦼‍➡" type="tts">मोटर आसपी व्हिलचॅराचेर बायल: मध्यम कातीचो रंग, उजव्यान पळोवप</annotation>
+		<annotation cp="👩🏾‍🦼‍➡">उजव्यान | ऍक्सॅसिबिलिटी | पळोवप | बायल | मध्यम-गाढ कातीचो रंग | मोटर आसपी व्हिलचॅराचेर बायल | व्हिलचॅर</annotation>
+		<annotation cp="👩🏾‍🦼‍➡" type="tts">मोटर आसपी व्हिलचॅराचेर बायल: मध्यम-गाढ कातीचो रंग, उजव्यान पळोवप</annotation>
+		<annotation cp="👩🏿‍🦼‍➡">उजव्यान | ऍक्सॅसिबिलिटी | गाढ कातीचो रंग | पळोवप | बायल | मोटर आसपी व्हिलचॅराचेर बायल | व्हिलचॅर</annotation>
+		<annotation cp="👩🏿‍🦼‍➡" type="tts">मोटर आसपी व्हिलचॅराचेर बायल: गाढ कातीचो रंग, उजव्यान पळोवप</annotation>
 		<annotation cp="🧑🏻‍🦽">उजळ कातीचो रंग | ऍक्सॅसिबिलिटी | मॅन्युअल व्हिलचॅराचेर व्यक्ती | व्हीलचॅर</annotation>
 		<annotation cp="🧑🏻‍🦽" type="tts">मॅन्युअल व्हिलचॅराचेर व्यक्ती: उजळ कातीचो रंग</annotation>
 		<annotation cp="🧑🏼‍🦽">ऍक्सॅसिबिलिटी | मध्यम-उजळ कातीचो रंग | मॅन्युअल व्हिलचॅराचेर व्यक्ती | व्हीलचॅर</annotation>
@@ -2616,6 +2961,18 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🧑🏾‍🦽" type="tts">मॅन्युअल व्हिलचॅराचेर व्यक्ती: मध्यम-गाढ कातीचो रंग</annotation>
 		<annotation cp="🧑🏿‍🦽">ऍक्सॅसिबिलिटी | गाढ कातीचो रंग | मॅन्युअल व्हिलचॅराचेर व्यक्ती | व्हीलचॅर</annotation>
 		<annotation cp="🧑🏿‍🦽" type="tts">मॅन्युअल व्हिलचॅराचेर व्यक्ती: गाढ कातीचो रंग</annotation>
+		<annotation cp="🧑‍🦽‍➡">उजव्यान | ऍक्सॅसिबिलिटी | पळोवप | मॅन्युअल व्हिलचॅराचेर व्यक्ती | व्हीलचॅर</annotation>
+		<annotation cp="🧑‍🦽‍➡" type="tts">मॅन्युअल व्हिलचॅराचेर व्यक्ती: उजव्यान पळोवप</annotation>
+		<annotation cp="🧑🏻‍🦽‍➡">उजळ कातीचो रंग | उजव्यान | ऍक्सॅसिबिलिटी | पळोवप | मॅन्युअल व्हिलचॅराचेर व्यक्ती | व्हीलचॅर</annotation>
+		<annotation cp="🧑🏻‍🦽‍➡" type="tts">मॅन्युअल व्हिलचॅराचेर व्यक्ती: उजळ कातीचो रंग, उजव्यान पळोवप</annotation>
+		<annotation cp="🧑🏼‍🦽‍➡">उजव्यान | ऍक्सॅसिबिलिटी | पळोवप | मध्यम-उजळ कातीचो रंग | मॅन्युअल व्हिलचॅराचेर व्यक्ती | व्हीलचॅर</annotation>
+		<annotation cp="🧑🏼‍🦽‍➡" type="tts">मॅन्युअल व्हिलचॅराचेर व्यक्ती: मध्यम-उजळ कातीचो रंग, उजव्यान पळोवप</annotation>
+		<annotation cp="🧑🏽‍🦽‍➡">उजव्यान | ऍक्सॅसिबिलिटी | पळोवप | मध्यम कातीचो रंग | मॅन्युअल व्हिलचॅराचेर व्यक्ती | व्हीलचॅर</annotation>
+		<annotation cp="🧑🏽‍🦽‍➡" type="tts">मॅन्युअल व्हिलचॅराचेर व्यक्ती: मध्यम कातीचो रंग, उजव्यान पळोवप</annotation>
+		<annotation cp="🧑🏾‍🦽‍➡">उजव्यान | ऍक्सॅसिबिलिटी | पळोवप | मध्यम-गाढ कातीचो रंग | मॅन्युअल व्हिलचॅराचेर व्यक्ती | व्हीलचॅर</annotation>
+		<annotation cp="🧑🏾‍🦽‍➡" type="tts">मॅन्युअल व्हिलचॅराचेर व्यक्ती: मध्यम-गाढ कातीचो रंग, उजव्यान पळोवप</annotation>
+		<annotation cp="🧑🏿‍🦽‍➡">उजव्यान | ऍक्सॅसिबिलिटी | गाढ कातीचो रंग | पळोवप | मॅन्युअल व्हिलचॅराचेर व्यक्ती | व्हीलचॅर</annotation>
+		<annotation cp="🧑🏿‍🦽‍➡" type="tts">मॅन्युअल व्हिलचॅराचेर व्यक्ती: गाढ कातीचो रंग, उजव्यान पळोवप</annotation>
 		<annotation cp="👨🏻‍🦽">उजळ कातीचो रंग | ऍक्सॅसिबिलिटी | दादलो | मॅन्युअल व्हिलचॅराचेर दादलो | व्हिलचॅर</annotation>
 		<annotation cp="👨🏻‍🦽" type="tts">मॅन्युअल व्हिलचॅराचेर दादलो: उजळ कातीचो रंग</annotation>
 		<annotation cp="👨🏼‍🦽">ऍक्सॅसिबिलिटी | दादलो | मध्यम-उजळ कातीचो रंग | मॅन्युअल व्हिलचॅराचेर दादलो | व्हिलचॅर</annotation>
@@ -2626,6 +2983,18 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👨🏾‍🦽" type="tts">मॅन्युअल व्हिलचॅराचेर दादलो: मध्यम-गाढ कातीचो रंग</annotation>
 		<annotation cp="👨🏿‍🦽">ऍक्सॅसिबिलिटी | गाढ कातीचो रंग | दादलो | मॅन्युअल व्हिलचॅराचेर दादलो | व्हिलचॅर</annotation>
 		<annotation cp="👨🏿‍🦽" type="tts">मॅन्युअल व्हिलचॅराचेर दादलो: गाढ कातीचो रंग</annotation>
+		<annotation cp="👨‍🦽‍➡">उजव्यान | ऍक्सॅसिबिलिटी | दादलो | पळोवप | मॅन्युअल व्हिलचॅराचेर दादलो | व्हिलचॅर</annotation>
+		<annotation cp="👨‍🦽‍➡" type="tts">मॅन्युअल व्हिलचॅराचेर दादलो: उजव्यान पळोवप</annotation>
+		<annotation cp="👨🏻‍🦽‍➡">उजळ कातीचो रंग | उजव्यान | ऍक्सॅसिबिलिटी | दादलो | पळोवप | मॅन्युअल व्हिलचॅराचेर दादलो | व्हिलचॅर</annotation>
+		<annotation cp="👨🏻‍🦽‍➡" type="tts">मॅन्युअल व्हिलचॅराचेर दादलो: उजळ कातीचो रंग, उजव्यान पळोवप</annotation>
+		<annotation cp="👨🏼‍🦽‍➡">उजव्यान | ऍक्सॅसिबिलिटी | दादलो | पळोवप | मध्यम-उजळ कातीचो रंग | मॅन्युअल व्हिलचॅराचेर दादलो | व्हिलचॅर</annotation>
+		<annotation cp="👨🏼‍🦽‍➡" type="tts">मॅन्युअल व्हिलचॅराचेर दादलो: मध्यम-उजळ कातीचो रंग, उजव्यान पळोवप</annotation>
+		<annotation cp="👨🏽‍🦽‍➡">उजव्यान | ऍक्सॅसिबिलिटी | दादलो | पळोवप | मध्यम कातीचो रंग | मॅन्युअल व्हिलचॅराचेर दादलो | व्हिलचॅर</annotation>
+		<annotation cp="👨🏽‍🦽‍➡" type="tts">मॅन्युअल व्हिलचॅराचेर दादलो: मध्यम कातीचो रंग, उजव्यान पळोवप</annotation>
+		<annotation cp="👨🏾‍🦽‍➡">उजव्यान | ऍक्सॅसिबिलिटी | दादलो | पळोवप | मध्यम-गाढ कातीचो रंग | मॅन्युअल व्हिलचॅराचेर दादलो | व्हिलचॅर</annotation>
+		<annotation cp="👨🏾‍🦽‍➡" type="tts">मॅन्युअल व्हिलचॅराचेर दादलो: मध्यम-गाढ कातीचो रंग, उजव्यान पळोवप</annotation>
+		<annotation cp="👨🏿‍🦽‍➡">उजव्यान | ऍक्सॅसिबिलिटी | गाढ कातीचो रंग | दादलो | पळोवप | मॅन्युअल व्हिलचॅराचेर दादलो | व्हिलचॅर</annotation>
+		<annotation cp="👨🏿‍🦽‍➡" type="tts">मॅन्युअल व्हिलचॅराचेर दादलो: गाढ कातीचो रंग, उजव्यान पळोवप</annotation>
 		<annotation cp="👩🏻‍🦽">उजळ कातीचो रंग | ऍक्सॅसिबिलिटी | बायल | मॅन्युअल व्हिलचॅराचेर बायल | व्हिलचॅर</annotation>
 		<annotation cp="👩🏻‍🦽" type="tts">मॅन्युअल व्हिलचॅराचेर बायल: उजळ कातीचो रंग</annotation>
 		<annotation cp="👩🏼‍🦽">ऍक्सॅसिबिलिटी | बायल | मध्यम-उजळ कातीचो रंग | मॅन्युअल व्हिलचॅराचेर बायल | व्हिलचॅर</annotation>
@@ -2636,6 +3005,18 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👩🏾‍🦽" type="tts">मॅन्युअल व्हिलचॅराचेर बायल: मध्यम-गाढ कातीचो रंग</annotation>
 		<annotation cp="👩🏿‍🦽">ऍक्सॅसिबिलिटी | गाढ कातीचो रंग | बायल | मॅन्युअल व्हिलचॅराचेर बायल | व्हिलचॅर</annotation>
 		<annotation cp="👩🏿‍🦽" type="tts">मॅन्युअल व्हिलचॅराचेर बायल: गाढ कातीचो रंग</annotation>
+		<annotation cp="👩‍🦽‍➡">उजव्यान | ऍक्सॅसिबिलिटी | पळोवप | बायल | मॅन्युअल व्हिलचॅराचेर बायल | व्हिलचॅर</annotation>
+		<annotation cp="👩‍🦽‍➡" type="tts">मॅन्युअल व्हिलचॅराचेर बायल: उजव्यान पळोवप</annotation>
+		<annotation cp="👩🏻‍🦽‍➡">उजळ कातीचो रंग | उजव्यान | ऍक्सॅसिबिलिटी | पळोवप | बायल | मॅन्युअल व्हिलचॅराचेर बायल | व्हिलचॅर</annotation>
+		<annotation cp="👩🏻‍🦽‍➡" type="tts">मॅन्युअल व्हिलचॅराचेर बायल: उजळ कातीचो रंग, उजव्यान पळोवप</annotation>
+		<annotation cp="👩🏼‍🦽‍➡">उजव्यान | ऍक्सॅसिबिलिटी | पळोवप | बायल | मध्यम-उजळ कातीचो रंग | मॅन्युअल व्हिलचॅराचेर बायल | व्हिलचॅर</annotation>
+		<annotation cp="👩🏼‍🦽‍➡" type="tts">मॅन्युअल व्हिलचॅराचेर बायल: मध्यम-उजळ कातीचो रंग, उजव्यान पळोवप</annotation>
+		<annotation cp="👩🏽‍🦽‍➡">उजव्यान | ऍक्सॅसिबिलिटी | पळोवप | बायल | मध्यम कातीचो रंग | मॅन्युअल व्हिलचॅराचेर बायल | व्हिलचॅर</annotation>
+		<annotation cp="👩🏽‍🦽‍➡" type="tts">मॅन्युअल व्हिलचॅराचेर बायल: मध्यम कातीचो रंग, उजव्यान पळोवप</annotation>
+		<annotation cp="👩🏾‍🦽‍➡">उजव्यान | ऍक्सॅसिबिलिटी | पळोवप | बायल | मध्यम-गाढ कातीचो रंग | मॅन्युअल व्हिलचॅराचेर बायल | व्हिलचॅर</annotation>
+		<annotation cp="👩🏾‍🦽‍➡" type="tts">मॅन्युअल व्हिलचॅराचेर बायल: मध्यम-गाढ कातीचो रंग, उजव्यान पळोवप</annotation>
+		<annotation cp="👩🏿‍🦽‍➡">उजव्यान | ऍक्सॅसिबिलिटी | गाढ कातीचो रंग | पळोवप | बायल | मॅन्युअल व्हिलचॅराचेर बायल | व्हिलचॅर</annotation>
+		<annotation cp="👩🏿‍🦽‍➡" type="tts">मॅन्युअल व्हिलचॅराचेर बायल: गाढ कातीचो रंग, उजव्यान पळोवप</annotation>
 		<annotation cp="🏃🏻">उजळ कातीचो रंग | धांवता | धांवपी व्यक्ती | मॅराथॉन</annotation>
 		<annotation cp="🏃🏻" type="tts">धांवपी व्यक्ती: उजळ कातीचो रंग</annotation>
 		<annotation cp="🏃🏼">धांवता | धांवपी व्यक्ती | मध्यम-उजळ कातीचो रंग | मॅराथॉन</annotation>
@@ -2666,6 +3047,42 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🏃🏾‍♀" type="tts">बायल धांवता: मध्यम-गाढ कातीचो रंग</annotation>
 		<annotation cp="🏃🏿‍♀">गाढ कातीचो रंग | धांवता | बायल | मॅराथॉन | स्पर्धा</annotation>
 		<annotation cp="🏃🏿‍♀" type="tts">बायल धांवता: गाढ कातीचो रंग</annotation>
+		<annotation cp="🏃‍➡">उजव्यान | धांवता | धांवपी व्यक्ती | पळोवप | मॅराथॉन</annotation>
+		<annotation cp="🏃‍➡" type="tts">धांवपी व्यक्ती: उजव्यान पळोवप</annotation>
+		<annotation cp="🏃🏻‍➡">उजळ कातीचो रंग | उजव्यान | धांवता | धांवपी व्यक्ती | पळोवप | मॅराथॉन</annotation>
+		<annotation cp="🏃🏻‍➡" type="tts">धांवपी व्यक्ती: उजळ कातीचो रंग, उजव्यान पळोवप</annotation>
+		<annotation cp="🏃🏼‍➡">उजव्यान | धांवता | धांवपी व्यक्ती | पळोवप | मध्यम-उजळ कातीचो रंग | मॅराथॉन</annotation>
+		<annotation cp="🏃🏼‍➡" type="tts">धांवपी व्यक्ती: मध्यम-उजळ कातीचो रंग, उजव्यान पळोवप</annotation>
+		<annotation cp="🏃🏽‍➡">उजव्यान | धांवता | धांवपी व्यक्ती | पळोवप | मध्यम कातीचो रंग | मॅराथॉन</annotation>
+		<annotation cp="🏃🏽‍➡" type="tts">धांवपी व्यक्ती: मध्यम कातीचो रंग, उजव्यान पळोवप</annotation>
+		<annotation cp="🏃🏾‍➡">उजव्यान | धांवता | धांवपी व्यक्ती | पळोवप | मध्यम-गाढ कातीचो रंग | मॅराथॉन</annotation>
+		<annotation cp="🏃🏾‍➡" type="tts">धांवपी व्यक्ती: मध्यम-गाढ कातीचो रंग, उजव्यान पळोवप</annotation>
+		<annotation cp="🏃🏿‍➡">उजव्यान | गाढ कातीचो रंग | धांवता | धांवपी व्यक्ती | पळोवप | मॅराथॉन</annotation>
+		<annotation cp="🏃🏿‍➡" type="tts">धांवपी व्यक्ती: गाढ कातीचो रंग, उजव्यान पळोवप</annotation>
+		<annotation cp="🏃‍♀‍➡">उजव्यान | धांवता | पळोवप | बायल | मॅराथॉन | स्पर्धा</annotation>
+		<annotation cp="🏃‍♀‍➡" type="tts">बायल धांवता: उजव्यान पळोवप</annotation>
+		<annotation cp="🏃🏻‍♀‍➡">उजळ कातीचो रंग | उजव्यान | धांवता | पळोवप | बायल | मॅराथॉन | स्पर्धा</annotation>
+		<annotation cp="🏃🏻‍♀‍➡" type="tts">बायल धांवता: उजळ कातीचो रंग, उजव्यान पळोवप</annotation>
+		<annotation cp="🏃🏼‍♀‍➡">उजव्यान | धांवता | पळोवप | बायल | मध्यम-उजळ कातीचो रंग | मॅराथॉन | स्पर्धा</annotation>
+		<annotation cp="🏃🏼‍♀‍➡" type="tts">बायल धांवता: मध्यम-उजळ कातीचो रंग, उजव्यान पळोवप</annotation>
+		<annotation cp="🏃🏽‍♀‍➡">उजव्यान | धांवता | पळोवप | बायल | मध्यम कातीचो रंग | मॅराथॉन | स्पर्धा</annotation>
+		<annotation cp="🏃🏽‍♀‍➡" type="tts">बायल धांवता: मध्यम कातीचो रंग, उजव्यान पळोवप</annotation>
+		<annotation cp="🏃🏾‍♀‍➡">उजव्यान | धांवता | पळोवप | बायल | मध्यम-गाढ कातीचो रंग | मॅराथॉन | स्पर्धा</annotation>
+		<annotation cp="🏃🏾‍♀‍➡" type="tts">बायल धांवता: मध्यम-गाढ कातीचो रंग, उजव्यान पळोवप</annotation>
+		<annotation cp="🏃🏿‍♀‍➡">उजव्यान | गाढ कातीचो रंग | धांवता | पळोवप | बायल | मॅराथॉन | स्पर्धा</annotation>
+		<annotation cp="🏃🏿‍♀‍➡" type="tts">बायल धांवता: गाढ कातीचो रंग, उजव्यान पळोवप</annotation>
+		<annotation cp="🏃‍♂‍➡">उजव्यान | दादलो | धांवता | पळोवप | मॅराथॉन | स्पर्धा</annotation>
+		<annotation cp="🏃‍♂‍➡" type="tts">दादलो धांवता: उजव्यान पळोवप</annotation>
+		<annotation cp="🏃🏻‍♂‍➡">उजळ कातीचो रंग | उजव्यान | दादलो | धांवता | पळोवप | मॅराथॉन | स्पर्धा</annotation>
+		<annotation cp="🏃🏻‍♂‍➡" type="tts">दादलो धांवता: उजळ कातीचो रंग, उजव्यान पळोवप</annotation>
+		<annotation cp="🏃🏼‍♂‍➡">उजव्यान | दादलो | धांवता | पळोवप | मध्यम-उजळ कातीचो रंग | मॅराथॉन | स्पर्धा</annotation>
+		<annotation cp="🏃🏼‍♂‍➡" type="tts">दादलो धांवता: मध्यम-उजळ कातीचो रंग, उजव्यान पळोवप</annotation>
+		<annotation cp="🏃🏽‍♂‍➡">उजव्यान | दादलो | धांवता | पळोवप | मध्यम कातीचो रंग | मॅराथॉन | स्पर्धा</annotation>
+		<annotation cp="🏃🏽‍♂‍➡" type="tts">दादलो धांवता: मध्यम कातीचो रंग, उजव्यान पळोवप</annotation>
+		<annotation cp="🏃🏾‍♂‍➡">उजव्यान | दादलो | धांवता | पळोवप | मध्यम-गाढ कातीचो रंग | मॅराथॉन | स्पर्धा</annotation>
+		<annotation cp="🏃🏾‍♂‍➡" type="tts">दादलो धांवता: मध्यम-गाढ कातीचो रंग, उजव्यान पळोवप</annotation>
+		<annotation cp="🏃🏿‍♂‍➡">उजव्यान | गाढ कातीचो रंग | दादलो | धांवता | पळोवप | मॅराथॉन | स्पर्धा</annotation>
+		<annotation cp="🏃🏿‍♂‍➡" type="tts">दादलो धांवता: गाढ कातीचो रंग, उजव्यान पळोवप</annotation>
 		<annotation cp="💃🏻">उजळ कातीचो रंग | नाच | नाचता | बायल</annotation>
 		<annotation cp="💃🏻" type="tts">बायल नाचता: उजळ कातीचो रंग</annotation>
 		<annotation cp="💃🏼">नाच | नाचता | बायल | मध्यम-उजळ कातीचो रंग</annotation>
@@ -2936,15 +3353,15 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🏋🏾" type="tts">व्यक्ती वजन उखलता: मध्यम-गाढ कातीचो रंग</annotation>
 		<annotation cp="🏋🏿">उखलपी | गाढ कातीचो रंग | वजन | व्यक्ती वजन उखलता | व्यक्ती वजनां उखलता</annotation>
 		<annotation cp="🏋🏿" type="tts">व्यक्ती वजन उखलता: गाढ कातीचो रंग</annotation>
-		<annotation cp="🏋🏻‍♂">उजळ कातीचो रंग | दादलो | दादलो वजना उखलता | दादलो वजनां उखलता | वजन उखलपी</annotation>
+		<annotation cp="🏋🏻‍♂">उजळ कातीचो रंग | दादलो | दादलो वजना उखलता | वजन उखलपी</annotation>
 		<annotation cp="🏋🏻‍♂" type="tts">दादलो वजना उखलता: उजळ कातीचो रंग</annotation>
-		<annotation cp="🏋🏼‍♂">दादलो | दादलो वजना उखलता | दादलो वजनां उखलता | मध्यम-उजळ कातीचो रंग | वजन उखलपी</annotation>
+		<annotation cp="🏋🏼‍♂">दादलो | दादलो वजना उखलता | मध्यम-उजळ कातीचो रंग | वजन उखलपी</annotation>
 		<annotation cp="🏋🏼‍♂" type="tts">दादलो वजना उखलता: मध्यम-उजळ कातीचो रंग</annotation>
-		<annotation cp="🏋🏽‍♂">दादलो | दादलो वजना उखलता | दादलो वजनां उखलता | मध्यम कातीचो रंग | वजन उखलपी</annotation>
+		<annotation cp="🏋🏽‍♂">दादलो | दादलो वजना उखलता | मध्यम कातीचो रंग | वजन उखलपी</annotation>
 		<annotation cp="🏋🏽‍♂" type="tts">दादलो वजना उखलता: मध्यम कातीचो रंग</annotation>
-		<annotation cp="🏋🏾‍♂">दादलो | दादलो वजना उखलता | दादलो वजनां उखलता | मध्यम-गाढ कातीचो रंग | वजन उखलपी</annotation>
+		<annotation cp="🏋🏾‍♂">दादलो | दादलो वजना उखलता | मध्यम-गाढ कातीचो रंग | वजन उखलपी</annotation>
 		<annotation cp="🏋🏾‍♂" type="tts">दादलो वजना उखलता: मध्यम-गाढ कातीचो रंग</annotation>
-		<annotation cp="🏋🏿‍♂">गाढ कातीचो रंग | दादलो | दादलो वजना उखलता | दादलो वजनां उखलता | वजन उखलपी</annotation>
+		<annotation cp="🏋🏿‍♂">गाढ कातीचो रंग | दादलो | दादलो वजना उखलता | वजन उखलपी</annotation>
 		<annotation cp="🏋🏿‍♂" type="tts">दादलो वजना उखलता: गाढ कातीचो रंग</annotation>
 		<annotation cp="🏋🏻‍♀">उजळ कातीचो रंग | बायल | बायल वजनां उखलता | वजन उखलपी</annotation>
 		<annotation cp="🏋🏻‍♀" type="tts">बायल वजनां उखलता: उजळ कातीचो रंग</annotation>
@@ -2966,26 +3383,26 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🚴🏾" type="tts">व्यक्ती सायकल चलयता: मध्यम-गाढ कातीचो रंग</annotation>
 		<annotation cp="🚴🏿">गाढ कातीचो रंग | व्यक्ती सायकल चलयता | सायकल | सायकल चलोवप | सायकलस्वार</annotation>
 		<annotation cp="🚴🏿" type="tts">व्यक्ती सायकल चलयता: गाढ कातीचो रंग</annotation>
-		<annotation cp="🚴🏻‍♂">उजळ कातीचो रंग | दादलो | दादलो सायकल चलयता | सायकल | सायकल चलयता | सायकलस्वार</annotation>
+		<annotation cp="🚴🏻‍♂">उजळ कातीचो रंग | क्रीडा | दादलो | बायक | बायकिंग | रपेट | सायकल | सायकलस्वार</annotation>
 		<annotation cp="🚴🏻‍♂" type="tts">दादलो सायकल चलयता: उजळ कातीचो रंग</annotation>
-		<annotation cp="🚴🏼‍♂">दादलो | दादलो सायकल चलयता | मध्यम-उजळ कातीचो रंग | सायकल | सायकल चलयता | सायकलस्वार</annotation>
+		<annotation cp="🚴🏼‍♂">क्रीडा | दादलो | बायक | बायकिंग | मध्यम-उजळ कातीचो रंग | रपेट | सायकल | सायकलस्वार</annotation>
 		<annotation cp="🚴🏼‍♂" type="tts">दादलो सायकल चलयता: मध्यम-उजळ कातीचो रंग</annotation>
-		<annotation cp="🚴🏽‍♂">दादलो | दादलो सायकल चलयता | मध्यम कातीचो रंग | सायकल | सायकल चलयता | सायकलस्वार</annotation>
+		<annotation cp="🚴🏽‍♂">क्रीडा | दादलो | बायक | बायकिंग | मध्यम कातीचो रंग | रपेट | सायकल | सायकलस्वार</annotation>
 		<annotation cp="🚴🏽‍♂" type="tts">दादलो सायकल चलयता: मध्यम कातीचो रंग</annotation>
-		<annotation cp="🚴🏾‍♂">दादलो | दादलो सायकल चलयता | मध्यम-गाढ कातीचो रंग | सायकल | सायकल चलयता | सायकलस्वार</annotation>
+		<annotation cp="🚴🏾‍♂">क्रीडा | दादलो | बायक | बायकिंग | मध्यम-गाढ कातीचो रंग | रपेट | सायकल | सायकलस्वार</annotation>
 		<annotation cp="🚴🏾‍♂" type="tts">दादलो सायकल चलयता: मध्यम-गाढ कातीचो रंग</annotation>
-		<annotation cp="🚴🏿‍♂">गाढ कातीचो रंग | दादलो | दादलो सायकल चलयता | सायकल | सायकल चलयता | सायकलस्वार</annotation>
+		<annotation cp="🚴🏿‍♂">क्रीडा | गाढ कातीचो रंग | दादलो | बायक | बायकिंग | रपेट | सायकल | सायकलस्वार</annotation>
 		<annotation cp="🚴🏿‍♂" type="tts">दादलो सायकल चलयता: गाढ कातीचो रंग</annotation>
-		<annotation cp="🚴🏻‍♀">उजळ कातीचो रंग | बायल | बायल सायकल चलयता | सायकल | सायकल चलयता | सायकलस्वार</annotation>
-		<annotation cp="🚴🏻‍♀" type="tts">बायल सायकल चलयता: उजळ कातीचो रंग</annotation>
-		<annotation cp="🚴🏼‍♀">बायल | बायल सायकल चलयता | मध्यम-उजळ कातीचो रंग | सायकल | सायकल चलयता | सायकलस्वार</annotation>
-		<annotation cp="🚴🏼‍♀" type="tts">बायल सायकल चलयता: मध्यम-उजळ कातीचो रंग</annotation>
-		<annotation cp="🚴🏽‍♀">बायल | बायल सायकल चलयता | मध्यम कातीचो रंग | सायकल | सायकल चलयता | सायकलस्वार</annotation>
-		<annotation cp="🚴🏽‍♀" type="tts">बायल सायकल चलयता: मध्यम कातीचो रंग</annotation>
-		<annotation cp="🚴🏾‍♀">बायल | बायल सायकल चलयता | मध्यम-गाढ कातीचो रंग | सायकल | सायकल चलयता | सायकलस्वार</annotation>
-		<annotation cp="🚴🏾‍♀" type="tts">बायल सायकल चलयता: मध्यम-गाढ कातीचो रंग</annotation>
-		<annotation cp="🚴🏿‍♀">गाढ कातीचो रंग | बायल | बायल सायकल चलयता | सायकल | सायकल चलयता | सायकलस्वार</annotation>
-		<annotation cp="🚴🏿‍♀" type="tts">बायल सायकल चलयता: गाढ कातीचो रंग</annotation>
+		<annotation cp="🚴🏻‍♀">उजळ कातीचो रंग | क्रीडा | बायक | बायकिंग | बायल | रपेट | सायकल | सायकलस्वार</annotation>
+		<annotation cp="🚴🏻‍♀" type="tts">बायल बायक चलयता: उजळ कातीचो रंग</annotation>
+		<annotation cp="🚴🏼‍♀">क्रीडा | बायक | बायकिंग | बायल | मध्यम-उजळ कातीचो रंग | रपेट | सायकल | सायकलस्वार</annotation>
+		<annotation cp="🚴🏼‍♀" type="tts">बायल बायक चलयता: मध्यम-उजळ कातीचो रंग</annotation>
+		<annotation cp="🚴🏽‍♀">क्रीडा | बायक | बायकिंग | बायल | मध्यम कातीचो रंग | रपेट | सायकल | सायकलस्वार</annotation>
+		<annotation cp="🚴🏽‍♀" type="tts">बायल बायक चलयता: मध्यम कातीचो रंग</annotation>
+		<annotation cp="🚴🏾‍♀">क्रीडा | बायक | बायकिंग | बायल | मध्यम-गाढ कातीचो रंग | रपेट | सायकल | सायकलस्वार</annotation>
+		<annotation cp="🚴🏾‍♀" type="tts">बायल बायक चलयता: मध्यम-गाढ कातीचो रंग</annotation>
+		<annotation cp="🚴🏿‍♀">क्रीडा | गाढ कातीचो रंग | बायक | बायकिंग | बायल | रपेट | सायकल | सायकलस्वार</annotation>
+		<annotation cp="🚴🏿‍♀" type="tts">बायल बायक चलयता: गाढ कातीचो रंग</annotation>
 		<annotation cp="🚵🏻">उजळ कातीचो रंग | पर्वत | पर्वताचेर सायकल चलोवपी व्यक्ती | बायक | व्यक्ती पर्वताचेर बायक चलयता | सायकल | सायकलस्वार</annotation>
 		<annotation cp="🚵🏻" type="tts">व्यक्ती पर्वताचेर बायक चलयता: उजळ कातीचो रंग</annotation>
 		<annotation cp="🚵🏼">पर्वत | पर्वताचेर सायकल चलोवपी व्यक्ती | बायक | मध्यम-उजळ कातीचो रंग | व्यक्ती पर्वताचेर बायक चलयता | सायकल | सायकलस्वार</annotation>
@@ -3006,15 +3423,15 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🚵🏾‍♂" type="tts">दादलो पर्वताचेर सायकल चलयता: मध्यम-गाढ कातीचो रंग</annotation>
 		<annotation cp="🚵🏿‍♂">गाढ कातीचो रंग | दादलो | दादलो पर्वताचेर सायकल चलयता | पर्वत | बायक | सायकल | सायकलस्वार</annotation>
 		<annotation cp="🚵🏿‍♂" type="tts">दादलो पर्वताचेर सायकल चलयता: गाढ कातीचो रंग</annotation>
-		<annotation cp="🚵🏻‍♀">उजळ कातीचो रंग | पर्वत | बायक | बायल | बायल पर्वताचेर सायकल चलयता | सायकल | सायकल चलयता | सायकलस्वार</annotation>
+		<annotation cp="🚵🏻‍♀">उजळ कातीचो रंग | क्रीडा | पर्वत | बायक | बायकचलोवपी | बायकिंग | बायल | रपेट | सायकल | सायकलस्वार</annotation>
 		<annotation cp="🚵🏻‍♀" type="tts">बायल पर्वताचेर सायकल चलयता: उजळ कातीचो रंग</annotation>
-		<annotation cp="🚵🏼‍♀">पर्वत | बायक | बायल | बायल पर्वताचेर सायकल चलयता | मध्यम-उजळ कातीचो रंग | सायकल | सायकल चलयता | सायकलस्वार</annotation>
+		<annotation cp="🚵🏼‍♀">क्रीडा | पर्वत | बायक | बायकचलोवपी | बायकिंग | बायल | मध्यम-उजळ कातीचो रंग | रपेट | सायकल | सायकलस्वार</annotation>
 		<annotation cp="🚵🏼‍♀" type="tts">बायल पर्वताचेर सायकल चलयता: मध्यम-उजळ कातीचो रंग</annotation>
-		<annotation cp="🚵🏽‍♀">पर्वत | बायक | बायल | बायल पर्वताचेर सायकल चलयता | मध्यम कातीचो रंग | सायकल | सायकल चलयता | सायकलस्वार</annotation>
+		<annotation cp="🚵🏽‍♀">क्रीडा | पर्वत | बायक | बायकचलोवपी | बायकिंग | बायल | मध्यम कातीचो रंग | रपेट | सायकल | सायकलस्वार</annotation>
 		<annotation cp="🚵🏽‍♀" type="tts">बायल पर्वताचेर सायकल चलयता: मध्यम कातीचो रंग</annotation>
-		<annotation cp="🚵🏾‍♀">पर्वत | बायक | बायल | बायल पर्वताचेर सायकल चलयता | मध्यम-गाढ कातीचो रंग | सायकल | सायकल चलयता | सायकलस्वार</annotation>
+		<annotation cp="🚵🏾‍♀">क्रीडा | पर्वत | बायक | बायकचलोवपी | बायकिंग | बायल | मध्यम-गाढ कातीचो रंग | रपेट | सायकल | सायकलस्वार</annotation>
 		<annotation cp="🚵🏾‍♀" type="tts">बायल पर्वताचेर सायकल चलयता: मध्यम-गाढ कातीचो रंग</annotation>
-		<annotation cp="🚵🏿‍♀">गाढ कातीचो रंग | पर्वत | बायक | बायल | बायल पर्वताचेर सायकल चलयता | सायकल | सायकल चलयता | सायकलस्वार</annotation>
+		<annotation cp="🚵🏿‍♀">क्रीडा | गाढ कातीचो रंग | पर्वत | बायक | बायकचलोवपी | बायकिंग | बायल | रपेट | सायकल | सायकलस्वार</annotation>
 		<annotation cp="🚵🏿‍♀" type="tts">बायल पर्वताचेर सायकल चलयता: गाढ कातीचो रंग</annotation>
 		<annotation cp="🤸🏻">उजळ कातीचो रंग | कोलनाडी | कोलनाड्यो मारपी व्यक्ती | जिम्नेस्टिक्स</annotation>
 		<annotation cp="🤸🏻" type="tts">कोलनाड्यो मारपी व्यक्ती: उजळ कातीचो रंग</annotation>
@@ -3336,55 +3753,55 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👩🏿‍🤝‍👨🏾" type="tts">बायल आनी दादलो हात धरून: गाढ कातीचो रंग, मध्यम-गाढ कातीचो रंग</annotation>
 		<annotation cp="👫🏿">गाढ कातीचो रंग | जोडपें | दादलो | धरप | धरिल्ले हात | बायल | बायल आनी दादलो हात धरून | बायल आनी दादल्यान एकमेकांचें हात धरल्यात | हात</annotation>
 		<annotation cp="👫🏿" type="tts">बायल आनी दादलो हात धरून: गाढ कातीचो रंग</annotation>
-		<annotation cp="👬🏻">उजळ कातीचो रंग | जुवळीं | जोडपें। मिथुन। एकमेकांचे हात धरल्यात। दादलो | दादले | दादले एकमेकांचे हात धरून | दादल्यांनी एकमेकांचे हात धरल्यात | रास</annotation>
+		<annotation cp="👬🏻">उजळ कातीचो रंग | एकमेकांचे हात धरल्यात | जुवळीं | जोडपें | दादले | दादले एकमेकांचे हात धरून | दादलो | दादल्यांनी एकमेकांचे हात धरल्यात | मिथुन | रास</annotation>
 		<annotation cp="👬🏻" type="tts">दादले एकमेकांचे हात धरून: उजळ कातीचो रंग</annotation>
-		<annotation cp="👨🏻‍🤝‍👨🏼">उजळ कातीचो रंग | जुवळीं | जोडपें। मिथुन। एकमेकांचे हात धरल्यात। दादलो | दादले | दादले एकमेकांचे हात धरून | दादल्यांनी एकमेकांचे हात धरल्यात | मध्यम-उजळ कातीचो रंग | रास</annotation>
+		<annotation cp="👨🏻‍🤝‍👨🏼">उजळ कातीचो रंग | एकमेकांचे हात धरल्यात | जुवळीं | जोडपें | दादले | दादले एकमेकांचे हात धरून | दादलो | दादल्यांनी एकमेकांचे हात धरल्यात | मध्यम-उजळ कातीचो रंग | मिथुन | रास</annotation>
 		<annotation cp="👨🏻‍🤝‍👨🏼" type="tts">दादले एकमेकांचे हात धरून: उजळ कातीचो रंग, मध्यम-उजळ कातीचो रंग</annotation>
-		<annotation cp="👨🏻‍🤝‍👨🏽">उजळ कातीचो रंग | जुवळीं | जोडपें। मिथुन। एकमेकांचे हात धरल्यात। दादलो | दादले | दादले एकमेकांचे हात धरून | दादल्यांनी एकमेकांचे हात धरल्यात | मध्यम कातीचो रंग | रास</annotation>
+		<annotation cp="👨🏻‍🤝‍👨🏽">उजळ कातीचो रंग | एकमेकांचे हात धरल्यात | जुवळीं | जोडपें | दादले | दादले एकमेकांचे हात धरून | दादलो | दादल्यांनी एकमेकांचे हात धरल्यात | मध्यम कातीचो रंग | मिथुन | रास</annotation>
 		<annotation cp="👨🏻‍🤝‍👨🏽" type="tts">दादले एकमेकांचे हात धरून: उजळ कातीचो रंग, मध्यम कातीचो रंग</annotation>
-		<annotation cp="👨🏻‍🤝‍👨🏾">उजळ कातीचो रंग | जुवळीं | जोडपें। मिथुन। एकमेकांचे हात धरल्यात। दादलो | दादले | दादले एकमेकांचे हात धरून | दादल्यांनी एकमेकांचे हात धरल्यात | मध्यम-गाढ कातीचो रंग | रास</annotation>
+		<annotation cp="👨🏻‍🤝‍👨🏾">उजळ कातीचो रंग | एकमेकांचे हात धरल्यात | जुवळीं | जोडपें | दादले | दादले एकमेकांचे हात धरून | दादलो | दादल्यांनी एकमेकांचे हात धरल्यात | मध्यम-गाढ कातीचो रंग | मिथुन | रास</annotation>
 		<annotation cp="👨🏻‍🤝‍👨🏾" type="tts">दादले एकमेकांचे हात धरून: उजळ कातीचो रंग, मध्यम-गाढ कातीचो रंग</annotation>
-		<annotation cp="👨🏻‍🤝‍👨🏿">उजळ कातीचो रंग | गाढ कातीचो रंग | जुवळीं | जोडपें। मिथुन। एकमेकांचे हात धरल्यात। दादलो | दादले | दादले एकमेकांचे हात धरून | दादल्यांनी एकमेकांचे हात धरल्यात | रास</annotation>
+		<annotation cp="👨🏻‍🤝‍👨🏿">उजळ कातीचो रंग | एकमेकांचे हात धरल्यात | गाढ कातीचो रंग | जुवळीं | जोडपें | दादले | दादले एकमेकांचे हात धरून | दादलो | दादल्यांनी एकमेकांचे हात धरल्यात | मिथुन | रास</annotation>
 		<annotation cp="👨🏻‍🤝‍👨🏿" type="tts">दादले एकमेकांचे हात धरून: उजळ कातीचो रंग, गाढ कातीचो रंग</annotation>
-		<annotation cp="👨🏼‍🤝‍👨🏻">उजळ कातीचो रंग | जुवळीं | जोडपें। मिथुन। एकमेकांचे हात धरल्यात। दादलो | दादले | दादले एकमेकांचे हात धरून | दादल्यांनी एकमेकांचे हात धरल्यात | मध्यम-उजळ कातीचो रंग | रास</annotation>
+		<annotation cp="👨🏼‍🤝‍👨🏻">उजळ कातीचो रंग | एकमेकांचे हात धरल्यात | जुवळीं | जोडपें | दादले | दादले एकमेकांचे हात धरून | दादलो | दादल्यांनी एकमेकांचे हात धरल्यात | मध्यम-उजळ कातीचो रंग | मिथुन | रास</annotation>
 		<annotation cp="👨🏼‍🤝‍👨🏻" type="tts">दादले एकमेकांचे हात धरून: मध्यम-उजळ कातीचो रंग, उजळ कातीचो रंग</annotation>
-		<annotation cp="👬🏼">जुवळीं | जोडपें। मिथुन। एकमेकांचे हात धरल्यात। दादलो | दादले | दादले एकमेकांचे हात धरून | दादल्यांनी एकमेकांचे हात धरल्यात | मध्यम-उजळ कातीचो रंग | रास</annotation>
+		<annotation cp="👬🏼">एकमेकांचे हात धरल्यात | जुवळीं | जोडपें | दादले | दादले एकमेकांचे हात धरून | दादलो | दादल्यांनी एकमेकांचे हात धरल्यात | मध्यम-उजळ कातीचो रंग | मिथुन | रास</annotation>
 		<annotation cp="👬🏼" type="tts">दादले एकमेकांचे हात धरून: मध्यम-उजळ कातीचो रंग</annotation>
-		<annotation cp="👨🏼‍🤝‍👨🏽">जुवळीं | जोडपें। मिथुन। एकमेकांचे हात धरल्यात। दादलो | दादले | दादले एकमेकांचे हात धरून | दादल्यांनी एकमेकांचे हात धरल्यात | मध्यम कातीचो रंग | मध्यम-उजळ कातीचो रंग | रास</annotation>
+		<annotation cp="👨🏼‍🤝‍👨🏽">एकमेकांचे हात धरल्यात | जुवळीं | जोडपें | दादले | दादले एकमेकांचे हात धरून | दादलो | दादल्यांनी एकमेकांचे हात धरल्यात | मध्यम कातीचो रंग | मध्यम-उजळ कातीचो रंग | मिथुन | रास</annotation>
 		<annotation cp="👨🏼‍🤝‍👨🏽" type="tts">दादले एकमेकांचे हात धरून: मध्यम-उजळ कातीचो रंग, मध्यम कातीचो रंग</annotation>
-		<annotation cp="👨🏼‍🤝‍👨🏾">जुवळीं | जोडपें। मिथुन। एकमेकांचे हात धरल्यात। दादलो | दादले | दादले एकमेकांचे हात धरून | दादल्यांनी एकमेकांचे हात धरल्यात | मध्यम-उजळ कातीचो रंग | मध्यम-गाढ कातीचो रंग | रास</annotation>
+		<annotation cp="👨🏼‍🤝‍👨🏾">एकमेकांचे हात धरल्यात | जुवळीं | जोडपें | दादले | दादले एकमेकांचे हात धरून | दादलो | दादल्यांनी एकमेकांचे हात धरल्यात | मध्यम-उजळ कातीचो रंग | मध्यम-गाढ कातीचो रंग | मिथुन | रास</annotation>
 		<annotation cp="👨🏼‍🤝‍👨🏾" type="tts">दादले एकमेकांचे हात धरून: मध्यम-उजळ कातीचो रंग, मध्यम-गाढ कातीचो रंग</annotation>
-		<annotation cp="👨🏼‍🤝‍👨🏿">गाढ कातीचो रंग | जुवळीं | जोडपें। मिथुन। एकमेकांचे हात धरल्यात। दादलो | दादले | दादले एकमेकांचे हात धरून | दादल्यांनी एकमेकांचे हात धरल्यात | मध्यम-उजळ कातीचो रंग | रास</annotation>
+		<annotation cp="👨🏼‍🤝‍👨🏿">एकमेकांचे हात धरल्यात | गाढ कातीचो रंग | जुवळीं | जोडपें | दादले | दादले एकमेकांचे हात धरून | दादलो | दादल्यांनी एकमेकांचे हात धरल्यात | मध्यम-उजळ कातीचो रंग | मिथुन | रास</annotation>
 		<annotation cp="👨🏼‍🤝‍👨🏿" type="tts">दादले एकमेकांचे हात धरून: मध्यम-उजळ कातीचो रंग, गाढ कातीचो रंग</annotation>
-		<annotation cp="👨🏽‍🤝‍👨🏻">उजळ कातीचो रंग | जुवळीं | जोडपें। मिथुन। एकमेकांचे हात धरल्यात। दादलो | दादले | दादले एकमेकांचे हात धरून | दादल्यांनी एकमेकांचे हात धरल्यात | मध्यम कातीचो रंग | रास</annotation>
+		<annotation cp="👨🏽‍🤝‍👨🏻">उजळ कातीचो रंग | एकमेकांचे हात धरल्यात | जुवळीं | जोडपें | दादले | दादले एकमेकांचे हात धरून | दादलो | दादल्यांनी एकमेकांचे हात धरल्यात | मध्यम कातीचो रंग | मिथुन | रास</annotation>
 		<annotation cp="👨🏽‍🤝‍👨🏻" type="tts">दादले एकमेकांचे हात धरून: मध्यम कातीचो रंग, उजळ कातीचो रंग</annotation>
-		<annotation cp="👨🏽‍🤝‍👨🏼">जुवळीं | जोडपें। मिथुन। एकमेकांचे हात धरल्यात। दादलो | दादले | दादले एकमेकांचे हात धरून | दादल्यांनी एकमेकांचे हात धरल्यात | मध्यम कातीचो रंग | मध्यम-उजळ कातीचो रंग | रास</annotation>
+		<annotation cp="👨🏽‍🤝‍👨🏼">एकमेकांचे हात धरल्यात | जुवळीं | जोडपें | दादले | दादले एकमेकांचे हात धरून | दादलो | दादल्यांनी एकमेकांचे हात धरल्यात | मध्यम कातीचो रंग | मध्यम-उजळ कातीचो रंग | मिथुन | रास</annotation>
 		<annotation cp="👨🏽‍🤝‍👨🏼" type="tts">दादले एकमेकांचे हात धरून: मध्यम कातीचो रंग, मध्यम-उजळ कातीचो रंग</annotation>
-		<annotation cp="👬🏽">जुवळीं | जोडपें। मिथुन। एकमेकांचे हात धरल्यात। दादलो | दादले | दादले एकमेकांचे हात धरून | दादल्यांनी एकमेकांचे हात धरल्यात | मध्यम कातीचो रंग | रास</annotation>
+		<annotation cp="👬🏽">एकमेकांचे हात धरल्यात | जुवळीं | जोडपें | दादले | दादले एकमेकांचे हात धरून | दादलो | दादल्यांनी एकमेकांचे हात धरल्यात | मध्यम कातीचो रंग | मिथुन | रास</annotation>
 		<annotation cp="👬🏽" type="tts">दादले एकमेकांचे हात धरून: मध्यम कातीचो रंग</annotation>
-		<annotation cp="👨🏽‍🤝‍👨🏾">जुवळीं | जोडपें। मिथुन। एकमेकांचे हात धरल्यात। दादलो | दादले | दादले एकमेकांचे हात धरून | दादल्यांनी एकमेकांचे हात धरल्यात | मध्यम कातीचो रंग | मध्यम-गाढ कातीचो रंग | रास</annotation>
+		<annotation cp="👨🏽‍🤝‍👨🏾">एकमेकांचे हात धरल्यात | जुवळीं | जोडपें | दादले | दादले एकमेकांचे हात धरून | दादलो | दादल्यांनी एकमेकांचे हात धरल्यात | मध्यम कातीचो रंग | मध्यम-गाढ कातीचो रंग | मिथुन | रास</annotation>
 		<annotation cp="👨🏽‍🤝‍👨🏾" type="tts">दादले एकमेकांचे हात धरून: मध्यम कातीचो रंग, मध्यम-गाढ कातीचो रंग</annotation>
-		<annotation cp="👨🏽‍🤝‍👨🏿">गाढ कातीचो रंग | जुवळीं | जोडपें। मिथुन। एकमेकांचे हात धरल्यात। दादलो | दादले | दादले एकमेकांचे हात धरून | दादल्यांनी एकमेकांचे हात धरल्यात | मध्यम कातीचो रंग | रास</annotation>
+		<annotation cp="👨🏽‍🤝‍👨🏿">एकमेकांचे हात धरल्यात | गाढ कातीचो रंग | जुवळीं | जोडपें | दादले | दादले एकमेकांचे हात धरून | दादलो | दादल्यांनी एकमेकांचे हात धरल्यात | मध्यम कातीचो रंग | मिथुन | रास</annotation>
 		<annotation cp="👨🏽‍🤝‍👨🏿" type="tts">दादले एकमेकांचे हात धरून: मध्यम कातीचो रंग, गाढ कातीचो रंग</annotation>
-		<annotation cp="👨🏾‍🤝‍👨🏻">उजळ कातीचो रंग | जुवळीं | जोडपें। मिथुन। एकमेकांचे हात धरल्यात। दादलो | दादले | दादले एकमेकांचे हात धरून | दादल्यांनी एकमेकांचे हात धरल्यात | मध्यम-गाढ कातीचो रंग | रास</annotation>
+		<annotation cp="👨🏾‍🤝‍👨🏻">उजळ कातीचो रंग | एकमेकांचे हात धरल्यात | जुवळीं | जोडपें | दादले | दादले एकमेकांचे हात धरून | दादलो | दादल्यांनी एकमेकांचे हात धरल्यात | मध्यम-गाढ कातीचो रंग | मिथुन | रास</annotation>
 		<annotation cp="👨🏾‍🤝‍👨🏻" type="tts">दादले एकमेकांचे हात धरून: मध्यम-गाढ कातीचो रंग, उजळ कातीचो रंग</annotation>
-		<annotation cp="👨🏾‍🤝‍👨🏼">जुवळीं | जोडपें। मिथुन। एकमेकांचे हात धरल्यात। दादलो | दादले | दादले एकमेकांचे हात धरून | दादल्यांनी एकमेकांचे हात धरल्यात | मध्यम-उजळ कातीचो रंग | मध्यम-गाढ कातीचो रंग | रास</annotation>
+		<annotation cp="👨🏾‍🤝‍👨🏼">एकमेकांचे हात धरल्यात | जुवळीं | जोडपें | दादले | दादले एकमेकांचे हात धरून | दादलो | दादल्यांनी एकमेकांचे हात धरल्यात | मध्यम-उजळ कातीचो रंग | मध्यम-गाढ कातीचो रंग | मिथुन | रास</annotation>
 		<annotation cp="👨🏾‍🤝‍👨🏼" type="tts">दादले एकमेकांचे हात धरून: मध्यम-गाढ कातीचो रंग, मध्यम-उजळ कातीचो रंग</annotation>
-		<annotation cp="👨🏾‍🤝‍👨🏽">जुवळीं | जोडपें। मिथुन। एकमेकांचे हात धरल्यात। दादलो | दादले | दादले एकमेकांचे हात धरून | दादल्यांनी एकमेकांचे हात धरल्यात | मध्यम कातीचो रंग | मध्यम-गाढ कातीचो रंग | रास</annotation>
+		<annotation cp="👨🏾‍🤝‍👨🏽">एकमेकांचे हात धरल्यात | जुवळीं | जोडपें | दादले | दादले एकमेकांचे हात धरून | दादलो | दादल्यांनी एकमेकांचे हात धरल्यात | मध्यम कातीचो रंग | मध्यम-गाढ कातीचो रंग | मिथुन | रास</annotation>
 		<annotation cp="👨🏾‍🤝‍👨🏽" type="tts">दादले एकमेकांचे हात धरून: मध्यम-गाढ कातीचो रंग, मध्यम कातीचो रंग</annotation>
-		<annotation cp="👬🏾">जुवळीं | जोडपें। मिथुन। एकमेकांचे हात धरल्यात। दादलो | दादले | दादले एकमेकांचे हात धरून | दादल्यांनी एकमेकांचे हात धरल्यात | मध्यम-गाढ कातीचो रंग | रास</annotation>
+		<annotation cp="👬🏾">एकमेकांचे हात धरल्यात | जुवळीं | जोडपें | दादले | दादले एकमेकांचे हात धरून | दादलो | दादल्यांनी एकमेकांचे हात धरल्यात | मध्यम-गाढ कातीचो रंग | मिथुन | रास</annotation>
 		<annotation cp="👬🏾" type="tts">दादले एकमेकांचे हात धरून: मध्यम-गाढ कातीचो रंग</annotation>
-		<annotation cp="👨🏾‍🤝‍👨🏿">गाढ कातीचो रंग | जुवळीं | जोडपें। मिथुन। एकमेकांचे हात धरल्यात। दादलो | दादले | दादले एकमेकांचे हात धरून | दादल्यांनी एकमेकांचे हात धरल्यात | मध्यम-गाढ कातीचो रंग | रास</annotation>
+		<annotation cp="👨🏾‍🤝‍👨🏿">एकमेकांचे हात धरल्यात | गाढ कातीचो रंग | जुवळीं | जोडपें | दादले | दादले एकमेकांचे हात धरून | दादलो | दादल्यांनी एकमेकांचे हात धरल्यात | मध्यम-गाढ कातीचो रंग | मिथुन | रास</annotation>
 		<annotation cp="👨🏾‍🤝‍👨🏿" type="tts">दादले एकमेकांचे हात धरून: मध्यम-गाढ कातीचो रंग, गाढ कातीचो रंग</annotation>
-		<annotation cp="👨🏿‍🤝‍👨🏻">उजळ कातीचो रंग | गाढ कातीचो रंग | जुवळीं | जोडपें। मिथुन। एकमेकांचे हात धरल्यात। दादलो | दादले | दादले एकमेकांचे हात धरून | दादल्यांनी एकमेकांचे हात धरल्यात | रास</annotation>
+		<annotation cp="👨🏿‍🤝‍👨🏻">उजळ कातीचो रंग | एकमेकांचे हात धरल्यात | गाढ कातीचो रंग | जुवळीं | जोडपें | दादले | दादले एकमेकांचे हात धरून | दादलो | दादल्यांनी एकमेकांचे हात धरल्यात | मिथुन | रास</annotation>
 		<annotation cp="👨🏿‍🤝‍👨🏻" type="tts">दादले एकमेकांचे हात धरून: गाढ कातीचो रंग, उजळ कातीचो रंग</annotation>
-		<annotation cp="👨🏿‍🤝‍👨🏼">गाढ कातीचो रंग | जुवळीं | जोडपें। मिथुन। एकमेकांचे हात धरल्यात। दादलो | दादले | दादले एकमेकांचे हात धरून | दादल्यांनी एकमेकांचे हात धरल्यात | मध्यम-उजळ कातीचो रंग | रास</annotation>
+		<annotation cp="👨🏿‍🤝‍👨🏼">एकमेकांचे हात धरल्यात | गाढ कातीचो रंग | जुवळीं | जोडपें | दादले | दादले एकमेकांचे हात धरून | दादलो | दादल्यांनी एकमेकांचे हात धरल्यात | मध्यम-उजळ कातीचो रंग | मिथुन | रास</annotation>
 		<annotation cp="👨🏿‍🤝‍👨🏼" type="tts">दादले एकमेकांचे हात धरून: गाढ कातीचो रंग, मध्यम-उजळ कातीचो रंग</annotation>
-		<annotation cp="👨🏿‍🤝‍👨🏽">गाढ कातीचो रंग | जुवळीं | जोडपें। मिथुन। एकमेकांचे हात धरल्यात। दादलो | दादले | दादले एकमेकांचे हात धरून | दादल्यांनी एकमेकांचे हात धरल्यात | मध्यम कातीचो रंग | रास</annotation>
+		<annotation cp="👨🏿‍🤝‍👨🏽">एकमेकांचे हात धरल्यात | गाढ कातीचो रंग | जुवळीं | जोडपें | दादले | दादले एकमेकांचे हात धरून | दादलो | दादल्यांनी एकमेकांचे हात धरल्यात | मध्यम कातीचो रंग | मिथुन | रास</annotation>
 		<annotation cp="👨🏿‍🤝‍👨🏽" type="tts">दादले एकमेकांचे हात धरून: गाढ कातीचो रंग, मध्यम कातीचो रंग</annotation>
-		<annotation cp="👨🏿‍🤝‍👨🏾">गाढ कातीचो रंग | जुवळीं | जोडपें। मिथुन। एकमेकांचे हात धरल्यात। दादलो | दादले | दादले एकमेकांचे हात धरून | दादल्यांनी एकमेकांचे हात धरल्यात | मध्यम-गाढ कातीचो रंग | रास</annotation>
+		<annotation cp="👨🏿‍🤝‍👨🏾">एकमेकांचे हात धरल्यात | गाढ कातीचो रंग | जुवळीं | जोडपें | दादले | दादले एकमेकांचे हात धरून | दादलो | दादल्यांनी एकमेकांचे हात धरल्यात | मध्यम-गाढ कातीचो रंग | मिथुन | रास</annotation>
 		<annotation cp="👨🏿‍🤝‍👨🏾" type="tts">दादले एकमेकांचे हात धरून: गाढ कातीचो रंग, मध्यम-गाढ कातीचो रंग</annotation>
-		<annotation cp="👬🏿">गाढ कातीचो रंग | जुवळीं | जोडपें। मिथुन। एकमेकांचे हात धरल्यात। दादलो | दादले | दादले एकमेकांचे हात धरून | दादल्यांनी एकमेकांचे हात धरल्यात | रास</annotation>
+		<annotation cp="👬🏿">एकमेकांचे हात धरल्यात | गाढ कातीचो रंग | जुवळीं | जोडपें | दादले | दादले एकमेकांचे हात धरून | दादलो | दादल्यांनी एकमेकांचे हात धरल्यात | मिथुन | रास</annotation>
 		<annotation cp="👬🏿" type="tts">दादले एकमेकांचे हात धरून: गाढ कातीचो रंग</annotation>
 		<annotation cp="💏🏻">उजळ कातीचो रंग | उमो | जोडपें</annotation>
 		<annotation cp="💏🏻" type="tts">उमो: उजळ कातीचो रंग</annotation>
@@ -3475,11 +3892,11 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🔟">कीकॅप</annotation>
 		<annotation cp="🔟" type="tts">कीकॅप: 10</annotation>
 		<annotation cp="🇦🇨">बावटो</annotation>
-		<annotation cp="🇦🇨" type="tts">बावटो: असेशन आयलँड</annotation>
+		<annotation cp="🇦🇨" type="tts">बावटो: असेंशन आयलँड</annotation>
 		<annotation cp="🇦🇩">बावटो</annotation>
 		<annotation cp="🇦🇩" type="tts">बावटो: अंडोरा</annotation>
 		<annotation cp="🇦🇪">बावटो</annotation>
-		<annotation cp="🇦🇪" type="tts">बावटो: युनाइटेड अरब इमीरॅट्स</annotation>
+		<annotation cp="🇦🇪" type="tts">बावटो: युनाइटेड अरब इमीरात</annotation>
 		<annotation cp="🇦🇫">बावटो</annotation>
 		<annotation cp="🇦🇫" type="tts">बावटो: अफगानिस्तान</annotation>
 		<annotation cp="🇦🇬">बावटो</annotation>
@@ -3673,9 +4090,9 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🇬🇾">बावटो</annotation>
 		<annotation cp="🇬🇾" type="tts">बावटो: गयाना</annotation>
 		<annotation cp="🇭🇰">बावटो</annotation>
-		<annotation cp="🇭🇰" type="tts">बावटो: हाँग काँग SAR चीन</annotation>
+		<annotation cp="🇭🇰" type="tts">बावटो: हाँग काँग एसएआर चीन</annotation>
 		<annotation cp="🇭🇲">बावटो</annotation>
-		<annotation cp="🇭🇲" type="tts">बावटो: हर्ड आयलँड्स ऍंड मॅक्डोनाल्ड आयलँड्स</annotation>
+		<annotation cp="🇭🇲" type="tts">बावटो: हर्ड ऍंड मॅक्डोनाल्ड आयलँड्स</annotation>
 		<annotation cp="🇭🇳">बावटो</annotation>
 		<annotation cp="🇭🇳" type="tts">बावटो: हॉनडुरस</annotation>
 		<annotation cp="🇭🇷">बावटो</annotation>
@@ -3691,7 +4108,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🇮🇪">बावटो</annotation>
 		<annotation cp="🇮🇪" type="tts">बावटो: आयरलँड</annotation>
 		<annotation cp="🇮🇱">बावटो</annotation>
-		<annotation cp="🇮🇱" type="tts">बावटो: इज़राइल</annotation>
+		<annotation cp="🇮🇱" type="tts">बावटो: इस्त्राइल</annotation>
 		<annotation cp="🇮🇲">बावटो</annotation>
 		<annotation cp="🇮🇲" type="tts">बावटो: इसले ऑफ मॅन</annotation>
 		<annotation cp="🇮🇳">बावटो</annotation>
@@ -3717,7 +4134,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🇰🇪">बावटो</annotation>
 		<annotation cp="🇰🇪" type="tts">बावटो: केनया</annotation>
 		<annotation cp="🇰🇬">बावटो</annotation>
-		<annotation cp="🇰🇬" type="tts">बावटो: किर्गिज़स्तान</annotation>
+		<annotation cp="🇰🇬" type="tts">बावटो: किर्गिझस्तान</annotation>
 		<annotation cp="🇰🇭">बावटो</annotation>
 		<annotation cp="🇰🇭" type="tts">बावटो: कंबोडिया</annotation>
 		<annotation cp="🇰🇮">बावटो</annotation>
@@ -3781,7 +4198,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🇲🇳">बावटो</annotation>
 		<annotation cp="🇲🇳" type="tts">बावटो: मंगोलिया</annotation>
 		<annotation cp="🇲🇴">बावटो</annotation>
-		<annotation cp="🇲🇴" type="tts">बावटो: मकाव SAR चीन</annotation>
+		<annotation cp="🇲🇴" type="tts">बावटो: मकाव एसएआर चीन</annotation>
 		<annotation cp="🇲🇵">बावटो</annotation>
 		<annotation cp="🇲🇵" type="tts">बावटो: उत्तरी मरिना आयसलैण्ड</annotation>
 		<annotation cp="🇲🇶">बावटो</annotation>
@@ -3849,7 +4266,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🇵🇳">बावटो</annotation>
 		<annotation cp="🇵🇳" type="tts">बावटो: पिटकॅरन आयलँड्स</annotation>
 		<annotation cp="🇵🇷">बावटो</annotation>
-		<annotation cp="🇵🇷" type="tts">बावटो: पिर्टो रिको</annotation>
+		<annotation cp="🇵🇷" type="tts">बावटो: प्युएर्तो रिको</annotation>
 		<annotation cp="🇵🇸">बावटो</annotation>
 		<annotation cp="🇵🇸" type="tts">बावटो: पेलेस्टीनियन प्रांत</annotation>
 		<annotation cp="🇵🇹">बावटो</annotation>
@@ -3939,7 +4356,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🇹🇷">बावटो</annotation>
 		<annotation cp="🇹🇷" type="tts">बावटो: तुर्की</annotation>
 		<annotation cp="🇹🇹">बावटो</annotation>
-		<annotation cp="🇹🇹" type="tts">बावटो: ट्रिनीडाड आनी टोबॅगो</annotation>
+		<annotation cp="🇹🇹" type="tts">बावटो: ट्रिनीदाद आनी टोबॅगो</annotation>
 		<annotation cp="🇹🇻">बावटो</annotation>
 		<annotation cp="🇹🇻" type="tts">बावटो: टुवालू</annotation>
 		<annotation cp="🇹🇼">बावटो</annotation>
@@ -3959,7 +4376,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🇺🇾">बावटो</annotation>
 		<annotation cp="🇺🇾" type="tts">बावटो: उरूग्वे</annotation>
 		<annotation cp="🇺🇿">बावटो</annotation>
-		<annotation cp="🇺🇿" type="tts">बावटो: उज़्बेकिस्तान</annotation>
+		<annotation cp="🇺🇿" type="tts">बावटो: उझ्बेकिस्तान</annotation>
 		<annotation cp="🇻🇦">बावटो</annotation>
 		<annotation cp="🇻🇦" type="tts">बावटो: वॅटिकन सिटी</annotation>
 		<annotation cp="🇻🇨">बावटो</annotation>
@@ -3973,7 +4390,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🇻🇳">बावटो</annotation>
 		<annotation cp="🇻🇳" type="tts">बावटो: व्हिएतनाम</annotation>
 		<annotation cp="🇻🇺">बावटो</annotation>
-		<annotation cp="🇻🇺" type="tts">बावटो: वनातू</annotation>
+		<annotation cp="🇻🇺" type="tts">बावटो: वनौतू</annotation>
 		<annotation cp="🇼🇫">बावटो</annotation>
 		<annotation cp="🇼🇫" type="tts">बावटो: वालिस आनी फ्यूचूना</annotation>
 		<annotation cp="🇼🇸">बावटो</annotation>

@@ -1,41 +1,212 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE ldml SYSTEM "../../common/dtd/ldml.dtd">
-<!-- Copyright © 1991-2020 Unicode, Inc.
+<!-- Copyright © 1991-2024 Unicode, Inc.
 For terms of use, see http://www.unicode.org/copyright.html
-Unicode and the Unicode Logo are registered trademarks of Unicode, Inc. in the U.S. and other countries.
+SPDX-License-Identifier: Unicode-3.0
 CLDR data files are interpreted according to the LDML specification (http://unicode.org/reports/tr35/)
+
+Derived short names and annotations, using GenerateDerivedAnnotations.java. See warnings in /annotations/ file.
 -->
-<!-- Derived short names and annotations, using GenerateDerivedAnnotations.java. See warnings in /annotations/ file. -->
 <ldml>
 	<identity>
 		<version number="$Revision$"/>
 		<language type="br"/>
 	</identity>
 	<annotations>
+		<annotation cp="🤳🏿">emboltred | krocʼhen teñval</annotation>
+		<annotation cp="🤳🏿" type="tts">emboltred : krocʼhen teñval</annotation>
+		<annotation cp="💪🏿">kigenn | kigenn daoubennek | kigenn daoubennek argrezet | krocʼhen teñval</annotation>
+		<annotation cp="💪🏿" type="tts">kigenn daoubennek argrezet : krocʼhen teñval</annotation>
+		<annotation cp="🦵🏿">gar | krocʼhen teñval</annotation>
+		<annotation cp="🦵🏿" type="tts">gar : krocʼhen teñval</annotation>
+		<annotation cp="🦶🏿">krocʼhen teñval | troad</annotation>
+		<annotation cp="🦶🏿" type="tts">troad : krocʼhen teñval</annotation>
+		<annotation cp="👂🏿">krocʼhen teñval | skouarn</annotation>
+		<annotation cp="👂🏿" type="tts">skouarn : krocʼhen teñval</annotation>
+		<annotation cp="👃🏿">fri | krocʼhen teñval</annotation>
+		<annotation cp="👃🏿" type="tts">fri : krocʼhen teñval</annotation>
+		<annotation cp="👶🏿">babig | krocʼhen teñval | yaouank</annotation>
+		<annotation cp="👶🏿" type="tts">babig : krocʼhen teñval</annotation>
+		<annotation cp="🧒🏿">bugel | krocʼhen teñval | yaouank</annotation>
+		<annotation cp="🧒🏿" type="tts">bugel : krocʼhen teñval</annotation>
+		<annotation cp="👦🏿">krocʼhen teñval | paotr | yaouank</annotation>
+		<annotation cp="👦🏿" type="tts">paotr : krocʼhen teñval</annotation>
+		<annotation cp="👧🏿">krocʼhen teñval | placʼh | yaouank</annotation>
+		<annotation cp="👧🏿" type="tts">placʼh : krocʼhen teñval</annotation>
+		<annotation cp="🧑🏿">den deuet | krocʼhen teñval</annotation>
+		<annotation cp="🧑🏿" type="tts">den deuet : krocʼhen teñval</annotation>
+		<annotation cp="👱🏿">den | krocʼhen teñval | melegan</annotation>
+		<annotation cp="👱🏿" type="tts">den melegan : krocʼhen teñval</annotation>
 		<annotation cp="🧑‍🦰">blev ruz | den deuet</annotation>
 		<annotation cp="🧑‍🦰" type="tts">den deuet : blev ruz</annotation>
+		<annotation cp="🧑🏿‍🦰">blev ruz | den deuet | krocʼhen teñval</annotation>
+		<annotation cp="🧑🏿‍🦰" type="tts">den deuet : krocʼhen teñval, blev ruz</annotation>
 		<annotation cp="🧑‍🦱">blev rodellek | den deuet</annotation>
 		<annotation cp="🧑‍🦱" type="tts">den deuet : blev rodellek</annotation>
+		<annotation cp="🧑🏿‍🦱">blev rodellek | den deuet | krocʼhen teñval</annotation>
+		<annotation cp="🧑🏿‍🦱" type="tts">den deuet : krocʼhen teñval, blev rodellek</annotation>
 		<annotation cp="🧑‍🦳">blev gwenn | den deuet</annotation>
 		<annotation cp="🧑‍🦳" type="tts">den deuet : blev gwenn</annotation>
+		<annotation cp="🧑🏿‍🦳">blev gwenn | den deuet | krocʼhen teñval</annotation>
+		<annotation cp="🧑🏿‍🦳" type="tts">den deuet : krocʼhen teñval, blev gwenn</annotation>
 		<annotation cp="🧑‍🦲">den deuet | moal</annotation>
 		<annotation cp="🧑‍🦲" type="tts">den deuet : moal</annotation>
+		<annotation cp="🧑🏿‍🦲">den deuet | krocʼhen teñval | moal</annotation>
+		<annotation cp="🧑🏿‍🦲" type="tts">den deuet : krocʼhen teñval, moal</annotation>
+		<annotation cp="👨🏿">deuet | gwaz | krocʼhen teñval</annotation>
+		<annotation cp="👨🏿" type="tts">gwaz : krocʼhen teñval</annotation>
+		<annotation cp="👱🏿‍♂">gwaz | krocʼhen teñval | melegan</annotation>
+		<annotation cp="👱🏿‍♂" type="tts">melegan : krocʼhen teñval</annotation>
 		<annotation cp="👨‍🦰">blev ruz | deuet | gwaz</annotation>
 		<annotation cp="👨‍🦰" type="tts">gwaz : blev ruz</annotation>
+		<annotation cp="👨🏿‍🦰">blev ruz | deuet | gwaz | krocʼhen teñval</annotation>
+		<annotation cp="👨🏿‍🦰" type="tts">gwaz : krocʼhen teñval, blev ruz</annotation>
 		<annotation cp="👨‍🦱">blev rodellek | deuet | gwaz</annotation>
 		<annotation cp="👨‍🦱" type="tts">gwaz : blev rodellek</annotation>
+		<annotation cp="👨🏿‍🦱">blev rodellek | deuet | gwaz | krocʼhen teñval</annotation>
+		<annotation cp="👨🏿‍🦱" type="tts">gwaz : krocʼhen teñval, blev rodellek</annotation>
 		<annotation cp="👨‍🦳">blev gwenn | deuet | gwaz</annotation>
 		<annotation cp="👨‍🦳" type="tts">gwaz : blev gwenn</annotation>
+		<annotation cp="👨🏿‍🦳">blev gwenn | deuet | gwaz | krocʼhen teñval</annotation>
+		<annotation cp="👨🏿‍🦳" type="tts">gwaz : krocʼhen teñval, blev gwenn</annotation>
 		<annotation cp="👨‍🦲">deuet | gwaz | moal</annotation>
 		<annotation cp="👨‍🦲" type="tts">gwaz : moal</annotation>
+		<annotation cp="👨🏿‍🦲">deuet | gwaz | krocʼhen teñval | moal</annotation>
+		<annotation cp="👨🏿‍🦲" type="tts">gwaz : krocʼhen teñval, moal</annotation>
+		<annotation cp="👩🏿">deuet | krocʼhen teñval | maouez</annotation>
+		<annotation cp="👩🏿" type="tts">maouez : krocʼhen teñval</annotation>
+		<annotation cp="👱🏿‍♀">krocʼhen teñval | maouez | meleganez</annotation>
+		<annotation cp="👱🏿‍♀" type="tts">meleganez : krocʼhen teñval</annotation>
 		<annotation cp="👩‍🦰">blev ruz | deuet | maouez</annotation>
 		<annotation cp="👩‍🦰" type="tts">maouez : blev ruz</annotation>
+		<annotation cp="👩🏿‍🦰">blev ruz | deuet | krocʼhen teñval | maouez</annotation>
+		<annotation cp="👩🏿‍🦰" type="tts">maouez : krocʼhen teñval, blev ruz</annotation>
 		<annotation cp="👩‍🦱">blev rodellek | deuet | maouez</annotation>
 		<annotation cp="👩‍🦱" type="tts">maouez : blev rodellek</annotation>
+		<annotation cp="👩🏿‍🦱">blev rodellek | deuet | krocʼhen teñval | maouez</annotation>
+		<annotation cp="👩🏿‍🦱" type="tts">maouez : krocʼhen teñval, blev rodellek</annotation>
 		<annotation cp="👩‍🦳">blev gwenn | deuet | maouez</annotation>
 		<annotation cp="👩‍🦳" type="tts">maouez : blev gwenn</annotation>
+		<annotation cp="👩🏿‍🦳">blev gwenn | deuet | krocʼhen teñval | maouez</annotation>
+		<annotation cp="👩🏿‍🦳" type="tts">maouez : krocʼhen teñval, blev gwenn</annotation>
 		<annotation cp="👩‍🦲">deuet | maouez | moal</annotation>
 		<annotation cp="👩‍🦲" type="tts">maouez : moal</annotation>
+		<annotation cp="👩🏿‍🦲">deuet | krocʼhen teñval | maouez | moal</annotation>
+		<annotation cp="👩🏿‍🦲" type="tts">maouez : krocʼhen teñval, moal</annotation>
+		<annotation cp="🧓🏿">den | kozh | krocʼhen teñval</annotation>
+		<annotation cp="🧓🏿" type="tts">den kozh : krocʼhen teñval</annotation>
+		<annotation cp="👴🏿">gwaz | kozh | krocʼhen teñval</annotation>
+		<annotation cp="👴🏿" type="tts">gwaz kozh : krocʼhen teñval</annotation>
+		<annotation cp="👵🏿">kozh | krocʼhen teñval | maouez</annotation>
+		<annotation cp="👵🏿" type="tts">maouez kozh : krocʼhen teñval</annotation>
+		<annotation cp="👨🏿‍🎓">krocʼhen teñval | studier</annotation>
+		<annotation cp="👨🏿‍🎓" type="tts">studier : krocʼhen teñval</annotation>
+		<annotation cp="👩🏿‍🎓">krocʼhen teñval | studierez</annotation>
+		<annotation cp="👩🏿‍🎓" type="tts">studierez : krocʼhen teñval</annotation>
+		<annotation cp="👨🏿‍🏫">kelenner | krocʼhen teñval</annotation>
+		<annotation cp="👨🏿‍🏫" type="tts">kelenner : krocʼhen teñval</annotation>
+		<annotation cp="👩🏿‍🏫">kelennerez | krocʼhen teñval</annotation>
+		<annotation cp="👩🏿‍🏫" type="tts">kelennerez : krocʼhen teñval</annotation>
+		<annotation cp="👨🏿‍⚖">barner | krocʼhen teñval</annotation>
+		<annotation cp="👨🏿‍⚖" type="tts">barner : krocʼhen teñval</annotation>
+		<annotation cp="👩🏿‍⚖">barnerez | krocʼhen teñval</annotation>
+		<annotation cp="👩🏿‍⚖" type="tts">barnerez : krocʼhen teñval</annotation>
+		<annotation cp="👨🏿‍🌾">krocʼhen teñval | labourer-douar</annotation>
+		<annotation cp="👨🏿‍🌾" type="tts">labourer-douar : krocʼhen teñval</annotation>
+		<annotation cp="👩🏿‍🌾">krocʼhen teñval | labourerez-douar</annotation>
+		<annotation cp="👩🏿‍🌾" type="tts">labourerez-douar : krocʼhen teñval</annotation>
+		<annotation cp="👨🏿‍🍳">keginer | krocʼhen teñval</annotation>
+		<annotation cp="👨🏿‍🍳" type="tts">keginer : krocʼhen teñval</annotation>
+		<annotation cp="👩🏿‍🍳">keginerez | krocʼhen teñval</annotation>
+		<annotation cp="👩🏿‍🍳" type="tts">keginerez : krocʼhen teñval</annotation>
+		<annotation cp="👨🏿‍🏭">krocʼhen teñval | micherour</annotation>
+		<annotation cp="👨🏿‍🏭" type="tts">micherour : krocʼhen teñval</annotation>
+		<annotation cp="👩🏿‍🏭">krocʼhen teñval | micherourez</annotation>
+		<annotation cp="👩🏿‍🏭" type="tts">micherourez : krocʼhen teñval</annotation>
+		<annotation cp="👨🏿‍💼">implijad | krocʼhen teñval</annotation>
+		<annotation cp="👨🏿‍💼" type="tts">implijad : krocʼhen teñval</annotation>
+		<annotation cp="👩🏿‍💼">implijadez | krocʼhen teñval</annotation>
+		<annotation cp="👩🏿‍💼" type="tts">implijadez : krocʼhen teñval</annotation>
+		<annotation cp="👨🏿‍🔬">krocʼhen teñval | skiantour</annotation>
+		<annotation cp="👨🏿‍🔬" type="tts">skiantour : krocʼhen teñval</annotation>
+		<annotation cp="👩🏿‍🔬">krocʼhen teñval | skiantourez</annotation>
+		<annotation cp="👩🏿‍🔬" type="tts">skiantourez : krocʼhen teñval</annotation>
+		<annotation cp="👨🏿‍💻">krocʼhen teñval | stlennegour</annotation>
+		<annotation cp="👨🏿‍💻" type="tts">stlennegour : krocʼhen teñval</annotation>
+		<annotation cp="👩🏿‍💻">krocʼhen teñval | stlennegourez</annotation>
+		<annotation cp="👩🏿‍💻" type="tts">stlennegourez : krocʼhen teñval</annotation>
+		<annotation cp="🧑🏿‍🎤">den a gan | krocʼhen teñval</annotation>
+		<annotation cp="🧑🏿‍🎤" type="tts">den a gan : krocʼhen teñval</annotation>
+		<annotation cp="👨🏿‍🎤">kaner | krocʼhen teñval</annotation>
+		<annotation cp="👨🏿‍🎤" type="tts">kaner : krocʼhen teñval</annotation>
+		<annotation cp="👩🏿‍🎤">kanerez | krocʼhen teñval</annotation>
+		<annotation cp="👩🏿‍🎤" type="tts">kanerez : krocʼhen teñval</annotation>
+		<annotation cp="👨🏿‍🎨">arzour | krocʼhen teñval</annotation>
+		<annotation cp="👨🏿‍🎨" type="tts">arzour : krocʼhen teñval</annotation>
+		<annotation cp="👩🏿‍🎨">arzourez | krocʼhen teñval</annotation>
+		<annotation cp="👩🏿‍🎨" type="tts">arzourez : krocʼhen teñval</annotation>
+		<annotation cp="👨🏿‍✈">krocʼhen teñval | levier</annotation>
+		<annotation cp="👨🏿‍✈" type="tts">levier : krocʼhen teñval</annotation>
+		<annotation cp="👩🏿‍✈">krocʼhen teñval | levierez</annotation>
+		<annotation cp="👩🏿‍✈" type="tts">levierez : krocʼhen teñval</annotation>
+		<annotation cp="👨🏿‍🚀">astraer | krocʼhen teñval</annotation>
+		<annotation cp="👨🏿‍🚀" type="tts">astraer : krocʼhen teñval</annotation>
+		<annotation cp="👩🏿‍🚀">astraerez | krocʼhen teñval</annotation>
+		<annotation cp="👩🏿‍🚀" type="tts">astraerez : krocʼhen teñval</annotation>
+		<annotation cp="👨🏿‍🚒">krocʼhen teñval | pomper</annotation>
+		<annotation cp="👨🏿‍🚒" type="tts">pomper : krocʼhen teñval</annotation>
+		<annotation cp="👩🏿‍🚒">krocʼhen teñval | pomperez</annotation>
+		<annotation cp="👩🏿‍🚒" type="tts">pomperez : krocʼhen teñval</annotation>
+		<annotation cp="👮🏿">krocʼhen teñval | polis</annotation>
+		<annotation cp="👮🏿" type="tts">polis : krocʼhen teñval</annotation>
+		<annotation cp="👮🏿‍♂">krocʼhen teñval | poliser</annotation>
+		<annotation cp="👮🏿‍♂" type="tts">poliser : krocʼhen teñval</annotation>
+		<annotation cp="👮🏿‍♀">krocʼhen teñval | poliserez</annotation>
+		<annotation cp="👮🏿‍♀" type="tts">poliserez : krocʼhen teñval</annotation>
+		<annotation cp="🕵🏿">enklasker | igoun | krocʼhen teñval | spier</annotation>
+		<annotation cp="🕵🏿" type="tts">igoun : krocʼhen teñval</annotation>
+		<annotation cp="🕵🏿‍♂">igounier | krocʼhen teñval</annotation>
+		<annotation cp="🕵🏿‍♂" type="tts">igounier : krocʼhen teñval</annotation>
+		<annotation cp="🕵🏿‍♀">igounierez | krocʼhen teñval</annotation>
+		<annotation cp="🕵🏿‍♀" type="tts">igounierez : krocʼhen teñval</annotation>
+		<annotation cp="💂🏿">gward | krocʼhen teñval</annotation>
+		<annotation cp="💂🏿" type="tts">gward : krocʼhen teñval</annotation>
+		<annotation cp="🥷🏿">brezelour | krocʼhen teñval | kuzh | ninja</annotation>
+		<annotation cp="🥷🏿" type="tts">ninja : krocʼhen teñval</annotation>
+		<annotation cp="🤴🏿">krocʼhen teñval | priñs</annotation>
+		<annotation cp="🤴🏿" type="tts">priñs : krocʼhen teñval</annotation>
+		<annotation cp="👸🏿">krocʼhen teñval | priñsez</annotation>
+		<annotation cp="👸🏿" type="tts">priñsez : krocʼhen teñval</annotation>
+		<annotation cp="👼🏿">ael | babig | krocʼhen teñval</annotation>
+		<annotation cp="👼🏿" type="tts">babig ael : krocʼhen teñval</annotation>
+		<annotation cp="🎅🏿">fest | gouel | krocʼhen teñval | lid | Nedeleg | tad</annotation>
+		<annotation cp="🎅🏿" type="tts">Tad Nedeleg : krocʼhen teñval</annotation>
+		<annotation cp="🤶🏿">fest | gouel | krocʼhen teñval | lid | mamm | Nedeleg</annotation>
+		<annotation cp="🤶🏿" type="tts">Mamm Nedeleg : krocʼhen teñval</annotation>
+		<annotation cp="🦸🏿">gourharoz | haroz | krocʼhen teñval</annotation>
+		<annotation cp="🦸🏿" type="tts">gourharoz : krocʼhen teñval</annotation>
+		<annotation cp="🧙🏿">krocʼhen teñval | maj | sorser</annotation>
+		<annotation cp="🧙🏿" type="tts">maj : krocʼhen teñval</annotation>
+		<annotation cp="🧙🏿‍♂">hudour | krocʼhen teñval</annotation>
+		<annotation cp="🧙🏿‍♂" type="tts">hudour : krocʼhen teñval</annotation>
+		<annotation cp="🧙🏿‍♀">hudourez | krocʼhen teñval</annotation>
+		<annotation cp="🧙🏿‍♀" type="tts">hudourez : krocʼhen teñval</annotation>
+		<annotation cp="🧚🏿">boudig | krocʼhen teñval | Titania</annotation>
+		<annotation cp="🧚🏿" type="tts">boudig : krocʼhen teñval</annotation>
+		<annotation cp="🧛🏿">Dracula | krocʼhen teñval | suner-gwad | suner/ez-gwad</annotation>
+		<annotation cp="🧛🏿" type="tts">suner/ez-gwad : krocʼhen teñval</annotation>
+		<annotation cp="🧛🏿‍♂">Dracula | krocʼhen teñval | suner-gwad</annotation>
+		<annotation cp="🧛🏿‍♂" type="tts">suner-gwad : krocʼhen teñval</annotation>
+		<annotation cp="🧛🏿‍♀">krocʼhen teñval | sunerez-gwad</annotation>
+		<annotation cp="🧛🏿‍♀" type="tts">sunerez-gwad : krocʼhen teñval</annotation>
+		<annotation cp="🧜🏿‍♂">krocʼhen teñval | morgan</annotation>
+		<annotation cp="🧜🏿‍♂" type="tts">morgan : krocʼhen teñval</annotation>
+		<annotation cp="🧜🏿‍♀">krocʼhen teñval | morganez</annotation>
+		<annotation cp="🧜🏿‍♀" type="tts">morganez : krocʼhen teñval</annotation>
+		<annotation cp="🧝🏿‍♂">elf | krocʼhen teñval</annotation>
+		<annotation cp="🧝🏿‍♂" type="tts">elf : krocʼhen teñval</annotation>
+		<annotation cp="🧝🏿‍♀">elfez | krocʼhen teñval</annotation>
+		<annotation cp="🧝🏿‍♀" type="tts">elfez : krocʼhen teñval</annotation>
 		<annotation cp="👨‍👩‍👦">bugel | familh | gwaz | mamm | maouez | paotr | tad</annotation>
 		<annotation cp="👨‍👩‍👦" type="tts">familh : gwaz, maouez, paotr</annotation>
 		<annotation cp="👨‍👩‍👧">bugel | familh | gwaz | mamm | maouez | placʼh | tad</annotation>
@@ -616,7 +787,6 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="៛" type="tts">riel Kambodja</annotation>
 		<annotation cp="₡" type="tts">colón Costa Rica</annotation>
 		<annotation cp="₦" type="tts">naira Nigeria</annotation>
-		<annotation cp="₧" type="tts">peseta Spagn</annotation>
 		<annotation cp="₪" type="tts">shekel nevez Israel</annotation>
 		<annotation cp="₫" type="tts">dong Viêt Nam</annotation>
 		<annotation cp="₭" type="tts">kip Laos</annotation>
@@ -628,5 +798,6 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="₺" type="tts">lur Turkia</annotation>
 		<annotation cp="₼" type="tts">manat Azerbaidjan</annotation>
 		<annotation cp="₾" type="tts">lari Jorjia</annotation>
+		<annotation cp="₧" type="tts">peseta Spagn</annotation>
 	</annotations>
 </ldml>

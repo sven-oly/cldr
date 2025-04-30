@@ -85,21 +85,38 @@ Add three files inside local-vars/cldrbackup-vars: id_rsa, id_rsa.pub, and known
 
 ### Setup: Config file
 
-- Create a file `local-vars/local.yml` matching the example values in [test-local-vars/local.yml](test-local-vars/local.yml) (but with a secure password instead of `hunter42`!.)
+- Create a file `local-vars/local.yml` matching the example values in [test-local-vars/local.yml](test-local-vars/local.yml) but with secure passwords instead of `hunter42`, ...!
 
 ```yaml
+cldradmin_pw: hunter46 # needs to match cldradmin pw below
 mysql_users:
+  # this is the account used by the survey tool itself
+  # password will match /var/lib/openliberty/usr/servers/cldr/server.env
   - name: surveytool
     host: localhost
     password: hunter42
     priv: 'cldrdb.*:ALL'
+  # this is the account used for administrative tasks
+  # password will match /home/cldradmin/.my.sql
+  - name: cldradmin
+    password: hunter46
+    priv: 'cldrdb.*:ALL/*.*:PROCESS'
+    append_privs: yes
+# this is the account used for deployment
 surveytooldeploy:
+  # TODO: surveytooldeploy.password appears to be unused?
   password: hunter43
+  # vap will match CLDR_VAP in /srv/st/config/cldr.properties
   vap: hunter44
+  # testpw will match CLDR_TESTPW in /srv/st/config/cldr.properties
   testpw: hunter45
-  oldversion: 36
-  newversion: 37
+  oldversion: 39
+  newversion: 40
   key: ssh-rsa …  ( SSH key goes here)
+  certbot_admin_email: surveytool@unicode.org
+  certbot_certs:
+    - domains:
+      - cldr-ref.unicode.org
 ```
 
 ## Setup: cldrcc
@@ -126,9 +143,41 @@ the operation to a single host.
 
 ## Local Test
 
-- install vagrant and some provider such as virtualbox or libvirt
+Here’s how to deploy the SurveyTool locally and try it out.
+
+### Build
+
+You need a server zipfile to deploy.  This is a file such as `cldr-apps.zip`. When expanded, it contains a directory tree beginning with `wlp/`.
+
+#### Option A: Local Build
+
+- Prerequisites: See <https://cldr.unicode.org/development/maven> and follow instructions to be able to run `mvn package` as shown on that page.
+
+- You can then create a server zipfile locally with maven using these command (from the top `cldr/` directory).  The first command does a full build of CLDR, but skips running tests.
 
 ```shell
+mvn --file=tools/pom.xml install -DskipTests=true
+mvn --file=tools/pom.xml -pl cldr-apps liberty:package
+```
+
+- The output file will be in `tools/cldr-apps/target/cldr-apps.zip`
+
+
+#### Option B: Download a Build
+
+- Server Builds are actually attached to each action run in <https://github.com/unicode-org/cldr/actions/workflows/maven.yml>, look for an artifact entitled `cldr-apps-server` at the bottom of a run.
+
+- *Warning*: Clicking on this artifact will download a zipfile named `cldr-apps-server.zip` which _contains_ `cldr-apps.zip`.  Double clicking or automatic downloading will often extract one too many levels of zipfiles. If you see a folder named `wlp` then you have extracted too much. From the command line you can unpack with `unzip cldr-apps-server.zip` which will extract `cldr-apps.zip`.
+
+### Deploy
+
+- install [vagrant](https://www.vagrantup.com) and some provider such as virtualbox or libvirt, see vagrant docs.
+
+- vagrant up!
+
+```shell
+# (this directory)
+cd tools/scripts/ansible
 vagrant up
 ```
 
@@ -136,20 +185,26 @@ vagrant up
 
 - To iterate, trying to reapply ansible, run `vagrant provision --provision-with=ansible`
 
-- to deploy ST to this, use the following:
+- to deploy your built server to this, use the following:
 
 ```shell
-(cd ../.. ; mvn package) # go to the tools folder and build ST (cldr-apps.war, etc.) if not already built
-vagrant ssh -- sudo -u surveytool /usr/local/bin/deploy-to-tomcat.sh $(git rev-parse HEAD) < ../../cldr-apps/target/cldr-apps.war
+# Note 1: $(git rev-parse HEAD) just turns into a full git hash such as 72dda8d7386087bf6087de200b5edc002feca2f2, you can use an explicit hash instead.
+# Note 2: change ../../cldr-apps/target/cldr-apps.zip to point to your cldr-apps.zip file if moved
+vagrant ssh -- sudo -u surveytool /usr/local/bin/deploy-to-openliberty.sh $(git rev-parse HEAD) < ../../cldr-apps/target/cldr-apps.zip
 ```
 
-- Now you should be able to login at <http://127.0.0.1:8880/cldr-apps/>
+- Now you should be able to login at <http://127.0.0.1:9081/cldr-apps/>
 
-- If you need to get directly to the tomcat server, use:
+- Use the user `admin@` and the password set in `surveytooldeploy.vap` above.
 
-```shell
-vagrant ssh -- -L 9080:127.0.0.1:9080
-# leave this shell window open.
-```
+- *Note*: <http://127.0.0.1:8880> will go to the nginx proxy, but it has login problems, see <https://unicode-org.atlassian.net/browse/CLDR-14321>
 
-Then, you can go to <http://127.0.0.1:9080> and directly access tomcat.
+### Operation
+
+- the mvn build and `deploy-to-openliberty.sh` steps above can be repeated to redeploy a new version of the server code
+- `vagrant ssh` to login and poke around at the server
+- `sudo nano /srv/st/config/cldr.properties` to edit the configuration file (will be created automatically at first ST boot, restart server to pickup changes).
+- `sudo journalctl -f` to watch server logs
+- `sudo systemctl restart openliberty@cldr` to restart the server
+- Logs are in `/var/log/openliberty/cldr`
+- `sudo -u cldradmin mysql cldrdb` will give you the raw SQL prompt

@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE ldml SYSTEM "../../common/dtd/ldml.dtd">
-<!-- Copyright © 1991-2020 Unicode, Inc.
+<!-- Copyright © 1991-2024 Unicode, Inc.
 For terms of use, see http://www.unicode.org/copyright.html
-Unicode and the Unicode Logo are registered trademarks of Unicode, Inc. in the U.S. and other countries.
+SPDX-License-Identifier: Unicode-3.0
 CLDR data files are interpreted according to the LDML specification (http://unicode.org/reports/tr35/)
+
+Derived short names and annotations, using GenerateDerivedAnnotations.java. See warnings in /annotations/ file.
 -->
-<!-- Derived short names and annotations, using GenerateDerivedAnnotations.java. See warnings in /annotations/ file. -->
 <ldml>
 	<identity>
 		<version number="$Revision$"/>
@@ -62,6 +63,106 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🖖🏾" type="tts">Vọ́lkán Salut: Mídíọ́m Dák Skín Ton</annotation>
 		<annotation cp="🖖🏿">Dák Skín Ton | Fínga | Hand | Salut | Spọk | Vọ́lkan | Vọ́lkán Salut</annotation>
 		<annotation cp="🖖🏿" type="tts">Vọ́lkán Salut: Dák Skín Ton</annotation>
+		<annotation cp="🫱🏻">Hand | Hand Wé De Pọínt Raít Said | Laít Skín Ton | Rait | Raít Said</annotation>
+		<annotation cp="🫱🏻" type="tts">Hand Wé De Pọínt Raít Said: Laít Skín Ton</annotation>
+		<annotation cp="🫱🏼">Hand | Hand Wé De Pọínt Raít Said | Mídíọ́m-Laít Skín Ton | Rait | Raít Said</annotation>
+		<annotation cp="🫱🏼" type="tts">Hand Wé De Pọínt Raít Said: Mídíọ́m-Laít Skín Ton</annotation>
+		<annotation cp="🫱🏽">Hand | Hand Wé De Pọínt Raít Said | Mídíọ́m Skín Ton | Rait | Raít Said</annotation>
+		<annotation cp="🫱🏽" type="tts">Hand Wé De Pọínt Raít Said: Mídíọ́m Skín Ton</annotation>
+		<annotation cp="🫱🏾">Hand | Hand Wé De Pọínt Raít Said | Mídíọ́m Dák Skín Ton | Rait | Raít Said</annotation>
+		<annotation cp="🫱🏾" type="tts">Hand Wé De Pọínt Raít Said: Mídíọ́m Dák Skín Ton</annotation>
+		<annotation cp="🫱🏿">Dák Skín Ton | Hand | Hand Wé De Pọínt Raít Said | Rait | Raít Said</annotation>
+		<annotation cp="🫱🏿" type="tts">Hand Wé De Pọínt Raít Said: Dák Skín Ton</annotation>
+		<annotation cp="🫱🏻‍🫲🏼">Agrímẹnt | Hand | Hándshek | Laít Skín Ton | Mídíọ́m-Laít Skín Ton | Mítin | Shek</annotation>
+		<annotation cp="🫱🏻‍🫲🏼" type="tts">Hándshek: Laít Skín Ton, Mídíọ́m-Laít Skín Ton</annotation>
+		<annotation cp="🫱🏻‍🫲🏽">Agrímẹnt | Hand | Hándshek | Laít Skín Ton | Mídíọ́m Skín Ton | Mítin | Shek</annotation>
+		<annotation cp="🫱🏻‍🫲🏽" type="tts">Hándshek: Laít Skín Ton, Mídíọ́m Skín Ton</annotation>
+		<annotation cp="🫱🏻‍🫲🏾">Agrímẹnt | Hand | Hándshek | Laít Skín Ton | Mídíọ́m Dák Skín Ton | Mítin | Shek</annotation>
+		<annotation cp="🫱🏻‍🫲🏾" type="tts">Hándshek: Laít Skín Ton, Mídíọ́m Dák Skín Ton</annotation>
+		<annotation cp="🫱🏻‍🫲🏿">Agrímẹnt | Dák Skín Ton | Hand | Hándshek | Laít Skín Ton | Mítin | Shek</annotation>
+		<annotation cp="🫱🏻‍🫲🏿" type="tts">Hándshek: Laít Skín Ton, Dák Skín Ton</annotation>
+		<annotation cp="🫱🏼‍🫲🏻">Agrímẹnt | Hand | Hándshek | Laít Skín Ton | Mídíọ́m-Laít Skín Ton | Mítin | Shek</annotation>
+		<annotation cp="🫱🏼‍🫲🏻" type="tts">Hándshek: Mídíọ́m-Laít Skín Ton, Laít Skín Ton</annotation>
+		<annotation cp="🫱🏼‍🫲🏽">Agrímẹnt | Hand | Hándshek | Mídíọ́m Skín Ton | Mídíọ́m-Laít Skín Ton | Mítin | Shek</annotation>
+		<annotation cp="🫱🏼‍🫲🏽" type="tts">Hándshek: Mídíọ́m-Laít Skín Ton, Mídíọ́m Skín Ton</annotation>
+		<annotation cp="🫱🏼‍🫲🏾">Agrímẹnt | Hand | Hándshek | Mídíọ́m Dák Skín Ton | Mídíọ́m-Laít Skín Ton | Mítin | Shek</annotation>
+		<annotation cp="🫱🏼‍🫲🏾" type="tts">Hándshek: Mídíọ́m-Laít Skín Ton, Mídíọ́m Dák Skín Ton</annotation>
+		<annotation cp="🫱🏼‍🫲🏿">Agrímẹnt | Dák Skín Ton | Hand | Hándshek | Mídíọ́m-Laít Skín Ton | Mítin | Shek</annotation>
+		<annotation cp="🫱🏼‍🫲🏿" type="tts">Hándshek: Mídíọ́m-Laít Skín Ton, Dák Skín Ton</annotation>
+		<annotation cp="🫱🏽‍🫲🏻">Agrímẹnt | Hand | Hándshek | Laít Skín Ton | Mídíọ́m Skín Ton | Mítin | Shek</annotation>
+		<annotation cp="🫱🏽‍🫲🏻" type="tts">Hándshek: Mídíọ́m Skín Ton, Laít Skín Ton</annotation>
+		<annotation cp="🫱🏽‍🫲🏼">Agrímẹnt | Hand | Hándshek | Mídíọ́m Skín Ton | Mídíọ́m-Laít Skín Ton | Mítin | Shek</annotation>
+		<annotation cp="🫱🏽‍🫲🏼" type="tts">Hándshek: Mídíọ́m Skín Ton, Mídíọ́m-Laít Skín Ton</annotation>
+		<annotation cp="🫱🏽‍🫲🏾">Agrímẹnt | Hand | Hándshek | Mídíọ́m Dák Skín Ton | Mídíọ́m Skín Ton | Mítin | Shek</annotation>
+		<annotation cp="🫱🏽‍🫲🏾" type="tts">Hándshek: Mídíọ́m Skín Ton, Mídíọ́m Dák Skín Ton</annotation>
+		<annotation cp="🫱🏽‍🫲🏿">Agrímẹnt | Dák Skín Ton | Hand | Hándshek | Mídíọ́m Skín Ton | Mítin | Shek</annotation>
+		<annotation cp="🫱🏽‍🫲🏿" type="tts">Hándshek: Mídíọ́m Skín Ton, Dák Skín Ton</annotation>
+		<annotation cp="🫱🏾‍🫲🏻">Agrímẹnt | Hand | Hándshek | Laít Skín Ton | Mídíọ́m Dák Skín Ton | Mítin | Shek</annotation>
+		<annotation cp="🫱🏾‍🫲🏻" type="tts">Hándshek: Mídíọ́m Dák Skín Ton, Laít Skín Ton</annotation>
+		<annotation cp="🫱🏾‍🫲🏼">Agrímẹnt | Hand | Hándshek | Mídíọ́m Dák Skín Ton | Mídíọ́m-Laít Skín Ton | Mítin | Shek</annotation>
+		<annotation cp="🫱🏾‍🫲🏼" type="tts">Hándshek: Mídíọ́m Dák Skín Ton, Mídíọ́m-Laít Skín Ton</annotation>
+		<annotation cp="🫱🏾‍🫲🏽">Agrímẹnt | Hand | Hándshek | Mídíọ́m Dák Skín Ton | Mídíọ́m Skín Ton | Mítin | Shek</annotation>
+		<annotation cp="🫱🏾‍🫲🏽" type="tts">Hándshek: Mídíọ́m Dák Skín Ton, Mídíọ́m Skín Ton</annotation>
+		<annotation cp="🫱🏾‍🫲🏿">Agrímẹnt | Dák Skín Ton | Hand | Hándshek | Mídíọ́m Dák Skín Ton | Mítin | Shek</annotation>
+		<annotation cp="🫱🏾‍🫲🏿" type="tts">Hándshek: Mídíọ́m Dák Skín Ton, Dák Skín Ton</annotation>
+		<annotation cp="🫱🏿‍🫲🏻">Agrímẹnt | Dák Skín Ton | Hand | Hándshek | Laít Skín Ton | Mítin | Shek</annotation>
+		<annotation cp="🫱🏿‍🫲🏻" type="tts">Hándshek: Dák Skín Ton, Laít Skín Ton</annotation>
+		<annotation cp="🫱🏿‍🫲🏼">Agrímẹnt | Dák Skín Ton | Hand | Hándshek | Mídíọ́m-Laít Skín Ton | Mítin | Shek</annotation>
+		<annotation cp="🫱🏿‍🫲🏼" type="tts">Hándshek: Dák Skín Ton, Mídíọ́m-Laít Skín Ton</annotation>
+		<annotation cp="🫱🏿‍🫲🏽">Agrímẹnt | Dák Skín Ton | Hand | Hándshek | Mídíọ́m Skín Ton | Mítin | Shek</annotation>
+		<annotation cp="🫱🏿‍🫲🏽" type="tts">Hándshek: Dák Skín Ton, Mídíọ́m Skín Ton</annotation>
+		<annotation cp="🫱🏿‍🫲🏾">Agrímẹnt | Dák Skín Ton | Hand | Hándshek | Mídíọ́m Dák Skín Ton | Mítin | Shek</annotation>
+		<annotation cp="🫱🏿‍🫲🏾" type="tts">Hándshek: Dák Skín Ton, Mídíọ́m Dák Skín Ton</annotation>
+		<annotation cp="🫲🏻">Hand | Hand Wé De Pọínt Lẹ́ft Said | Laít Skín Ton | Lẹft | Lẹ́ft Said</annotation>
+		<annotation cp="🫲🏻" type="tts">Hand Wé De Pọínt Lẹ́ft Said: Laít Skín Ton</annotation>
+		<annotation cp="🫲🏼">Hand | Hand Wé De Pọínt Lẹ́ft Said | Lẹft | Lẹ́ft Said | Mídíọ́m-Laít Skín Ton</annotation>
+		<annotation cp="🫲🏼" type="tts">Hand Wé De Pọínt Lẹ́ft Said: Mídíọ́m-Laít Skín Ton</annotation>
+		<annotation cp="🫲🏽">Hand | Hand Wé De Pọínt Lẹ́ft Said | Lẹft | Lẹ́ft Said | Mídíọ́m Skín Ton</annotation>
+		<annotation cp="🫲🏽" type="tts">Hand Wé De Pọínt Lẹ́ft Said: Mídíọ́m Skín Ton</annotation>
+		<annotation cp="🫲🏾">Hand | Hand Wé De Pọínt Lẹ́ft Said | Lẹft | Lẹ́ft Said | Mídíọ́m Dák Skín Ton</annotation>
+		<annotation cp="🫲🏾" type="tts">Hand Wé De Pọínt Lẹ́ft Said: Mídíọ́m Dák Skín Ton</annotation>
+		<annotation cp="🫲🏿">Dák Skín Ton | Hand | Hand Wé De Pọínt Lẹ́ft Said | Lẹft | Lẹ́ft Said</annotation>
+		<annotation cp="🫲🏿" type="tts">Hand Wé De Pọínt Lẹ́ft Said: Dák Skín Ton</annotation>
+		<annotation cp="🫳🏻">Dismis | Drọp | Hand Wé De Fés Daun | Hand Wé De Shó Sain Sé Sọ́mtin Ọ Sọ́mbọ́di Nọ́ Dé Impọ́tant | Laít Skín Ton</annotation>
+		<annotation cp="🫳🏻" type="tts">Hand Wé De Fés Daun: Laít Skín Ton</annotation>
+		<annotation cp="🫳🏼">Dismis | Drọp | Hand Wé De Fés Daun | Hand Wé De Shó Sain Sé Sọ́mtin Ọ Sọ́mbọ́di Nọ́ Dé Impọ́tant | Mídíọ́m-Laít Skín Ton</annotation>
+		<annotation cp="🫳🏼" type="tts">Hand Wé De Fés Daun: Mídíọ́m-Laít Skín Ton</annotation>
+		<annotation cp="🫳🏽">Dismis | Drọp | Hand Wé De Fés Daun | Hand Wé De Shó Sain Sé Sọ́mtin Ọ Sọ́mbọ́di Nọ́ Dé Impọ́tant | Mídíọ́m Skín Ton</annotation>
+		<annotation cp="🫳🏽" type="tts">Hand Wé De Fés Daun: Mídíọ́m Skín Ton</annotation>
+		<annotation cp="🫳🏾">Dismis | Drọp | Hand Wé De Fés Daun | Hand Wé De Shó Sain Sé Sọ́mtin Ọ Sọ́mbọ́di Nọ́ Dé Impọ́tant | Mídíọ́m Dák Skín Ton</annotation>
+		<annotation cp="🫳🏾" type="tts">Hand Wé De Fés Daun: Mídíọ́m Dák Skín Ton</annotation>
+		<annotation cp="🫳🏿">Dák Skín Ton | Dismis | Drọp | Hand Wé De Fés Daun | Hand Wé De Shó Sain Sé Sọ́mtin Ọ Sọ́mbọ́di Nọ́ Dé Impọ́tant</annotation>
+		<annotation cp="🫳🏿" type="tts">Hand Wé De Fés Daun: Dák Skín Ton</annotation>
+		<annotation cp="🫴🏻">Giv | Hand Wé De Fés Ọp | Hand Wé De Pọínt Ọp | Kach | Kọm | Laít Skín Ton | Ték Hand Gív Pẹ́sin Sain Mék I Kọm</annotation>
+		<annotation cp="🫴🏻" type="tts">Hand Wé De Pọínt Ọp: Laít Skín Ton</annotation>
+		<annotation cp="🫴🏼">Giv | Hand Wé De Fés Ọp | Hand Wé De Pọínt Ọp | Kach | Kọm | Mídíọ́m-Laít Skín Ton | Ték Hand Gív Pẹ́sin Sain Mék I Kọm</annotation>
+		<annotation cp="🫴🏼" type="tts">Hand Wé De Pọínt Ọp: Mídíọ́m-Laít Skín Ton</annotation>
+		<annotation cp="🫴🏽">Giv | Hand Wé De Fés Ọp | Hand Wé De Pọínt Ọp | Kach | Kọm | Mídíọ́m Skín Ton | Ték Hand Gív Pẹ́sin Sain Mék I Kọm</annotation>
+		<annotation cp="🫴🏽" type="tts">Hand Wé De Pọínt Ọp: Mídíọ́m Skín Ton</annotation>
+		<annotation cp="🫴🏾">Giv | Hand Wé De Fés Ọp | Hand Wé De Pọínt Ọp | Kach | Kọm | Mídíọ́m Dák Skín Ton | Ték Hand Gív Pẹ́sin Sain Mék I Kọm</annotation>
+		<annotation cp="🫴🏾" type="tts">Hand Wé De Pọínt Ọp: Mídíọ́m Dák Skín Ton</annotation>
+		<annotation cp="🫴🏿">Dák Skín Ton | Giv | Hand Wé De Fés Ọp | Hand Wé De Pọínt Ọp | Kach | Kọm | Ték Hand Gív Pẹ́sin Sain Mék I Kọm</annotation>
+		<annotation cp="🫴🏿" type="tts">Hand Wé De Pọínt Ọp: Dák Skín Ton</annotation>
+		<annotation cp="🫷🏻">Haí Faif | Hand Wé De Púsh Gó Lẹ́ft Said | Laít Skín Ton | Lẹ́ft Said | Nọ́ Gri | Push | Rifiuz | Weet</annotation>
+		<annotation cp="🫷🏻" type="tts">Hand Wé De Púsh Gó Lẹ́ft Said: Laít Skín Ton</annotation>
+		<annotation cp="🫷🏼">Haí Faif | Hand Wé De Púsh Gó Lẹ́ft Said | Lẹ́ft Said | Mídíọ́m-Laít Skín Ton | Nọ́ Gri | Push | Rifiuz | Weet</annotation>
+		<annotation cp="🫷🏼" type="tts">Hand Wé De Púsh Gó Lẹ́ft Said: Mídíọ́m-Laít Skín Ton</annotation>
+		<annotation cp="🫷🏽">Haí Faif | Hand Wé De Púsh Gó Lẹ́ft Said | Lẹ́ft Said | Mídíọ́m Skín Ton | Nọ́ Gri | Push | Rifiuz | Weet</annotation>
+		<annotation cp="🫷🏽" type="tts">Hand Wé De Púsh Gó Lẹ́ft Said: Mídíọ́m Skín Ton</annotation>
+		<annotation cp="🫷🏾">Haí Faif | Hand Wé De Púsh Gó Lẹ́ft Said | Lẹ́ft Said | Mídíọ́m Dák Skín Ton | Nọ́ Gri | Push | Rifiuz | Weet</annotation>
+		<annotation cp="🫷🏾" type="tts">Hand Wé De Púsh Gó Lẹ́ft Said: Mídíọ́m Dák Skín Ton</annotation>
+		<annotation cp="🫷🏿">Dák Skín Ton | Haí Faif | Hand Wé De Púsh Gó Lẹ́ft Said | Lẹ́ft Said | Nọ́ Gri | Push | Rifiuz | Weet</annotation>
+		<annotation cp="🫷🏿" type="tts">Hand Wé De Púsh Gó Lẹ́ft Said: Dák Skín Ton</annotation>
+		<annotation cp="🫸🏻">Haí Faif | Hand Wé De Púsh Gó Raít Said | Laít Skín Ton | Lẹ́ft Said | Nọ́ Gri | Push | Rifiuz | Weet</annotation>
+		<annotation cp="🫸🏻" type="tts">Hand Wé De Púsh Gó Raít Said: Laít Skín Ton</annotation>
+		<annotation cp="🫸🏼">Haí Faif | Hand Wé De Púsh Gó Raít Said | Lẹ́ft Said | Mídíọ́m-Laít Skín Ton | Nọ́ Gri | Push | Rifiuz | Weet</annotation>
+		<annotation cp="🫸🏼" type="tts">Hand Wé De Púsh Gó Raít Said: Mídíọ́m-Laít Skín Ton</annotation>
+		<annotation cp="🫸🏽">Haí Faif | Hand Wé De Púsh Gó Raít Said | Lẹ́ft Said | Mídíọ́m Skín Ton | Nọ́ Gri | Push | Rifiuz | Weet</annotation>
+		<annotation cp="🫸🏽" type="tts">Hand Wé De Púsh Gó Raít Said: Mídíọ́m Skín Ton</annotation>
+		<annotation cp="🫸🏾">Haí Faif | Hand Wé De Púsh Gó Raít Said | Lẹ́ft Said | Mídíọ́m Dák Skín Ton | Nọ́ Gri | Push | Rifiuz | Weet</annotation>
+		<annotation cp="🫸🏾" type="tts">Hand Wé De Púsh Gó Raít Said: Mídíọ́m Dák Skín Ton</annotation>
+		<annotation cp="🫸🏿">Dák Skín Ton | Haí Faif | Hand Wé De Púsh Gó Raít Said | Lẹ́ft Said | Nọ́ Gri | Push | Rifiuz | Weet</annotation>
+		<annotation cp="🫸🏿" type="tts">Hand Wé De Púsh Gó Raít Said: Dák Skín Ton</annotation>
 		<annotation cp="👌🏻">Hand | Laít Skín Ton | OK</annotation>
 		<annotation cp="👌🏻" type="tts">OK Hand: Laít Skín Ton</annotation>
 		<annotation cp="👌🏼">Hand | Mídíọ́m-Laít Skín Ton | OK</annotation>
@@ -72,16 +173,16 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👌🏾" type="tts">OK Hand: Mídíọ́m Dák Skín Ton</annotation>
 		<annotation cp="👌🏿">Dák Skín Ton | Hand | OK</annotation>
 		<annotation cp="👌🏿" type="tts">OK Hand: Dák Skín Ton</annotation>
-		<annotation cp="🤌🏻">Fínga-dẹm | Hánd Sain | Kwẹ́shọn Pínch | Laít Skín Ton | Pínch Fínga | Wétín Yu Tọk Bi Ópózít Ọf Wétín Yu Min</annotation>
-		<annotation cp="🤌🏻" type="tts">Pínch Fínga: Laít Skín Ton</annotation>
-		<annotation cp="🤌🏼">Fínga-dẹm | Hánd Sain | Kwẹ́shọn Pínch | Mídíọ́m-Laít Skín Ton | Pínch Fínga | Wétín Yu Tọk Bi Ópózít Ọf Wétín Yu Min</annotation>
-		<annotation cp="🤌🏼" type="tts">Pínch Fínga: Mídíọ́m-Laít Skín Ton</annotation>
-		<annotation cp="🤌🏽">Fínga-dẹm | Hánd Sain | Kwẹ́shọn Pínch | Mídíọ́m Skín Ton | Pínch Fínga | Wétín Yu Tọk Bi Ópózít Ọf Wétín Yu Min</annotation>
-		<annotation cp="🤌🏽" type="tts">Pínch Fínga: Mídíọ́m Skín Ton</annotation>
-		<annotation cp="🤌🏾">Fínga-dẹm | Hánd Sain | Kwẹ́shọn Pínch | Mídíọ́m Dák Skín Ton | Pínch Fínga | Wétín Yu Tọk Bi Ópózít Ọf Wétín Yu Min</annotation>
-		<annotation cp="🤌🏾" type="tts">Pínch Fínga: Mídíọ́m Dák Skín Ton</annotation>
-		<annotation cp="🤌🏿">Dák Skín Ton | Fínga-dẹm | Hánd Sain | Kwẹ́shọn Pínch | Pínch Fínga | Wétín Yu Tọk Bi Ópózít Ọf Wétín Yu Min</annotation>
-		<annotation cp="🤌🏿" type="tts">Pínch Fínga: Dák Skín Ton</annotation>
+		<annotation cp="🤌🏻">Fínga-dẹm | Hánd Sain | Laít Skín Ton | To Áks Pẹ́sin Plẹ́ntí Kwẹ́shọn | To Pínch Fínga-dẹm Togẹ́da | To Pínch Sọ́mtin Ọ Sọ́mbọ́di | To Pút Fínga-dẹm Togẹ́da | Wẹ́n Wétín Yu Tọk Bi Ópózít Ọf Wétín Yu Min</annotation>
+		<annotation cp="🤌🏻" type="tts">To Pínch Fínga-dẹm Togẹ́da: Laít Skín Ton</annotation>
+		<annotation cp="🤌🏼">Fínga-dẹm | Hánd Sain | Mídíọ́m-Laít Skín Ton | To Áks Pẹ́sin Plẹ́ntí Kwẹ́shọn | To Pínch Fínga-dẹm Togẹ́da | To Pínch Sọ́mtin Ọ Sọ́mbọ́di | To Pút Fínga-dẹm Togẹ́da | Wẹ́n Wétín Yu Tọk Bi Ópózít Ọf Wétín Yu Min</annotation>
+		<annotation cp="🤌🏼" type="tts">To Pínch Fínga-dẹm Togẹ́da: Mídíọ́m-Laít Skín Ton</annotation>
+		<annotation cp="🤌🏽">Fínga-dẹm | Hánd Sain | Mídíọ́m Skín Ton | To Áks Pẹ́sin Plẹ́ntí Kwẹ́shọn | To Pínch Fínga-dẹm Togẹ́da | To Pínch Sọ́mtin Ọ Sọ́mbọ́di | To Pút Fínga-dẹm Togẹ́da | Wẹ́n Wétín Yu Tọk Bi Ópózít Ọf Wétín Yu Min</annotation>
+		<annotation cp="🤌🏽" type="tts">To Pínch Fínga-dẹm Togẹ́da: Mídíọ́m Skín Ton</annotation>
+		<annotation cp="🤌🏾">Fínga-dẹm | Hánd Sain | Mídíọ́m Dák Skín Ton | To Áks Pẹ́sin Plẹ́ntí Kwẹ́shọn | To Pínch Fínga-dẹm Togẹ́da | To Pínch Sọ́mtin Ọ Sọ́mbọ́di | To Pút Fínga-dẹm Togẹ́da | Wẹ́n Wétín Yu Tọk Bi Ópózít Ọf Wétín Yu Min</annotation>
+		<annotation cp="🤌🏾" type="tts">To Pínch Fínga-dẹm Togẹ́da: Mídíọ́m Dák Skín Ton</annotation>
+		<annotation cp="🤌🏿">Dák Skín Ton | Fínga-dẹm | Hánd Sain | To Áks Pẹ́sin Plẹ́ntí Kwẹ́shọn | To Pínch Fínga-dẹm Togẹ́da | To Pínch Sọ́mtin Ọ Sọ́mbọ́di | To Pút Fínga-dẹm Togẹ́da | Wẹ́n Wétín Yu Tọk Bi Ópózít Ọf Wétín Yu Min</annotation>
+		<annotation cp="🤌🏿" type="tts">To Pínch Fínga-dẹm Togẹ́da: Dák Skín Ton</annotation>
 		<annotation cp="🤏🏻">Hand Wé De Pinch | Laít Skín Ton | Smọ́l Amaunt</annotation>
 		<annotation cp="🤏🏻" type="tts">Hand Wé De Pinch: Laít Skín Ton</annotation>
 		<annotation cp="🤏🏼">Hand Wé De Pinch | Mídíọ́m-Laít Skín Ton | Smọ́l Amaunt</annotation>
@@ -112,25 +213,35 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🤞🏾" type="tts">Krọ́s Fínga-dẹm: Mídíọ́m Dák Skín Ton</annotation>
 		<annotation cp="🤞🏿">Dák Skín Ton | Fínga | Hand | Krọs | Krọ́s Fínga-dẹm | Lọk</annotation>
 		<annotation cp="🤞🏿" type="tts">Krọ́s Fínga-dẹm: Dák Skín Ton</annotation>
-		<annotation cp="🤟🏻">A Lọ́v Yu | A Lọ́v Yu Sain | A Lọ́v Yú Sain | ALY | Hand | Laít Skín Ton</annotation>
+		<annotation cp="🫰🏻">Hand Wé Krọ́s Im Sẹ́kọ́n Fínga An Im Tọmb | Hand Wé Krọ́s Im Sẹ́kọ́n Fínga An Tọmb | Hat | Kọ́sli | Laít Skín Ton | Lọv | Mọní | To Mék Sháp Nọiz Wit Yọ Fínga An Tọmb</annotation>
+		<annotation cp="🫰🏻" type="tts">Hand Wé Krọ́s Im Sẹ́kọ́n Fínga An Tọmb: Laít Skín Ton</annotation>
+		<annotation cp="🫰🏼">Hand Wé Krọ́s Im Sẹ́kọ́n Fínga An Im Tọmb | Hand Wé Krọ́s Im Sẹ́kọ́n Fínga An Tọmb | Hat | Kọ́sli | Lọv | Mídíọ́m-Laít Skín Ton | Mọní | To Mék Sháp Nọiz Wit Yọ Fínga An Tọmb</annotation>
+		<annotation cp="🫰🏼" type="tts">Hand Wé Krọ́s Im Sẹ́kọ́n Fínga An Tọmb: Mídíọ́m-Laít Skín Ton</annotation>
+		<annotation cp="🫰🏽">Hand Wé Krọ́s Im Sẹ́kọ́n Fínga An Im Tọmb | Hand Wé Krọ́s Im Sẹ́kọ́n Fínga An Tọmb | Hat | Kọ́sli | Lọv | Mídíọ́m Skín Ton | Mọní | To Mék Sháp Nọiz Wit Yọ Fínga An Tọmb</annotation>
+		<annotation cp="🫰🏽" type="tts">Hand Wé Krọ́s Im Sẹ́kọ́n Fínga An Tọmb: Mídíọ́m Skín Ton</annotation>
+		<annotation cp="🫰🏾">Hand Wé Krọ́s Im Sẹ́kọ́n Fínga An Im Tọmb | Hand Wé Krọ́s Im Sẹ́kọ́n Fínga An Tọmb | Hat | Kọ́sli | Lọv | Mídíọ́m Dák Skín Ton | Mọní | To Mék Sháp Nọiz Wit Yọ Fínga An Tọmb</annotation>
+		<annotation cp="🫰🏾" type="tts">Hand Wé Krọ́s Im Sẹ́kọ́n Fínga An Tọmb: Mídíọ́m Dák Skín Ton</annotation>
+		<annotation cp="🫰🏿">Dák Skín Ton | Hand Wé Krọ́s Im Sẹ́kọ́n Fínga An Im Tọmb | Hand Wé Krọ́s Im Sẹ́kọ́n Fínga An Tọmb | Hat | Kọ́sli | Lọv | Mọní | To Mék Sháp Nọiz Wit Yọ Fínga An Tọmb</annotation>
+		<annotation cp="🫰🏿" type="tts">Hand Wé Krọ́s Im Sẹ́kọ́n Fínga An Tọmb: Dák Skín Ton</annotation>
+		<annotation cp="🤟🏻">A Lọ́v Yu Sain | ALY | Hand | Laít Skín Ton</annotation>
 		<annotation cp="🤟🏻" type="tts">A Lọ́v Yu Sain: Laít Skín Ton</annotation>
-		<annotation cp="🤟🏼">A Lọ́v Yu | A Lọ́v Yu Sain | A Lọ́v Yú Sain | ALY | Hand | Mídíọ́m-Laít Skín Ton</annotation>
+		<annotation cp="🤟🏼">A Lọ́v Yu Sain | ALY | Hand | Mídíọ́m-Laít Skín Ton</annotation>
 		<annotation cp="🤟🏼" type="tts">A Lọ́v Yu Sain: Mídíọ́m-Laít Skín Ton</annotation>
-		<annotation cp="🤟🏽">A Lọ́v Yu | A Lọ́v Yu Sain | A Lọ́v Yú Sain | ALY | Hand | Mídíọ́m Skín Ton</annotation>
+		<annotation cp="🤟🏽">A Lọ́v Yu Sain | ALY | Hand | Mídíọ́m Skín Ton</annotation>
 		<annotation cp="🤟🏽" type="tts">A Lọ́v Yu Sain: Mídíọ́m Skín Ton</annotation>
-		<annotation cp="🤟🏾">A Lọ́v Yu | A Lọ́v Yu Sain | A Lọ́v Yú Sain | ALY | Hand | Mídíọ́m Dák Skín Ton</annotation>
+		<annotation cp="🤟🏾">A Lọ́v Yu Sain | ALY | Hand | Mídíọ́m Dák Skín Ton</annotation>
 		<annotation cp="🤟🏾" type="tts">A Lọ́v Yu Sain: Mídíọ́m Dák Skín Ton</annotation>
-		<annotation cp="🤟🏿">A Lọ́v Yu | A Lọ́v Yu Sain | A Lọ́v Yú Sain | ALY | Dák Skín Ton | Hand</annotation>
+		<annotation cp="🤟🏿">A Lọ́v Yu Sain | ALY | Dák Skín Ton | Hand</annotation>
 		<annotation cp="🤟🏿" type="tts">A Lọ́v Yu Sain: Dák Skín Ton</annotation>
-		<annotation cp="🤘🏻">Fínga | Hand | Họn Sain | Họ́n Sain | Họn-dẹm | Laít Skín Ton | Rọ́k-ọ́n Sain</annotation>
+		<annotation cp="🤘🏻">Fínga | Hand | Họ́n Sain | Họn-dẹm | Laít Skín Ton | Rọ́k-ọ́n Sain</annotation>
 		<annotation cp="🤘🏻" type="tts">Họ́n Sain: Laít Skín Ton</annotation>
-		<annotation cp="🤘🏼">Fínga | Hand | Họn Sain | Họ́n Sain | Họn-dẹm | Mídíọ́m-Laít Skín Ton | Rọ́k-ọ́n Sain</annotation>
+		<annotation cp="🤘🏼">Fínga | Hand | Họ́n Sain | Họn-dẹm | Mídíọ́m-Laít Skín Ton | Rọ́k-ọ́n Sain</annotation>
 		<annotation cp="🤘🏼" type="tts">Họ́n Sain: Mídíọ́m-Laít Skín Ton</annotation>
-		<annotation cp="🤘🏽">Fínga | Hand | Họn Sain | Họ́n Sain | Họn-dẹm | Mídíọ́m Skín Ton | Rọ́k-ọ́n Sain</annotation>
+		<annotation cp="🤘🏽">Fínga | Hand | Họ́n Sain | Họn-dẹm | Mídíọ́m Skín Ton | Rọ́k-ọ́n Sain</annotation>
 		<annotation cp="🤘🏽" type="tts">Họ́n Sain: Mídíọ́m Skín Ton</annotation>
-		<annotation cp="🤘🏾">Fínga | Hand | Họn Sain | Họ́n Sain | Họn-dẹm | Mídíọ́m Dák Skín Ton | Rọ́k-ọ́n Sain</annotation>
+		<annotation cp="🤘🏾">Fínga | Hand | Họ́n Sain | Họn-dẹm | Mídíọ́m Dák Skín Ton | Rọ́k-ọ́n Sain</annotation>
 		<annotation cp="🤘🏾" type="tts">Họ́n Sain: Mídíọ́m Dák Skín Ton</annotation>
-		<annotation cp="🤘🏿">Dák Skín Ton | Fínga | Hand | Họn Sain | Họ́n Sain | Họn-dẹm | Rọ́k-ọ́n Sain</annotation>
+		<annotation cp="🤘🏿">Dák Skín Ton | Fínga | Hand | Họ́n Sain | Họn-dẹm | Rọ́k-ọ́n Sain</annotation>
 		<annotation cp="🤘🏿" type="tts">Họ́n Sain: Dák Skín Ton</annotation>
 		<annotation cp="🤙🏻">Hand | Kọl | Laít Skín Ton | Mék Yu Fón Mí Hand</annotation>
 		<annotation cp="🤙🏻" type="tts">Mék Yu Fón Mí Hand: Laít Skín Ton</annotation>
@@ -202,6 +313,16 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="☝🏾" type="tts">Niá-Tọ́mb-Fínga De Pọínt Ọp: Mídíọ́m Dák Skín Ton</annotation>
 		<annotation cp="☝🏿">Dák Skín Ton | Fínga | Hand | Niá-Tọ́mb-Fínga | Niá-Tọ́mb-Fínga De Pọínt Ọp | Ọp | Pọint</annotation>
 		<annotation cp="☝🏿" type="tts">Niá-Tọ́mb-Fínga De Pọínt Ọp: Dák Skín Ton</annotation>
+		<annotation cp="🫵🏻">Fẹ́st Fínga De Pọínt Di Pẹ́sin Wé De Luk | Laít Skín Ton | Pọint | Sẹ́kọ́n Fínga De Pọínt Di Pẹ́sin Wé De Luk | Yu</annotation>
+		<annotation cp="🫵🏻" type="tts">Sẹ́kọ́n Fínga De Pọínt Di Pẹ́sin Wé De Luk: Laít Skín Ton</annotation>
+		<annotation cp="🫵🏼">Fẹ́st Fínga De Pọínt Di Pẹ́sin Wé De Luk | Mídíọ́m-Laít Skín Ton | Pọint | Sẹ́kọ́n Fínga De Pọínt Di Pẹ́sin Wé De Luk | Yu</annotation>
+		<annotation cp="🫵🏼" type="tts">Sẹ́kọ́n Fínga De Pọínt Di Pẹ́sin Wé De Luk: Mídíọ́m-Laít Skín Ton</annotation>
+		<annotation cp="🫵🏽">Fẹ́st Fínga De Pọínt Di Pẹ́sin Wé De Luk | Mídíọ́m Skín Ton | Pọint | Sẹ́kọ́n Fínga De Pọínt Di Pẹ́sin Wé De Luk | Yu</annotation>
+		<annotation cp="🫵🏽" type="tts">Sẹ́kọ́n Fínga De Pọínt Di Pẹ́sin Wé De Luk: Mídíọ́m Skín Ton</annotation>
+		<annotation cp="🫵🏾">Fẹ́st Fínga De Pọínt Di Pẹ́sin Wé De Luk | Mídíọ́m Dák Skín Ton | Pọint | Sẹ́kọ́n Fínga De Pọínt Di Pẹ́sin Wé De Luk | Yu</annotation>
+		<annotation cp="🫵🏾" type="tts">Sẹ́kọ́n Fínga De Pọínt Di Pẹ́sin Wé De Luk: Mídíọ́m Dák Skín Ton</annotation>
+		<annotation cp="🫵🏿">Dák Skín Ton | Fẹ́st Fínga De Pọínt Di Pẹ́sin Wé De Luk | Pọint | Sẹ́kọ́n Fínga De Pọínt Di Pẹ́sin Wé De Luk | Yu</annotation>
+		<annotation cp="🫵🏿" type="tts">Sẹ́kọ́n Fínga De Pọínt Di Pẹ́sin Wé De Luk: Dák Skín Ton</annotation>
 		<annotation cp="👍🏻">+1 | Hand | Laít Skín Ton | Ọp | Ọ́p Yu | Tọmb De Pọínt Ọp | Tọ́mb Ọp | Tọ́mbs Ọp</annotation>
 		<annotation cp="👍🏻" type="tts">Tọ́mb Ọp: Laít Skín Ton</annotation>
 		<annotation cp="👍🏼">+1 | Hand | Mídíọ́m-Laít Skín Ton | Ọp | Ọ́p Yu | Tọmb De Pọínt Ọp | Tọ́mb Ọp | Tọ́mbs Ọp</annotation>
@@ -242,26 +363,26 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👊🏾" type="tts">Klózd Hand Wán Gív Pẹ́sin Blo: Mídíọ́m Dák Skín Ton</annotation>
 		<annotation cp="👊🏿">Dák Skín Ton | Hand | Klózd Hand | Klózd Hand Wán Gív Pẹ́sin Blo | Prẹ́s Taít Tait | Skwíz Taít Tait</annotation>
 		<annotation cp="👊🏿" type="tts">Klózd Hand Wán Gív Pẹ́sin Blo: Dák Skín Ton</annotation>
-		<annotation cp="🤛🏻">Klós Hand Wé De Fés Lẹft | Klózd Hand | Klózd Hand Wé De Fés Lẹft | Laít Skín Ton | Lẹ́ft Said</annotation>
-		<annotation cp="🤛🏻" type="tts">Klós Hand Wé De Fés Lẹft: Laít Skín Ton</annotation>
-		<annotation cp="🤛🏼">Klós Hand Wé De Fés Lẹft | Klózd Hand | Klózd Hand Wé De Fés Lẹft | Lẹ́ft Said | Mídíọ́m-Laít Skín Ton</annotation>
-		<annotation cp="🤛🏼" type="tts">Klós Hand Wé De Fés Lẹft: Mídíọ́m-Laít Skín Ton</annotation>
-		<annotation cp="🤛🏽">Klós Hand Wé De Fés Lẹft | Klózd Hand | Klózd Hand Wé De Fés Lẹft | Lẹ́ft Said | Mídíọ́m Skín Ton</annotation>
-		<annotation cp="🤛🏽" type="tts">Klós Hand Wé De Fés Lẹft: Mídíọ́m Skín Ton</annotation>
-		<annotation cp="🤛🏾">Klós Hand Wé De Fés Lẹft | Klózd Hand | Klózd Hand Wé De Fés Lẹft | Lẹ́ft Said | Mídíọ́m Dák Skín Ton</annotation>
-		<annotation cp="🤛🏾" type="tts">Klós Hand Wé De Fés Lẹft: Mídíọ́m Dák Skín Ton</annotation>
-		<annotation cp="🤛🏿">Dák Skín Ton | Klós Hand Wé De Fés Lẹft | Klózd Hand | Klózd Hand Wé De Fés Lẹft | Lẹ́ft Said</annotation>
-		<annotation cp="🤛🏿" type="tts">Klós Hand Wé De Fés Lẹft: Dák Skín Ton</annotation>
-		<annotation cp="🤜🏻">Klós Hand Wé De Fés Rait | Klózd Hand | Klózd Hand Wé De Fés Rait | Laít Skín Ton | Raít Said</annotation>
-		<annotation cp="🤜🏻" type="tts">Klós Hand Wé De Fés Rait: Laít Skín Ton</annotation>
-		<annotation cp="🤜🏼">Klós Hand Wé De Fés Rait | Klózd Hand | Klózd Hand Wé De Fés Rait | Mídíọ́m-Laít Skín Ton | Raít Said</annotation>
-		<annotation cp="🤜🏼" type="tts">Klós Hand Wé De Fés Rait: Mídíọ́m-Laít Skín Ton</annotation>
-		<annotation cp="🤜🏽">Klós Hand Wé De Fés Rait | Klózd Hand | Klózd Hand Wé De Fés Rait | Mídíọ́m Skín Ton | Raít Said</annotation>
-		<annotation cp="🤜🏽" type="tts">Klós Hand Wé De Fés Rait: Mídíọ́m Skín Ton</annotation>
-		<annotation cp="🤜🏾">Klós Hand Wé De Fés Rait | Klózd Hand | Klózd Hand Wé De Fés Rait | Mídíọ́m Dák Skín Ton | Raít Said</annotation>
-		<annotation cp="🤜🏾" type="tts">Klós Hand Wé De Fés Rait: Mídíọ́m Dák Skín Ton</annotation>
-		<annotation cp="🤜🏿">Dák Skín Ton | Klós Hand Wé De Fés Rait | Klózd Hand | Klózd Hand Wé De Fés Rait | Raít Said</annotation>
-		<annotation cp="🤜🏿" type="tts">Klós Hand Wé De Fés Rait: Dák Skín Ton</annotation>
+		<annotation cp="🤛🏻">Klózd Hand | Klózd Hand Wé De Fés Lẹft | Laít Skín Ton | Lẹ́ft Said</annotation>
+		<annotation cp="🤛🏻" type="tts">Klózd Hand Wé De Fés Lẹft: Laít Skín Ton</annotation>
+		<annotation cp="🤛🏼">Klózd Hand | Klózd Hand Wé De Fés Lẹft | Lẹ́ft Said | Mídíọ́m-Laít Skín Ton</annotation>
+		<annotation cp="🤛🏼" type="tts">Klózd Hand Wé De Fés Lẹft: Mídíọ́m-Laít Skín Ton</annotation>
+		<annotation cp="🤛🏽">Klózd Hand | Klózd Hand Wé De Fés Lẹft | Lẹ́ft Said | Mídíọ́m Skín Ton</annotation>
+		<annotation cp="🤛🏽" type="tts">Klózd Hand Wé De Fés Lẹft: Mídíọ́m Skín Ton</annotation>
+		<annotation cp="🤛🏾">Klózd Hand | Klózd Hand Wé De Fés Lẹft | Lẹ́ft Said | Mídíọ́m Dák Skín Ton</annotation>
+		<annotation cp="🤛🏾" type="tts">Klózd Hand Wé De Fés Lẹft: Mídíọ́m Dák Skín Ton</annotation>
+		<annotation cp="🤛🏿">Dák Skín Ton | Klózd Hand | Klózd Hand Wé De Fés Lẹft | Lẹ́ft Said</annotation>
+		<annotation cp="🤛🏿" type="tts">Klózd Hand Wé De Fés Lẹft: Dák Skín Ton</annotation>
+		<annotation cp="🤜🏻">Klózd Hand | Klózd Hand Wé De Fés Rait | Laít Skín Ton | Raít Said</annotation>
+		<annotation cp="🤜🏻" type="tts">Klózd Hand Wé De Fés Rait: Laít Skín Ton</annotation>
+		<annotation cp="🤜🏼">Klózd Hand | Klózd Hand Wé De Fés Rait | Mídíọ́m-Laít Skín Ton | Raít Said</annotation>
+		<annotation cp="🤜🏼" type="tts">Klózd Hand Wé De Fés Rait: Mídíọ́m-Laít Skín Ton</annotation>
+		<annotation cp="🤜🏽">Klózd Hand | Klózd Hand Wé De Fés Rait | Mídíọ́m Skín Ton | Raít Said</annotation>
+		<annotation cp="🤜🏽" type="tts">Klózd Hand Wé De Fés Rait: Mídíọ́m Skín Ton</annotation>
+		<annotation cp="🤜🏾">Klózd Hand | Klózd Hand Wé De Fés Rait | Mídíọ́m Dák Skín Ton | Raít Said</annotation>
+		<annotation cp="🤜🏾" type="tts">Klózd Hand Wé De Fés Rait: Mídíọ́m Dák Skín Ton</annotation>
+		<annotation cp="🤜🏿">Dák Skín Ton | Klózd Hand | Klózd Hand Wé De Fés Rait | Raít Said</annotation>
+		<annotation cp="🤜🏿" type="tts">Klózd Hand Wé De Fés Rait: Dák Skín Ton</annotation>
 		<annotation cp="👏🏻">Hand | Hand-dẹm Wé De Klap | Klap | Laít Skín Ton</annotation>
 		<annotation cp="👏🏻" type="tts">Hand-dẹm Wé De Klap: Laít Skín Ton</annotation>
 		<annotation cp="👏🏼">Hand | Hand-dẹm Wé De Klap | Klap | Mídíọ́m-Laít Skín Ton</annotation>
@@ -272,16 +393,26 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👏🏾" type="tts">Hand-dẹm Wé De Klap: Mídíọ́m Dák Skín Ton</annotation>
 		<annotation cp="👏🏿">Dák Skín Ton | Hand | Hand-dẹm Wé De Klap | Klap</annotation>
 		<annotation cp="👏🏿" type="tts">Hand-dẹm Wé De Klap: Dák Skín Ton</annotation>
-		<annotation cp="🙌🏻">Hand-dẹm Wé Dẹm Réz Ọp | Klózd Hand | Klózd Hand Wé De Fés Rait | Laít Skín Ton | Raít Said</annotation>
+		<annotation cp="🙌🏻">Hand | Hand-dẹm Wé Dẹm Réz Ọp | Laít Skín Ton | Sẹlibréshọn | Sọ́mtin Wé Dẹm Réz Ọp | To Gív Sain | To Tọ́k &quot;Huúree&quot;</annotation>
 		<annotation cp="🙌🏻" type="tts">Hand-dẹm Wé Dẹm Réz Ọp: Laít Skín Ton</annotation>
-		<annotation cp="🙌🏼">Hand-dẹm Wé Dẹm Réz Ọp | Klózd Hand | Klózd Hand Wé De Fés Rait | Mídíọ́m-Laít Skín Ton | Raít Said</annotation>
+		<annotation cp="🙌🏼">Hand | Hand-dẹm Wé Dẹm Réz Ọp | Mídíọ́m-Laít Skín Ton | Sẹlibréshọn | Sọ́mtin Wé Dẹm Réz Ọp | To Gív Sain | To Tọ́k &quot;Huúree&quot;</annotation>
 		<annotation cp="🙌🏼" type="tts">Hand-dẹm Wé Dẹm Réz Ọp: Mídíọ́m-Laít Skín Ton</annotation>
-		<annotation cp="🙌🏽">Hand-dẹm Wé Dẹm Réz Ọp | Klózd Hand | Klózd Hand Wé De Fés Rait | Mídíọ́m Skín Ton | Raít Said</annotation>
+		<annotation cp="🙌🏽">Hand | Hand-dẹm Wé Dẹm Réz Ọp | Mídíọ́m Skín Ton | Sẹlibréshọn | Sọ́mtin Wé Dẹm Réz Ọp | To Gív Sain | To Tọ́k &quot;Huúree&quot;</annotation>
 		<annotation cp="🙌🏽" type="tts">Hand-dẹm Wé Dẹm Réz Ọp: Mídíọ́m Skín Ton</annotation>
-		<annotation cp="🙌🏾">Hand-dẹm Wé Dẹm Réz Ọp | Klózd Hand | Klózd Hand Wé De Fés Rait | Mídíọ́m Dák Skín Ton | Raít Said</annotation>
+		<annotation cp="🙌🏾">Hand | Hand-dẹm Wé Dẹm Réz Ọp | Mídíọ́m Dák Skín Ton | Sẹlibréshọn | Sọ́mtin Wé Dẹm Réz Ọp | To Gív Sain | To Tọ́k &quot;Huúree&quot;</annotation>
 		<annotation cp="🙌🏾" type="tts">Hand-dẹm Wé Dẹm Réz Ọp: Mídíọ́m Dák Skín Ton</annotation>
-		<annotation cp="🙌🏿">Dák Skín Ton | Hand-dẹm Wé Dẹm Réz Ọp | Klózd Hand | Klózd Hand Wé De Fés Rait | Raít Said</annotation>
+		<annotation cp="🙌🏿">Dák Skín Ton | Hand | Hand-dẹm Wé Dẹm Réz Ọp | Sẹlibréshọn | Sọ́mtin Wé Dẹm Réz Ọp | To Gív Sain | To Tọ́k &quot;Huúree&quot;</annotation>
 		<annotation cp="🙌🏿" type="tts">Hand-dẹm Wé Dẹm Réz Ọp: Dák Skín Ton</annotation>
+		<annotation cp="🫶🏻">Hand-dẹm Wé Fọ́m Hat Shep | Hát hand-dẹm | Laít Skín Ton | Lọv</annotation>
+		<annotation cp="🫶🏻" type="tts">Hát hand-dẹm: Laít Skín Ton</annotation>
+		<annotation cp="🫶🏼">Hand-dẹm Wé Fọ́m Hat Shep | Hát hand-dẹm | Lọv | Mídíọ́m-Laít Skín Ton</annotation>
+		<annotation cp="🫶🏼" type="tts">Hát hand-dẹm: Mídíọ́m-Laít Skín Ton</annotation>
+		<annotation cp="🫶🏽">Hand-dẹm Wé Fọ́m Hat Shep | Hát hand-dẹm | Lọv | Mídíọ́m Skín Ton</annotation>
+		<annotation cp="🫶🏽" type="tts">Hát hand-dẹm: Mídíọ́m Skín Ton</annotation>
+		<annotation cp="🫶🏾">Hand-dẹm Wé Fọ́m Hat Shep | Hát hand-dẹm | Lọv | Mídíọ́m Dák Skín Ton</annotation>
+		<annotation cp="🫶🏾" type="tts">Hát hand-dẹm: Mídíọ́m Dák Skín Ton</annotation>
+		<annotation cp="🫶🏿">Dák Skín Ton | Hand-dẹm Wé Fọ́m Hat Shep | Hát hand-dẹm | Lọv</annotation>
+		<annotation cp="🫶🏿" type="tts">Hát hand-dẹm: Dák Skín Ton</annotation>
 		<annotation cp="👐🏻">Hand | Laít Skín Ton | Ópun | Ópún Hand-dẹm</annotation>
 		<annotation cp="👐🏻" type="tts">Ópún Hand-dẹm: Laít Skín Ton</annotation>
 		<annotation cp="👐🏼">Hand | Mídíọ́m-Laít Skín Ton | Ópun | Ópún Hand-dẹm</annotation>
@@ -302,6 +433,16 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🤲🏾" type="tts">Ópún Hand-dẹm Wé Dé Togẹ́da: Mídíọ́m Dák Skín Ton</annotation>
 		<annotation cp="🤲🏿">Dák Skín Ton | Ópún Hand-dẹm Wé Dé Togẹ́da | Préya</annotation>
 		<annotation cp="🤲🏿" type="tts">Ópún Hand-dẹm Wé Dé Togẹ́da: Dák Skín Ton</annotation>
+		<annotation cp="🤝🏻">Agrímẹnt | Hand | Hándshek | Laít Skín Ton | Mítin | Shek</annotation>
+		<annotation cp="🤝🏻" type="tts">Hándshek: Laít Skín Ton</annotation>
+		<annotation cp="🤝🏼">Agrímẹnt | Hand | Hándshek | Mídíọ́m-Laít Skín Ton | Mítin | Shek</annotation>
+		<annotation cp="🤝🏼" type="tts">Hándshek: Mídíọ́m-Laít Skín Ton</annotation>
+		<annotation cp="🤝🏽">Agrímẹnt | Hand | Hándshek | Mídíọ́m Skín Ton | Mítin | Shek</annotation>
+		<annotation cp="🤝🏽" type="tts">Hándshek: Mídíọ́m Skín Ton</annotation>
+		<annotation cp="🤝🏾">Agrímẹnt | Hand | Hándshek | Mídíọ́m Dák Skín Ton | Mítin | Shek</annotation>
+		<annotation cp="🤝🏾" type="tts">Hándshek: Mídíọ́m Dák Skín Ton</annotation>
+		<annotation cp="🤝🏿">Agrímẹnt | Dák Skín Ton | Hand | Hándshek | Mítin | Shek</annotation>
+		<annotation cp="🤝🏿" type="tts">Hándshek: Dák Skín Ton</annotation>
 		<annotation cp="🙏🏻">Abẹg | Aks | Hand | Hand-dẹm Wé Dẹm Fold | Laít Skín Ton | Prè | Tánk-io</annotation>
 		<annotation cp="🙏🏻" type="tts">Hand-dẹm Wé Dẹm Fold: Laít Skín Ton</annotation>
 		<annotation cp="🙏🏼">Abẹg | Aks | Hand | Hand-dẹm Wé Dẹm Fold | Mídíọ́m-Laít Skín Ton | Prè | Tánk-io</annotation>
@@ -432,16 +573,16 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👦🏾" type="tts">Smọ́l Bọi: Mídíọ́m Dák Skín Ton</annotation>
 		<annotation cp="👦🏿">Bọi | Dák Skín Ton | Smọ́l Bọi | Yọng</annotation>
 		<annotation cp="👦🏿" type="tts">Smọ́l Bọi: Dák Skín Ton</annotation>
-		<annotation cp="👧🏻">Gẹl | Laít Skín Ton | Smọ́l Gẹl | Vẹ́go | Yọng | Zódiak</annotation>
-		<annotation cp="👧🏻" type="tts">Smọ́l Gẹl: Laít Skín Ton</annotation>
-		<annotation cp="👧🏼">Gẹl | Mídíọ́m-Laít Skín Ton | Smọ́l Gẹl | Vẹ́go | Yọng | Zódiak</annotation>
-		<annotation cp="👧🏼" type="tts">Smọ́l Gẹl: Mídíọ́m-Laít Skín Ton</annotation>
-		<annotation cp="👧🏽">Gẹl | Mídíọ́m Skín Ton | Smọ́l Gẹl | Vẹ́go | Yọng | Zódiak</annotation>
-		<annotation cp="👧🏽" type="tts">Smọ́l Gẹl: Mídíọ́m Skín Ton</annotation>
-		<annotation cp="👧🏾">Gẹl | Mídíọ́m Dák Skín Ton | Smọ́l Gẹl | Vẹ́go | Yọng | Zódiak</annotation>
-		<annotation cp="👧🏾" type="tts">Smọ́l Gẹl: Mídíọ́m Dák Skín Ton</annotation>
-		<annotation cp="👧🏿">Dák Skín Ton | Gẹl | Smọ́l Gẹl | Vẹ́go | Yọng | Zódiak</annotation>
-		<annotation cp="👧🏿" type="tts">Smọ́l Gẹl: Dák Skín Ton</annotation>
+		<annotation cp="👧🏻">Gẹl | Laít Skín Ton | Vẹ́go | Yọng | Zódiak</annotation>
+		<annotation cp="👧🏻" type="tts">Gẹl: Laít Skín Ton</annotation>
+		<annotation cp="👧🏼">Gẹl | Mídíọ́m-Laít Skín Ton | Vẹ́go | Yọng | Zódiak</annotation>
+		<annotation cp="👧🏼" type="tts">Gẹl: Mídíọ́m-Laít Skín Ton</annotation>
+		<annotation cp="👧🏽">Gẹl | Mídíọ́m Skín Ton | Vẹ́go | Yọng | Zódiak</annotation>
+		<annotation cp="👧🏽" type="tts">Gẹl: Mídíọ́m Skín Ton</annotation>
+		<annotation cp="👧🏾">Gẹl | Mídíọ́m Dák Skín Ton | Vẹ́go | Yọng | Zódiak</annotation>
+		<annotation cp="👧🏾" type="tts">Gẹl: Mídíọ́m Dák Skín Ton</annotation>
+		<annotation cp="👧🏿">Dák Skín Ton | Gẹl | Vẹ́go | Yọng | Zódiak</annotation>
+		<annotation cp="👧🏿" type="tts">Gẹl: Dák Skín Ton</annotation>
 		<annotation cp="🧑🏻">Laít Skín Ton | Machọ́ Pẹ́sin | Pẹ́sin | Pẹ́sin Wé Dẹm Nó Tọk Wẹ́dá Na Man Ọ Wúman | Pẹ́sin Wé Nọ́ Bi Man Ọ Wúman</annotation>
 		<annotation cp="🧑🏻" type="tts">Pẹ́sin: Laít Skín Ton</annotation>
 		<annotation cp="🧑🏼">Machọ́ Pẹ́sin | Mídíọ́m-Laít Skín Ton | Pẹ́sin | Pẹ́sin Wé Dẹm Nó Tọk Wẹ́dá Na Man Ọ Wúman | Pẹ́sin Wé Nọ́ Bi Man Ọ Wúman</annotation>
@@ -452,96 +593,96 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🧑🏾" type="tts">Pẹ́sin: Mídíọ́m Dák Skín Ton</annotation>
 		<annotation cp="🧑🏿">Dák Skín Ton | Machọ́ Pẹ́sin | Pẹ́sin | Pẹ́sin Wé Dẹm Nó Tọk Wẹ́dá Na Man Ọ Wúman | Pẹ́sin Wé Nọ́ Bi Man Ọ Wúman</annotation>
 		<annotation cp="🧑🏿" type="tts">Pẹ́sin: Dák Skín Ton</annotation>
-		<annotation cp="👱🏻">Blọnd | Laít Skín Ton | Pẹ́sin Wé Gẹ́t Blọ́nd Hea | Pẹ́sin Wé Gẹ́t Blọ́nd Hea Hea | Pẹ́sin: Blọ́nd Hea</annotation>
+		<annotation cp="👱🏻">Blọnd | Hea | Laít Skín Ton | Pẹ́sin Wé Gẹ́t Blọ́nd Hea | Pẹ́sin: Blọ́nd Hea</annotation>
 		<annotation cp="👱🏻" type="tts">Pẹ́sin Wé Gẹ́t Blọ́nd Hea: Laít Skín Ton</annotation>
-		<annotation cp="👱🏼">Blọnd | Mídíọ́m-Laít Skín Ton | Pẹ́sin Wé Gẹ́t Blọ́nd Hea | Pẹ́sin Wé Gẹ́t Blọ́nd Hea Hea | Pẹ́sin: Blọ́nd Hea</annotation>
+		<annotation cp="👱🏼">Blọnd | Hea | Mídíọ́m-Laít Skín Ton | Pẹ́sin Wé Gẹ́t Blọ́nd Hea | Pẹ́sin: Blọ́nd Hea</annotation>
 		<annotation cp="👱🏼" type="tts">Pẹ́sin Wé Gẹ́t Blọ́nd Hea: Mídíọ́m-Laít Skín Ton</annotation>
-		<annotation cp="👱🏽">Blọnd | Mídíọ́m Skín Ton | Pẹ́sin Wé Gẹ́t Blọ́nd Hea | Pẹ́sin Wé Gẹ́t Blọ́nd Hea Hea | Pẹ́sin: Blọ́nd Hea</annotation>
+		<annotation cp="👱🏽">Blọnd | Hea | Mídíọ́m Skín Ton | Pẹ́sin Wé Gẹ́t Blọ́nd Hea | Pẹ́sin: Blọ́nd Hea</annotation>
 		<annotation cp="👱🏽" type="tts">Pẹ́sin Wé Gẹ́t Blọ́nd Hea: Mídíọ́m Skín Ton</annotation>
-		<annotation cp="👱🏾">Blọnd | Mídíọ́m Dák Skín Ton | Pẹ́sin Wé Gẹ́t Blọ́nd Hea | Pẹ́sin Wé Gẹ́t Blọ́nd Hea Hea | Pẹ́sin: Blọ́nd Hea</annotation>
+		<annotation cp="👱🏾">Blọnd | Hea | Mídíọ́m Dák Skín Ton | Pẹ́sin Wé Gẹ́t Blọ́nd Hea | Pẹ́sin: Blọ́nd Hea</annotation>
 		<annotation cp="👱🏾" type="tts">Pẹ́sin Wé Gẹ́t Blọ́nd Hea: Mídíọ́m Dák Skín Ton</annotation>
-		<annotation cp="👱🏿">Blọnd | Dák Skín Ton | Pẹ́sin Wé Gẹ́t Blọ́nd Hea | Pẹ́sin Wé Gẹ́t Blọ́nd Hea Hea | Pẹ́sin: Blọ́nd Hea</annotation>
+		<annotation cp="👱🏿">Blọnd | Dák Skín Ton | Hea | Pẹ́sin Wé Gẹ́t Blọ́nd Hea | Pẹ́sin: Blọ́nd Hea</annotation>
 		<annotation cp="👱🏿" type="tts">Pẹ́sin Wé Gẹ́t Blọ́nd Hea: Dák Skín Ton</annotation>
-		<annotation cp="🧑🏻‍❤‍💋‍🧑🏼">Kis | Laít Skín Ton | Mídíọ́m-Laít Skín Ton | Pẹ́sin | Tú Pípol</annotation>
+		<annotation cp="🧑🏻‍❤‍💋‍🧑🏼">Kis | Laít Skín Ton | Mídíọ́m-Laít Skín Ton | Pẹ́sin | Tuú Pípul</annotation>
 		<annotation cp="🧑🏻‍❤‍💋‍🧑🏼" type="tts">Kis: Pẹ́sin, Pẹ́sin, Laít Skín Ton, Mídíọ́m-Laít Skín Ton</annotation>
-		<annotation cp="🧑🏻‍❤‍💋‍🧑🏽">Kis | Laít Skín Ton | Mídíọ́m Skín Ton | Pẹ́sin | Tú Pípol</annotation>
+		<annotation cp="🧑🏻‍❤‍💋‍🧑🏽">Kis | Laít Skín Ton | Mídíọ́m Skín Ton | Pẹ́sin | Tuú Pípul</annotation>
 		<annotation cp="🧑🏻‍❤‍💋‍🧑🏽" type="tts">Kis: Pẹ́sin, Pẹ́sin, Laít Skín Ton, Mídíọ́m Skín Ton</annotation>
-		<annotation cp="🧑🏻‍❤‍💋‍🧑🏾">Kis | Laít Skín Ton | Mídíọ́m Dák Skín Ton | Pẹ́sin | Tú Pípol</annotation>
+		<annotation cp="🧑🏻‍❤‍💋‍🧑🏾">Kis | Laít Skín Ton | Mídíọ́m Dák Skín Ton | Pẹ́sin | Tuú Pípul</annotation>
 		<annotation cp="🧑🏻‍❤‍💋‍🧑🏾" type="tts">Kis: Pẹ́sin, Pẹ́sin, Laít Skín Ton, Mídíọ́m Dák Skín Ton</annotation>
-		<annotation cp="🧑🏻‍❤‍💋‍🧑🏿">Dák Skín Ton | Kis | Laít Skín Ton | Pẹ́sin | Tú Pípol</annotation>
+		<annotation cp="🧑🏻‍❤‍💋‍🧑🏿">Dák Skín Ton | Kis | Laít Skín Ton | Pẹ́sin | Tuú Pípul</annotation>
 		<annotation cp="🧑🏻‍❤‍💋‍🧑🏿" type="tts">Kis: Pẹ́sin, Pẹ́sin, Laít Skín Ton, Dák Skín Ton</annotation>
-		<annotation cp="🧑🏼‍❤‍💋‍🧑🏻">Kis | Laít Skín Ton | Mídíọ́m-Laít Skín Ton | Pẹ́sin | Tú Pípol</annotation>
+		<annotation cp="🧑🏼‍❤‍💋‍🧑🏻">Kis | Laít Skín Ton | Mídíọ́m-Laít Skín Ton | Pẹ́sin | Tuú Pípul</annotation>
 		<annotation cp="🧑🏼‍❤‍💋‍🧑🏻" type="tts">Kis: Pẹ́sin, Pẹ́sin, Mídíọ́m-Laít Skín Ton, Laít Skín Ton</annotation>
-		<annotation cp="🧑🏼‍❤‍💋‍🧑🏽">Kis | Mídíọ́m Skín Ton | Mídíọ́m-Laít Skín Ton | Pẹ́sin | Tú Pípol</annotation>
+		<annotation cp="🧑🏼‍❤‍💋‍🧑🏽">Kis | Mídíọ́m Skín Ton | Mídíọ́m-Laít Skín Ton | Pẹ́sin | Tuú Pípul</annotation>
 		<annotation cp="🧑🏼‍❤‍💋‍🧑🏽" type="tts">Kis: Pẹ́sin, Pẹ́sin, Mídíọ́m-Laít Skín Ton, Mídíọ́m Skín Ton</annotation>
-		<annotation cp="🧑🏼‍❤‍💋‍🧑🏾">Kis | Mídíọ́m Dák Skín Ton | Mídíọ́m-Laít Skín Ton | Pẹ́sin | Tú Pípol</annotation>
+		<annotation cp="🧑🏼‍❤‍💋‍🧑🏾">Kis | Mídíọ́m Dák Skín Ton | Mídíọ́m-Laít Skín Ton | Pẹ́sin | Tuú Pípul</annotation>
 		<annotation cp="🧑🏼‍❤‍💋‍🧑🏾" type="tts">Kis: Pẹ́sin, Pẹ́sin, Mídíọ́m-Laít Skín Ton, Mídíọ́m Dák Skín Ton</annotation>
-		<annotation cp="🧑🏼‍❤‍💋‍🧑🏿">Dák Skín Ton | Kis | Mídíọ́m-Laít Skín Ton | Pẹ́sin | Tú Pípol</annotation>
+		<annotation cp="🧑🏼‍❤‍💋‍🧑🏿">Dák Skín Ton | Kis | Mídíọ́m-Laít Skín Ton | Pẹ́sin | Tuú Pípul</annotation>
 		<annotation cp="🧑🏼‍❤‍💋‍🧑🏿" type="tts">Kis: Pẹ́sin, Pẹ́sin, Mídíọ́m-Laít Skín Ton, Dák Skín Ton</annotation>
-		<annotation cp="🧑🏽‍❤‍💋‍🧑🏻">Kis | Laít Skín Ton | Mídíọ́m Skín Ton | Pẹ́sin | Tú Pípol</annotation>
+		<annotation cp="🧑🏽‍❤‍💋‍🧑🏻">Kis | Laít Skín Ton | Mídíọ́m Skín Ton | Pẹ́sin | Tuú Pípul</annotation>
 		<annotation cp="🧑🏽‍❤‍💋‍🧑🏻" type="tts">Kis: Pẹ́sin, Pẹ́sin, Mídíọ́m Skín Ton, Laít Skín Ton</annotation>
-		<annotation cp="🧑🏽‍❤‍💋‍🧑🏼">Kis | Mídíọ́m Skín Ton | Mídíọ́m-Laít Skín Ton | Pẹ́sin | Tú Pípol</annotation>
+		<annotation cp="🧑🏽‍❤‍💋‍🧑🏼">Kis | Mídíọ́m Skín Ton | Mídíọ́m-Laít Skín Ton | Pẹ́sin | Tuú Pípul</annotation>
 		<annotation cp="🧑🏽‍❤‍💋‍🧑🏼" type="tts">Kis: Pẹ́sin, Pẹ́sin, Mídíọ́m Skín Ton, Mídíọ́m-Laít Skín Ton</annotation>
-		<annotation cp="🧑🏽‍❤‍💋‍🧑🏾">Kis | Mídíọ́m Dák Skín Ton | Mídíọ́m Skín Ton | Pẹ́sin | Tú Pípol</annotation>
+		<annotation cp="🧑🏽‍❤‍💋‍🧑🏾">Kis | Mídíọ́m Dák Skín Ton | Mídíọ́m Skín Ton | Pẹ́sin | Tuú Pípul</annotation>
 		<annotation cp="🧑🏽‍❤‍💋‍🧑🏾" type="tts">Kis: Pẹ́sin, Pẹ́sin, Mídíọ́m Skín Ton, Mídíọ́m Dák Skín Ton</annotation>
-		<annotation cp="🧑🏽‍❤‍💋‍🧑🏿">Dák Skín Ton | Kis | Mídíọ́m Skín Ton | Pẹ́sin | Tú Pípol</annotation>
+		<annotation cp="🧑🏽‍❤‍💋‍🧑🏿">Dák Skín Ton | Kis | Mídíọ́m Skín Ton | Pẹ́sin | Tuú Pípul</annotation>
 		<annotation cp="🧑🏽‍❤‍💋‍🧑🏿" type="tts">Kis: Pẹ́sin, Pẹ́sin, Mídíọ́m Skín Ton, Dák Skín Ton</annotation>
-		<annotation cp="🧑🏾‍❤‍💋‍🧑🏻">Kis | Laít Skín Ton | Mídíọ́m Dák Skín Ton | Pẹ́sin | Tú Pípol</annotation>
+		<annotation cp="🧑🏾‍❤‍💋‍🧑🏻">Kis | Laít Skín Ton | Mídíọ́m Dák Skín Ton | Pẹ́sin | Tuú Pípul</annotation>
 		<annotation cp="🧑🏾‍❤‍💋‍🧑🏻" type="tts">Kis: Pẹ́sin, Pẹ́sin, Mídíọ́m Dák Skín Ton, Laít Skín Ton</annotation>
-		<annotation cp="🧑🏾‍❤‍💋‍🧑🏼">Kis | Mídíọ́m Dák Skín Ton | Mídíọ́m-Laít Skín Ton | Pẹ́sin | Tú Pípol</annotation>
+		<annotation cp="🧑🏾‍❤‍💋‍🧑🏼">Kis | Mídíọ́m Dák Skín Ton | Mídíọ́m-Laít Skín Ton | Pẹ́sin | Tuú Pípul</annotation>
 		<annotation cp="🧑🏾‍❤‍💋‍🧑🏼" type="tts">Kis: Pẹ́sin, Pẹ́sin, Mídíọ́m Dák Skín Ton, Mídíọ́m-Laít Skín Ton</annotation>
-		<annotation cp="🧑🏾‍❤‍💋‍🧑🏽">Kis | Mídíọ́m Dák Skín Ton | Mídíọ́m Skín Ton | Pẹ́sin | Tú Pípol</annotation>
+		<annotation cp="🧑🏾‍❤‍💋‍🧑🏽">Kis | Mídíọ́m Dák Skín Ton | Mídíọ́m Skín Ton | Pẹ́sin | Tuú Pípul</annotation>
 		<annotation cp="🧑🏾‍❤‍💋‍🧑🏽" type="tts">Kis: Pẹ́sin, Pẹ́sin, Mídíọ́m Dák Skín Ton, Mídíọ́m Skín Ton</annotation>
-		<annotation cp="🧑🏾‍❤‍💋‍🧑🏿">Dák Skín Ton | Kis | Mídíọ́m Dák Skín Ton | Pẹ́sin | Tú Pípol</annotation>
+		<annotation cp="🧑🏾‍❤‍💋‍🧑🏿">Dák Skín Ton | Kis | Mídíọ́m Dák Skín Ton | Pẹ́sin | Tuú Pípul</annotation>
 		<annotation cp="🧑🏾‍❤‍💋‍🧑🏿" type="tts">Kis: Pẹ́sin, Pẹ́sin, Mídíọ́m Dák Skín Ton, Dák Skín Ton</annotation>
-		<annotation cp="🧑🏿‍❤‍💋‍🧑🏻">Dák Skín Ton | Kis | Laít Skín Ton | Pẹ́sin | Tú Pípol</annotation>
+		<annotation cp="🧑🏿‍❤‍💋‍🧑🏻">Dák Skín Ton | Kis | Laít Skín Ton | Pẹ́sin | Tuú Pípul</annotation>
 		<annotation cp="🧑🏿‍❤‍💋‍🧑🏻" type="tts">Kis: Pẹ́sin, Pẹ́sin, Dák Skín Ton, Laít Skín Ton</annotation>
-		<annotation cp="🧑🏿‍❤‍💋‍🧑🏼">Dák Skín Ton | Kis | Mídíọ́m-Laít Skín Ton | Pẹ́sin | Tú Pípol</annotation>
+		<annotation cp="🧑🏿‍❤‍💋‍🧑🏼">Dák Skín Ton | Kis | Mídíọ́m-Laít Skín Ton | Pẹ́sin | Tuú Pípul</annotation>
 		<annotation cp="🧑🏿‍❤‍💋‍🧑🏼" type="tts">Kis: Pẹ́sin, Pẹ́sin, Dák Skín Ton, Mídíọ́m-Laít Skín Ton</annotation>
-		<annotation cp="🧑🏿‍❤‍💋‍🧑🏽">Dák Skín Ton | Kis | Mídíọ́m Skín Ton | Pẹ́sin | Tú Pípol</annotation>
+		<annotation cp="🧑🏿‍❤‍💋‍🧑🏽">Dák Skín Ton | Kis | Mídíọ́m Skín Ton | Pẹ́sin | Tuú Pípul</annotation>
 		<annotation cp="🧑🏿‍❤‍💋‍🧑🏽" type="tts">Kis: Pẹ́sin, Pẹ́sin, Dák Skín Ton, Mídíọ́m Skín Ton</annotation>
-		<annotation cp="🧑🏿‍❤‍💋‍🧑🏾">Dák Skín Ton | Kis | Mídíọ́m Dák Skín Ton | Pẹ́sin | Tú Pípol</annotation>
+		<annotation cp="🧑🏿‍❤‍💋‍🧑🏾">Dák Skín Ton | Kis | Mídíọ́m Dák Skín Ton | Pẹ́sin | Tuú Pípul</annotation>
 		<annotation cp="🧑🏿‍❤‍💋‍🧑🏾" type="tts">Kis: Pẹ́sin, Pẹ́sin, Dák Skín Ton, Mídíọ́m Dák Skín Ton</annotation>
-		<annotation cp="🧑🏻‍❤‍🧑🏼">Laít Skín Ton | Lọv | Mídíọ́m-Laít Skín Ton | Pẹ́sin | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat</annotation>
-		<annotation cp="🧑🏻‍❤‍🧑🏼" type="tts">Tú Pípol Wit Hat: Pẹ́sin, Pẹ́sin, Laít Skín Ton, Mídíọ́m-Laít Skín Ton</annotation>
-		<annotation cp="🧑🏻‍❤‍🧑🏽">Laít Skín Ton | Lọv | Mídíọ́m Skín Ton | Pẹ́sin | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat</annotation>
-		<annotation cp="🧑🏻‍❤‍🧑🏽" type="tts">Tú Pípol Wit Hat: Pẹ́sin, Pẹ́sin, Laít Skín Ton, Mídíọ́m Skín Ton</annotation>
-		<annotation cp="🧑🏻‍❤‍🧑🏾">Laít Skín Ton | Lọv | Mídíọ́m Dák Skín Ton | Pẹ́sin | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat</annotation>
-		<annotation cp="🧑🏻‍❤‍🧑🏾" type="tts">Tú Pípol Wit Hat: Pẹ́sin, Pẹ́sin, Laít Skín Ton, Mídíọ́m Dák Skín Ton</annotation>
-		<annotation cp="🧑🏻‍❤‍🧑🏿">Dák Skín Ton | Laít Skín Ton | Lọv | Pẹ́sin | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat</annotation>
-		<annotation cp="🧑🏻‍❤‍🧑🏿" type="tts">Tú Pípol Wit Hat: Pẹ́sin, Pẹ́sin, Laít Skín Ton, Dák Skín Ton</annotation>
-		<annotation cp="🧑🏼‍❤‍🧑🏻">Laít Skín Ton | Lọv | Mídíọ́m-Laít Skín Ton | Pẹ́sin | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat</annotation>
-		<annotation cp="🧑🏼‍❤‍🧑🏻" type="tts">Tú Pípol Wit Hat: Pẹ́sin, Pẹ́sin, Mídíọ́m-Laít Skín Ton, Laít Skín Ton</annotation>
-		<annotation cp="🧑🏼‍❤‍🧑🏽">Lọv | Mídíọ́m Skín Ton | Mídíọ́m-Laít Skín Ton | Pẹ́sin | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat</annotation>
-		<annotation cp="🧑🏼‍❤‍🧑🏽" type="tts">Tú Pípol Wit Hat: Pẹ́sin, Pẹ́sin, Mídíọ́m-Laít Skín Ton, Mídíọ́m Skín Ton</annotation>
-		<annotation cp="🧑🏼‍❤‍🧑🏾">Lọv | Mídíọ́m Dák Skín Ton | Mídíọ́m-Laít Skín Ton | Pẹ́sin | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat</annotation>
-		<annotation cp="🧑🏼‍❤‍🧑🏾" type="tts">Tú Pípol Wit Hat: Pẹ́sin, Pẹ́sin, Mídíọ́m-Laít Skín Ton, Mídíọ́m Dák Skín Ton</annotation>
-		<annotation cp="🧑🏼‍❤‍🧑🏿">Dák Skín Ton | Lọv | Mídíọ́m-Laít Skín Ton | Pẹ́sin | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat</annotation>
-		<annotation cp="🧑🏼‍❤‍🧑🏿" type="tts">Tú Pípol Wit Hat: Pẹ́sin, Pẹ́sin, Mídíọ́m-Laít Skín Ton, Dák Skín Ton</annotation>
-		<annotation cp="🧑🏽‍❤‍🧑🏻">Laít Skín Ton | Lọv | Mídíọ́m Skín Ton | Pẹ́sin | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat</annotation>
-		<annotation cp="🧑🏽‍❤‍🧑🏻" type="tts">Tú Pípol Wit Hat: Pẹ́sin, Pẹ́sin, Mídíọ́m Skín Ton, Laít Skín Ton</annotation>
-		<annotation cp="🧑🏽‍❤‍🧑🏼">Lọv | Mídíọ́m Skín Ton | Mídíọ́m-Laít Skín Ton | Pẹ́sin | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat</annotation>
-		<annotation cp="🧑🏽‍❤‍🧑🏼" type="tts">Tú Pípol Wit Hat: Pẹ́sin, Pẹ́sin, Mídíọ́m Skín Ton, Mídíọ́m-Laít Skín Ton</annotation>
-		<annotation cp="🧑🏽‍❤‍🧑🏾">Lọv | Mídíọ́m Dák Skín Ton | Mídíọ́m Skín Ton | Pẹ́sin | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat</annotation>
-		<annotation cp="🧑🏽‍❤‍🧑🏾" type="tts">Tú Pípol Wit Hat: Pẹ́sin, Pẹ́sin, Mídíọ́m Skín Ton, Mídíọ́m Dák Skín Ton</annotation>
-		<annotation cp="🧑🏽‍❤‍🧑🏿">Dák Skín Ton | Lọv | Mídíọ́m Skín Ton | Pẹ́sin | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat</annotation>
-		<annotation cp="🧑🏽‍❤‍🧑🏿" type="tts">Tú Pípol Wit Hat: Pẹ́sin, Pẹ́sin, Mídíọ́m Skín Ton, Dák Skín Ton</annotation>
-		<annotation cp="🧑🏾‍❤‍🧑🏻">Laít Skín Ton | Lọv | Mídíọ́m Dák Skín Ton | Pẹ́sin | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat</annotation>
-		<annotation cp="🧑🏾‍❤‍🧑🏻" type="tts">Tú Pípol Wit Hat: Pẹ́sin, Pẹ́sin, Mídíọ́m Dák Skín Ton, Laít Skín Ton</annotation>
-		<annotation cp="🧑🏾‍❤‍🧑🏼">Lọv | Mídíọ́m Dák Skín Ton | Mídíọ́m-Laít Skín Ton | Pẹ́sin | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat</annotation>
-		<annotation cp="🧑🏾‍❤‍🧑🏼" type="tts">Tú Pípol Wit Hat: Pẹ́sin, Pẹ́sin, Mídíọ́m Dák Skín Ton, Mídíọ́m-Laít Skín Ton</annotation>
-		<annotation cp="🧑🏾‍❤‍🧑🏽">Lọv | Mídíọ́m Dák Skín Ton | Mídíọ́m Skín Ton | Pẹ́sin | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat</annotation>
-		<annotation cp="🧑🏾‍❤‍🧑🏽" type="tts">Tú Pípol Wit Hat: Pẹ́sin, Pẹ́sin, Mídíọ́m Dák Skín Ton, Mídíọ́m Skín Ton</annotation>
-		<annotation cp="🧑🏾‍❤‍🧑🏿">Dák Skín Ton | Lọv | Mídíọ́m Dák Skín Ton | Pẹ́sin | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat</annotation>
-		<annotation cp="🧑🏾‍❤‍🧑🏿" type="tts">Tú Pípol Wit Hat: Pẹ́sin, Pẹ́sin, Mídíọ́m Dák Skín Ton, Dák Skín Ton</annotation>
-		<annotation cp="🧑🏿‍❤‍🧑🏻">Dák Skín Ton | Laít Skín Ton | Lọv | Pẹ́sin | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat</annotation>
-		<annotation cp="🧑🏿‍❤‍🧑🏻" type="tts">Tú Pípol Wit Hat: Pẹ́sin, Pẹ́sin, Dák Skín Ton, Laít Skín Ton</annotation>
-		<annotation cp="🧑🏿‍❤‍🧑🏼">Dák Skín Ton | Lọv | Mídíọ́m-Laít Skín Ton | Pẹ́sin | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat</annotation>
-		<annotation cp="🧑🏿‍❤‍🧑🏼" type="tts">Tú Pípol Wit Hat: Pẹ́sin, Pẹ́sin, Dák Skín Ton, Mídíọ́m-Laít Skín Ton</annotation>
-		<annotation cp="🧑🏿‍❤‍🧑🏽">Dák Skín Ton | Lọv | Mídíọ́m Skín Ton | Pẹ́sin | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat</annotation>
-		<annotation cp="🧑🏿‍❤‍🧑🏽" type="tts">Tú Pípol Wit Hat: Pẹ́sin, Pẹ́sin, Dák Skín Ton, Mídíọ́m Skín Ton</annotation>
-		<annotation cp="🧑🏿‍❤‍🧑🏾">Dák Skín Ton | Lọv | Mídíọ́m Dák Skín Ton | Pẹ́sin | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat</annotation>
-		<annotation cp="🧑🏿‍❤‍🧑🏾" type="tts">Tú Pípol Wit Hat: Pẹ́sin, Pẹ́sin, Dák Skín Ton, Mídíọ́m Dák Skín Ton</annotation>
+		<annotation cp="🧑🏻‍❤‍🧑🏼">Laít Skín Ton | Lọv | Mídíọ́m-Laít Skín Ton | Pẹ́sin | Tuú Pípul | Tuú Pípul Wit Hat</annotation>
+		<annotation cp="🧑🏻‍❤‍🧑🏼" type="tts">Tuú Pípul Wit Hat: Pẹ́sin, Pẹ́sin, Laít Skín Ton, Mídíọ́m-Laít Skín Ton</annotation>
+		<annotation cp="🧑🏻‍❤‍🧑🏽">Laít Skín Ton | Lọv | Mídíọ́m Skín Ton | Pẹ́sin | Tuú Pípul | Tuú Pípul Wit Hat</annotation>
+		<annotation cp="🧑🏻‍❤‍🧑🏽" type="tts">Tuú Pípul Wit Hat: Pẹ́sin, Pẹ́sin, Laít Skín Ton, Mídíọ́m Skín Ton</annotation>
+		<annotation cp="🧑🏻‍❤‍🧑🏾">Laít Skín Ton | Lọv | Mídíọ́m Dák Skín Ton | Pẹ́sin | Tuú Pípul | Tuú Pípul Wit Hat</annotation>
+		<annotation cp="🧑🏻‍❤‍🧑🏾" type="tts">Tuú Pípul Wit Hat: Pẹ́sin, Pẹ́sin, Laít Skín Ton, Mídíọ́m Dák Skín Ton</annotation>
+		<annotation cp="🧑🏻‍❤‍🧑🏿">Dák Skín Ton | Laít Skín Ton | Lọv | Pẹ́sin | Tuú Pípul | Tuú Pípul Wit Hat</annotation>
+		<annotation cp="🧑🏻‍❤‍🧑🏿" type="tts">Tuú Pípul Wit Hat: Pẹ́sin, Pẹ́sin, Laít Skín Ton, Dák Skín Ton</annotation>
+		<annotation cp="🧑🏼‍❤‍🧑🏻">Laít Skín Ton | Lọv | Mídíọ́m-Laít Skín Ton | Pẹ́sin | Tuú Pípul | Tuú Pípul Wit Hat</annotation>
+		<annotation cp="🧑🏼‍❤‍🧑🏻" type="tts">Tuú Pípul Wit Hat: Pẹ́sin, Pẹ́sin, Mídíọ́m-Laít Skín Ton, Laít Skín Ton</annotation>
+		<annotation cp="🧑🏼‍❤‍🧑🏽">Lọv | Mídíọ́m Skín Ton | Mídíọ́m-Laít Skín Ton | Pẹ́sin | Tuú Pípul | Tuú Pípul Wit Hat</annotation>
+		<annotation cp="🧑🏼‍❤‍🧑🏽" type="tts">Tuú Pípul Wit Hat: Pẹ́sin, Pẹ́sin, Mídíọ́m-Laít Skín Ton, Mídíọ́m Skín Ton</annotation>
+		<annotation cp="🧑🏼‍❤‍🧑🏾">Lọv | Mídíọ́m Dák Skín Ton | Mídíọ́m-Laít Skín Ton | Pẹ́sin | Tuú Pípul | Tuú Pípul Wit Hat</annotation>
+		<annotation cp="🧑🏼‍❤‍🧑🏾" type="tts">Tuú Pípul Wit Hat: Pẹ́sin, Pẹ́sin, Mídíọ́m-Laít Skín Ton, Mídíọ́m Dák Skín Ton</annotation>
+		<annotation cp="🧑🏼‍❤‍🧑🏿">Dák Skín Ton | Lọv | Mídíọ́m-Laít Skín Ton | Pẹ́sin | Tuú Pípul | Tuú Pípul Wit Hat</annotation>
+		<annotation cp="🧑🏼‍❤‍🧑🏿" type="tts">Tuú Pípul Wit Hat: Pẹ́sin, Pẹ́sin, Mídíọ́m-Laít Skín Ton, Dák Skín Ton</annotation>
+		<annotation cp="🧑🏽‍❤‍🧑🏻">Laít Skín Ton | Lọv | Mídíọ́m Skín Ton | Pẹ́sin | Tuú Pípul | Tuú Pípul Wit Hat</annotation>
+		<annotation cp="🧑🏽‍❤‍🧑🏻" type="tts">Tuú Pípul Wit Hat: Pẹ́sin, Pẹ́sin, Mídíọ́m Skín Ton, Laít Skín Ton</annotation>
+		<annotation cp="🧑🏽‍❤‍🧑🏼">Lọv | Mídíọ́m Skín Ton | Mídíọ́m-Laít Skín Ton | Pẹ́sin | Tuú Pípul | Tuú Pípul Wit Hat</annotation>
+		<annotation cp="🧑🏽‍❤‍🧑🏼" type="tts">Tuú Pípul Wit Hat: Pẹ́sin, Pẹ́sin, Mídíọ́m Skín Ton, Mídíọ́m-Laít Skín Ton</annotation>
+		<annotation cp="🧑🏽‍❤‍🧑🏾">Lọv | Mídíọ́m Dák Skín Ton | Mídíọ́m Skín Ton | Pẹ́sin | Tuú Pípul | Tuú Pípul Wit Hat</annotation>
+		<annotation cp="🧑🏽‍❤‍🧑🏾" type="tts">Tuú Pípul Wit Hat: Pẹ́sin, Pẹ́sin, Mídíọ́m Skín Ton, Mídíọ́m Dák Skín Ton</annotation>
+		<annotation cp="🧑🏽‍❤‍🧑🏿">Dák Skín Ton | Lọv | Mídíọ́m Skín Ton | Pẹ́sin | Tuú Pípul | Tuú Pípul Wit Hat</annotation>
+		<annotation cp="🧑🏽‍❤‍🧑🏿" type="tts">Tuú Pípul Wit Hat: Pẹ́sin, Pẹ́sin, Mídíọ́m Skín Ton, Dák Skín Ton</annotation>
+		<annotation cp="🧑🏾‍❤‍🧑🏻">Laít Skín Ton | Lọv | Mídíọ́m Dák Skín Ton | Pẹ́sin | Tuú Pípul | Tuú Pípul Wit Hat</annotation>
+		<annotation cp="🧑🏾‍❤‍🧑🏻" type="tts">Tuú Pípul Wit Hat: Pẹ́sin, Pẹ́sin, Mídíọ́m Dák Skín Ton, Laít Skín Ton</annotation>
+		<annotation cp="🧑🏾‍❤‍🧑🏼">Lọv | Mídíọ́m Dák Skín Ton | Mídíọ́m-Laít Skín Ton | Pẹ́sin | Tuú Pípul | Tuú Pípul Wit Hat</annotation>
+		<annotation cp="🧑🏾‍❤‍🧑🏼" type="tts">Tuú Pípul Wit Hat: Pẹ́sin, Pẹ́sin, Mídíọ́m Dák Skín Ton, Mídíọ́m-Laít Skín Ton</annotation>
+		<annotation cp="🧑🏾‍❤‍🧑🏽">Lọv | Mídíọ́m Dák Skín Ton | Mídíọ́m Skín Ton | Pẹ́sin | Tuú Pípul | Tuú Pípul Wit Hat</annotation>
+		<annotation cp="🧑🏾‍❤‍🧑🏽" type="tts">Tuú Pípul Wit Hat: Pẹ́sin, Pẹ́sin, Mídíọ́m Dák Skín Ton, Mídíọ́m Skín Ton</annotation>
+		<annotation cp="🧑🏾‍❤‍🧑🏿">Dák Skín Ton | Lọv | Mídíọ́m Dák Skín Ton | Pẹ́sin | Tuú Pípul | Tuú Pípul Wit Hat</annotation>
+		<annotation cp="🧑🏾‍❤‍🧑🏿" type="tts">Tuú Pípul Wit Hat: Pẹ́sin, Pẹ́sin, Mídíọ́m Dák Skín Ton, Dák Skín Ton</annotation>
+		<annotation cp="🧑🏿‍❤‍🧑🏻">Dák Skín Ton | Laít Skín Ton | Lọv | Pẹ́sin | Tuú Pípul | Tuú Pípul Wit Hat</annotation>
+		<annotation cp="🧑🏿‍❤‍🧑🏻" type="tts">Tuú Pípul Wit Hat: Pẹ́sin, Pẹ́sin, Dák Skín Ton, Laít Skín Ton</annotation>
+		<annotation cp="🧑🏿‍❤‍🧑🏼">Dák Skín Ton | Lọv | Mídíọ́m-Laít Skín Ton | Pẹ́sin | Tuú Pípul | Tuú Pípul Wit Hat</annotation>
+		<annotation cp="🧑🏿‍❤‍🧑🏼" type="tts">Tuú Pípul Wit Hat: Pẹ́sin, Pẹ́sin, Dák Skín Ton, Mídíọ́m-Laít Skín Ton</annotation>
+		<annotation cp="🧑🏿‍❤‍🧑🏽">Dák Skín Ton | Lọv | Mídíọ́m Skín Ton | Pẹ́sin | Tuú Pípul | Tuú Pípul Wit Hat</annotation>
+		<annotation cp="🧑🏿‍❤‍🧑🏽" type="tts">Tuú Pípul Wit Hat: Pẹ́sin, Pẹ́sin, Dák Skín Ton, Mídíọ́m Skín Ton</annotation>
+		<annotation cp="🧑🏿‍❤‍🧑🏾">Dák Skín Ton | Lọv | Mídíọ́m Dák Skín Ton | Pẹ́sin | Tuú Pípul | Tuú Pípul Wit Hat</annotation>
+		<annotation cp="🧑🏿‍❤‍🧑🏾" type="tts">Tuú Pípul Wit Hat: Pẹ́sin, Pẹ́sin, Dák Skín Ton, Mídíọ́m Dák Skín Ton</annotation>
 		<annotation cp="🧑‍🦰">Machọ́ Pẹ́sin | Pẹ́sin | Pẹ́sin Wé Dẹm Nó Tọk Wẹ́dá Na Man Ọ Wúman | Pẹ́sin Wé Nọ́ Bi Man Ọ Wúman | Rẹ́d Hea</annotation>
 		<annotation cp="🧑‍🦰" type="tts">Pẹ́sin: Rẹ́d Hea</annotation>
 		<annotation cp="🧑🏻‍🦰">Laít Skín Ton | Machọ́ Pẹ́sin | Pẹ́sin | Pẹ́sin Wé Dẹm Nó Tọk Wẹ́dá Na Man Ọ Wúman | Pẹ́sin Wé Nọ́ Bi Man Ọ Wúman | Rẹ́d Hea</annotation>
@@ -630,106 +771,106 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👱🏾‍♂" type="tts">Man Wé Gẹ́t Blọ́nd Hea: Mídíọ́m Dák Skín Ton</annotation>
 		<annotation cp="👱🏿‍♂">Blọnd | Dák Skín Ton | Hea | Man | Man Wé Gẹ́t Blọ́nd Hea | Man: Blọ́nd Hea</annotation>
 		<annotation cp="👱🏿‍♂" type="tts">Man Wé Gẹ́t Blọ́nd Hea: Dák Skín Ton</annotation>
-		<annotation cp="👨🏻‍❤‍💋‍👨🏻">Kis | Laít Skín Ton | Man | Tú Pípol</annotation>
+		<annotation cp="👨🏻‍❤‍💋‍👨🏻">Kis | Laít Skín Ton | Man | Tuú Pípul</annotation>
 		<annotation cp="👨🏻‍❤‍💋‍👨🏻" type="tts">Kis: Man, Man, Laít Skín Ton</annotation>
-		<annotation cp="👨🏻‍❤‍💋‍👨🏼">Kis | Laít Skín Ton | Man | Mídíọ́m-Laít Skín Ton | Tú Pípol</annotation>
+		<annotation cp="👨🏻‍❤‍💋‍👨🏼">Kis | Laít Skín Ton | Man | Mídíọ́m-Laít Skín Ton | Tuú Pípul</annotation>
 		<annotation cp="👨🏻‍❤‍💋‍👨🏼" type="tts">Kis: Man, Man, Laít Skín Ton, Mídíọ́m-Laít Skín Ton</annotation>
-		<annotation cp="👨🏻‍❤‍💋‍👨🏽">Kis | Laít Skín Ton | Man | Mídíọ́m Skín Ton | Tú Pípol</annotation>
+		<annotation cp="👨🏻‍❤‍💋‍👨🏽">Kis | Laít Skín Ton | Man | Mídíọ́m Skín Ton | Tuú Pípul</annotation>
 		<annotation cp="👨🏻‍❤‍💋‍👨🏽" type="tts">Kis: Man, Man, Laít Skín Ton, Mídíọ́m Skín Ton</annotation>
-		<annotation cp="👨🏻‍❤‍💋‍👨🏾">Kis | Laít Skín Ton | Man | Mídíọ́m Dák Skín Ton | Tú Pípol</annotation>
+		<annotation cp="👨🏻‍❤‍💋‍👨🏾">Kis | Laít Skín Ton | Man | Mídíọ́m Dák Skín Ton | Tuú Pípul</annotation>
 		<annotation cp="👨🏻‍❤‍💋‍👨🏾" type="tts">Kis: Man, Man, Laít Skín Ton, Mídíọ́m Dák Skín Ton</annotation>
-		<annotation cp="👨🏻‍❤‍💋‍👨🏿">Dák Skín Ton | Kis | Laít Skín Ton | Man | Tú Pípol</annotation>
+		<annotation cp="👨🏻‍❤‍💋‍👨🏿">Dák Skín Ton | Kis | Laít Skín Ton | Man | Tuú Pípul</annotation>
 		<annotation cp="👨🏻‍❤‍💋‍👨🏿" type="tts">Kis: Man, Man, Laít Skín Ton, Dák Skín Ton</annotation>
-		<annotation cp="👨🏼‍❤‍💋‍👨🏻">Kis | Laít Skín Ton | Man | Mídíọ́m-Laít Skín Ton | Tú Pípol</annotation>
+		<annotation cp="👨🏼‍❤‍💋‍👨🏻">Kis | Laít Skín Ton | Man | Mídíọ́m-Laít Skín Ton | Tuú Pípul</annotation>
 		<annotation cp="👨🏼‍❤‍💋‍👨🏻" type="tts">Kis: Man, Man, Mídíọ́m-Laít Skín Ton, Laít Skín Ton</annotation>
-		<annotation cp="👨🏼‍❤‍💋‍👨🏼">Kis | Man | Mídíọ́m-Laít Skín Ton | Tú Pípol</annotation>
+		<annotation cp="👨🏼‍❤‍💋‍👨🏼">Kis | Man | Mídíọ́m-Laít Skín Ton | Tuú Pípul</annotation>
 		<annotation cp="👨🏼‍❤‍💋‍👨🏼" type="tts">Kis: Man, Man, Mídíọ́m-Laít Skín Ton</annotation>
-		<annotation cp="👨🏼‍❤‍💋‍👨🏽">Kis | Man | Mídíọ́m Skín Ton | Mídíọ́m-Laít Skín Ton | Tú Pípol</annotation>
+		<annotation cp="👨🏼‍❤‍💋‍👨🏽">Kis | Man | Mídíọ́m Skín Ton | Mídíọ́m-Laít Skín Ton | Tuú Pípul</annotation>
 		<annotation cp="👨🏼‍❤‍💋‍👨🏽" type="tts">Kis: Man, Man, Mídíọ́m-Laít Skín Ton, Mídíọ́m Skín Ton</annotation>
-		<annotation cp="👨🏼‍❤‍💋‍👨🏾">Kis | Man | Mídíọ́m Dák Skín Ton | Mídíọ́m-Laít Skín Ton | Tú Pípol</annotation>
+		<annotation cp="👨🏼‍❤‍💋‍👨🏾">Kis | Man | Mídíọ́m Dák Skín Ton | Mídíọ́m-Laít Skín Ton | Tuú Pípul</annotation>
 		<annotation cp="👨🏼‍❤‍💋‍👨🏾" type="tts">Kis: Man, Man, Mídíọ́m-Laít Skín Ton, Mídíọ́m Dák Skín Ton</annotation>
-		<annotation cp="👨🏼‍❤‍💋‍👨🏿">Dák Skín Ton | Kis | Man | Mídíọ́m-Laít Skín Ton | Tú Pípol</annotation>
+		<annotation cp="👨🏼‍❤‍💋‍👨🏿">Dák Skín Ton | Kis | Man | Mídíọ́m-Laít Skín Ton | Tuú Pípul</annotation>
 		<annotation cp="👨🏼‍❤‍💋‍👨🏿" type="tts">Kis: Man, Man, Mídíọ́m-Laít Skín Ton, Dák Skín Ton</annotation>
-		<annotation cp="👨🏽‍❤‍💋‍👨🏻">Kis | Laít Skín Ton | Man | Mídíọ́m Skín Ton | Tú Pípol</annotation>
+		<annotation cp="👨🏽‍❤‍💋‍👨🏻">Kis | Laít Skín Ton | Man | Mídíọ́m Skín Ton | Tuú Pípul</annotation>
 		<annotation cp="👨🏽‍❤‍💋‍👨🏻" type="tts">Kis: Man, Man, Mídíọ́m Skín Ton, Laít Skín Ton</annotation>
-		<annotation cp="👨🏽‍❤‍💋‍👨🏼">Kis | Man | Mídíọ́m Skín Ton | Mídíọ́m-Laít Skín Ton | Tú Pípol</annotation>
+		<annotation cp="👨🏽‍❤‍💋‍👨🏼">Kis | Man | Mídíọ́m Skín Ton | Mídíọ́m-Laít Skín Ton | Tuú Pípul</annotation>
 		<annotation cp="👨🏽‍❤‍💋‍👨🏼" type="tts">Kis: Man, Man, Mídíọ́m Skín Ton, Mídíọ́m-Laít Skín Ton</annotation>
-		<annotation cp="👨🏽‍❤‍💋‍👨🏽">Kis | Man | Mídíọ́m Skín Ton | Tú Pípol</annotation>
+		<annotation cp="👨🏽‍❤‍💋‍👨🏽">Kis | Man | Mídíọ́m Skín Ton | Tuú Pípul</annotation>
 		<annotation cp="👨🏽‍❤‍💋‍👨🏽" type="tts">Kis: Man, Man, Mídíọ́m Skín Ton</annotation>
-		<annotation cp="👨🏽‍❤‍💋‍👨🏾">Kis | Man | Mídíọ́m Dák Skín Ton | Mídíọ́m Skín Ton | Tú Pípol</annotation>
+		<annotation cp="👨🏽‍❤‍💋‍👨🏾">Kis | Man | Mídíọ́m Dák Skín Ton | Mídíọ́m Skín Ton | Tuú Pípul</annotation>
 		<annotation cp="👨🏽‍❤‍💋‍👨🏾" type="tts">Kis: Man, Man, Mídíọ́m Skín Ton, Mídíọ́m Dák Skín Ton</annotation>
-		<annotation cp="👨🏽‍❤‍💋‍👨🏿">Dák Skín Ton | Kis | Man | Mídíọ́m Skín Ton | Tú Pípol</annotation>
+		<annotation cp="👨🏽‍❤‍💋‍👨🏿">Dák Skín Ton | Kis | Man | Mídíọ́m Skín Ton | Tuú Pípul</annotation>
 		<annotation cp="👨🏽‍❤‍💋‍👨🏿" type="tts">Kis: Man, Man, Mídíọ́m Skín Ton, Dák Skín Ton</annotation>
-		<annotation cp="👨🏾‍❤‍💋‍👨🏻">Kis | Laít Skín Ton | Man | Mídíọ́m Dák Skín Ton | Tú Pípol</annotation>
+		<annotation cp="👨🏾‍❤‍💋‍👨🏻">Kis | Laít Skín Ton | Man | Mídíọ́m Dák Skín Ton | Tuú Pípul</annotation>
 		<annotation cp="👨🏾‍❤‍💋‍👨🏻" type="tts">Kis: Man, Man, Mídíọ́m Dák Skín Ton, Laít Skín Ton</annotation>
-		<annotation cp="👨🏾‍❤‍💋‍👨🏼">Kis | Man | Mídíọ́m Dák Skín Ton | Mídíọ́m-Laít Skín Ton | Tú Pípol</annotation>
+		<annotation cp="👨🏾‍❤‍💋‍👨🏼">Kis | Man | Mídíọ́m Dák Skín Ton | Mídíọ́m-Laít Skín Ton | Tuú Pípul</annotation>
 		<annotation cp="👨🏾‍❤‍💋‍👨🏼" type="tts">Kis: Man, Man, Mídíọ́m Dák Skín Ton, Mídíọ́m-Laít Skín Ton</annotation>
-		<annotation cp="👨🏾‍❤‍💋‍👨🏽">Kis | Man | Mídíọ́m Dák Skín Ton | Mídíọ́m Skín Ton | Tú Pípol</annotation>
+		<annotation cp="👨🏾‍❤‍💋‍👨🏽">Kis | Man | Mídíọ́m Dák Skín Ton | Mídíọ́m Skín Ton | Tuú Pípul</annotation>
 		<annotation cp="👨🏾‍❤‍💋‍👨🏽" type="tts">Kis: Man, Man, Mídíọ́m Dák Skín Ton, Mídíọ́m Skín Ton</annotation>
-		<annotation cp="👨🏾‍❤‍💋‍👨🏾">Kis | Man | Mídíọ́m Dák Skín Ton | Tú Pípol</annotation>
+		<annotation cp="👨🏾‍❤‍💋‍👨🏾">Kis | Man | Mídíọ́m Dák Skín Ton | Tuú Pípul</annotation>
 		<annotation cp="👨🏾‍❤‍💋‍👨🏾" type="tts">Kis: Man, Man, Mídíọ́m Dák Skín Ton</annotation>
-		<annotation cp="👨🏾‍❤‍💋‍👨🏿">Dák Skín Ton | Kis | Man | Mídíọ́m Dák Skín Ton | Tú Pípol</annotation>
+		<annotation cp="👨🏾‍❤‍💋‍👨🏿">Dák Skín Ton | Kis | Man | Mídíọ́m Dák Skín Ton | Tuú Pípul</annotation>
 		<annotation cp="👨🏾‍❤‍💋‍👨🏿" type="tts">Kis: Man, Man, Mídíọ́m Dák Skín Ton, Dák Skín Ton</annotation>
-		<annotation cp="👨🏿‍❤‍💋‍👨🏻">Dák Skín Ton | Kis | Laít Skín Ton | Man | Tú Pípol</annotation>
+		<annotation cp="👨🏿‍❤‍💋‍👨🏻">Dák Skín Ton | Kis | Laít Skín Ton | Man | Tuú Pípul</annotation>
 		<annotation cp="👨🏿‍❤‍💋‍👨🏻" type="tts">Kis: Man, Man, Dák Skín Ton, Laít Skín Ton</annotation>
-		<annotation cp="👨🏿‍❤‍💋‍👨🏼">Dák Skín Ton | Kis | Man | Mídíọ́m-Laít Skín Ton | Tú Pípol</annotation>
+		<annotation cp="👨🏿‍❤‍💋‍👨🏼">Dák Skín Ton | Kis | Man | Mídíọ́m-Laít Skín Ton | Tuú Pípul</annotation>
 		<annotation cp="👨🏿‍❤‍💋‍👨🏼" type="tts">Kis: Man, Man, Dák Skín Ton, Mídíọ́m-Laít Skín Ton</annotation>
-		<annotation cp="👨🏿‍❤‍💋‍👨🏽">Dák Skín Ton | Kis | Man | Mídíọ́m Skín Ton | Tú Pípol</annotation>
+		<annotation cp="👨🏿‍❤‍💋‍👨🏽">Dák Skín Ton | Kis | Man | Mídíọ́m Skín Ton | Tuú Pípul</annotation>
 		<annotation cp="👨🏿‍❤‍💋‍👨🏽" type="tts">Kis: Man, Man, Dák Skín Ton, Mídíọ́m Skín Ton</annotation>
-		<annotation cp="👨🏿‍❤‍💋‍👨🏾">Dák Skín Ton | Kis | Man | Mídíọ́m Dák Skín Ton | Tú Pípol</annotation>
+		<annotation cp="👨🏿‍❤‍💋‍👨🏾">Dák Skín Ton | Kis | Man | Mídíọ́m Dák Skín Ton | Tuú Pípul</annotation>
 		<annotation cp="👨🏿‍❤‍💋‍👨🏾" type="tts">Kis: Man, Man, Dák Skín Ton, Mídíọ́m Dák Skín Ton</annotation>
-		<annotation cp="👨🏿‍❤‍💋‍👨🏿">Dák Skín Ton | Kis | Man | Tú Pípol</annotation>
+		<annotation cp="👨🏿‍❤‍💋‍👨🏿">Dák Skín Ton | Kis | Man | Tuú Pípul</annotation>
 		<annotation cp="👨🏿‍❤‍💋‍👨🏿" type="tts">Kis: Man, Man, Dák Skín Ton</annotation>
-		<annotation cp="👨🏻‍❤‍👨🏻">Laít Skín Ton | Lọv | Man | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat</annotation>
-		<annotation cp="👨🏻‍❤‍👨🏻" type="tts">Tú Pípol Wit Hat: Man, Man, Laít Skín Ton</annotation>
-		<annotation cp="👨🏻‍❤‍👨🏼">Laít Skín Ton | Lọv | Man | Mídíọ́m-Laít Skín Ton | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat</annotation>
-		<annotation cp="👨🏻‍❤‍👨🏼" type="tts">Tú Pípol Wit Hat: Man, Man, Laít Skín Ton, Mídíọ́m-Laít Skín Ton</annotation>
-		<annotation cp="👨🏻‍❤‍👨🏽">Laít Skín Ton | Lọv | Man | Mídíọ́m Skín Ton | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat</annotation>
-		<annotation cp="👨🏻‍❤‍👨🏽" type="tts">Tú Pípol Wit Hat: Man, Man, Laít Skín Ton, Mídíọ́m Skín Ton</annotation>
-		<annotation cp="👨🏻‍❤‍👨🏾">Laít Skín Ton | Lọv | Man | Mídíọ́m Dák Skín Ton | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat</annotation>
-		<annotation cp="👨🏻‍❤‍👨🏾" type="tts">Tú Pípol Wit Hat: Man, Man, Laít Skín Ton, Mídíọ́m Dák Skín Ton</annotation>
-		<annotation cp="👨🏻‍❤‍👨🏿">Dák Skín Ton | Laít Skín Ton | Lọv | Man | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat</annotation>
-		<annotation cp="👨🏻‍❤‍👨🏿" type="tts">Tú Pípol Wit Hat: Man, Man, Laít Skín Ton, Dák Skín Ton</annotation>
-		<annotation cp="👨🏼‍❤‍👨🏻">Laít Skín Ton | Lọv | Man | Mídíọ́m-Laít Skín Ton | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat</annotation>
-		<annotation cp="👨🏼‍❤‍👨🏻" type="tts">Tú Pípol Wit Hat: Man, Man, Mídíọ́m-Laít Skín Ton, Laít Skín Ton</annotation>
-		<annotation cp="👨🏼‍❤‍👨🏼">Lọv | Man | Mídíọ́m-Laít Skín Ton | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat</annotation>
-		<annotation cp="👨🏼‍❤‍👨🏼" type="tts">Tú Pípol Wit Hat: Man, Man, Mídíọ́m-Laít Skín Ton</annotation>
-		<annotation cp="👨🏼‍❤‍👨🏽">Lọv | Man | Mídíọ́m Skín Ton | Mídíọ́m-Laít Skín Ton | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat</annotation>
-		<annotation cp="👨🏼‍❤‍👨🏽" type="tts">Tú Pípol Wit Hat: Man, Man, Mídíọ́m-Laít Skín Ton, Mídíọ́m Skín Ton</annotation>
-		<annotation cp="👨🏼‍❤‍👨🏾">Lọv | Man | Mídíọ́m Dák Skín Ton | Mídíọ́m-Laít Skín Ton | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat</annotation>
-		<annotation cp="👨🏼‍❤‍👨🏾" type="tts">Tú Pípol Wit Hat: Man, Man, Mídíọ́m-Laít Skín Ton, Mídíọ́m Dák Skín Ton</annotation>
-		<annotation cp="👨🏼‍❤‍👨🏿">Dák Skín Ton | Lọv | Man | Mídíọ́m-Laít Skín Ton | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat</annotation>
-		<annotation cp="👨🏼‍❤‍👨🏿" type="tts">Tú Pípol Wit Hat: Man, Man, Mídíọ́m-Laít Skín Ton, Dák Skín Ton</annotation>
-		<annotation cp="👨🏽‍❤‍👨🏻">Laít Skín Ton | Lọv | Man | Mídíọ́m Skín Ton | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat</annotation>
-		<annotation cp="👨🏽‍❤‍👨🏻" type="tts">Tú Pípol Wit Hat: Man, Man, Mídíọ́m Skín Ton, Laít Skín Ton</annotation>
-		<annotation cp="👨🏽‍❤‍👨🏼">Lọv | Man | Mídíọ́m Skín Ton | Mídíọ́m-Laít Skín Ton | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat</annotation>
-		<annotation cp="👨🏽‍❤‍👨🏼" type="tts">Tú Pípol Wit Hat: Man, Man, Mídíọ́m Skín Ton, Mídíọ́m-Laít Skín Ton</annotation>
-		<annotation cp="👨🏽‍❤‍👨🏽">Lọv | Man | Mídíọ́m Skín Ton | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat</annotation>
-		<annotation cp="👨🏽‍❤‍👨🏽" type="tts">Tú Pípol Wit Hat: Man, Man, Mídíọ́m Skín Ton</annotation>
-		<annotation cp="👨🏽‍❤‍👨🏾">Lọv | Man | Mídíọ́m Dák Skín Ton | Mídíọ́m Skín Ton | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat</annotation>
-		<annotation cp="👨🏽‍❤‍👨🏾" type="tts">Tú Pípol Wit Hat: Man, Man, Mídíọ́m Skín Ton, Mídíọ́m Dák Skín Ton</annotation>
-		<annotation cp="👨🏽‍❤‍👨🏿">Dák Skín Ton | Lọv | Man | Mídíọ́m Skín Ton | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat</annotation>
-		<annotation cp="👨🏽‍❤‍👨🏿" type="tts">Tú Pípol Wit Hat: Man, Man, Mídíọ́m Skín Ton, Dák Skín Ton</annotation>
-		<annotation cp="👨🏾‍❤‍👨🏻">Laít Skín Ton | Lọv | Man | Mídíọ́m Dák Skín Ton | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat</annotation>
-		<annotation cp="👨🏾‍❤‍👨🏻" type="tts">Tú Pípol Wit Hat: Man, Man, Mídíọ́m Dák Skín Ton, Laít Skín Ton</annotation>
-		<annotation cp="👨🏾‍❤‍👨🏼">Lọv | Man | Mídíọ́m Dák Skín Ton | Mídíọ́m-Laít Skín Ton | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat</annotation>
-		<annotation cp="👨🏾‍❤‍👨🏼" type="tts">Tú Pípol Wit Hat: Man, Man, Mídíọ́m Dák Skín Ton, Mídíọ́m-Laít Skín Ton</annotation>
-		<annotation cp="👨🏾‍❤‍👨🏽">Lọv | Man | Mídíọ́m Dák Skín Ton | Mídíọ́m Skín Ton | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat</annotation>
-		<annotation cp="👨🏾‍❤‍👨🏽" type="tts">Tú Pípol Wit Hat: Man, Man, Mídíọ́m Dák Skín Ton, Mídíọ́m Skín Ton</annotation>
-		<annotation cp="👨🏾‍❤‍👨🏾">Lọv | Man | Mídíọ́m Dák Skín Ton | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat</annotation>
-		<annotation cp="👨🏾‍❤‍👨🏾" type="tts">Tú Pípol Wit Hat: Man, Man, Mídíọ́m Dák Skín Ton</annotation>
-		<annotation cp="👨🏾‍❤‍👨🏿">Dák Skín Ton | Lọv | Man | Mídíọ́m Dák Skín Ton | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat</annotation>
-		<annotation cp="👨🏾‍❤‍👨🏿" type="tts">Tú Pípol Wit Hat: Man, Man, Mídíọ́m Dák Skín Ton, Dák Skín Ton</annotation>
-		<annotation cp="👨🏿‍❤‍👨🏻">Dák Skín Ton | Laít Skín Ton | Lọv | Man | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat</annotation>
-		<annotation cp="👨🏿‍❤‍👨🏻" type="tts">Tú Pípol Wit Hat: Man, Man, Dák Skín Ton, Laít Skín Ton</annotation>
-		<annotation cp="👨🏿‍❤‍👨🏼">Dák Skín Ton | Lọv | Man | Mídíọ́m-Laít Skín Ton | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat</annotation>
-		<annotation cp="👨🏿‍❤‍👨🏼" type="tts">Tú Pípol Wit Hat: Man, Man, Dák Skín Ton, Mídíọ́m-Laít Skín Ton</annotation>
-		<annotation cp="👨🏿‍❤‍👨🏽">Dák Skín Ton | Lọv | Man | Mídíọ́m Skín Ton | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat</annotation>
-		<annotation cp="👨🏿‍❤‍👨🏽" type="tts">Tú Pípol Wit Hat: Man, Man, Dák Skín Ton, Mídíọ́m Skín Ton</annotation>
-		<annotation cp="👨🏿‍❤‍👨🏾">Dák Skín Ton | Lọv | Man | Mídíọ́m Dák Skín Ton | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat</annotation>
-		<annotation cp="👨🏿‍❤‍👨🏾" type="tts">Tú Pípol Wit Hat: Man, Man, Dák Skín Ton, Mídíọ́m Dák Skín Ton</annotation>
-		<annotation cp="👨🏿‍❤‍👨🏿">Dák Skín Ton | Lọv | Man | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat</annotation>
-		<annotation cp="👨🏿‍❤‍👨🏿" type="tts">Tú Pípol Wit Hat: Man, Man, Dák Skín Ton</annotation>
+		<annotation cp="👨🏻‍❤‍👨🏻">Laít Skín Ton | Lọv | Man | Tuú Pípul | Tuú Pípul Wit Hat</annotation>
+		<annotation cp="👨🏻‍❤‍👨🏻" type="tts">Tuú Pípul Wit Hat: Man, Man, Laít Skín Ton</annotation>
+		<annotation cp="👨🏻‍❤‍👨🏼">Laít Skín Ton | Lọv | Man | Mídíọ́m-Laít Skín Ton | Tuú Pípul | Tuú Pípul Wit Hat</annotation>
+		<annotation cp="👨🏻‍❤‍👨🏼" type="tts">Tuú Pípul Wit Hat: Man, Man, Laít Skín Ton, Mídíọ́m-Laít Skín Ton</annotation>
+		<annotation cp="👨🏻‍❤‍👨🏽">Laít Skín Ton | Lọv | Man | Mídíọ́m Skín Ton | Tuú Pípul | Tuú Pípul Wit Hat</annotation>
+		<annotation cp="👨🏻‍❤‍👨🏽" type="tts">Tuú Pípul Wit Hat: Man, Man, Laít Skín Ton, Mídíọ́m Skín Ton</annotation>
+		<annotation cp="👨🏻‍❤‍👨🏾">Laít Skín Ton | Lọv | Man | Mídíọ́m Dák Skín Ton | Tuú Pípul | Tuú Pípul Wit Hat</annotation>
+		<annotation cp="👨🏻‍❤‍👨🏾" type="tts">Tuú Pípul Wit Hat: Man, Man, Laít Skín Ton, Mídíọ́m Dák Skín Ton</annotation>
+		<annotation cp="👨🏻‍❤‍👨🏿">Dák Skín Ton | Laít Skín Ton | Lọv | Man | Tuú Pípul | Tuú Pípul Wit Hat</annotation>
+		<annotation cp="👨🏻‍❤‍👨🏿" type="tts">Tuú Pípul Wit Hat: Man, Man, Laít Skín Ton, Dák Skín Ton</annotation>
+		<annotation cp="👨🏼‍❤‍👨🏻">Laít Skín Ton | Lọv | Man | Mídíọ́m-Laít Skín Ton | Tuú Pípul | Tuú Pípul Wit Hat</annotation>
+		<annotation cp="👨🏼‍❤‍👨🏻" type="tts">Tuú Pípul Wit Hat: Man, Man, Mídíọ́m-Laít Skín Ton, Laít Skín Ton</annotation>
+		<annotation cp="👨🏼‍❤‍👨🏼">Lọv | Man | Mídíọ́m-Laít Skín Ton | Tuú Pípul | Tuú Pípul Wit Hat</annotation>
+		<annotation cp="👨🏼‍❤‍👨🏼" type="tts">Tuú Pípul Wit Hat: Man, Man, Mídíọ́m-Laít Skín Ton</annotation>
+		<annotation cp="👨🏼‍❤‍👨🏽">Lọv | Man | Mídíọ́m Skín Ton | Mídíọ́m-Laít Skín Ton | Tuú Pípul | Tuú Pípul Wit Hat</annotation>
+		<annotation cp="👨🏼‍❤‍👨🏽" type="tts">Tuú Pípul Wit Hat: Man, Man, Mídíọ́m-Laít Skín Ton, Mídíọ́m Skín Ton</annotation>
+		<annotation cp="👨🏼‍❤‍👨🏾">Lọv | Man | Mídíọ́m Dák Skín Ton | Mídíọ́m-Laít Skín Ton | Tuú Pípul | Tuú Pípul Wit Hat</annotation>
+		<annotation cp="👨🏼‍❤‍👨🏾" type="tts">Tuú Pípul Wit Hat: Man, Man, Mídíọ́m-Laít Skín Ton, Mídíọ́m Dák Skín Ton</annotation>
+		<annotation cp="👨🏼‍❤‍👨🏿">Dák Skín Ton | Lọv | Man | Mídíọ́m-Laít Skín Ton | Tuú Pípul | Tuú Pípul Wit Hat</annotation>
+		<annotation cp="👨🏼‍❤‍👨🏿" type="tts">Tuú Pípul Wit Hat: Man, Man, Mídíọ́m-Laít Skín Ton, Dák Skín Ton</annotation>
+		<annotation cp="👨🏽‍❤‍👨🏻">Laít Skín Ton | Lọv | Man | Mídíọ́m Skín Ton | Tuú Pípul | Tuú Pípul Wit Hat</annotation>
+		<annotation cp="👨🏽‍❤‍👨🏻" type="tts">Tuú Pípul Wit Hat: Man, Man, Mídíọ́m Skín Ton, Laít Skín Ton</annotation>
+		<annotation cp="👨🏽‍❤‍👨🏼">Lọv | Man | Mídíọ́m Skín Ton | Mídíọ́m-Laít Skín Ton | Tuú Pípul | Tuú Pípul Wit Hat</annotation>
+		<annotation cp="👨🏽‍❤‍👨🏼" type="tts">Tuú Pípul Wit Hat: Man, Man, Mídíọ́m Skín Ton, Mídíọ́m-Laít Skín Ton</annotation>
+		<annotation cp="👨🏽‍❤‍👨🏽">Lọv | Man | Mídíọ́m Skín Ton | Tuú Pípul | Tuú Pípul Wit Hat</annotation>
+		<annotation cp="👨🏽‍❤‍👨🏽" type="tts">Tuú Pípul Wit Hat: Man, Man, Mídíọ́m Skín Ton</annotation>
+		<annotation cp="👨🏽‍❤‍👨🏾">Lọv | Man | Mídíọ́m Dák Skín Ton | Mídíọ́m Skín Ton | Tuú Pípul | Tuú Pípul Wit Hat</annotation>
+		<annotation cp="👨🏽‍❤‍👨🏾" type="tts">Tuú Pípul Wit Hat: Man, Man, Mídíọ́m Skín Ton, Mídíọ́m Dák Skín Ton</annotation>
+		<annotation cp="👨🏽‍❤‍👨🏿">Dák Skín Ton | Lọv | Man | Mídíọ́m Skín Ton | Tuú Pípul | Tuú Pípul Wit Hat</annotation>
+		<annotation cp="👨🏽‍❤‍👨🏿" type="tts">Tuú Pípul Wit Hat: Man, Man, Mídíọ́m Skín Ton, Dák Skín Ton</annotation>
+		<annotation cp="👨🏾‍❤‍👨🏻">Laít Skín Ton | Lọv | Man | Mídíọ́m Dák Skín Ton | Tuú Pípul | Tuú Pípul Wit Hat</annotation>
+		<annotation cp="👨🏾‍❤‍👨🏻" type="tts">Tuú Pípul Wit Hat: Man, Man, Mídíọ́m Dák Skín Ton, Laít Skín Ton</annotation>
+		<annotation cp="👨🏾‍❤‍👨🏼">Lọv | Man | Mídíọ́m Dák Skín Ton | Mídíọ́m-Laít Skín Ton | Tuú Pípul | Tuú Pípul Wit Hat</annotation>
+		<annotation cp="👨🏾‍❤‍👨🏼" type="tts">Tuú Pípul Wit Hat: Man, Man, Mídíọ́m Dák Skín Ton, Mídíọ́m-Laít Skín Ton</annotation>
+		<annotation cp="👨🏾‍❤‍👨🏽">Lọv | Man | Mídíọ́m Dák Skín Ton | Mídíọ́m Skín Ton | Tuú Pípul | Tuú Pípul Wit Hat</annotation>
+		<annotation cp="👨🏾‍❤‍👨🏽" type="tts">Tuú Pípul Wit Hat: Man, Man, Mídíọ́m Dák Skín Ton, Mídíọ́m Skín Ton</annotation>
+		<annotation cp="👨🏾‍❤‍👨🏾">Lọv | Man | Mídíọ́m Dák Skín Ton | Tuú Pípul | Tuú Pípul Wit Hat</annotation>
+		<annotation cp="👨🏾‍❤‍👨🏾" type="tts">Tuú Pípul Wit Hat: Man, Man, Mídíọ́m Dák Skín Ton</annotation>
+		<annotation cp="👨🏾‍❤‍👨🏿">Dák Skín Ton | Lọv | Man | Mídíọ́m Dák Skín Ton | Tuú Pípul | Tuú Pípul Wit Hat</annotation>
+		<annotation cp="👨🏾‍❤‍👨🏿" type="tts">Tuú Pípul Wit Hat: Man, Man, Mídíọ́m Dák Skín Ton, Dák Skín Ton</annotation>
+		<annotation cp="👨🏿‍❤‍👨🏻">Dák Skín Ton | Laít Skín Ton | Lọv | Man | Tuú Pípul | Tuú Pípul Wit Hat</annotation>
+		<annotation cp="👨🏿‍❤‍👨🏻" type="tts">Tuú Pípul Wit Hat: Man, Man, Dák Skín Ton, Laít Skín Ton</annotation>
+		<annotation cp="👨🏿‍❤‍👨🏼">Dák Skín Ton | Lọv | Man | Mídíọ́m-Laít Skín Ton | Tuú Pípul | Tuú Pípul Wit Hat</annotation>
+		<annotation cp="👨🏿‍❤‍👨🏼" type="tts">Tuú Pípul Wit Hat: Man, Man, Dák Skín Ton, Mídíọ́m-Laít Skín Ton</annotation>
+		<annotation cp="👨🏿‍❤‍👨🏽">Dák Skín Ton | Lọv | Man | Mídíọ́m Skín Ton | Tuú Pípul | Tuú Pípul Wit Hat</annotation>
+		<annotation cp="👨🏿‍❤‍👨🏽" type="tts">Tuú Pípul Wit Hat: Man, Man, Dák Skín Ton, Mídíọ́m Skín Ton</annotation>
+		<annotation cp="👨🏿‍❤‍👨🏾">Dák Skín Ton | Lọv | Man | Mídíọ́m Dák Skín Ton | Tuú Pípul | Tuú Pípul Wit Hat</annotation>
+		<annotation cp="👨🏿‍❤‍👨🏾" type="tts">Tuú Pípul Wit Hat: Man, Man, Dák Skín Ton, Mídíọ́m Dák Skín Ton</annotation>
+		<annotation cp="👨🏿‍❤‍👨🏿">Dák Skín Ton | Lọv | Man | Tuú Pípul | Tuú Pípul Wit Hat</annotation>
+		<annotation cp="👨🏿‍❤‍👨🏿" type="tts">Tuú Pípul Wit Hat: Man, Man, Dák Skín Ton</annotation>
 		<annotation cp="👨‍🦰">Machọ́ Pẹ́sin | Man | Rẹ́d Hea</annotation>
 		<annotation cp="👨‍🦰" type="tts">Man: Rẹ́d Hea</annotation>
 		<annotation cp="👨🏻‍🦰">Laít Skín Ton | Machọ́ Pẹ́sin | Man | Rẹ́d Hea</annotation>
@@ -808,206 +949,206 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👱🏾‍♀" type="tts">Wúman Wé Gẹ́t Blọ́nd Hea: Mídíọ́m Dák Skín Ton</annotation>
 		<annotation cp="👱🏿‍♀">Blọnd Hea | Dák Skín Ton | Wúman Wé Gẹ́t Blọ́nd Hea | Wúman: Blọ́nd Hea</annotation>
 		<annotation cp="👱🏿‍♀" type="tts">Wúman Wé Gẹ́t Blọ́nd Hea: Dák Skín Ton</annotation>
-		<annotation cp="👩🏻‍❤‍💋‍👨🏻">Kis | Laít Skín Ton | Man | Tú Pípol | Wúman</annotation>
+		<annotation cp="👩🏻‍❤‍💋‍👨🏻">Kis | Laít Skín Ton | Man | Tuú Pípul | Wúman</annotation>
 		<annotation cp="👩🏻‍❤‍💋‍👨🏻" type="tts">Kis: Wúman, Man, Laít Skín Ton</annotation>
-		<annotation cp="👩🏻‍❤‍💋‍👨🏼">Kis | Laít Skín Ton | Man | Mídíọ́m-Laít Skín Ton | Tú Pípol | Wúman</annotation>
+		<annotation cp="👩🏻‍❤‍💋‍👨🏼">Kis | Laít Skín Ton | Man | Mídíọ́m-Laít Skín Ton | Tuú Pípul | Wúman</annotation>
 		<annotation cp="👩🏻‍❤‍💋‍👨🏼" type="tts">Kis: Wúman, Man, Laít Skín Ton, Mídíọ́m-Laít Skín Ton</annotation>
-		<annotation cp="👩🏻‍❤‍💋‍👨🏽">Kis | Laít Skín Ton | Man | Mídíọ́m Skín Ton | Tú Pípol | Wúman</annotation>
+		<annotation cp="👩🏻‍❤‍💋‍👨🏽">Kis | Laít Skín Ton | Man | Mídíọ́m Skín Ton | Tuú Pípul | Wúman</annotation>
 		<annotation cp="👩🏻‍❤‍💋‍👨🏽" type="tts">Kis: Wúman, Man, Laít Skín Ton, Mídíọ́m Skín Ton</annotation>
-		<annotation cp="👩🏻‍❤‍💋‍👨🏾">Kis | Laít Skín Ton | Man | Mídíọ́m Dák Skín Ton | Tú Pípol | Wúman</annotation>
+		<annotation cp="👩🏻‍❤‍💋‍👨🏾">Kis | Laít Skín Ton | Man | Mídíọ́m Dák Skín Ton | Tuú Pípul | Wúman</annotation>
 		<annotation cp="👩🏻‍❤‍💋‍👨🏾" type="tts">Kis: Wúman, Man, Laít Skín Ton, Mídíọ́m Dák Skín Ton</annotation>
-		<annotation cp="👩🏻‍❤‍💋‍👨🏿">Dák Skín Ton | Kis | Laít Skín Ton | Man | Tú Pípol | Wúman</annotation>
+		<annotation cp="👩🏻‍❤‍💋‍👨🏿">Dák Skín Ton | Kis | Laít Skín Ton | Man | Tuú Pípul | Wúman</annotation>
 		<annotation cp="👩🏻‍❤‍💋‍👨🏿" type="tts">Kis: Wúman, Man, Laít Skín Ton, Dák Skín Ton</annotation>
-		<annotation cp="👩🏼‍❤‍💋‍👨🏻">Kis | Laít Skín Ton | Man | Mídíọ́m-Laít Skín Ton | Tú Pípol | Wúman</annotation>
+		<annotation cp="👩🏼‍❤‍💋‍👨🏻">Kis | Laít Skín Ton | Man | Mídíọ́m-Laít Skín Ton | Tuú Pípul | Wúman</annotation>
 		<annotation cp="👩🏼‍❤‍💋‍👨🏻" type="tts">Kis: Wúman, Man, Mídíọ́m-Laít Skín Ton, Laít Skín Ton</annotation>
-		<annotation cp="👩🏼‍❤‍💋‍👨🏼">Kis | Man | Mídíọ́m-Laít Skín Ton | Tú Pípol | Wúman</annotation>
+		<annotation cp="👩🏼‍❤‍💋‍👨🏼">Kis | Man | Mídíọ́m-Laít Skín Ton | Tuú Pípul | Wúman</annotation>
 		<annotation cp="👩🏼‍❤‍💋‍👨🏼" type="tts">Kis: Wúman, Man, Mídíọ́m-Laít Skín Ton</annotation>
-		<annotation cp="👩🏼‍❤‍💋‍👨🏽">Kis | Man | Mídíọ́m Skín Ton | Mídíọ́m-Laít Skín Ton | Tú Pípol | Wúman</annotation>
+		<annotation cp="👩🏼‍❤‍💋‍👨🏽">Kis | Man | Mídíọ́m Skín Ton | Mídíọ́m-Laít Skín Ton | Tuú Pípul | Wúman</annotation>
 		<annotation cp="👩🏼‍❤‍💋‍👨🏽" type="tts">Kis: Wúman, Man, Mídíọ́m-Laít Skín Ton, Mídíọ́m Skín Ton</annotation>
-		<annotation cp="👩🏼‍❤‍💋‍👨🏾">Kis | Man | Mídíọ́m Dák Skín Ton | Mídíọ́m-Laít Skín Ton | Tú Pípol | Wúman</annotation>
+		<annotation cp="👩🏼‍❤‍💋‍👨🏾">Kis | Man | Mídíọ́m Dák Skín Ton | Mídíọ́m-Laít Skín Ton | Tuú Pípul | Wúman</annotation>
 		<annotation cp="👩🏼‍❤‍💋‍👨🏾" type="tts">Kis: Wúman, Man, Mídíọ́m-Laít Skín Ton, Mídíọ́m Dák Skín Ton</annotation>
-		<annotation cp="👩🏼‍❤‍💋‍👨🏿">Dák Skín Ton | Kis | Man | Mídíọ́m-Laít Skín Ton | Tú Pípol | Wúman</annotation>
+		<annotation cp="👩🏼‍❤‍💋‍👨🏿">Dák Skín Ton | Kis | Man | Mídíọ́m-Laít Skín Ton | Tuú Pípul | Wúman</annotation>
 		<annotation cp="👩🏼‍❤‍💋‍👨🏿" type="tts">Kis: Wúman, Man, Mídíọ́m-Laít Skín Ton, Dák Skín Ton</annotation>
-		<annotation cp="👩🏽‍❤‍💋‍👨🏻">Kis | Laít Skín Ton | Man | Mídíọ́m Skín Ton | Tú Pípol | Wúman</annotation>
+		<annotation cp="👩🏽‍❤‍💋‍👨🏻">Kis | Laít Skín Ton | Man | Mídíọ́m Skín Ton | Tuú Pípul | Wúman</annotation>
 		<annotation cp="👩🏽‍❤‍💋‍👨🏻" type="tts">Kis: Wúman, Man, Mídíọ́m Skín Ton, Laít Skín Ton</annotation>
-		<annotation cp="👩🏽‍❤‍💋‍👨🏼">Kis | Man | Mídíọ́m Skín Ton | Mídíọ́m-Laít Skín Ton | Tú Pípol | Wúman</annotation>
+		<annotation cp="👩🏽‍❤‍💋‍👨🏼">Kis | Man | Mídíọ́m Skín Ton | Mídíọ́m-Laít Skín Ton | Tuú Pípul | Wúman</annotation>
 		<annotation cp="👩🏽‍❤‍💋‍👨🏼" type="tts">Kis: Wúman, Man, Mídíọ́m Skín Ton, Mídíọ́m-Laít Skín Ton</annotation>
-		<annotation cp="👩🏽‍❤‍💋‍👨🏽">Kis | Man | Mídíọ́m Skín Ton | Tú Pípol | Wúman</annotation>
+		<annotation cp="👩🏽‍❤‍💋‍👨🏽">Kis | Man | Mídíọ́m Skín Ton | Tuú Pípul | Wúman</annotation>
 		<annotation cp="👩🏽‍❤‍💋‍👨🏽" type="tts">Kis: Wúman, Man, Mídíọ́m Skín Ton</annotation>
-		<annotation cp="👩🏽‍❤‍💋‍👨🏾">Kis | Man | Mídíọ́m Dák Skín Ton | Mídíọ́m Skín Ton | Tú Pípol | Wúman</annotation>
+		<annotation cp="👩🏽‍❤‍💋‍👨🏾">Kis | Man | Mídíọ́m Dák Skín Ton | Mídíọ́m Skín Ton | Tuú Pípul | Wúman</annotation>
 		<annotation cp="👩🏽‍❤‍💋‍👨🏾" type="tts">Kis: Wúman, Man, Mídíọ́m Skín Ton, Mídíọ́m Dák Skín Ton</annotation>
-		<annotation cp="👩🏽‍❤‍💋‍👨🏿">Dák Skín Ton | Kis | Man | Mídíọ́m Skín Ton | Tú Pípol | Wúman</annotation>
+		<annotation cp="👩🏽‍❤‍💋‍👨🏿">Dák Skín Ton | Kis | Man | Mídíọ́m Skín Ton | Tuú Pípul | Wúman</annotation>
 		<annotation cp="👩🏽‍❤‍💋‍👨🏿" type="tts">Kis: Wúman, Man, Mídíọ́m Skín Ton, Dák Skín Ton</annotation>
-		<annotation cp="👩🏾‍❤‍💋‍👨🏻">Kis | Laít Skín Ton | Man | Mídíọ́m Dák Skín Ton | Tú Pípol | Wúman</annotation>
+		<annotation cp="👩🏾‍❤‍💋‍👨🏻">Kis | Laít Skín Ton | Man | Mídíọ́m Dák Skín Ton | Tuú Pípul | Wúman</annotation>
 		<annotation cp="👩🏾‍❤‍💋‍👨🏻" type="tts">Kis: Wúman, Man, Mídíọ́m Dák Skín Ton, Laít Skín Ton</annotation>
-		<annotation cp="👩🏾‍❤‍💋‍👨🏼">Kis | Man | Mídíọ́m Dák Skín Ton | Mídíọ́m-Laít Skín Ton | Tú Pípol | Wúman</annotation>
+		<annotation cp="👩🏾‍❤‍💋‍👨🏼">Kis | Man | Mídíọ́m Dák Skín Ton | Mídíọ́m-Laít Skín Ton | Tuú Pípul | Wúman</annotation>
 		<annotation cp="👩🏾‍❤‍💋‍👨🏼" type="tts">Kis: Wúman, Man, Mídíọ́m Dák Skín Ton, Mídíọ́m-Laít Skín Ton</annotation>
-		<annotation cp="👩🏾‍❤‍💋‍👨🏽">Kis | Man | Mídíọ́m Dák Skín Ton | Mídíọ́m Skín Ton | Tú Pípol | Wúman</annotation>
+		<annotation cp="👩🏾‍❤‍💋‍👨🏽">Kis | Man | Mídíọ́m Dák Skín Ton | Mídíọ́m Skín Ton | Tuú Pípul | Wúman</annotation>
 		<annotation cp="👩🏾‍❤‍💋‍👨🏽" type="tts">Kis: Wúman, Man, Mídíọ́m Dák Skín Ton, Mídíọ́m Skín Ton</annotation>
-		<annotation cp="👩🏾‍❤‍💋‍👨🏾">Kis | Man | Mídíọ́m Dák Skín Ton | Tú Pípol | Wúman</annotation>
+		<annotation cp="👩🏾‍❤‍💋‍👨🏾">Kis | Man | Mídíọ́m Dák Skín Ton | Tuú Pípul | Wúman</annotation>
 		<annotation cp="👩🏾‍❤‍💋‍👨🏾" type="tts">Kis: Wúman, Man, Mídíọ́m Dák Skín Ton</annotation>
-		<annotation cp="👩🏾‍❤‍💋‍👨🏿">Dák Skín Ton | Kis | Man | Mídíọ́m Dák Skín Ton | Tú Pípol | Wúman</annotation>
+		<annotation cp="👩🏾‍❤‍💋‍👨🏿">Dák Skín Ton | Kis | Man | Mídíọ́m Dák Skín Ton | Tuú Pípul | Wúman</annotation>
 		<annotation cp="👩🏾‍❤‍💋‍👨🏿" type="tts">Kis: Wúman, Man, Mídíọ́m Dák Skín Ton, Dák Skín Ton</annotation>
-		<annotation cp="👩🏿‍❤‍💋‍👨🏻">Dák Skín Ton | Kis | Laít Skín Ton | Man | Tú Pípol | Wúman</annotation>
+		<annotation cp="👩🏿‍❤‍💋‍👨🏻">Dák Skín Ton | Kis | Laít Skín Ton | Man | Tuú Pípul | Wúman</annotation>
 		<annotation cp="👩🏿‍❤‍💋‍👨🏻" type="tts">Kis: Wúman, Man, Dák Skín Ton, Laít Skín Ton</annotation>
-		<annotation cp="👩🏿‍❤‍💋‍👨🏼">Dák Skín Ton | Kis | Man | Mídíọ́m-Laít Skín Ton | Tú Pípol | Wúman</annotation>
+		<annotation cp="👩🏿‍❤‍💋‍👨🏼">Dák Skín Ton | Kis | Man | Mídíọ́m-Laít Skín Ton | Tuú Pípul | Wúman</annotation>
 		<annotation cp="👩🏿‍❤‍💋‍👨🏼" type="tts">Kis: Wúman, Man, Dák Skín Ton, Mídíọ́m-Laít Skín Ton</annotation>
-		<annotation cp="👩🏿‍❤‍💋‍👨🏽">Dák Skín Ton | Kis | Man | Mídíọ́m Skín Ton | Tú Pípol | Wúman</annotation>
+		<annotation cp="👩🏿‍❤‍💋‍👨🏽">Dák Skín Ton | Kis | Man | Mídíọ́m Skín Ton | Tuú Pípul | Wúman</annotation>
 		<annotation cp="👩🏿‍❤‍💋‍👨🏽" type="tts">Kis: Wúman, Man, Dák Skín Ton, Mídíọ́m Skín Ton</annotation>
-		<annotation cp="👩🏿‍❤‍💋‍👨🏾">Dák Skín Ton | Kis | Man | Mídíọ́m Dák Skín Ton | Tú Pípol | Wúman</annotation>
+		<annotation cp="👩🏿‍❤‍💋‍👨🏾">Dák Skín Ton | Kis | Man | Mídíọ́m Dák Skín Ton | Tuú Pípul | Wúman</annotation>
 		<annotation cp="👩🏿‍❤‍💋‍👨🏾" type="tts">Kis: Wúman, Man, Dák Skín Ton, Mídíọ́m Dák Skín Ton</annotation>
-		<annotation cp="👩🏿‍❤‍💋‍👨🏿">Dák Skín Ton | Kis | Man | Tú Pípol | Wúman</annotation>
+		<annotation cp="👩🏿‍❤‍💋‍👨🏿">Dák Skín Ton | Kis | Man | Tuú Pípul | Wúman</annotation>
 		<annotation cp="👩🏿‍❤‍💋‍👨🏿" type="tts">Kis: Wúman, Man, Dák Skín Ton</annotation>
-		<annotation cp="👩🏻‍❤‍💋‍👩🏻">Kis | Laít Skín Ton | Tú Pípol | Wúman</annotation>
+		<annotation cp="👩🏻‍❤‍💋‍👩🏻">Kis | Laít Skín Ton | Tuú Pípul | Wúman</annotation>
 		<annotation cp="👩🏻‍❤‍💋‍👩🏻" type="tts">Kis: Wúman, Wúman, Laít Skín Ton</annotation>
-		<annotation cp="👩🏻‍❤‍💋‍👩🏼">Kis | Laít Skín Ton | Mídíọ́m-Laít Skín Ton | Tú Pípol | Wúman</annotation>
+		<annotation cp="👩🏻‍❤‍💋‍👩🏼">Kis | Laít Skín Ton | Mídíọ́m-Laít Skín Ton | Tuú Pípul | Wúman</annotation>
 		<annotation cp="👩🏻‍❤‍💋‍👩🏼" type="tts">Kis: Wúman, Wúman, Laít Skín Ton, Mídíọ́m-Laít Skín Ton</annotation>
-		<annotation cp="👩🏻‍❤‍💋‍👩🏽">Kis | Laít Skín Ton | Mídíọ́m Skín Ton | Tú Pípol | Wúman</annotation>
+		<annotation cp="👩🏻‍❤‍💋‍👩🏽">Kis | Laít Skín Ton | Mídíọ́m Skín Ton | Tuú Pípul | Wúman</annotation>
 		<annotation cp="👩🏻‍❤‍💋‍👩🏽" type="tts">Kis: Wúman, Wúman, Laít Skín Ton, Mídíọ́m Skín Ton</annotation>
-		<annotation cp="👩🏻‍❤‍💋‍👩🏾">Kis | Laít Skín Ton | Mídíọ́m Dák Skín Ton | Tú Pípol | Wúman</annotation>
+		<annotation cp="👩🏻‍❤‍💋‍👩🏾">Kis | Laít Skín Ton | Mídíọ́m Dák Skín Ton | Tuú Pípul | Wúman</annotation>
 		<annotation cp="👩🏻‍❤‍💋‍👩🏾" type="tts">Kis: Wúman, Wúman, Laít Skín Ton, Mídíọ́m Dák Skín Ton</annotation>
-		<annotation cp="👩🏻‍❤‍💋‍👩🏿">Dák Skín Ton | Kis | Laít Skín Ton | Tú Pípol | Wúman</annotation>
+		<annotation cp="👩🏻‍❤‍💋‍👩🏿">Dák Skín Ton | Kis | Laít Skín Ton | Tuú Pípul | Wúman</annotation>
 		<annotation cp="👩🏻‍❤‍💋‍👩🏿" type="tts">Kis: Wúman, Wúman, Laít Skín Ton, Dák Skín Ton</annotation>
-		<annotation cp="👩🏼‍❤‍💋‍👩🏻">Kis | Laít Skín Ton | Mídíọ́m-Laít Skín Ton | Tú Pípol | Wúman</annotation>
+		<annotation cp="👩🏼‍❤‍💋‍👩🏻">Kis | Laít Skín Ton | Mídíọ́m-Laít Skín Ton | Tuú Pípul | Wúman</annotation>
 		<annotation cp="👩🏼‍❤‍💋‍👩🏻" type="tts">Kis: Wúman, Wúman, Mídíọ́m-Laít Skín Ton, Laít Skín Ton</annotation>
-		<annotation cp="👩🏼‍❤‍💋‍👩🏼">Kis | Mídíọ́m-Laít Skín Ton | Tú Pípol | Wúman</annotation>
+		<annotation cp="👩🏼‍❤‍💋‍👩🏼">Kis | Mídíọ́m-Laít Skín Ton | Tuú Pípul | Wúman</annotation>
 		<annotation cp="👩🏼‍❤‍💋‍👩🏼" type="tts">Kis: Wúman, Wúman, Mídíọ́m-Laít Skín Ton</annotation>
-		<annotation cp="👩🏼‍❤‍💋‍👩🏽">Kis | Mídíọ́m Skín Ton | Mídíọ́m-Laít Skín Ton | Tú Pípol | Wúman</annotation>
+		<annotation cp="👩🏼‍❤‍💋‍👩🏽">Kis | Mídíọ́m Skín Ton | Mídíọ́m-Laít Skín Ton | Tuú Pípul | Wúman</annotation>
 		<annotation cp="👩🏼‍❤‍💋‍👩🏽" type="tts">Kis: Wúman, Wúman, Mídíọ́m-Laít Skín Ton, Mídíọ́m Skín Ton</annotation>
-		<annotation cp="👩🏼‍❤‍💋‍👩🏾">Kis | Mídíọ́m Dák Skín Ton | Mídíọ́m-Laít Skín Ton | Tú Pípol | Wúman</annotation>
+		<annotation cp="👩🏼‍❤‍💋‍👩🏾">Kis | Mídíọ́m Dák Skín Ton | Mídíọ́m-Laít Skín Ton | Tuú Pípul | Wúman</annotation>
 		<annotation cp="👩🏼‍❤‍💋‍👩🏾" type="tts">Kis: Wúman, Wúman, Mídíọ́m-Laít Skín Ton, Mídíọ́m Dák Skín Ton</annotation>
-		<annotation cp="👩🏼‍❤‍💋‍👩🏿">Dák Skín Ton | Kis | Mídíọ́m-Laít Skín Ton | Tú Pípol | Wúman</annotation>
+		<annotation cp="👩🏼‍❤‍💋‍👩🏿">Dák Skín Ton | Kis | Mídíọ́m-Laít Skín Ton | Tuú Pípul | Wúman</annotation>
 		<annotation cp="👩🏼‍❤‍💋‍👩🏿" type="tts">Kis: Wúman, Wúman, Mídíọ́m-Laít Skín Ton, Dák Skín Ton</annotation>
-		<annotation cp="👩🏽‍❤‍💋‍👩🏻">Kis | Laít Skín Ton | Mídíọ́m Skín Ton | Tú Pípol | Wúman</annotation>
+		<annotation cp="👩🏽‍❤‍💋‍👩🏻">Kis | Laít Skín Ton | Mídíọ́m Skín Ton | Tuú Pípul | Wúman</annotation>
 		<annotation cp="👩🏽‍❤‍💋‍👩🏻" type="tts">Kis: Wúman, Wúman, Mídíọ́m Skín Ton, Laít Skín Ton</annotation>
-		<annotation cp="👩🏽‍❤‍💋‍👩🏼">Kis | Mídíọ́m Skín Ton | Mídíọ́m-Laít Skín Ton | Tú Pípol | Wúman</annotation>
+		<annotation cp="👩🏽‍❤‍💋‍👩🏼">Kis | Mídíọ́m Skín Ton | Mídíọ́m-Laít Skín Ton | Tuú Pípul | Wúman</annotation>
 		<annotation cp="👩🏽‍❤‍💋‍👩🏼" type="tts">Kis: Wúman, Wúman, Mídíọ́m Skín Ton, Mídíọ́m-Laít Skín Ton</annotation>
-		<annotation cp="👩🏽‍❤‍💋‍👩🏽">Kis | Mídíọ́m Skín Ton | Tú Pípol | Wúman</annotation>
+		<annotation cp="👩🏽‍❤‍💋‍👩🏽">Kis | Mídíọ́m Skín Ton | Tuú Pípul | Wúman</annotation>
 		<annotation cp="👩🏽‍❤‍💋‍👩🏽" type="tts">Kis: Wúman, Wúman, Mídíọ́m Skín Ton</annotation>
-		<annotation cp="👩🏽‍❤‍💋‍👩🏾">Kis | Mídíọ́m Dák Skín Ton | Mídíọ́m Skín Ton | Tú Pípol | Wúman</annotation>
+		<annotation cp="👩🏽‍❤‍💋‍👩🏾">Kis | Mídíọ́m Dák Skín Ton | Mídíọ́m Skín Ton | Tuú Pípul | Wúman</annotation>
 		<annotation cp="👩🏽‍❤‍💋‍👩🏾" type="tts">Kis: Wúman, Wúman, Mídíọ́m Skín Ton, Mídíọ́m Dák Skín Ton</annotation>
-		<annotation cp="👩🏽‍❤‍💋‍👩🏿">Dák Skín Ton | Kis | Mídíọ́m Skín Ton | Tú Pípol | Wúman</annotation>
+		<annotation cp="👩🏽‍❤‍💋‍👩🏿">Dák Skín Ton | Kis | Mídíọ́m Skín Ton | Tuú Pípul | Wúman</annotation>
 		<annotation cp="👩🏽‍❤‍💋‍👩🏿" type="tts">Kis: Wúman, Wúman, Mídíọ́m Skín Ton, Dák Skín Ton</annotation>
-		<annotation cp="👩🏾‍❤‍💋‍👩🏻">Kis | Laít Skín Ton | Mídíọ́m Dák Skín Ton | Tú Pípol | Wúman</annotation>
+		<annotation cp="👩🏾‍❤‍💋‍👩🏻">Kis | Laít Skín Ton | Mídíọ́m Dák Skín Ton | Tuú Pípul | Wúman</annotation>
 		<annotation cp="👩🏾‍❤‍💋‍👩🏻" type="tts">Kis: Wúman, Wúman, Mídíọ́m Dák Skín Ton, Laít Skín Ton</annotation>
-		<annotation cp="👩🏾‍❤‍💋‍👩🏼">Kis | Mídíọ́m Dák Skín Ton | Mídíọ́m-Laít Skín Ton | Tú Pípol | Wúman</annotation>
+		<annotation cp="👩🏾‍❤‍💋‍👩🏼">Kis | Mídíọ́m Dák Skín Ton | Mídíọ́m-Laít Skín Ton | Tuú Pípul | Wúman</annotation>
 		<annotation cp="👩🏾‍❤‍💋‍👩🏼" type="tts">Kis: Wúman, Wúman, Mídíọ́m Dák Skín Ton, Mídíọ́m-Laít Skín Ton</annotation>
-		<annotation cp="👩🏾‍❤‍💋‍👩🏽">Kis | Mídíọ́m Dák Skín Ton | Mídíọ́m Skín Ton | Tú Pípol | Wúman</annotation>
+		<annotation cp="👩🏾‍❤‍💋‍👩🏽">Kis | Mídíọ́m Dák Skín Ton | Mídíọ́m Skín Ton | Tuú Pípul | Wúman</annotation>
 		<annotation cp="👩🏾‍❤‍💋‍👩🏽" type="tts">Kis: Wúman, Wúman, Mídíọ́m Dák Skín Ton, Mídíọ́m Skín Ton</annotation>
-		<annotation cp="👩🏾‍❤‍💋‍👩🏾">Kis | Mídíọ́m Dák Skín Ton | Tú Pípol | Wúman</annotation>
+		<annotation cp="👩🏾‍❤‍💋‍👩🏾">Kis | Mídíọ́m Dák Skín Ton | Tuú Pípul | Wúman</annotation>
 		<annotation cp="👩🏾‍❤‍💋‍👩🏾" type="tts">Kis: Wúman, Wúman, Mídíọ́m Dák Skín Ton</annotation>
-		<annotation cp="👩🏾‍❤‍💋‍👩🏿">Dák Skín Ton | Kis | Mídíọ́m Dák Skín Ton | Tú Pípol | Wúman</annotation>
+		<annotation cp="👩🏾‍❤‍💋‍👩🏿">Dák Skín Ton | Kis | Mídíọ́m Dák Skín Ton | Tuú Pípul | Wúman</annotation>
 		<annotation cp="👩🏾‍❤‍💋‍👩🏿" type="tts">Kis: Wúman, Wúman, Mídíọ́m Dák Skín Ton, Dák Skín Ton</annotation>
-		<annotation cp="👩🏿‍❤‍💋‍👩🏻">Dák Skín Ton | Kis | Laít Skín Ton | Tú Pípol | Wúman</annotation>
+		<annotation cp="👩🏿‍❤‍💋‍👩🏻">Dák Skín Ton | Kis | Laít Skín Ton | Tuú Pípul | Wúman</annotation>
 		<annotation cp="👩🏿‍❤‍💋‍👩🏻" type="tts">Kis: Wúman, Wúman, Dák Skín Ton, Laít Skín Ton</annotation>
-		<annotation cp="👩🏿‍❤‍💋‍👩🏼">Dák Skín Ton | Kis | Mídíọ́m-Laít Skín Ton | Tú Pípol | Wúman</annotation>
+		<annotation cp="👩🏿‍❤‍💋‍👩🏼">Dák Skín Ton | Kis | Mídíọ́m-Laít Skín Ton | Tuú Pípul | Wúman</annotation>
 		<annotation cp="👩🏿‍❤‍💋‍👩🏼" type="tts">Kis: Wúman, Wúman, Dák Skín Ton, Mídíọ́m-Laít Skín Ton</annotation>
-		<annotation cp="👩🏿‍❤‍💋‍👩🏽">Dák Skín Ton | Kis | Mídíọ́m Skín Ton | Tú Pípol | Wúman</annotation>
+		<annotation cp="👩🏿‍❤‍💋‍👩🏽">Dák Skín Ton | Kis | Mídíọ́m Skín Ton | Tuú Pípul | Wúman</annotation>
 		<annotation cp="👩🏿‍❤‍💋‍👩🏽" type="tts">Kis: Wúman, Wúman, Dák Skín Ton, Mídíọ́m Skín Ton</annotation>
-		<annotation cp="👩🏿‍❤‍💋‍👩🏾">Dák Skín Ton | Kis | Mídíọ́m Dák Skín Ton | Tú Pípol | Wúman</annotation>
+		<annotation cp="👩🏿‍❤‍💋‍👩🏾">Dák Skín Ton | Kis | Mídíọ́m Dák Skín Ton | Tuú Pípul | Wúman</annotation>
 		<annotation cp="👩🏿‍❤‍💋‍👩🏾" type="tts">Kis: Wúman, Wúman, Dák Skín Ton, Mídíọ́m Dák Skín Ton</annotation>
-		<annotation cp="👩🏿‍❤‍💋‍👩🏿">Dák Skín Ton | Kis | Tú Pípol | Wúman</annotation>
+		<annotation cp="👩🏿‍❤‍💋‍👩🏿">Dák Skín Ton | Kis | Tuú Pípul | Wúman</annotation>
 		<annotation cp="👩🏿‍❤‍💋‍👩🏿" type="tts">Kis: Wúman, Wúman, Dák Skín Ton</annotation>
-		<annotation cp="👩🏻‍❤‍👨🏻">Laít Skín Ton | Lọv | Man | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat | Wúman</annotation>
-		<annotation cp="👩🏻‍❤‍👨🏻" type="tts">Tú Pípol Wit Hat: Wúman, Man, Laít Skín Ton</annotation>
-		<annotation cp="👩🏻‍❤‍👨🏼">Laít Skín Ton | Lọv | Man | Mídíọ́m-Laít Skín Ton | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat | Wúman</annotation>
-		<annotation cp="👩🏻‍❤‍👨🏼" type="tts">Tú Pípol Wit Hat: Wúman, Man, Laít Skín Ton, Mídíọ́m-Laít Skín Ton</annotation>
-		<annotation cp="👩🏻‍❤‍👨🏽">Laít Skín Ton | Lọv | Man | Mídíọ́m Skín Ton | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat | Wúman</annotation>
-		<annotation cp="👩🏻‍❤‍👨🏽" type="tts">Tú Pípol Wit Hat: Wúman, Man, Laít Skín Ton, Mídíọ́m Skín Ton</annotation>
-		<annotation cp="👩🏻‍❤‍👨🏾">Laít Skín Ton | Lọv | Man | Mídíọ́m Dák Skín Ton | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat | Wúman</annotation>
-		<annotation cp="👩🏻‍❤‍👨🏾" type="tts">Tú Pípol Wit Hat: Wúman, Man, Laít Skín Ton, Mídíọ́m Dák Skín Ton</annotation>
-		<annotation cp="👩🏻‍❤‍👨🏿">Dák Skín Ton | Laít Skín Ton | Lọv | Man | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat | Wúman</annotation>
-		<annotation cp="👩🏻‍❤‍👨🏿" type="tts">Tú Pípol Wit Hat: Wúman, Man, Laít Skín Ton, Dák Skín Ton</annotation>
-		<annotation cp="👩🏼‍❤‍👨🏻">Laít Skín Ton | Lọv | Man | Mídíọ́m-Laít Skín Ton | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat | Wúman</annotation>
-		<annotation cp="👩🏼‍❤‍👨🏻" type="tts">Tú Pípol Wit Hat: Wúman, Man, Mídíọ́m-Laít Skín Ton, Laít Skín Ton</annotation>
-		<annotation cp="👩🏼‍❤‍👨🏼">Lọv | Man | Mídíọ́m-Laít Skín Ton | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat | Wúman</annotation>
-		<annotation cp="👩🏼‍❤‍👨🏼" type="tts">Tú Pípol Wit Hat: Wúman, Man, Mídíọ́m-Laít Skín Ton</annotation>
-		<annotation cp="👩🏼‍❤‍👨🏽">Lọv | Man | Mídíọ́m Skín Ton | Mídíọ́m-Laít Skín Ton | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat | Wúman</annotation>
-		<annotation cp="👩🏼‍❤‍👨🏽" type="tts">Tú Pípol Wit Hat: Wúman, Man, Mídíọ́m-Laít Skín Ton, Mídíọ́m Skín Ton</annotation>
-		<annotation cp="👩🏼‍❤‍👨🏾">Lọv | Man | Mídíọ́m Dák Skín Ton | Mídíọ́m-Laít Skín Ton | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat | Wúman</annotation>
-		<annotation cp="👩🏼‍❤‍👨🏾" type="tts">Tú Pípol Wit Hat: Wúman, Man, Mídíọ́m-Laít Skín Ton, Mídíọ́m Dák Skín Ton</annotation>
-		<annotation cp="👩🏼‍❤‍👨🏿">Dák Skín Ton | Lọv | Man | Mídíọ́m-Laít Skín Ton | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat | Wúman</annotation>
-		<annotation cp="👩🏼‍❤‍👨🏿" type="tts">Tú Pípol Wit Hat: Wúman, Man, Mídíọ́m-Laít Skín Ton, Dák Skín Ton</annotation>
-		<annotation cp="👩🏽‍❤‍👨🏻">Laít Skín Ton | Lọv | Man | Mídíọ́m Skín Ton | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat | Wúman</annotation>
-		<annotation cp="👩🏽‍❤‍👨🏻" type="tts">Tú Pípol Wit Hat: Wúman, Man, Mídíọ́m Skín Ton, Laít Skín Ton</annotation>
-		<annotation cp="👩🏽‍❤‍👨🏼">Lọv | Man | Mídíọ́m Skín Ton | Mídíọ́m-Laít Skín Ton | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat | Wúman</annotation>
-		<annotation cp="👩🏽‍❤‍👨🏼" type="tts">Tú Pípol Wit Hat: Wúman, Man, Mídíọ́m Skín Ton, Mídíọ́m-Laít Skín Ton</annotation>
-		<annotation cp="👩🏽‍❤‍👨🏽">Lọv | Man | Mídíọ́m Skín Ton | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat | Wúman</annotation>
-		<annotation cp="👩🏽‍❤‍👨🏽" type="tts">Tú Pípol Wit Hat: Wúman, Man, Mídíọ́m Skín Ton</annotation>
-		<annotation cp="👩🏽‍❤‍👨🏾">Lọv | Man | Mídíọ́m Dák Skín Ton | Mídíọ́m Skín Ton | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat | Wúman</annotation>
-		<annotation cp="👩🏽‍❤‍👨🏾" type="tts">Tú Pípol Wit Hat: Wúman, Man, Mídíọ́m Skín Ton, Mídíọ́m Dák Skín Ton</annotation>
-		<annotation cp="👩🏽‍❤‍👨🏿">Dák Skín Ton | Lọv | Man | Mídíọ́m Skín Ton | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat | Wúman</annotation>
-		<annotation cp="👩🏽‍❤‍👨🏿" type="tts">Tú Pípol Wit Hat: Wúman, Man, Mídíọ́m Skín Ton, Dák Skín Ton</annotation>
-		<annotation cp="👩🏾‍❤‍👨🏻">Laít Skín Ton | Lọv | Man | Mídíọ́m Dák Skín Ton | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat | Wúman</annotation>
-		<annotation cp="👩🏾‍❤‍👨🏻" type="tts">Tú Pípol Wit Hat: Wúman, Man, Mídíọ́m Dák Skín Ton, Laít Skín Ton</annotation>
-		<annotation cp="👩🏾‍❤‍👨🏼">Lọv | Man | Mídíọ́m Dák Skín Ton | Mídíọ́m-Laít Skín Ton | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat | Wúman</annotation>
-		<annotation cp="👩🏾‍❤‍👨🏼" type="tts">Tú Pípol Wit Hat: Wúman, Man, Mídíọ́m Dák Skín Ton, Mídíọ́m-Laít Skín Ton</annotation>
-		<annotation cp="👩🏾‍❤‍👨🏽">Lọv | Man | Mídíọ́m Dák Skín Ton | Mídíọ́m Skín Ton | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat | Wúman</annotation>
-		<annotation cp="👩🏾‍❤‍👨🏽" type="tts">Tú Pípol Wit Hat: Wúman, Man, Mídíọ́m Dák Skín Ton, Mídíọ́m Skín Ton</annotation>
-		<annotation cp="👩🏾‍❤‍👨🏾">Lọv | Man | Mídíọ́m Dák Skín Ton | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat | Wúman</annotation>
-		<annotation cp="👩🏾‍❤‍👨🏾" type="tts">Tú Pípol Wit Hat: Wúman, Man, Mídíọ́m Dák Skín Ton</annotation>
-		<annotation cp="👩🏾‍❤‍👨🏿">Dák Skín Ton | Lọv | Man | Mídíọ́m Dák Skín Ton | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat | Wúman</annotation>
-		<annotation cp="👩🏾‍❤‍👨🏿" type="tts">Tú Pípol Wit Hat: Wúman, Man, Mídíọ́m Dák Skín Ton, Dák Skín Ton</annotation>
-		<annotation cp="👩🏿‍❤‍👨🏻">Dák Skín Ton | Laít Skín Ton | Lọv | Man | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat | Wúman</annotation>
-		<annotation cp="👩🏿‍❤‍👨🏻" type="tts">Tú Pípol Wit Hat: Wúman, Man, Dák Skín Ton, Laít Skín Ton</annotation>
-		<annotation cp="👩🏿‍❤‍👨🏼">Dák Skín Ton | Lọv | Man | Mídíọ́m-Laít Skín Ton | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat | Wúman</annotation>
-		<annotation cp="👩🏿‍❤‍👨🏼" type="tts">Tú Pípol Wit Hat: Wúman, Man, Dák Skín Ton, Mídíọ́m-Laít Skín Ton</annotation>
-		<annotation cp="👩🏿‍❤‍👨🏽">Dák Skín Ton | Lọv | Man | Mídíọ́m Skín Ton | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat | Wúman</annotation>
-		<annotation cp="👩🏿‍❤‍👨🏽" type="tts">Tú Pípol Wit Hat: Wúman, Man, Dák Skín Ton, Mídíọ́m Skín Ton</annotation>
-		<annotation cp="👩🏿‍❤‍👨🏾">Dák Skín Ton | Lọv | Man | Mídíọ́m Dák Skín Ton | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat | Wúman</annotation>
-		<annotation cp="👩🏿‍❤‍👨🏾" type="tts">Tú Pípol Wit Hat: Wúman, Man, Dák Skín Ton, Mídíọ́m Dák Skín Ton</annotation>
-		<annotation cp="👩🏿‍❤‍👨🏿">Dák Skín Ton | Lọv | Man | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat | Wúman</annotation>
-		<annotation cp="👩🏿‍❤‍👨🏿" type="tts">Tú Pípol Wit Hat: Wúman, Man, Dák Skín Ton</annotation>
-		<annotation cp="👩🏻‍❤‍👩🏻">Laít Skín Ton | Lọv | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat | Wúman</annotation>
-		<annotation cp="👩🏻‍❤‍👩🏻" type="tts">Tú Pípol Wit Hat: Wúman, Wúman, Laít Skín Ton</annotation>
-		<annotation cp="👩🏻‍❤‍👩🏼">Laít Skín Ton | Lọv | Mídíọ́m-Laít Skín Ton | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat | Wúman</annotation>
-		<annotation cp="👩🏻‍❤‍👩🏼" type="tts">Tú Pípol Wit Hat: Wúman, Wúman, Laít Skín Ton, Mídíọ́m-Laít Skín Ton</annotation>
-		<annotation cp="👩🏻‍❤‍👩🏽">Laít Skín Ton | Lọv | Mídíọ́m Skín Ton | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat | Wúman</annotation>
-		<annotation cp="👩🏻‍❤‍👩🏽" type="tts">Tú Pípol Wit Hat: Wúman, Wúman, Laít Skín Ton, Mídíọ́m Skín Ton</annotation>
-		<annotation cp="👩🏻‍❤‍👩🏾">Laít Skín Ton | Lọv | Mídíọ́m Dák Skín Ton | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat | Wúman</annotation>
-		<annotation cp="👩🏻‍❤‍👩🏾" type="tts">Tú Pípol Wit Hat: Wúman, Wúman, Laít Skín Ton, Mídíọ́m Dák Skín Ton</annotation>
-		<annotation cp="👩🏻‍❤‍👩🏿">Dák Skín Ton | Laít Skín Ton | Lọv | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat | Wúman</annotation>
-		<annotation cp="👩🏻‍❤‍👩🏿" type="tts">Tú Pípol Wit Hat: Wúman, Wúman, Laít Skín Ton, Dák Skín Ton</annotation>
-		<annotation cp="👩🏼‍❤‍👩🏻">Laít Skín Ton | Lọv | Mídíọ́m-Laít Skín Ton | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat | Wúman</annotation>
-		<annotation cp="👩🏼‍❤‍👩🏻" type="tts">Tú Pípol Wit Hat: Wúman, Wúman, Mídíọ́m-Laít Skín Ton, Laít Skín Ton</annotation>
-		<annotation cp="👩🏼‍❤‍👩🏼">Lọv | Mídíọ́m-Laít Skín Ton | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat | Wúman</annotation>
-		<annotation cp="👩🏼‍❤‍👩🏼" type="tts">Tú Pípol Wit Hat: Wúman, Wúman, Mídíọ́m-Laít Skín Ton</annotation>
-		<annotation cp="👩🏼‍❤‍👩🏽">Lọv | Mídíọ́m Skín Ton | Mídíọ́m-Laít Skín Ton | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat | Wúman</annotation>
-		<annotation cp="👩🏼‍❤‍👩🏽" type="tts">Tú Pípol Wit Hat: Wúman, Wúman, Mídíọ́m-Laít Skín Ton, Mídíọ́m Skín Ton</annotation>
-		<annotation cp="👩🏼‍❤‍👩🏾">Lọv | Mídíọ́m Dák Skín Ton | Mídíọ́m-Laít Skín Ton | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat | Wúman</annotation>
-		<annotation cp="👩🏼‍❤‍👩🏾" type="tts">Tú Pípol Wit Hat: Wúman, Wúman, Mídíọ́m-Laít Skín Ton, Mídíọ́m Dák Skín Ton</annotation>
-		<annotation cp="👩🏼‍❤‍👩🏿">Dák Skín Ton | Lọv | Mídíọ́m-Laít Skín Ton | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat | Wúman</annotation>
-		<annotation cp="👩🏼‍❤‍👩🏿" type="tts">Tú Pípol Wit Hat: Wúman, Wúman, Mídíọ́m-Laít Skín Ton, Dák Skín Ton</annotation>
-		<annotation cp="👩🏽‍❤‍👩🏻">Laít Skín Ton | Lọv | Mídíọ́m Skín Ton | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat | Wúman</annotation>
-		<annotation cp="👩🏽‍❤‍👩🏻" type="tts">Tú Pípol Wit Hat: Wúman, Wúman, Mídíọ́m Skín Ton, Laít Skín Ton</annotation>
-		<annotation cp="👩🏽‍❤‍👩🏼">Lọv | Mídíọ́m Skín Ton | Mídíọ́m-Laít Skín Ton | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat | Wúman</annotation>
-		<annotation cp="👩🏽‍❤‍👩🏼" type="tts">Tú Pípol Wit Hat: Wúman, Wúman, Mídíọ́m Skín Ton, Mídíọ́m-Laít Skín Ton</annotation>
-		<annotation cp="👩🏽‍❤‍👩🏽">Lọv | Mídíọ́m Skín Ton | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat | Wúman</annotation>
-		<annotation cp="👩🏽‍❤‍👩🏽" type="tts">Tú Pípol Wit Hat: Wúman, Wúman, Mídíọ́m Skín Ton</annotation>
-		<annotation cp="👩🏽‍❤‍👩🏾">Lọv | Mídíọ́m Dák Skín Ton | Mídíọ́m Skín Ton | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat | Wúman</annotation>
-		<annotation cp="👩🏽‍❤‍👩🏾" type="tts">Tú Pípol Wit Hat: Wúman, Wúman, Mídíọ́m Skín Ton, Mídíọ́m Dák Skín Ton</annotation>
-		<annotation cp="👩🏽‍❤‍👩🏿">Dák Skín Ton | Lọv | Mídíọ́m Skín Ton | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat | Wúman</annotation>
-		<annotation cp="👩🏽‍❤‍👩🏿" type="tts">Tú Pípol Wit Hat: Wúman, Wúman, Mídíọ́m Skín Ton, Dák Skín Ton</annotation>
-		<annotation cp="👩🏾‍❤‍👩🏻">Laít Skín Ton | Lọv | Mídíọ́m Dák Skín Ton | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat | Wúman</annotation>
-		<annotation cp="👩🏾‍❤‍👩🏻" type="tts">Tú Pípol Wit Hat: Wúman, Wúman, Mídíọ́m Dák Skín Ton, Laít Skín Ton</annotation>
-		<annotation cp="👩🏾‍❤‍👩🏼">Lọv | Mídíọ́m Dák Skín Ton | Mídíọ́m-Laít Skín Ton | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat | Wúman</annotation>
-		<annotation cp="👩🏾‍❤‍👩🏼" type="tts">Tú Pípol Wit Hat: Wúman, Wúman, Mídíọ́m Dák Skín Ton, Mídíọ́m-Laít Skín Ton</annotation>
-		<annotation cp="👩🏾‍❤‍👩🏽">Lọv | Mídíọ́m Dák Skín Ton | Mídíọ́m Skín Ton | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat | Wúman</annotation>
-		<annotation cp="👩🏾‍❤‍👩🏽" type="tts">Tú Pípol Wit Hat: Wúman, Wúman, Mídíọ́m Dák Skín Ton, Mídíọ́m Skín Ton</annotation>
-		<annotation cp="👩🏾‍❤‍👩🏾">Lọv | Mídíọ́m Dák Skín Ton | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat | Wúman</annotation>
-		<annotation cp="👩🏾‍❤‍👩🏾" type="tts">Tú Pípol Wit Hat: Wúman, Wúman, Mídíọ́m Dák Skín Ton</annotation>
-		<annotation cp="👩🏾‍❤‍👩🏿">Dák Skín Ton | Lọv | Mídíọ́m Dák Skín Ton | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat | Wúman</annotation>
-		<annotation cp="👩🏾‍❤‍👩🏿" type="tts">Tú Pípol Wit Hat: Wúman, Wúman, Mídíọ́m Dák Skín Ton, Dák Skín Ton</annotation>
-		<annotation cp="👩🏿‍❤‍👩🏻">Dák Skín Ton | Laít Skín Ton | Lọv | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat | Wúman</annotation>
-		<annotation cp="👩🏿‍❤‍👩🏻" type="tts">Tú Pípol Wit Hat: Wúman, Wúman, Dák Skín Ton, Laít Skín Ton</annotation>
-		<annotation cp="👩🏿‍❤‍👩🏼">Dák Skín Ton | Lọv | Mídíọ́m-Laít Skín Ton | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat | Wúman</annotation>
-		<annotation cp="👩🏿‍❤‍👩🏼" type="tts">Tú Pípol Wit Hat: Wúman, Wúman, Dák Skín Ton, Mídíọ́m-Laít Skín Ton</annotation>
-		<annotation cp="👩🏿‍❤‍👩🏽">Dák Skín Ton | Lọv | Mídíọ́m Skín Ton | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat | Wúman</annotation>
-		<annotation cp="👩🏿‍❤‍👩🏽" type="tts">Tú Pípol Wit Hat: Wúman, Wúman, Dák Skín Ton, Mídíọ́m Skín Ton</annotation>
-		<annotation cp="👩🏿‍❤‍👩🏾">Dák Skín Ton | Lọv | Mídíọ́m Dák Skín Ton | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat | Wúman</annotation>
-		<annotation cp="👩🏿‍❤‍👩🏾" type="tts">Tú Pípol Wit Hat: Wúman, Wúman, Dák Skín Ton, Mídíọ́m Dák Skín Ton</annotation>
-		<annotation cp="👩🏿‍❤‍👩🏿">Dák Skín Ton | Lọv | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat | Wúman</annotation>
-		<annotation cp="👩🏿‍❤‍👩🏿" type="tts">Tú Pípol Wit Hat: Wúman, Wúman, Dák Skín Ton</annotation>
+		<annotation cp="👩🏻‍❤‍👨🏻">Laít Skín Ton | Lọv | Man | Tuú Pípul | Tuú Pípul Wit Hat | Wúman</annotation>
+		<annotation cp="👩🏻‍❤‍👨🏻" type="tts">Tuú Pípul Wit Hat: Wúman, Man, Laít Skín Ton</annotation>
+		<annotation cp="👩🏻‍❤‍👨🏼">Laít Skín Ton | Lọv | Man | Mídíọ́m-Laít Skín Ton | Tuú Pípul | Tuú Pípul Wit Hat | Wúman</annotation>
+		<annotation cp="👩🏻‍❤‍👨🏼" type="tts">Tuú Pípul Wit Hat: Wúman, Man, Laít Skín Ton, Mídíọ́m-Laít Skín Ton</annotation>
+		<annotation cp="👩🏻‍❤‍👨🏽">Laít Skín Ton | Lọv | Man | Mídíọ́m Skín Ton | Tuú Pípul | Tuú Pípul Wit Hat | Wúman</annotation>
+		<annotation cp="👩🏻‍❤‍👨🏽" type="tts">Tuú Pípul Wit Hat: Wúman, Man, Laít Skín Ton, Mídíọ́m Skín Ton</annotation>
+		<annotation cp="👩🏻‍❤‍👨🏾">Laít Skín Ton | Lọv | Man | Mídíọ́m Dák Skín Ton | Tuú Pípul | Tuú Pípul Wit Hat | Wúman</annotation>
+		<annotation cp="👩🏻‍❤‍👨🏾" type="tts">Tuú Pípul Wit Hat: Wúman, Man, Laít Skín Ton, Mídíọ́m Dák Skín Ton</annotation>
+		<annotation cp="👩🏻‍❤‍👨🏿">Dák Skín Ton | Laít Skín Ton | Lọv | Man | Tuú Pípul | Tuú Pípul Wit Hat | Wúman</annotation>
+		<annotation cp="👩🏻‍❤‍👨🏿" type="tts">Tuú Pípul Wit Hat: Wúman, Man, Laít Skín Ton, Dák Skín Ton</annotation>
+		<annotation cp="👩🏼‍❤‍👨🏻">Laít Skín Ton | Lọv | Man | Mídíọ́m-Laít Skín Ton | Tuú Pípul | Tuú Pípul Wit Hat | Wúman</annotation>
+		<annotation cp="👩🏼‍❤‍👨🏻" type="tts">Tuú Pípul Wit Hat: Wúman, Man, Mídíọ́m-Laít Skín Ton, Laít Skín Ton</annotation>
+		<annotation cp="👩🏼‍❤‍👨🏼">Lọv | Man | Mídíọ́m-Laít Skín Ton | Tuú Pípul | Tuú Pípul Wit Hat | Wúman</annotation>
+		<annotation cp="👩🏼‍❤‍👨🏼" type="tts">Tuú Pípul Wit Hat: Wúman, Man, Mídíọ́m-Laít Skín Ton</annotation>
+		<annotation cp="👩🏼‍❤‍👨🏽">Lọv | Man | Mídíọ́m Skín Ton | Mídíọ́m-Laít Skín Ton | Tuú Pípul | Tuú Pípul Wit Hat | Wúman</annotation>
+		<annotation cp="👩🏼‍❤‍👨🏽" type="tts">Tuú Pípul Wit Hat: Wúman, Man, Mídíọ́m-Laít Skín Ton, Mídíọ́m Skín Ton</annotation>
+		<annotation cp="👩🏼‍❤‍👨🏾">Lọv | Man | Mídíọ́m Dák Skín Ton | Mídíọ́m-Laít Skín Ton | Tuú Pípul | Tuú Pípul Wit Hat | Wúman</annotation>
+		<annotation cp="👩🏼‍❤‍👨🏾" type="tts">Tuú Pípul Wit Hat: Wúman, Man, Mídíọ́m-Laít Skín Ton, Mídíọ́m Dák Skín Ton</annotation>
+		<annotation cp="👩🏼‍❤‍👨🏿">Dák Skín Ton | Lọv | Man | Mídíọ́m-Laít Skín Ton | Tuú Pípul | Tuú Pípul Wit Hat | Wúman</annotation>
+		<annotation cp="👩🏼‍❤‍👨🏿" type="tts">Tuú Pípul Wit Hat: Wúman, Man, Mídíọ́m-Laít Skín Ton, Dák Skín Ton</annotation>
+		<annotation cp="👩🏽‍❤‍👨🏻">Laít Skín Ton | Lọv | Man | Mídíọ́m Skín Ton | Tuú Pípul | Tuú Pípul Wit Hat | Wúman</annotation>
+		<annotation cp="👩🏽‍❤‍👨🏻" type="tts">Tuú Pípul Wit Hat: Wúman, Man, Mídíọ́m Skín Ton, Laít Skín Ton</annotation>
+		<annotation cp="👩🏽‍❤‍👨🏼">Lọv | Man | Mídíọ́m Skín Ton | Mídíọ́m-Laít Skín Ton | Tuú Pípul | Tuú Pípul Wit Hat | Wúman</annotation>
+		<annotation cp="👩🏽‍❤‍👨🏼" type="tts">Tuú Pípul Wit Hat: Wúman, Man, Mídíọ́m Skín Ton, Mídíọ́m-Laít Skín Ton</annotation>
+		<annotation cp="👩🏽‍❤‍👨🏽">Lọv | Man | Mídíọ́m Skín Ton | Tuú Pípul | Tuú Pípul Wit Hat | Wúman</annotation>
+		<annotation cp="👩🏽‍❤‍👨🏽" type="tts">Tuú Pípul Wit Hat: Wúman, Man, Mídíọ́m Skín Ton</annotation>
+		<annotation cp="👩🏽‍❤‍👨🏾">Lọv | Man | Mídíọ́m Dák Skín Ton | Mídíọ́m Skín Ton | Tuú Pípul | Tuú Pípul Wit Hat | Wúman</annotation>
+		<annotation cp="👩🏽‍❤‍👨🏾" type="tts">Tuú Pípul Wit Hat: Wúman, Man, Mídíọ́m Skín Ton, Mídíọ́m Dák Skín Ton</annotation>
+		<annotation cp="👩🏽‍❤‍👨🏿">Dák Skín Ton | Lọv | Man | Mídíọ́m Skín Ton | Tuú Pípul | Tuú Pípul Wit Hat | Wúman</annotation>
+		<annotation cp="👩🏽‍❤‍👨🏿" type="tts">Tuú Pípul Wit Hat: Wúman, Man, Mídíọ́m Skín Ton, Dák Skín Ton</annotation>
+		<annotation cp="👩🏾‍❤‍👨🏻">Laít Skín Ton | Lọv | Man | Mídíọ́m Dák Skín Ton | Tuú Pípul | Tuú Pípul Wit Hat | Wúman</annotation>
+		<annotation cp="👩🏾‍❤‍👨🏻" type="tts">Tuú Pípul Wit Hat: Wúman, Man, Mídíọ́m Dák Skín Ton, Laít Skín Ton</annotation>
+		<annotation cp="👩🏾‍❤‍👨🏼">Lọv | Man | Mídíọ́m Dák Skín Ton | Mídíọ́m-Laít Skín Ton | Tuú Pípul | Tuú Pípul Wit Hat | Wúman</annotation>
+		<annotation cp="👩🏾‍❤‍👨🏼" type="tts">Tuú Pípul Wit Hat: Wúman, Man, Mídíọ́m Dák Skín Ton, Mídíọ́m-Laít Skín Ton</annotation>
+		<annotation cp="👩🏾‍❤‍👨🏽">Lọv | Man | Mídíọ́m Dák Skín Ton | Mídíọ́m Skín Ton | Tuú Pípul | Tuú Pípul Wit Hat | Wúman</annotation>
+		<annotation cp="👩🏾‍❤‍👨🏽" type="tts">Tuú Pípul Wit Hat: Wúman, Man, Mídíọ́m Dák Skín Ton, Mídíọ́m Skín Ton</annotation>
+		<annotation cp="👩🏾‍❤‍👨🏾">Lọv | Man | Mídíọ́m Dák Skín Ton | Tuú Pípul | Tuú Pípul Wit Hat | Wúman</annotation>
+		<annotation cp="👩🏾‍❤‍👨🏾" type="tts">Tuú Pípul Wit Hat: Wúman, Man, Mídíọ́m Dák Skín Ton</annotation>
+		<annotation cp="👩🏾‍❤‍👨🏿">Dák Skín Ton | Lọv | Man | Mídíọ́m Dák Skín Ton | Tuú Pípul | Tuú Pípul Wit Hat | Wúman</annotation>
+		<annotation cp="👩🏾‍❤‍👨🏿" type="tts">Tuú Pípul Wit Hat: Wúman, Man, Mídíọ́m Dák Skín Ton, Dák Skín Ton</annotation>
+		<annotation cp="👩🏿‍❤‍👨🏻">Dák Skín Ton | Laít Skín Ton | Lọv | Man | Tuú Pípul | Tuú Pípul Wit Hat | Wúman</annotation>
+		<annotation cp="👩🏿‍❤‍👨🏻" type="tts">Tuú Pípul Wit Hat: Wúman, Man, Dák Skín Ton, Laít Skín Ton</annotation>
+		<annotation cp="👩🏿‍❤‍👨🏼">Dák Skín Ton | Lọv | Man | Mídíọ́m-Laít Skín Ton | Tuú Pípul | Tuú Pípul Wit Hat | Wúman</annotation>
+		<annotation cp="👩🏿‍❤‍👨🏼" type="tts">Tuú Pípul Wit Hat: Wúman, Man, Dák Skín Ton, Mídíọ́m-Laít Skín Ton</annotation>
+		<annotation cp="👩🏿‍❤‍👨🏽">Dák Skín Ton | Lọv | Man | Mídíọ́m Skín Ton | Tuú Pípul | Tuú Pípul Wit Hat | Wúman</annotation>
+		<annotation cp="👩🏿‍❤‍👨🏽" type="tts">Tuú Pípul Wit Hat: Wúman, Man, Dák Skín Ton, Mídíọ́m Skín Ton</annotation>
+		<annotation cp="👩🏿‍❤‍👨🏾">Dák Skín Ton | Lọv | Man | Mídíọ́m Dák Skín Ton | Tuú Pípul | Tuú Pípul Wit Hat | Wúman</annotation>
+		<annotation cp="👩🏿‍❤‍👨🏾" type="tts">Tuú Pípul Wit Hat: Wúman, Man, Dák Skín Ton, Mídíọ́m Dák Skín Ton</annotation>
+		<annotation cp="👩🏿‍❤‍👨🏿">Dák Skín Ton | Lọv | Man | Tuú Pípul | Tuú Pípul Wit Hat | Wúman</annotation>
+		<annotation cp="👩🏿‍❤‍👨🏿" type="tts">Tuú Pípul Wit Hat: Wúman, Man, Dák Skín Ton</annotation>
+		<annotation cp="👩🏻‍❤‍👩🏻">Laít Skín Ton | Lọv | Tuú Pípul | Tuú Pípul Wit Hat | Wúman</annotation>
+		<annotation cp="👩🏻‍❤‍👩🏻" type="tts">Tuú Pípul Wit Hat: Wúman, Wúman, Laít Skín Ton</annotation>
+		<annotation cp="👩🏻‍❤‍👩🏼">Laít Skín Ton | Lọv | Mídíọ́m-Laít Skín Ton | Tuú Pípul | Tuú Pípul Wit Hat | Wúman</annotation>
+		<annotation cp="👩🏻‍❤‍👩🏼" type="tts">Tuú Pípul Wit Hat: Wúman, Wúman, Laít Skín Ton, Mídíọ́m-Laít Skín Ton</annotation>
+		<annotation cp="👩🏻‍❤‍👩🏽">Laít Skín Ton | Lọv | Mídíọ́m Skín Ton | Tuú Pípul | Tuú Pípul Wit Hat | Wúman</annotation>
+		<annotation cp="👩🏻‍❤‍👩🏽" type="tts">Tuú Pípul Wit Hat: Wúman, Wúman, Laít Skín Ton, Mídíọ́m Skín Ton</annotation>
+		<annotation cp="👩🏻‍❤‍👩🏾">Laít Skín Ton | Lọv | Mídíọ́m Dák Skín Ton | Tuú Pípul | Tuú Pípul Wit Hat | Wúman</annotation>
+		<annotation cp="👩🏻‍❤‍👩🏾" type="tts">Tuú Pípul Wit Hat: Wúman, Wúman, Laít Skín Ton, Mídíọ́m Dák Skín Ton</annotation>
+		<annotation cp="👩🏻‍❤‍👩🏿">Dák Skín Ton | Laít Skín Ton | Lọv | Tuú Pípul | Tuú Pípul Wit Hat | Wúman</annotation>
+		<annotation cp="👩🏻‍❤‍👩🏿" type="tts">Tuú Pípul Wit Hat: Wúman, Wúman, Laít Skín Ton, Dák Skín Ton</annotation>
+		<annotation cp="👩🏼‍❤‍👩🏻">Laít Skín Ton | Lọv | Mídíọ́m-Laít Skín Ton | Tuú Pípul | Tuú Pípul Wit Hat | Wúman</annotation>
+		<annotation cp="👩🏼‍❤‍👩🏻" type="tts">Tuú Pípul Wit Hat: Wúman, Wúman, Mídíọ́m-Laít Skín Ton, Laít Skín Ton</annotation>
+		<annotation cp="👩🏼‍❤‍👩🏼">Lọv | Mídíọ́m-Laít Skín Ton | Tuú Pípul | Tuú Pípul Wit Hat | Wúman</annotation>
+		<annotation cp="👩🏼‍❤‍👩🏼" type="tts">Tuú Pípul Wit Hat: Wúman, Wúman, Mídíọ́m-Laít Skín Ton</annotation>
+		<annotation cp="👩🏼‍❤‍👩🏽">Lọv | Mídíọ́m Skín Ton | Mídíọ́m-Laít Skín Ton | Tuú Pípul | Tuú Pípul Wit Hat | Wúman</annotation>
+		<annotation cp="👩🏼‍❤‍👩🏽" type="tts">Tuú Pípul Wit Hat: Wúman, Wúman, Mídíọ́m-Laít Skín Ton, Mídíọ́m Skín Ton</annotation>
+		<annotation cp="👩🏼‍❤‍👩🏾">Lọv | Mídíọ́m Dák Skín Ton | Mídíọ́m-Laít Skín Ton | Tuú Pípul | Tuú Pípul Wit Hat | Wúman</annotation>
+		<annotation cp="👩🏼‍❤‍👩🏾" type="tts">Tuú Pípul Wit Hat: Wúman, Wúman, Mídíọ́m-Laít Skín Ton, Mídíọ́m Dák Skín Ton</annotation>
+		<annotation cp="👩🏼‍❤‍👩🏿">Dák Skín Ton | Lọv | Mídíọ́m-Laít Skín Ton | Tuú Pípul | Tuú Pípul Wit Hat | Wúman</annotation>
+		<annotation cp="👩🏼‍❤‍👩🏿" type="tts">Tuú Pípul Wit Hat: Wúman, Wúman, Mídíọ́m-Laít Skín Ton, Dák Skín Ton</annotation>
+		<annotation cp="👩🏽‍❤‍👩🏻">Laít Skín Ton | Lọv | Mídíọ́m Skín Ton | Tuú Pípul | Tuú Pípul Wit Hat | Wúman</annotation>
+		<annotation cp="👩🏽‍❤‍👩🏻" type="tts">Tuú Pípul Wit Hat: Wúman, Wúman, Mídíọ́m Skín Ton, Laít Skín Ton</annotation>
+		<annotation cp="👩🏽‍❤‍👩🏼">Lọv | Mídíọ́m Skín Ton | Mídíọ́m-Laít Skín Ton | Tuú Pípul | Tuú Pípul Wit Hat | Wúman</annotation>
+		<annotation cp="👩🏽‍❤‍👩🏼" type="tts">Tuú Pípul Wit Hat: Wúman, Wúman, Mídíọ́m Skín Ton, Mídíọ́m-Laít Skín Ton</annotation>
+		<annotation cp="👩🏽‍❤‍👩🏽">Lọv | Mídíọ́m Skín Ton | Tuú Pípul | Tuú Pípul Wit Hat | Wúman</annotation>
+		<annotation cp="👩🏽‍❤‍👩🏽" type="tts">Tuú Pípul Wit Hat: Wúman, Wúman, Mídíọ́m Skín Ton</annotation>
+		<annotation cp="👩🏽‍❤‍👩🏾">Lọv | Mídíọ́m Dák Skín Ton | Mídíọ́m Skín Ton | Tuú Pípul | Tuú Pípul Wit Hat | Wúman</annotation>
+		<annotation cp="👩🏽‍❤‍👩🏾" type="tts">Tuú Pípul Wit Hat: Wúman, Wúman, Mídíọ́m Skín Ton, Mídíọ́m Dák Skín Ton</annotation>
+		<annotation cp="👩🏽‍❤‍👩🏿">Dák Skín Ton | Lọv | Mídíọ́m Skín Ton | Tuú Pípul | Tuú Pípul Wit Hat | Wúman</annotation>
+		<annotation cp="👩🏽‍❤‍👩🏿" type="tts">Tuú Pípul Wit Hat: Wúman, Wúman, Mídíọ́m Skín Ton, Dák Skín Ton</annotation>
+		<annotation cp="👩🏾‍❤‍👩🏻">Laít Skín Ton | Lọv | Mídíọ́m Dák Skín Ton | Tuú Pípul | Tuú Pípul Wit Hat | Wúman</annotation>
+		<annotation cp="👩🏾‍❤‍👩🏻" type="tts">Tuú Pípul Wit Hat: Wúman, Wúman, Mídíọ́m Dák Skín Ton, Laít Skín Ton</annotation>
+		<annotation cp="👩🏾‍❤‍👩🏼">Lọv | Mídíọ́m Dák Skín Ton | Mídíọ́m-Laít Skín Ton | Tuú Pípul | Tuú Pípul Wit Hat | Wúman</annotation>
+		<annotation cp="👩🏾‍❤‍👩🏼" type="tts">Tuú Pípul Wit Hat: Wúman, Wúman, Mídíọ́m Dák Skín Ton, Mídíọ́m-Laít Skín Ton</annotation>
+		<annotation cp="👩🏾‍❤‍👩🏽">Lọv | Mídíọ́m Dák Skín Ton | Mídíọ́m Skín Ton | Tuú Pípul | Tuú Pípul Wit Hat | Wúman</annotation>
+		<annotation cp="👩🏾‍❤‍👩🏽" type="tts">Tuú Pípul Wit Hat: Wúman, Wúman, Mídíọ́m Dák Skín Ton, Mídíọ́m Skín Ton</annotation>
+		<annotation cp="👩🏾‍❤‍👩🏾">Lọv | Mídíọ́m Dák Skín Ton | Tuú Pípul | Tuú Pípul Wit Hat | Wúman</annotation>
+		<annotation cp="👩🏾‍❤‍👩🏾" type="tts">Tuú Pípul Wit Hat: Wúman, Wúman, Mídíọ́m Dák Skín Ton</annotation>
+		<annotation cp="👩🏾‍❤‍👩🏿">Dák Skín Ton | Lọv | Mídíọ́m Dák Skín Ton | Tuú Pípul | Tuú Pípul Wit Hat | Wúman</annotation>
+		<annotation cp="👩🏾‍❤‍👩🏿" type="tts">Tuú Pípul Wit Hat: Wúman, Wúman, Mídíọ́m Dák Skín Ton, Dák Skín Ton</annotation>
+		<annotation cp="👩🏿‍❤‍👩🏻">Dák Skín Ton | Laít Skín Ton | Lọv | Tuú Pípul | Tuú Pípul Wit Hat | Wúman</annotation>
+		<annotation cp="👩🏿‍❤‍👩🏻" type="tts">Tuú Pípul Wit Hat: Wúman, Wúman, Dák Skín Ton, Laít Skín Ton</annotation>
+		<annotation cp="👩🏿‍❤‍👩🏼">Dák Skín Ton | Lọv | Mídíọ́m-Laít Skín Ton | Tuú Pípul | Tuú Pípul Wit Hat | Wúman</annotation>
+		<annotation cp="👩🏿‍❤‍👩🏼" type="tts">Tuú Pípul Wit Hat: Wúman, Wúman, Dák Skín Ton, Mídíọ́m-Laít Skín Ton</annotation>
+		<annotation cp="👩🏿‍❤‍👩🏽">Dák Skín Ton | Lọv | Mídíọ́m Skín Ton | Tuú Pípul | Tuú Pípul Wit Hat | Wúman</annotation>
+		<annotation cp="👩🏿‍❤‍👩🏽" type="tts">Tuú Pípul Wit Hat: Wúman, Wúman, Dák Skín Ton, Mídíọ́m Skín Ton</annotation>
+		<annotation cp="👩🏿‍❤‍👩🏾">Dák Skín Ton | Lọv | Mídíọ́m Dák Skín Ton | Tuú Pípul | Tuú Pípul Wit Hat | Wúman</annotation>
+		<annotation cp="👩🏿‍❤‍👩🏾" type="tts">Tuú Pípul Wit Hat: Wúman, Wúman, Dák Skín Ton, Mídíọ́m Dák Skín Ton</annotation>
+		<annotation cp="👩🏿‍❤‍👩🏿">Dák Skín Ton | Lọv | Tuú Pípul | Tuú Pípul Wit Hat | Wúman</annotation>
+		<annotation cp="👩🏿‍❤‍👩🏿" type="tts">Tuú Pípul Wit Hat: Wúman, Wúman, Dák Skín Ton</annotation>
 		<annotation cp="👩‍🦰">Machọ́ Pẹ́sin | Rẹ́d Hea | Wúman</annotation>
 		<annotation cp="👩‍🦰" type="tts">Wúman: Rẹ́d Hea</annotation>
 		<annotation cp="👩🏻‍🦰">Laít Skín Ton | Machọ́ Pẹ́sin | Rẹ́d Hea | Wúman</annotation>
@@ -1176,15 +1317,15 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🙅🏾‍♀" type="tts">Wúman Tẹk Hand De Shó Sé Na NO I Min: Mídíọ́m Dák Skín Ton</annotation>
 		<annotation cp="🙅🏿‍♀">Dák Skín Ton | Hand | Mék Yu Nọ́ Dú Sọ́mtin | Nó Alau | Sain | To Fọbíd Sọ́mtin | Wúman | Wúman Tẹk Hand De Shó Sé Na NO I Min | Wúman Wé Ték Hand De Shó Sé Na NO I Min</annotation>
 		<annotation cp="🙅🏿‍♀" type="tts">Wúman Tẹk Hand De Shó Sé Na NO I Min: Dák Skín Ton</annotation>
-		<annotation cp="🙆🏻">Hand | Laít Skín Ton | OK | Pẹ́sin Tẹk Hand De Shó Sé Na OK I Min | Pẹ́sin Wé Ték Hand De Shó Sé Na OK I Min | Sain</annotation>
+		<annotation cp="🙆🏻">Hand | Laít Skín Ton | OK | Pẹ́sin Tẹk Hand De Shó Sé Na OK I Min | Pẹ́sin Wé Tẹk Hand De Shó Sé Na OK I Min | Sain</annotation>
 		<annotation cp="🙆🏻" type="tts">Pẹ́sin Tẹk Hand De Shó Sé Na OK I Min: Laít Skín Ton</annotation>
-		<annotation cp="🙆🏼">Hand | Mídíọ́m-Laít Skín Ton | OK | Pẹ́sin Tẹk Hand De Shó Sé Na OK I Min | Pẹ́sin Wé Ték Hand De Shó Sé Na OK I Min | Sain</annotation>
+		<annotation cp="🙆🏼">Hand | Mídíọ́m-Laít Skín Ton | OK | Pẹ́sin Tẹk Hand De Shó Sé Na OK I Min | Pẹ́sin Wé Tẹk Hand De Shó Sé Na OK I Min | Sain</annotation>
 		<annotation cp="🙆🏼" type="tts">Pẹ́sin Tẹk Hand De Shó Sé Na OK I Min: Mídíọ́m-Laít Skín Ton</annotation>
-		<annotation cp="🙆🏽">Hand | Mídíọ́m Skín Ton | OK | Pẹ́sin Tẹk Hand De Shó Sé Na OK I Min | Pẹ́sin Wé Ték Hand De Shó Sé Na OK I Min | Sain</annotation>
+		<annotation cp="🙆🏽">Hand | Mídíọ́m Skín Ton | OK | Pẹ́sin Tẹk Hand De Shó Sé Na OK I Min | Pẹ́sin Wé Tẹk Hand De Shó Sé Na OK I Min | Sain</annotation>
 		<annotation cp="🙆🏽" type="tts">Pẹ́sin Tẹk Hand De Shó Sé Na OK I Min: Mídíọ́m Skín Ton</annotation>
-		<annotation cp="🙆🏾">Hand | Mídíọ́m Dák Skín Ton | OK | Pẹ́sin Tẹk Hand De Shó Sé Na OK I Min | Pẹ́sin Wé Ték Hand De Shó Sé Na OK I Min | Sain</annotation>
+		<annotation cp="🙆🏾">Hand | Mídíọ́m Dák Skín Ton | OK | Pẹ́sin Tẹk Hand De Shó Sé Na OK I Min | Pẹ́sin Wé Tẹk Hand De Shó Sé Na OK I Min | Sain</annotation>
 		<annotation cp="🙆🏾" type="tts">Pẹ́sin Tẹk Hand De Shó Sé Na OK I Min: Mídíọ́m Dák Skín Ton</annotation>
-		<annotation cp="🙆🏿">Dák Skín Ton | Hand | OK | Pẹ́sin Tẹk Hand De Shó Sé Na OK I Min | Pẹ́sin Wé Ték Hand De Shó Sé Na OK I Min | Sain</annotation>
+		<annotation cp="🙆🏿">Dák Skín Ton | Hand | OK | Pẹ́sin Tẹk Hand De Shó Sé Na OK I Min | Pẹ́sin Wé Tẹk Hand De Shó Sé Na OK I Min | Sain</annotation>
 		<annotation cp="🙆🏿" type="tts">Pẹ́sin Tẹk Hand De Shó Sé Na OK I Min: Dák Skín Ton</annotation>
 		<annotation cp="🙆🏻‍♂">Hand | Laít Skín Ton | Man | Man Tẹk Hand De Shó Sé Na OK I Min | OK | Pẹ́sin Wé Ték Hand De Shó Sé Na OK I Min | Sain</annotation>
 		<annotation cp="🙆🏻‍♂" type="tts">Man Tẹk Hand De Shó Sé Na OK I Min: Laít Skín Ton</annotation>
@@ -1996,6 +2137,16 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👷🏾‍♀" type="tts">Wúmán Kọnstrọ́kshọ́n Wọ́ka: Mídíọ́m Dák Skín Ton</annotation>
 		<annotation cp="👷🏿‍♀">Dák Skín Ton | Kọ́nstrọ́shọn | Wọ́ka | Wúman | Wúmán Kọnstrọ́kshọ́n Wọ́ka</annotation>
 		<annotation cp="👷🏿‍♀" type="tts">Wúmán Kọnstrọ́kshọ́n Wọ́ka: Dák Skín Ton</annotation>
+		<annotation cp="🫅🏻">King Ọ Kwin | King Ọ Kwin Wé De Rúl Kọ́ntri | Laít Skín Ton | Mẹ́mbá Ọf King Ọ Kwin Fámíli | Pẹ́sin Wé Wiá Kraun | To Bilọ́ng To Impọ́tánt Fámíli Fọ Kọ́ntri</annotation>
+		<annotation cp="🫅🏻" type="tts">Pẹ́sin Wé Wiá Kraun: Laít Skín Ton</annotation>
+		<annotation cp="🫅🏼">King Ọ Kwin | King Ọ Kwin Wé De Rúl Kọ́ntri | Mẹ́mbá Ọf King Ọ Kwin Fámíli | Mídíọ́m-Laít Skín Ton | Pẹ́sin Wé Wiá Kraun | To Bilọ́ng To Impọ́tánt Fámíli Fọ Kọ́ntri</annotation>
+		<annotation cp="🫅🏼" type="tts">Pẹ́sin Wé Wiá Kraun: Mídíọ́m-Laít Skín Ton</annotation>
+		<annotation cp="🫅🏽">King Ọ Kwin | King Ọ Kwin Wé De Rúl Kọ́ntri | Mẹ́mbá Ọf King Ọ Kwin Fámíli | Mídíọ́m Skín Ton | Pẹ́sin Wé Wiá Kraun | To Bilọ́ng To Impọ́tánt Fámíli Fọ Kọ́ntri</annotation>
+		<annotation cp="🫅🏽" type="tts">Pẹ́sin Wé Wiá Kraun: Mídíọ́m Skín Ton</annotation>
+		<annotation cp="🫅🏾">King Ọ Kwin | King Ọ Kwin Wé De Rúl Kọ́ntri | Mẹ́mbá Ọf King Ọ Kwin Fámíli | Mídíọ́m Dák Skín Ton | Pẹ́sin Wé Wiá Kraun | To Bilọ́ng To Impọ́tánt Fámíli Fọ Kọ́ntri</annotation>
+		<annotation cp="🫅🏾" type="tts">Pẹ́sin Wé Wiá Kraun: Mídíọ́m Dák Skín Ton</annotation>
+		<annotation cp="🫅🏿">Dák Skín Ton | King Ọ Kwin | King Ọ Kwin Wé De Rúl Kọ́ntri | Mẹ́mbá Ọf King Ọ Kwin Fámíli | Pẹ́sin Wé Wiá Kraun | To Bilọ́ng To Impọ́tánt Fámíli Fọ Kọ́ntri</annotation>
+		<annotation cp="🫅🏿" type="tts">Pẹ́sin Wé Wiá Kraun: Dák Skín Ton</annotation>
 		<annotation cp="🤴🏻">Laít Skín Ton | Prins</annotation>
 		<annotation cp="🤴🏻" type="tts">Prins: Laít Skín Ton</annotation>
 		<annotation cp="🤴🏼">Mídíọ́m-Laít Skín Ton | Prins</annotation>
@@ -2136,15 +2287,35 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🤰🏾" type="tts">Wúman Wé Gẹ́t Bẹlẹ́: Mídíọ́m Dák Skín Ton</annotation>
 		<annotation cp="🤰🏿">Bẹlẹ́ | Dák Skín Ton | Fọ Wúman To Gẹ́t Bẹlẹ́ | Wúman | Wúman Wé Gẹ́t Bẹlẹ́</annotation>
 		<annotation cp="🤰🏿" type="tts">Wúman Wé Gẹ́t Bẹlẹ́: Dák Skín Ton</annotation>
-		<annotation cp="🤱🏻">Bebí | Brẹst | Fọ Wúman To Gív Smọ́l Pikin Brẹst | Laít Skín Ton | To Gív Smọ́l Píkin Brẹst | Wúman Wé De Gív Pikin Brẹst</annotation>
+		<annotation cp="🫃🏻">Bẹlẹ́ | Bẹlẹ́ Wé Swẹ́l Ọp | Fọ Wúman To Gẹ́t Bẹlẹ́ | Ful | Laít Skín Ton | Man Wé Gẹ́t Bẹlẹ́</annotation>
+		<annotation cp="🫃🏻" type="tts">Man Wé Gẹ́t Bẹlẹ́: Laít Skín Ton</annotation>
+		<annotation cp="🫃🏼">Bẹlẹ́ | Bẹlẹ́ Wé Swẹ́l Ọp | Fọ Wúman To Gẹ́t Bẹlẹ́ | Ful | Man Wé Gẹ́t Bẹlẹ́ | Mídíọ́m-Laít Skín Ton</annotation>
+		<annotation cp="🫃🏼" type="tts">Man Wé Gẹ́t Bẹlẹ́: Mídíọ́m-Laít Skín Ton</annotation>
+		<annotation cp="🫃🏽">Bẹlẹ́ | Bẹlẹ́ Wé Swẹ́l Ọp | Fọ Wúman To Gẹ́t Bẹlẹ́ | Ful | Man Wé Gẹ́t Bẹlẹ́ | Mídíọ́m Skín Ton</annotation>
+		<annotation cp="🫃🏽" type="tts">Man Wé Gẹ́t Bẹlẹ́: Mídíọ́m Skín Ton</annotation>
+		<annotation cp="🫃🏾">Bẹlẹ́ | Bẹlẹ́ Wé Swẹ́l Ọp | Fọ Wúman To Gẹ́t Bẹlẹ́ | Ful | Man Wé Gẹ́t Bẹlẹ́ | Mídíọ́m Dák Skín Ton</annotation>
+		<annotation cp="🫃🏾" type="tts">Man Wé Gẹ́t Bẹlẹ́: Mídíọ́m Dák Skín Ton</annotation>
+		<annotation cp="🫃🏿">Bẹlẹ́ | Bẹlẹ́ Wé Swẹ́l Ọp | Dák Skín Ton | Fọ Wúman To Gẹ́t Bẹlẹ́ | Ful | Man Wé Gẹ́t Bẹlẹ́</annotation>
+		<annotation cp="🫃🏿" type="tts">Man Wé Gẹ́t Bẹlẹ́: Dák Skín Ton</annotation>
+		<annotation cp="🫄🏻">Bẹlẹ́ | Bẹlẹ́ Wé Swẹ́l Ọp | Fọ Wúman To Gẹ́t Bẹlẹ́ | Ful | Laít Skín Ton | Pẹ́sin Wé Gẹ́t Bẹlẹ́</annotation>
+		<annotation cp="🫄🏻" type="tts">Pẹ́sin Wé Gẹ́t Bẹlẹ́: Laít Skín Ton</annotation>
+		<annotation cp="🫄🏼">Bẹlẹ́ | Bẹlẹ́ Wé Swẹ́l Ọp | Fọ Wúman To Gẹ́t Bẹlẹ́ | Ful | Mídíọ́m-Laít Skín Ton | Pẹ́sin Wé Gẹ́t Bẹlẹ́</annotation>
+		<annotation cp="🫄🏼" type="tts">Pẹ́sin Wé Gẹ́t Bẹlẹ́: Mídíọ́m-Laít Skín Ton</annotation>
+		<annotation cp="🫄🏽">Bẹlẹ́ | Bẹlẹ́ Wé Swẹ́l Ọp | Fọ Wúman To Gẹ́t Bẹlẹ́ | Ful | Mídíọ́m Skín Ton | Pẹ́sin Wé Gẹ́t Bẹlẹ́</annotation>
+		<annotation cp="🫄🏽" type="tts">Pẹ́sin Wé Gẹ́t Bẹlẹ́: Mídíọ́m Skín Ton</annotation>
+		<annotation cp="🫄🏾">Bẹlẹ́ | Bẹlẹ́ Wé Swẹ́l Ọp | Fọ Wúman To Gẹ́t Bẹlẹ́ | Ful | Mídíọ́m Dák Skín Ton | Pẹ́sin Wé Gẹ́t Bẹlẹ́</annotation>
+		<annotation cp="🫄🏾" type="tts">Pẹ́sin Wé Gẹ́t Bẹlẹ́: Mídíọ́m Dák Skín Ton</annotation>
+		<annotation cp="🫄🏿">Bẹlẹ́ | Bẹlẹ́ Wé Swẹ́l Ọp | Dák Skín Ton | Fọ Wúman To Gẹ́t Bẹlẹ́ | Ful | Pẹ́sin Wé Gẹ́t Bẹlẹ́</annotation>
+		<annotation cp="🫄🏿" type="tts">Pẹ́sin Wé Gẹ́t Bẹlẹ́: Dák Skín Ton</annotation>
+		<annotation cp="🤱🏻">Bebí | Brẹst | Laít Skín Ton | To Gív Smọ́l Píkin Brẹst | Wúman Wé De Gív Pikin Brẹst</annotation>
 		<annotation cp="🤱🏻" type="tts">Wúman Wé De Gív Pikin Brẹst: Laít Skín Ton</annotation>
-		<annotation cp="🤱🏼">Bebí | Brẹst | Fọ Wúman To Gív Smọ́l Pikin Brẹst | Mídíọ́m-Laít Skín Ton | To Gív Smọ́l Píkin Brẹst | Wúman Wé De Gív Pikin Brẹst</annotation>
+		<annotation cp="🤱🏼">Bebí | Brẹst | Mídíọ́m-Laít Skín Ton | To Gív Smọ́l Píkin Brẹst | Wúman Wé De Gív Pikin Brẹst</annotation>
 		<annotation cp="🤱🏼" type="tts">Wúman Wé De Gív Pikin Brẹst: Mídíọ́m-Laít Skín Ton</annotation>
-		<annotation cp="🤱🏽">Bebí | Brẹst | Fọ Wúman To Gív Smọ́l Pikin Brẹst | Mídíọ́m Skín Ton | To Gív Smọ́l Píkin Brẹst | Wúman Wé De Gív Pikin Brẹst</annotation>
+		<annotation cp="🤱🏽">Bebí | Brẹst | Mídíọ́m Skín Ton | To Gív Smọ́l Píkin Brẹst | Wúman Wé De Gív Pikin Brẹst</annotation>
 		<annotation cp="🤱🏽" type="tts">Wúman Wé De Gív Pikin Brẹst: Mídíọ́m Skín Ton</annotation>
-		<annotation cp="🤱🏾">Bebí | Brẹst | Fọ Wúman To Gív Smọ́l Pikin Brẹst | Mídíọ́m Dák Skín Ton | To Gív Smọ́l Píkin Brẹst | Wúman Wé De Gív Pikin Brẹst</annotation>
+		<annotation cp="🤱🏾">Bebí | Brẹst | Mídíọ́m Dák Skín Ton | To Gív Smọ́l Píkin Brẹst | Wúman Wé De Gív Pikin Brẹst</annotation>
 		<annotation cp="🤱🏾" type="tts">Wúman Wé De Gív Pikin Brẹst: Mídíọ́m Dák Skín Ton</annotation>
-		<annotation cp="🤱🏿">Bebí | Brẹst | Dák Skín Ton | Fọ Wúman To Gív Smọ́l Pikin Brẹst | To Gív Smọ́l Píkin Brẹst | Wúman Wé De Gív Pikin Brẹst</annotation>
+		<annotation cp="🤱🏿">Bebí | Brẹst | Dák Skín Ton | To Gív Smọ́l Píkin Brẹst | Wúman Wé De Gív Pikin Brẹst</annotation>
 		<annotation cp="🤱🏿" type="tts">Wúman Wé De Gív Pikin Brẹst: Dák Skín Ton</annotation>
 		<annotation cp="👩🏻‍🍼">Bebí | Fọ Wúman To Gív Smọ́l Pikin Brẹst | Laít Skín Ton | To Gív Pẹ́sin Chọp | Wúman | Wúman Wé De Gív Pikin Chọp</annotation>
 		<annotation cp="👩🏻‍🍼" type="tts">Wúman Wé De Gív Pikin Chọp: Laít Skín Ton</annotation>
@@ -2206,15 +2377,15 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🤶🏾" type="tts">Misis Klọz: Mídíọ́m Dák Skín Ton</annotation>
 		<annotation cp="🤶🏿">Dák Skín Ton | Klọz | Krísmas | Mamá | Misis | Mọ́da | Sẹlibréshọn</annotation>
 		<annotation cp="🤶🏿" type="tts">Misis Klọz: Dák Skín Ton</annotation>
-		<annotation cp="🧑🏻‍🎄">Klọz, Krísmas | Laít Skín Ton | Mx Klọz</annotation>
+		<annotation cp="🧑🏻‍🎄">Klọz | Krísmas | Laít Skín Ton | Mx Klọz</annotation>
 		<annotation cp="🧑🏻‍🎄" type="tts">Mx Klọz: Laít Skín Ton</annotation>
-		<annotation cp="🧑🏼‍🎄">Klọz, Krísmas | Mídíọ́m-Laít Skín Ton | Mx Klọz</annotation>
+		<annotation cp="🧑🏼‍🎄">Klọz | Krísmas | Mídíọ́m-Laít Skín Ton | Mx Klọz</annotation>
 		<annotation cp="🧑🏼‍🎄" type="tts">Mx Klọz: Mídíọ́m-Laít Skín Ton</annotation>
-		<annotation cp="🧑🏽‍🎄">Klọz, Krísmas | Mídíọ́m Skín Ton | Mx Klọz</annotation>
+		<annotation cp="🧑🏽‍🎄">Klọz | Krísmas | Mídíọ́m Skín Ton | Mx Klọz</annotation>
 		<annotation cp="🧑🏽‍🎄" type="tts">Mx Klọz: Mídíọ́m Skín Ton</annotation>
-		<annotation cp="🧑🏾‍🎄">Klọz, Krísmas | Mídíọ́m Dák Skín Ton | Mx Klọz</annotation>
+		<annotation cp="🧑🏾‍🎄">Klọz | Krísmas | Mídíọ́m Dák Skín Ton | Mx Klọz</annotation>
 		<annotation cp="🧑🏾‍🎄" type="tts">Mx Klọz: Mídíọ́m Dák Skín Ton</annotation>
-		<annotation cp="🧑🏿‍🎄">Dák Skín Ton | Klọz, Krísmas | Mx Klọz</annotation>
+		<annotation cp="🧑🏿‍🎄">Dák Skín Ton | Klọz | Krísmas | Mx Klọz</annotation>
 		<annotation cp="🧑🏿‍🎄" type="tts">Mx Klọz: Dák Skín Ton</annotation>
 		<annotation cp="🦸🏻">Bẹtá | Gud | Híro | Laít Skín Ton | Supahíro | Supapáwa | Wúmán Híro</annotation>
 		<annotation cp="🦸🏻" type="tts">Supahíro: Laít Skín Ton</annotation>
@@ -2246,15 +2417,15 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🦸🏾‍♀" type="tts">Wúmán Supahíro: Mídíọ́m Dák Skín Ton</annotation>
 		<annotation cp="🦸🏿‍♀">Bẹtá | Dák Skín Ton | Gud | Híro | Supapáwa | Wúman | Wúmán Híro | Wúman Supahíro | Wúmán Supahíro</annotation>
 		<annotation cp="🦸🏿‍♀" type="tts">Wúmán Supahíro: Dák Skín Ton</annotation>
-		<annotation cp="🦹🏻">Bad | Bád Pẹ́sin | Krímínal | Laít Skín Ton | Pẹ́sin Wé Bád Wẹ́l Wẹl | Supapáwa | Wíkẹd | Wíkẹ́d Krímínal</annotation>
+		<annotation cp="🦹🏻">Bád Pẹ́sin | Krímínal | Laít Skín Ton | Pẹ́sin Wé Bád Wẹ́l Wẹl | Supapáwa | Wíkẹ́d Krímínal | Wíkẹ́d Tin</annotation>
 		<annotation cp="🦹🏻" type="tts">Wíkẹ́d Krímínal: Laít Skín Ton</annotation>
-		<annotation cp="🦹🏼">Bad | Bád Pẹ́sin | Krímínal | Mídíọ́m-Laít Skín Ton | Pẹ́sin Wé Bád Wẹ́l Wẹl | Supapáwa | Wíkẹd | Wíkẹ́d Krímínal</annotation>
+		<annotation cp="🦹🏼">Bád Pẹ́sin | Krímínal | Mídíọ́m-Laít Skín Ton | Pẹ́sin Wé Bád Wẹ́l Wẹl | Supapáwa | Wíkẹ́d Krímínal | Wíkẹ́d Tin</annotation>
 		<annotation cp="🦹🏼" type="tts">Wíkẹ́d Krímínal: Mídíọ́m-Laít Skín Ton</annotation>
-		<annotation cp="🦹🏽">Bad | Bád Pẹ́sin | Krímínal | Mídíọ́m Skín Ton | Pẹ́sin Wé Bád Wẹ́l Wẹl | Supapáwa | Wíkẹd | Wíkẹ́d Krímínal</annotation>
+		<annotation cp="🦹🏽">Bád Pẹ́sin | Krímínal | Mídíọ́m Skín Ton | Pẹ́sin Wé Bád Wẹ́l Wẹl | Supapáwa | Wíkẹ́d Krímínal | Wíkẹ́d Tin</annotation>
 		<annotation cp="🦹🏽" type="tts">Wíkẹ́d Krímínal: Mídíọ́m Skín Ton</annotation>
-		<annotation cp="🦹🏾">Bad | Bád Pẹ́sin | Krímínal | Mídíọ́m Dák Skín Ton | Pẹ́sin Wé Bád Wẹ́l Wẹl | Supapáwa | Wíkẹd | Wíkẹ́d Krímínal</annotation>
+		<annotation cp="🦹🏾">Bád Pẹ́sin | Krímínal | Mídíọ́m Dák Skín Ton | Pẹ́sin Wé Bád Wẹ́l Wẹl | Supapáwa | Wíkẹ́d Krímínal | Wíkẹ́d Tin</annotation>
 		<annotation cp="🦹🏾" type="tts">Wíkẹ́d Krímínal: Mídíọ́m Dák Skín Ton</annotation>
-		<annotation cp="🦹🏿">Bad | Bád Pẹ́sin | Dák Skín Ton | Krímínal | Pẹ́sin Wé Bád Wẹ́l Wẹl | Supapáwa | Wíkẹd | Wíkẹ́d Krímínal</annotation>
+		<annotation cp="🦹🏿">Bád Pẹ́sin | Dák Skín Ton | Krímínal | Pẹ́sin Wé Bád Wẹ́l Wẹl | Supapáwa | Wíkẹ́d Krímínal | Wíkẹ́d Tin</annotation>
 		<annotation cp="🦹🏿" type="tts">Wíkẹ́d Krímínal: Dák Skín Ton</annotation>
 		<annotation cp="🦹🏻‍♂">Bad | Bád Pẹ́sin | Krímínal | Laít Skín Ton | Man Wé Bád Wẹ́l Wẹl | Supapáwa | Wíkẹd | Wíkẹ́d Mán Krímínal</annotation>
 		<annotation cp="🦹🏻‍♂" type="tts">Wíkẹ́d Mán Krímínal: Laít Skín Ton</annotation>
@@ -2276,15 +2447,15 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🦹🏾‍♀" type="tts">Wíkẹ́d Wúmán Krímínal: Mídíọ́m Dák Skín Ton</annotation>
 		<annotation cp="🦹🏿‍♀">Bad | Bád Pẹ́sin | Dák Skín Ton | Krímínal | Supapáwa | Wíkẹd | Wíkẹ́d Wúmán Krímínal | Wúman | Wúman Wé Bád Wẹ́l Wẹl</annotation>
 		<annotation cp="🦹🏿‍♀" type="tts">Wíkẹ́d Wúmán Krímínal: Dák Skín Ton</annotation>
-		<annotation cp="🧙🏻">Jujú Man | Jujú Wúman | Laít Skín Ton | Majíkshan | Majíshan | Man Wích | Wích</annotation>
+		<annotation cp="🧙🏻">Jujú Man | Jujú Wúman | Laít Skín Ton | Majíshan | Mán Wích | Wich</annotation>
 		<annotation cp="🧙🏻" type="tts">Majíshan: Laít Skín Ton</annotation>
-		<annotation cp="🧙🏼">Jujú Man | Jujú Wúman | Majíkshan | Majíshan | Man Wích | Mídíọ́m-Laít Skín Ton | Wích</annotation>
+		<annotation cp="🧙🏼">Jujú Man | Jujú Wúman | Majíshan | Mán Wích | Mídíọ́m-Laít Skín Ton | Wich</annotation>
 		<annotation cp="🧙🏼" type="tts">Majíshan: Mídíọ́m-Laít Skín Ton</annotation>
-		<annotation cp="🧙🏽">Jujú Man | Jujú Wúman | Majíkshan | Majíshan | Man Wích | Mídíọ́m Skín Ton | Wích</annotation>
+		<annotation cp="🧙🏽">Jujú Man | Jujú Wúman | Majíshan | Mán Wích | Mídíọ́m Skín Ton | Wich</annotation>
 		<annotation cp="🧙🏽" type="tts">Majíshan: Mídíọ́m Skín Ton</annotation>
-		<annotation cp="🧙🏾">Jujú Man | Jujú Wúman | Majíkshan | Majíshan | Man Wích | Mídíọ́m Dák Skín Ton | Wích</annotation>
+		<annotation cp="🧙🏾">Jujú Man | Jujú Wúman | Majíshan | Mán Wích | Mídíọ́m Dák Skín Ton | Wich</annotation>
 		<annotation cp="🧙🏾" type="tts">Majíshan: Mídíọ́m Dák Skín Ton</annotation>
-		<annotation cp="🧙🏿">Dák Skín Ton | Jujú Man | Jujú Wúman | Majíkshan | Majíshan | Man Wích | Wích</annotation>
+		<annotation cp="🧙🏿">Dák Skín Ton | Jujú Man | Jujú Wúman | Majíshan | Mán Wích | Wich</annotation>
 		<annotation cp="🧙🏿" type="tts">Majíshan: Dák Skín Ton</annotation>
 		<annotation cp="🧙🏻‍♂">Jujú Man | Laít Skín Ton | Mán Majíkshan | Mán Majíshan | Man Wích</annotation>
 		<annotation cp="🧙🏻‍♂" type="tts">Mán Majíshan: Laít Skín Ton</annotation>
@@ -2726,16 +2897,16 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🕴🏾" type="tts">Pẹ́sin Wé Wiá Sút-An-Sut An De Flót Fọ Ea: Mídíọ́m Dák Skín Ton</annotation>
 		<annotation cp="🕴🏿">Bíznẹs | Dák Skín Ton | Pẹ́sin Wé Wiá Sút-An-Sut An De Flót Fọ Ea | Sut</annotation>
 		<annotation cp="🕴🏿" type="tts">Pẹ́sin Wé Wiá Sút-An-Sut An De Flót Fọ Ea: Dák Skín Ton</annotation>
-		<annotation cp="🧖🏻">Họt Wọtá Smók Rum | Laít Skín Ton | Pẹ́sin Ínsaíd Họt Wọtá Smók Rum | Pẹ́sin Wé Dé Ínsaíd Họt Wọtá Smók Rum | Sọ́na | Stim | Stim Rum</annotation>
-		<annotation cp="🧖🏻" type="tts">Pẹ́sin Ínsaíd Họt Wọtá Smók Rum: Laít Skín Ton</annotation>
-		<annotation cp="🧖🏼">Họt Wọtá Smók Rum | Mídíọ́m-Laít Skín Ton | Pẹ́sin Ínsaíd Họt Wọtá Smók Rum | Pẹ́sin Wé Dé Ínsaíd Họt Wọtá Smók Rum | Sọ́na | Stim | Stim Rum</annotation>
-		<annotation cp="🧖🏼" type="tts">Pẹ́sin Ínsaíd Họt Wọtá Smók Rum: Mídíọ́m-Laít Skín Ton</annotation>
-		<annotation cp="🧖🏽">Họt Wọtá Smók Rum | Mídíọ́m Skín Ton | Pẹ́sin Ínsaíd Họt Wọtá Smók Rum | Pẹ́sin Wé Dé Ínsaíd Họt Wọtá Smók Rum | Sọ́na | Stim | Stim Rum</annotation>
-		<annotation cp="🧖🏽" type="tts">Pẹ́sin Ínsaíd Họt Wọtá Smók Rum: Mídíọ́m Skín Ton</annotation>
-		<annotation cp="🧖🏾">Họt Wọtá Smók Rum | Mídíọ́m Dák Skín Ton | Pẹ́sin Ínsaíd Họt Wọtá Smók Rum | Pẹ́sin Wé Dé Ínsaíd Họt Wọtá Smók Rum | Sọ́na | Stim | Stim Rum</annotation>
-		<annotation cp="🧖🏾" type="tts">Pẹ́sin Ínsaíd Họt Wọtá Smók Rum: Mídíọ́m Dák Skín Ton</annotation>
-		<annotation cp="🧖🏿">Dák Skín Ton | Họt Wọtá Smók Rum | Pẹ́sin Ínsaíd Họt Wọtá Smók Rum | Pẹ́sin Wé Dé Ínsaíd Họt Wọtá Smók Rum | Sọ́na | Stim | Stim Rum</annotation>
-		<annotation cp="🧖🏿" type="tts">Pẹ́sin Ínsaíd Họt Wọtá Smók Rum: Dák Skín Ton</annotation>
+		<annotation cp="🧖🏻">Họ́t-Wọ́t-Smók Rum | Laít Skín Ton | Pẹ́sin Wé Dé Ínsaíd Họ́t-Wọ́ta-Smók Rum | Sọ́na | Stim Rum</annotation>
+		<annotation cp="🧖🏻" type="tts">Pẹ́sin Wé Dé Ínsaíd Họ́t-Wọ́ta-Smók Rum: Laít Skín Ton</annotation>
+		<annotation cp="🧖🏼">Họ́t-Wọ́t-Smók Rum | Mídíọ́m-Laít Skín Ton | Pẹ́sin Wé Dé Ínsaíd Họ́t-Wọ́ta-Smók Rum | Sọ́na | Stim Rum</annotation>
+		<annotation cp="🧖🏼" type="tts">Pẹ́sin Wé Dé Ínsaíd Họ́t-Wọ́ta-Smók Rum: Mídíọ́m-Laít Skín Ton</annotation>
+		<annotation cp="🧖🏽">Họ́t-Wọ́t-Smók Rum | Mídíọ́m Skín Ton | Pẹ́sin Wé Dé Ínsaíd Họ́t-Wọ́ta-Smók Rum | Sọ́na | Stim Rum</annotation>
+		<annotation cp="🧖🏽" type="tts">Pẹ́sin Wé Dé Ínsaíd Họ́t-Wọ́ta-Smók Rum: Mídíọ́m Skín Ton</annotation>
+		<annotation cp="🧖🏾">Họ́t-Wọ́t-Smók Rum | Mídíọ́m Dák Skín Ton | Pẹ́sin Wé Dé Ínsaíd Họ́t-Wọ́ta-Smók Rum | Sọ́na | Stim Rum</annotation>
+		<annotation cp="🧖🏾" type="tts">Pẹ́sin Wé Dé Ínsaíd Họ́t-Wọ́ta-Smók Rum: Mídíọ́m Dák Skín Ton</annotation>
+		<annotation cp="🧖🏿">Dák Skín Ton | Họ́t-Wọ́t-Smók Rum | Pẹ́sin Wé Dé Ínsaíd Họ́t-Wọ́ta-Smók Rum | Sọ́na | Stim Rum</annotation>
+		<annotation cp="🧖🏿" type="tts">Pẹ́sin Wé Dé Ínsaíd Họ́t-Wọ́ta-Smók Rum: Dák Skín Ton</annotation>
 		<annotation cp="🧖🏻‍♂">Họt Wọtá Smók Rum | Laít Skín Ton | Man Wé Dé Ínsaíd Họt Wọtá Smók Rum | Sọ́na | Stim Rum</annotation>
 		<annotation cp="🧖🏻‍♂" type="tts">Man Wé Dé Ínsaíd Họt Wọtá Smók Rum: Laít Skín Ton</annotation>
 		<annotation cp="🧖🏼‍♂">Họt Wọtá Smók Rum | Man Wé Dé Ínsaíd Họt Wọtá Smók Rum | Mídíọ́m-Laít Skín Ton | Sọ́na | Stim Rum</annotation>
@@ -3206,15 +3377,15 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🛀🏾" type="tts">Pẹ́sin Wé De Baf: Mídíọ́m Dák Skín Ton</annotation>
 		<annotation cp="🛀🏿">Baf | Bíg Lọ́ng Bézin Wé Pẹ́sin De Ẹ́ntá To Baf | Dák Skín Ton | Pẹ́sin Wé De Baf</annotation>
 		<annotation cp="🛀🏿" type="tts">Pẹ́sin Wé De Baf: Dák Skín Ton</annotation>
-		<annotation cp="🛌🏻">Họtẹl | Laít Skín Ton | Pẹ́sin Wé De Slip | Pẹ́sin Wé Lai Daún Fọ Bẹd To Slip | Slip</annotation>
+		<annotation cp="🛌🏻">Gúd Nait | Họtẹl | Laít Skín Ton | Pẹ́sin Wé De Slip | Pẹ́sin Wé Lai Daún Fọ Bẹd De Slip | Slip</annotation>
 		<annotation cp="🛌🏻" type="tts">Pẹ́sin Wé De Slip: Laít Skín Ton</annotation>
-		<annotation cp="🛌🏼">Họtẹl | Mídíọ́m-Laít Skín Ton | Pẹ́sin Wé De Slip | Pẹ́sin Wé Lai Daún Fọ Bẹd To Slip | Slip</annotation>
+		<annotation cp="🛌🏼">Gúd Nait | Họtẹl | Mídíọ́m-Laít Skín Ton | Pẹ́sin Wé De Slip | Pẹ́sin Wé Lai Daún Fọ Bẹd De Slip | Slip</annotation>
 		<annotation cp="🛌🏼" type="tts">Pẹ́sin Wé De Slip: Mídíọ́m-Laít Skín Ton</annotation>
-		<annotation cp="🛌🏽">Họtẹl | Mídíọ́m Skín Ton | Pẹ́sin Wé De Slip | Pẹ́sin Wé Lai Daún Fọ Bẹd To Slip | Slip</annotation>
+		<annotation cp="🛌🏽">Gúd Nait | Họtẹl | Mídíọ́m Skín Ton | Pẹ́sin Wé De Slip | Pẹ́sin Wé Lai Daún Fọ Bẹd De Slip | Slip</annotation>
 		<annotation cp="🛌🏽" type="tts">Pẹ́sin Wé De Slip: Mídíọ́m Skín Ton</annotation>
-		<annotation cp="🛌🏾">Họtẹl | Mídíọ́m Dák Skín Ton | Pẹ́sin Wé De Slip | Pẹ́sin Wé Lai Daún Fọ Bẹd To Slip | Slip</annotation>
+		<annotation cp="🛌🏾">Gúd Nait | Họtẹl | Mídíọ́m Dák Skín Ton | Pẹ́sin Wé De Slip | Pẹ́sin Wé Lai Daún Fọ Bẹd De Slip | Slip</annotation>
 		<annotation cp="🛌🏾" type="tts">Pẹ́sin Wé De Slip: Mídíọ́m Dák Skín Ton</annotation>
-		<annotation cp="🛌🏿">Dák Skín Ton | Họtẹl | Pẹ́sin Wé De Slip | Pẹ́sin Wé Lai Daún Fọ Bẹd To Slip | Slip</annotation>
+		<annotation cp="🛌🏿">Dák Skín Ton | Gúd Nait | Họtẹl | Pẹ́sin Wé De Slip | Pẹ́sin Wé Lai Daún Fọ Bẹd De Slip | Slip</annotation>
 		<annotation cp="🛌🏿" type="tts">Pẹ́sin Wé De Slip: Dák Skín Ton</annotation>
 		<annotation cp="🧑🏻‍🤝‍🧑🏻">De Hól Hand | Hand | Hol | Laít Skín Ton | Pẹ́sin | Pípul Wé Hól Hand | Tú Pípul</annotation>
 		<annotation cp="🧑🏻‍🤝‍🧑🏻" type="tts">Pípul Wé Hól Hand: Laít Skín Ton</annotation>
@@ -3266,238 +3437,238 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🧑🏿‍🤝‍🧑🏾" type="tts">Pípul Wé Hól Hand: Dák Skín Ton, Mídíọ́m Dák Skín Ton</annotation>
 		<annotation cp="🧑🏿‍🤝‍🧑🏿">Dák Skín Ton | De Hól Hand | Hand | Hol | Pẹ́sin | Pípul Wé Hól Hand | Tú Pípul</annotation>
 		<annotation cp="🧑🏿‍🤝‍🧑🏿" type="tts">Pípul Wé Hól Hand: Dák Skín Ton</annotation>
-		<annotation cp="👭🏻">De Hól Hand | Hand | Laít Skín Ton | Tú Pípul | Wímẹn | Wímẹn Wé Hól Hand</annotation>
+		<annotation cp="👭🏻">De Hól Hand | Hand | Laít Skín Ton | Tuú Pípul | Wímẹn | Wímẹn Wé Hól Hand</annotation>
 		<annotation cp="👭🏻" type="tts">Wímẹn Wé Hól Hand: Laít Skín Ton</annotation>
-		<annotation cp="👩🏻‍🤝‍👩🏼">De Hól Hand | Hand | Laít Skín Ton | Mídíọ́m-Laít Skín Ton | Tú Pípul | Wímẹn | Wímẹn Wé Hól Hand</annotation>
+		<annotation cp="👩🏻‍🤝‍👩🏼">De Hól Hand | Hand | Laít Skín Ton | Mídíọ́m-Laít Skín Ton | Tuú Pípul | Wímẹn | Wímẹn Wé Hól Hand</annotation>
 		<annotation cp="👩🏻‍🤝‍👩🏼" type="tts">Wímẹn Wé Hól Hand: Laít Skín Ton, Mídíọ́m-Laít Skín Ton</annotation>
-		<annotation cp="👩🏻‍🤝‍👩🏽">De Hól Hand | Hand | Laít Skín Ton | Mídíọ́m Skín Ton | Tú Pípul | Wímẹn | Wímẹn Wé Hól Hand</annotation>
+		<annotation cp="👩🏻‍🤝‍👩🏽">De Hól Hand | Hand | Laít Skín Ton | Mídíọ́m Skín Ton | Tuú Pípul | Wímẹn | Wímẹn Wé Hól Hand</annotation>
 		<annotation cp="👩🏻‍🤝‍👩🏽" type="tts">Wímẹn Wé Hól Hand: Laít Skín Ton, Mídíọ́m Skín Ton</annotation>
-		<annotation cp="👩🏻‍🤝‍👩🏾">De Hól Hand | Hand | Laít Skín Ton | Mídíọ́m Dák Skín Ton | Tú Pípul | Wímẹn | Wímẹn Wé Hól Hand</annotation>
+		<annotation cp="👩🏻‍🤝‍👩🏾">De Hól Hand | Hand | Laít Skín Ton | Mídíọ́m Dák Skín Ton | Tuú Pípul | Wímẹn | Wímẹn Wé Hól Hand</annotation>
 		<annotation cp="👩🏻‍🤝‍👩🏾" type="tts">Wímẹn Wé Hól Hand: Laít Skín Ton, Mídíọ́m Dák Skín Ton</annotation>
-		<annotation cp="👩🏻‍🤝‍👩🏿">Dák Skín Ton | De Hól Hand | Hand | Laít Skín Ton | Tú Pípul | Wímẹn | Wímẹn Wé Hól Hand</annotation>
+		<annotation cp="👩🏻‍🤝‍👩🏿">Dák Skín Ton | De Hól Hand | Hand | Laít Skín Ton | Tuú Pípul | Wímẹn | Wímẹn Wé Hól Hand</annotation>
 		<annotation cp="👩🏻‍🤝‍👩🏿" type="tts">Wímẹn Wé Hól Hand: Laít Skín Ton, Dák Skín Ton</annotation>
-		<annotation cp="👩🏼‍🤝‍👩🏻">De Hól Hand | Hand | Laít Skín Ton | Mídíọ́m-Laít Skín Ton | Tú Pípul | Wímẹn | Wímẹn Wé Hól Hand</annotation>
+		<annotation cp="👩🏼‍🤝‍👩🏻">De Hól Hand | Hand | Laít Skín Ton | Mídíọ́m-Laít Skín Ton | Tuú Pípul | Wímẹn | Wímẹn Wé Hól Hand</annotation>
 		<annotation cp="👩🏼‍🤝‍👩🏻" type="tts">Wímẹn Wé Hól Hand: Mídíọ́m-Laít Skín Ton, Laít Skín Ton</annotation>
-		<annotation cp="👭🏼">De Hól Hand | Hand | Mídíọ́m-Laít Skín Ton | Tú Pípul | Wímẹn | Wímẹn Wé Hól Hand</annotation>
+		<annotation cp="👭🏼">De Hól Hand | Hand | Mídíọ́m-Laít Skín Ton | Tuú Pípul | Wímẹn | Wímẹn Wé Hól Hand</annotation>
 		<annotation cp="👭🏼" type="tts">Wímẹn Wé Hól Hand: Mídíọ́m-Laít Skín Ton</annotation>
-		<annotation cp="👩🏼‍🤝‍👩🏽">De Hól Hand | Hand | Mídíọ́m Skín Ton | Mídíọ́m-Laít Skín Ton | Tú Pípul | Wímẹn | Wímẹn Wé Hól Hand</annotation>
+		<annotation cp="👩🏼‍🤝‍👩🏽">De Hól Hand | Hand | Mídíọ́m Skín Ton | Mídíọ́m-Laít Skín Ton | Tuú Pípul | Wímẹn | Wímẹn Wé Hól Hand</annotation>
 		<annotation cp="👩🏼‍🤝‍👩🏽" type="tts">Wímẹn Wé Hól Hand: Mídíọ́m-Laít Skín Ton, Mídíọ́m Skín Ton</annotation>
-		<annotation cp="👩🏼‍🤝‍👩🏾">De Hól Hand | Hand | Mídíọ́m Dák Skín Ton | Mídíọ́m-Laít Skín Ton | Tú Pípul | Wímẹn | Wímẹn Wé Hól Hand</annotation>
+		<annotation cp="👩🏼‍🤝‍👩🏾">De Hól Hand | Hand | Mídíọ́m Dák Skín Ton | Mídíọ́m-Laít Skín Ton | Tuú Pípul | Wímẹn | Wímẹn Wé Hól Hand</annotation>
 		<annotation cp="👩🏼‍🤝‍👩🏾" type="tts">Wímẹn Wé Hól Hand: Mídíọ́m-Laít Skín Ton, Mídíọ́m Dák Skín Ton</annotation>
-		<annotation cp="👩🏼‍🤝‍👩🏿">Dák Skín Ton | De Hól Hand | Hand | Mídíọ́m-Laít Skín Ton | Tú Pípul | Wímẹn | Wímẹn Wé Hól Hand</annotation>
+		<annotation cp="👩🏼‍🤝‍👩🏿">Dák Skín Ton | De Hól Hand | Hand | Mídíọ́m-Laít Skín Ton | Tuú Pípul | Wímẹn | Wímẹn Wé Hól Hand</annotation>
 		<annotation cp="👩🏼‍🤝‍👩🏿" type="tts">Wímẹn Wé Hól Hand: Mídíọ́m-Laít Skín Ton, Dák Skín Ton</annotation>
-		<annotation cp="👩🏽‍🤝‍👩🏻">De Hól Hand | Hand | Laít Skín Ton | Mídíọ́m Skín Ton | Tú Pípul | Wímẹn | Wímẹn Wé Hól Hand</annotation>
+		<annotation cp="👩🏽‍🤝‍👩🏻">De Hól Hand | Hand | Laít Skín Ton | Mídíọ́m Skín Ton | Tuú Pípul | Wímẹn | Wímẹn Wé Hól Hand</annotation>
 		<annotation cp="👩🏽‍🤝‍👩🏻" type="tts">Wímẹn Wé Hól Hand: Mídíọ́m Skín Ton, Laít Skín Ton</annotation>
-		<annotation cp="👩🏽‍🤝‍👩🏼">De Hól Hand | Hand | Mídíọ́m Skín Ton | Mídíọ́m-Laít Skín Ton | Tú Pípul | Wímẹn | Wímẹn Wé Hól Hand</annotation>
+		<annotation cp="👩🏽‍🤝‍👩🏼">De Hól Hand | Hand | Mídíọ́m Skín Ton | Mídíọ́m-Laít Skín Ton | Tuú Pípul | Wímẹn | Wímẹn Wé Hól Hand</annotation>
 		<annotation cp="👩🏽‍🤝‍👩🏼" type="tts">Wímẹn Wé Hól Hand: Mídíọ́m Skín Ton, Mídíọ́m-Laít Skín Ton</annotation>
-		<annotation cp="👭🏽">De Hól Hand | Hand | Mídíọ́m Skín Ton | Tú Pípul | Wímẹn | Wímẹn Wé Hól Hand</annotation>
+		<annotation cp="👭🏽">De Hól Hand | Hand | Mídíọ́m Skín Ton | Tuú Pípul | Wímẹn | Wímẹn Wé Hól Hand</annotation>
 		<annotation cp="👭🏽" type="tts">Wímẹn Wé Hól Hand: Mídíọ́m Skín Ton</annotation>
-		<annotation cp="👩🏽‍🤝‍👩🏾">De Hól Hand | Hand | Mídíọ́m Dák Skín Ton | Mídíọ́m Skín Ton | Tú Pípul | Wímẹn | Wímẹn Wé Hól Hand</annotation>
+		<annotation cp="👩🏽‍🤝‍👩🏾">De Hól Hand | Hand | Mídíọ́m Dák Skín Ton | Mídíọ́m Skín Ton | Tuú Pípul | Wímẹn | Wímẹn Wé Hól Hand</annotation>
 		<annotation cp="👩🏽‍🤝‍👩🏾" type="tts">Wímẹn Wé Hól Hand: Mídíọ́m Skín Ton, Mídíọ́m Dák Skín Ton</annotation>
-		<annotation cp="👩🏽‍🤝‍👩🏿">Dák Skín Ton | De Hól Hand | Hand | Mídíọ́m Skín Ton | Tú Pípul | Wímẹn | Wímẹn Wé Hól Hand</annotation>
+		<annotation cp="👩🏽‍🤝‍👩🏿">Dák Skín Ton | De Hól Hand | Hand | Mídíọ́m Skín Ton | Tuú Pípul | Wímẹn | Wímẹn Wé Hól Hand</annotation>
 		<annotation cp="👩🏽‍🤝‍👩🏿" type="tts">Wímẹn Wé Hól Hand: Mídíọ́m Skín Ton, Dák Skín Ton</annotation>
-		<annotation cp="👩🏾‍🤝‍👩🏻">De Hól Hand | Hand | Laít Skín Ton | Mídíọ́m Dák Skín Ton | Tú Pípul | Wímẹn | Wímẹn Wé Hól Hand</annotation>
+		<annotation cp="👩🏾‍🤝‍👩🏻">De Hól Hand | Hand | Laít Skín Ton | Mídíọ́m Dák Skín Ton | Tuú Pípul | Wímẹn | Wímẹn Wé Hól Hand</annotation>
 		<annotation cp="👩🏾‍🤝‍👩🏻" type="tts">Wímẹn Wé Hól Hand: Mídíọ́m Dák Skín Ton, Laít Skín Ton</annotation>
-		<annotation cp="👩🏾‍🤝‍👩🏼">De Hól Hand | Hand | Mídíọ́m Dák Skín Ton | Mídíọ́m-Laít Skín Ton | Tú Pípul | Wímẹn | Wímẹn Wé Hól Hand</annotation>
+		<annotation cp="👩🏾‍🤝‍👩🏼">De Hól Hand | Hand | Mídíọ́m Dák Skín Ton | Mídíọ́m-Laít Skín Ton | Tuú Pípul | Wímẹn | Wímẹn Wé Hól Hand</annotation>
 		<annotation cp="👩🏾‍🤝‍👩🏼" type="tts">Wímẹn Wé Hól Hand: Mídíọ́m Dák Skín Ton, Mídíọ́m-Laít Skín Ton</annotation>
-		<annotation cp="👩🏾‍🤝‍👩🏽">De Hól Hand | Hand | Mídíọ́m Dák Skín Ton | Mídíọ́m Skín Ton | Tú Pípul | Wímẹn | Wímẹn Wé Hól Hand</annotation>
+		<annotation cp="👩🏾‍🤝‍👩🏽">De Hól Hand | Hand | Mídíọ́m Dák Skín Ton | Mídíọ́m Skín Ton | Tuú Pípul | Wímẹn | Wímẹn Wé Hól Hand</annotation>
 		<annotation cp="👩🏾‍🤝‍👩🏽" type="tts">Wímẹn Wé Hól Hand: Mídíọ́m Dák Skín Ton, Mídíọ́m Skín Ton</annotation>
-		<annotation cp="👭🏾">De Hól Hand | Hand | Mídíọ́m Dák Skín Ton | Tú Pípul | Wímẹn | Wímẹn Wé Hól Hand</annotation>
+		<annotation cp="👭🏾">De Hól Hand | Hand | Mídíọ́m Dák Skín Ton | Tuú Pípul | Wímẹn | Wímẹn Wé Hól Hand</annotation>
 		<annotation cp="👭🏾" type="tts">Wímẹn Wé Hól Hand: Mídíọ́m Dák Skín Ton</annotation>
-		<annotation cp="👩🏾‍🤝‍👩🏿">Dák Skín Ton | De Hól Hand | Hand | Mídíọ́m Dák Skín Ton | Tú Pípul | Wímẹn | Wímẹn Wé Hól Hand</annotation>
+		<annotation cp="👩🏾‍🤝‍👩🏿">Dák Skín Ton | De Hól Hand | Hand | Mídíọ́m Dák Skín Ton | Tuú Pípul | Wímẹn | Wímẹn Wé Hól Hand</annotation>
 		<annotation cp="👩🏾‍🤝‍👩🏿" type="tts">Wímẹn Wé Hól Hand: Mídíọ́m Dák Skín Ton, Dák Skín Ton</annotation>
-		<annotation cp="👩🏿‍🤝‍👩🏻">Dák Skín Ton | De Hól Hand | Hand | Laít Skín Ton | Tú Pípul | Wímẹn | Wímẹn Wé Hól Hand</annotation>
+		<annotation cp="👩🏿‍🤝‍👩🏻">Dák Skín Ton | De Hól Hand | Hand | Laít Skín Ton | Tuú Pípul | Wímẹn | Wímẹn Wé Hól Hand</annotation>
 		<annotation cp="👩🏿‍🤝‍👩🏻" type="tts">Wímẹn Wé Hól Hand: Dák Skín Ton, Laít Skín Ton</annotation>
-		<annotation cp="👩🏿‍🤝‍👩🏼">Dák Skín Ton | De Hól Hand | Hand | Mídíọ́m-Laít Skín Ton | Tú Pípul | Wímẹn | Wímẹn Wé Hól Hand</annotation>
+		<annotation cp="👩🏿‍🤝‍👩🏼">Dák Skín Ton | De Hól Hand | Hand | Mídíọ́m-Laít Skín Ton | Tuú Pípul | Wímẹn | Wímẹn Wé Hól Hand</annotation>
 		<annotation cp="👩🏿‍🤝‍👩🏼" type="tts">Wímẹn Wé Hól Hand: Dák Skín Ton, Mídíọ́m-Laít Skín Ton</annotation>
-		<annotation cp="👩🏿‍🤝‍👩🏽">Dák Skín Ton | De Hól Hand | Hand | Mídíọ́m Skín Ton | Tú Pípul | Wímẹn | Wímẹn Wé Hól Hand</annotation>
+		<annotation cp="👩🏿‍🤝‍👩🏽">Dák Skín Ton | De Hól Hand | Hand | Mídíọ́m Skín Ton | Tuú Pípul | Wímẹn | Wímẹn Wé Hól Hand</annotation>
 		<annotation cp="👩🏿‍🤝‍👩🏽" type="tts">Wímẹn Wé Hól Hand: Dák Skín Ton, Mídíọ́m Skín Ton</annotation>
-		<annotation cp="👩🏿‍🤝‍👩🏾">Dák Skín Ton | De Hól Hand | Hand | Mídíọ́m Dák Skín Ton | Tú Pípul | Wímẹn | Wímẹn Wé Hól Hand</annotation>
+		<annotation cp="👩🏿‍🤝‍👩🏾">Dák Skín Ton | De Hól Hand | Hand | Mídíọ́m Dák Skín Ton | Tuú Pípul | Wímẹn | Wímẹn Wé Hól Hand</annotation>
 		<annotation cp="👩🏿‍🤝‍👩🏾" type="tts">Wímẹn Wé Hól Hand: Dák Skín Ton, Mídíọ́m Dák Skín Ton</annotation>
-		<annotation cp="👭🏿">Dák Skín Ton | De Hól Hand | Hand | Tú Pípul | Wímẹn | Wímẹn Wé Hól Hand</annotation>
+		<annotation cp="👭🏿">Dák Skín Ton | De Hól Hand | Hand | Tuú Pípul | Wímẹn | Wímẹn Wé Hól Hand</annotation>
 		<annotation cp="👭🏿" type="tts">Wímẹn Wé Hól Hand: Dák Skín Ton</annotation>
-		<annotation cp="👫🏻">De Hól Hand | Hand | Hol | Laít Skín Ton | Man | Tú Pípul | Wúman | Wúman An Man Wé Hól Hand</annotation>
+		<annotation cp="👫🏻">De Hól Hand | Hand | Hol | Laít Skín Ton | Man | Tuú Pípul | Wúman | Wúman An Man Wé Hól Hand</annotation>
 		<annotation cp="👫🏻" type="tts">Wúman An Man Wé Hól Hand: Laít Skín Ton</annotation>
-		<annotation cp="👩🏻‍🤝‍👨🏼">De Hól Hand | Hand | Hol | Laít Skín Ton | Man | Mídíọ́m-Laít Skín Ton | Tú Pípul | Wúman | Wúman An Man Wé Hól Hand</annotation>
+		<annotation cp="👩🏻‍🤝‍👨🏼">De Hól Hand | Hand | Hol | Laít Skín Ton | Man | Mídíọ́m-Laít Skín Ton | Tuú Pípul | Wúman | Wúman An Man Wé Hól Hand</annotation>
 		<annotation cp="👩🏻‍🤝‍👨🏼" type="tts">Wúman An Man Wé Hól Hand: Laít Skín Ton, Mídíọ́m-Laít Skín Ton</annotation>
-		<annotation cp="👩🏻‍🤝‍👨🏽">De Hól Hand | Hand | Hol | Laít Skín Ton | Man | Mídíọ́m Skín Ton | Tú Pípul | Wúman | Wúman An Man Wé Hól Hand</annotation>
+		<annotation cp="👩🏻‍🤝‍👨🏽">De Hól Hand | Hand | Hol | Laít Skín Ton | Man | Mídíọ́m Skín Ton | Tuú Pípul | Wúman | Wúman An Man Wé Hól Hand</annotation>
 		<annotation cp="👩🏻‍🤝‍👨🏽" type="tts">Wúman An Man Wé Hól Hand: Laít Skín Ton, Mídíọ́m Skín Ton</annotation>
-		<annotation cp="👩🏻‍🤝‍👨🏾">De Hól Hand | Hand | Hol | Laít Skín Ton | Man | Mídíọ́m Dák Skín Ton | Tú Pípul | Wúman | Wúman An Man Wé Hól Hand</annotation>
+		<annotation cp="👩🏻‍🤝‍👨🏾">De Hól Hand | Hand | Hol | Laít Skín Ton | Man | Mídíọ́m Dák Skín Ton | Tuú Pípul | Wúman | Wúman An Man Wé Hól Hand</annotation>
 		<annotation cp="👩🏻‍🤝‍👨🏾" type="tts">Wúman An Man Wé Hól Hand: Laít Skín Ton, Mídíọ́m Dák Skín Ton</annotation>
-		<annotation cp="👩🏻‍🤝‍👨🏿">Dák Skín Ton | De Hól Hand | Hand | Hol | Laít Skín Ton | Man | Tú Pípul | Wúman | Wúman An Man Wé Hól Hand</annotation>
+		<annotation cp="👩🏻‍🤝‍👨🏿">Dák Skín Ton | De Hól Hand | Hand | Hol | Laít Skín Ton | Man | Tuú Pípul | Wúman | Wúman An Man Wé Hól Hand</annotation>
 		<annotation cp="👩🏻‍🤝‍👨🏿" type="tts">Wúman An Man Wé Hól Hand: Laít Skín Ton, Dák Skín Ton</annotation>
-		<annotation cp="👩🏼‍🤝‍👨🏻">De Hól Hand | Hand | Hol | Laít Skín Ton | Man | Mídíọ́m-Laít Skín Ton | Tú Pípul | Wúman | Wúman An Man Wé Hól Hand</annotation>
+		<annotation cp="👩🏼‍🤝‍👨🏻">De Hól Hand | Hand | Hol | Laít Skín Ton | Man | Mídíọ́m-Laít Skín Ton | Tuú Pípul | Wúman | Wúman An Man Wé Hól Hand</annotation>
 		<annotation cp="👩🏼‍🤝‍👨🏻" type="tts">Wúman An Man Wé Hól Hand: Mídíọ́m-Laít Skín Ton, Laít Skín Ton</annotation>
-		<annotation cp="👫🏼">De Hól Hand | Hand | Hol | Man | Mídíọ́m-Laít Skín Ton | Tú Pípul | Wúman | Wúman An Man Wé Hól Hand</annotation>
+		<annotation cp="👫🏼">De Hól Hand | Hand | Hol | Man | Mídíọ́m-Laít Skín Ton | Tuú Pípul | Wúman | Wúman An Man Wé Hól Hand</annotation>
 		<annotation cp="👫🏼" type="tts">Wúman An Man Wé Hól Hand: Mídíọ́m-Laít Skín Ton</annotation>
-		<annotation cp="👩🏼‍🤝‍👨🏽">De Hól Hand | Hand | Hol | Man | Mídíọ́m Skín Ton | Mídíọ́m-Laít Skín Ton | Tú Pípul | Wúman | Wúman An Man Wé Hól Hand</annotation>
+		<annotation cp="👩🏼‍🤝‍👨🏽">De Hól Hand | Hand | Hol | Man | Mídíọ́m Skín Ton | Mídíọ́m-Laít Skín Ton | Tuú Pípul | Wúman | Wúman An Man Wé Hól Hand</annotation>
 		<annotation cp="👩🏼‍🤝‍👨🏽" type="tts">Wúman An Man Wé Hól Hand: Mídíọ́m-Laít Skín Ton, Mídíọ́m Skín Ton</annotation>
-		<annotation cp="👩🏼‍🤝‍👨🏾">De Hól Hand | Hand | Hol | Man | Mídíọ́m Dák Skín Ton | Mídíọ́m-Laít Skín Ton | Tú Pípul | Wúman | Wúman An Man Wé Hól Hand</annotation>
+		<annotation cp="👩🏼‍🤝‍👨🏾">De Hól Hand | Hand | Hol | Man | Mídíọ́m Dák Skín Ton | Mídíọ́m-Laít Skín Ton | Tuú Pípul | Wúman | Wúman An Man Wé Hól Hand</annotation>
 		<annotation cp="👩🏼‍🤝‍👨🏾" type="tts">Wúman An Man Wé Hól Hand: Mídíọ́m-Laít Skín Ton, Mídíọ́m Dák Skín Ton</annotation>
-		<annotation cp="👩🏼‍🤝‍👨🏿">Dák Skín Ton | De Hól Hand | Hand | Hol | Man | Mídíọ́m-Laít Skín Ton | Tú Pípul | Wúman | Wúman An Man Wé Hól Hand</annotation>
+		<annotation cp="👩🏼‍🤝‍👨🏿">Dák Skín Ton | De Hól Hand | Hand | Hol | Man | Mídíọ́m-Laít Skín Ton | Tuú Pípul | Wúman | Wúman An Man Wé Hól Hand</annotation>
 		<annotation cp="👩🏼‍🤝‍👨🏿" type="tts">Wúman An Man Wé Hól Hand: Mídíọ́m-Laít Skín Ton, Dák Skín Ton</annotation>
-		<annotation cp="👩🏽‍🤝‍👨🏻">De Hól Hand | Hand | Hol | Laít Skín Ton | Man | Mídíọ́m Skín Ton | Tú Pípul | Wúman | Wúman An Man Wé Hól Hand</annotation>
+		<annotation cp="👩🏽‍🤝‍👨🏻">De Hól Hand | Hand | Hol | Laít Skín Ton | Man | Mídíọ́m Skín Ton | Tuú Pípul | Wúman | Wúman An Man Wé Hól Hand</annotation>
 		<annotation cp="👩🏽‍🤝‍👨🏻" type="tts">Wúman An Man Wé Hól Hand: Mídíọ́m Skín Ton, Laít Skín Ton</annotation>
-		<annotation cp="👩🏽‍🤝‍👨🏼">De Hól Hand | Hand | Hol | Man | Mídíọ́m Skín Ton | Mídíọ́m-Laít Skín Ton | Tú Pípul | Wúman | Wúman An Man Wé Hól Hand</annotation>
+		<annotation cp="👩🏽‍🤝‍👨🏼">De Hól Hand | Hand | Hol | Man | Mídíọ́m Skín Ton | Mídíọ́m-Laít Skín Ton | Tuú Pípul | Wúman | Wúman An Man Wé Hól Hand</annotation>
 		<annotation cp="👩🏽‍🤝‍👨🏼" type="tts">Wúman An Man Wé Hól Hand: Mídíọ́m Skín Ton, Mídíọ́m-Laít Skín Ton</annotation>
-		<annotation cp="👫🏽">De Hól Hand | Hand | Hol | Man | Mídíọ́m Skín Ton | Tú Pípul | Wúman | Wúman An Man Wé Hól Hand</annotation>
+		<annotation cp="👫🏽">De Hól Hand | Hand | Hol | Man | Mídíọ́m Skín Ton | Tuú Pípul | Wúman | Wúman An Man Wé Hól Hand</annotation>
 		<annotation cp="👫🏽" type="tts">Wúman An Man Wé Hól Hand: Mídíọ́m Skín Ton</annotation>
-		<annotation cp="👩🏽‍🤝‍👨🏾">De Hól Hand | Hand | Hol | Man | Mídíọ́m Dák Skín Ton | Mídíọ́m Skín Ton | Tú Pípul | Wúman | Wúman An Man Wé Hól Hand</annotation>
+		<annotation cp="👩🏽‍🤝‍👨🏾">De Hól Hand | Hand | Hol | Man | Mídíọ́m Dák Skín Ton | Mídíọ́m Skín Ton | Tuú Pípul | Wúman | Wúman An Man Wé Hól Hand</annotation>
 		<annotation cp="👩🏽‍🤝‍👨🏾" type="tts">Wúman An Man Wé Hól Hand: Mídíọ́m Skín Ton, Mídíọ́m Dák Skín Ton</annotation>
-		<annotation cp="👩🏽‍🤝‍👨🏿">Dák Skín Ton | De Hól Hand | Hand | Hol | Man | Mídíọ́m Skín Ton | Tú Pípul | Wúman | Wúman An Man Wé Hól Hand</annotation>
+		<annotation cp="👩🏽‍🤝‍👨🏿">Dák Skín Ton | De Hól Hand | Hand | Hol | Man | Mídíọ́m Skín Ton | Tuú Pípul | Wúman | Wúman An Man Wé Hól Hand</annotation>
 		<annotation cp="👩🏽‍🤝‍👨🏿" type="tts">Wúman An Man Wé Hól Hand: Mídíọ́m Skín Ton, Dák Skín Ton</annotation>
-		<annotation cp="👩🏾‍🤝‍👨🏻">De Hól Hand | Hand | Hol | Laít Skín Ton | Man | Mídíọ́m Dák Skín Ton | Tú Pípul | Wúman | Wúman An Man Wé Hól Hand</annotation>
+		<annotation cp="👩🏾‍🤝‍👨🏻">De Hól Hand | Hand | Hol | Laít Skín Ton | Man | Mídíọ́m Dák Skín Ton | Tuú Pípul | Wúman | Wúman An Man Wé Hól Hand</annotation>
 		<annotation cp="👩🏾‍🤝‍👨🏻" type="tts">Wúman An Man Wé Hól Hand: Mídíọ́m Dák Skín Ton, Laít Skín Ton</annotation>
-		<annotation cp="👩🏾‍🤝‍👨🏼">De Hól Hand | Hand | Hol | Man | Mídíọ́m Dák Skín Ton | Mídíọ́m-Laít Skín Ton | Tú Pípul | Wúman | Wúman An Man Wé Hól Hand</annotation>
+		<annotation cp="👩🏾‍🤝‍👨🏼">De Hól Hand | Hand | Hol | Man | Mídíọ́m Dák Skín Ton | Mídíọ́m-Laít Skín Ton | Tuú Pípul | Wúman | Wúman An Man Wé Hól Hand</annotation>
 		<annotation cp="👩🏾‍🤝‍👨🏼" type="tts">Wúman An Man Wé Hól Hand: Mídíọ́m Dák Skín Ton, Mídíọ́m-Laít Skín Ton</annotation>
-		<annotation cp="👩🏾‍🤝‍👨🏽">De Hól Hand | Hand | Hol | Man | Mídíọ́m Dák Skín Ton | Mídíọ́m Skín Ton | Tú Pípul | Wúman | Wúman An Man Wé Hól Hand</annotation>
+		<annotation cp="👩🏾‍🤝‍👨🏽">De Hól Hand | Hand | Hol | Man | Mídíọ́m Dák Skín Ton | Mídíọ́m Skín Ton | Tuú Pípul | Wúman | Wúman An Man Wé Hól Hand</annotation>
 		<annotation cp="👩🏾‍🤝‍👨🏽" type="tts">Wúman An Man Wé Hól Hand: Mídíọ́m Dák Skín Ton, Mídíọ́m Skín Ton</annotation>
-		<annotation cp="👫🏾">De Hól Hand | Hand | Hol | Man | Mídíọ́m Dák Skín Ton | Tú Pípul | Wúman | Wúman An Man Wé Hól Hand</annotation>
+		<annotation cp="👫🏾">De Hól Hand | Hand | Hol | Man | Mídíọ́m Dák Skín Ton | Tuú Pípul | Wúman | Wúman An Man Wé Hól Hand</annotation>
 		<annotation cp="👫🏾" type="tts">Wúman An Man Wé Hól Hand: Mídíọ́m Dák Skín Ton</annotation>
-		<annotation cp="👩🏾‍🤝‍👨🏿">Dák Skín Ton | De Hól Hand | Hand | Hol | Man | Mídíọ́m Dák Skín Ton | Tú Pípul | Wúman | Wúman An Man Wé Hól Hand</annotation>
+		<annotation cp="👩🏾‍🤝‍👨🏿">Dák Skín Ton | De Hól Hand | Hand | Hol | Man | Mídíọ́m Dák Skín Ton | Tuú Pípul | Wúman | Wúman An Man Wé Hól Hand</annotation>
 		<annotation cp="👩🏾‍🤝‍👨🏿" type="tts">Wúman An Man Wé Hól Hand: Mídíọ́m Dák Skín Ton, Dák Skín Ton</annotation>
-		<annotation cp="👩🏿‍🤝‍👨🏻">Dák Skín Ton | De Hól Hand | Hand | Hol | Laít Skín Ton | Man | Tú Pípul | Wúman | Wúman An Man Wé Hól Hand</annotation>
+		<annotation cp="👩🏿‍🤝‍👨🏻">Dák Skín Ton | De Hól Hand | Hand | Hol | Laít Skín Ton | Man | Tuú Pípul | Wúman | Wúman An Man Wé Hól Hand</annotation>
 		<annotation cp="👩🏿‍🤝‍👨🏻" type="tts">Wúman An Man Wé Hól Hand: Dák Skín Ton, Laít Skín Ton</annotation>
-		<annotation cp="👩🏿‍🤝‍👨🏼">Dák Skín Ton | De Hól Hand | Hand | Hol | Man | Mídíọ́m-Laít Skín Ton | Tú Pípul | Wúman | Wúman An Man Wé Hól Hand</annotation>
+		<annotation cp="👩🏿‍🤝‍👨🏼">Dák Skín Ton | De Hól Hand | Hand | Hol | Man | Mídíọ́m-Laít Skín Ton | Tuú Pípul | Wúman | Wúman An Man Wé Hól Hand</annotation>
 		<annotation cp="👩🏿‍🤝‍👨🏼" type="tts">Wúman An Man Wé Hól Hand: Dák Skín Ton, Mídíọ́m-Laít Skín Ton</annotation>
-		<annotation cp="👩🏿‍🤝‍👨🏽">Dák Skín Ton | De Hól Hand | Hand | Hol | Man | Mídíọ́m Skín Ton | Tú Pípul | Wúman | Wúman An Man Wé Hól Hand</annotation>
+		<annotation cp="👩🏿‍🤝‍👨🏽">Dák Skín Ton | De Hól Hand | Hand | Hol | Man | Mídíọ́m Skín Ton | Tuú Pípul | Wúman | Wúman An Man Wé Hól Hand</annotation>
 		<annotation cp="👩🏿‍🤝‍👨🏽" type="tts">Wúman An Man Wé Hól Hand: Dák Skín Ton, Mídíọ́m Skín Ton</annotation>
-		<annotation cp="👩🏿‍🤝‍👨🏾">Dák Skín Ton | De Hól Hand | Hand | Hol | Man | Mídíọ́m Dák Skín Ton | Tú Pípul | Wúman | Wúman An Man Wé Hól Hand</annotation>
+		<annotation cp="👩🏿‍🤝‍👨🏾">Dák Skín Ton | De Hól Hand | Hand | Hol | Man | Mídíọ́m Dák Skín Ton | Tuú Pípul | Wúman | Wúman An Man Wé Hól Hand</annotation>
 		<annotation cp="👩🏿‍🤝‍👨🏾" type="tts">Wúman An Man Wé Hól Hand: Dák Skín Ton, Mídíọ́m Dák Skín Ton</annotation>
-		<annotation cp="👫🏿">Dák Skín Ton | De Hól Hand | Hand | Hol | Man | Tú Pípul | Wúman | Wúman An Man Wé Hól Hand</annotation>
+		<annotation cp="👫🏿">Dák Skín Ton | De Hól Hand | Hand | Hol | Man | Tuú Pípul | Wúman | Wúman An Man Wé Hól Hand</annotation>
 		<annotation cp="👫🏿" type="tts">Wúman An Man Wé Hól Hand: Dák Skín Ton</annotation>
-		<annotation cp="👬🏻">De Hól Hand | Jẹ́míni | Laít Skín Ton | Man | Man-dẹm Wé Hól Han | Mẹn | Mẹn Wé Hól Hand | Tú Pípul | Twin</annotation>
+		<annotation cp="👬🏻">De Hól Hand | Laít Skín Ton | Man | Man-dẹm Wé Hól Han | Mẹn | Tuú Pípul | Twin</annotation>
 		<annotation cp="👬🏻" type="tts">Man-dẹm Wé Hól Han: Laít Skín Ton</annotation>
-		<annotation cp="👨🏻‍🤝‍👨🏼">De Hól Hand | Jẹ́míni | Laít Skín Ton | Man | Man-dẹm Wé Hól Han | Mẹn | Mẹn Wé Hól Hand | Mídíọ́m-Laít Skín Ton | Tú Pípul | Twin</annotation>
+		<annotation cp="👨🏻‍🤝‍👨🏼">De Hól Hand | Laít Skín Ton | Man | Man-dẹm Wé Hól Han | Mẹn | Mídíọ́m-Laít Skín Ton | Tuú Pípul | Twin</annotation>
 		<annotation cp="👨🏻‍🤝‍👨🏼" type="tts">Man-dẹm Wé Hól Han: Laít Skín Ton, Mídíọ́m-Laít Skín Ton</annotation>
-		<annotation cp="👨🏻‍🤝‍👨🏽">De Hól Hand | Jẹ́míni | Laít Skín Ton | Man | Man-dẹm Wé Hól Han | Mẹn | Mẹn Wé Hól Hand | Mídíọ́m Skín Ton | Tú Pípul | Twin</annotation>
+		<annotation cp="👨🏻‍🤝‍👨🏽">De Hól Hand | Laít Skín Ton | Man | Man-dẹm Wé Hól Han | Mẹn | Mídíọ́m Skín Ton | Tuú Pípul | Twin</annotation>
 		<annotation cp="👨🏻‍🤝‍👨🏽" type="tts">Man-dẹm Wé Hól Han: Laít Skín Ton, Mídíọ́m Skín Ton</annotation>
-		<annotation cp="👨🏻‍🤝‍👨🏾">De Hól Hand | Jẹ́míni | Laít Skín Ton | Man | Man-dẹm Wé Hól Han | Mẹn | Mẹn Wé Hól Hand | Mídíọ́m Dák Skín Ton | Tú Pípul | Twin</annotation>
+		<annotation cp="👨🏻‍🤝‍👨🏾">De Hól Hand | Laít Skín Ton | Man | Man-dẹm Wé Hól Han | Mẹn | Mídíọ́m Dák Skín Ton | Tuú Pípul | Twin</annotation>
 		<annotation cp="👨🏻‍🤝‍👨🏾" type="tts">Man-dẹm Wé Hól Han: Laít Skín Ton, Mídíọ́m Dák Skín Ton</annotation>
-		<annotation cp="👨🏻‍🤝‍👨🏿">Dák Skín Ton | De Hól Hand | Jẹ́míni | Laít Skín Ton | Man | Man-dẹm Wé Hól Han | Mẹn | Mẹn Wé Hól Hand | Tú Pípul | Twin</annotation>
+		<annotation cp="👨🏻‍🤝‍👨🏿">Dák Skín Ton | De Hól Hand | Laít Skín Ton | Man | Man-dẹm Wé Hól Han | Mẹn | Tuú Pípul | Twin</annotation>
 		<annotation cp="👨🏻‍🤝‍👨🏿" type="tts">Man-dẹm Wé Hól Han: Laít Skín Ton, Dák Skín Ton</annotation>
-		<annotation cp="👨🏼‍🤝‍👨🏻">De Hól Hand | Jẹ́míni | Laít Skín Ton | Man | Man-dẹm Wé Hól Han | Mẹn | Mẹn Wé Hól Hand | Mídíọ́m-Laít Skín Ton | Tú Pípul | Twin</annotation>
+		<annotation cp="👨🏼‍🤝‍👨🏻">De Hól Hand | Laít Skín Ton | Man | Man-dẹm Wé Hól Han | Mẹn | Mídíọ́m-Laít Skín Ton | Tuú Pípul | Twin</annotation>
 		<annotation cp="👨🏼‍🤝‍👨🏻" type="tts">Man-dẹm Wé Hól Han: Mídíọ́m-Laít Skín Ton, Laít Skín Ton</annotation>
-		<annotation cp="👬🏼">De Hól Hand | Jẹ́míni | Man | Man-dẹm Wé Hól Han | Mẹn | Mẹn Wé Hól Hand | Mídíọ́m-Laít Skín Ton | Tú Pípul | Twin</annotation>
+		<annotation cp="👬🏼">De Hól Hand | Man | Man-dẹm Wé Hól Han | Mẹn | Mídíọ́m-Laít Skín Ton | Tuú Pípul | Twin</annotation>
 		<annotation cp="👬🏼" type="tts">Man-dẹm Wé Hól Han: Mídíọ́m-Laít Skín Ton</annotation>
-		<annotation cp="👨🏼‍🤝‍👨🏽">De Hól Hand | Jẹ́míni | Man | Man-dẹm Wé Hól Han | Mẹn | Mẹn Wé Hól Hand | Mídíọ́m Skín Ton | Mídíọ́m-Laít Skín Ton | Tú Pípul | Twin</annotation>
+		<annotation cp="👨🏼‍🤝‍👨🏽">De Hól Hand | Man | Man-dẹm Wé Hól Han | Mẹn | Mídíọ́m Skín Ton | Mídíọ́m-Laít Skín Ton | Tuú Pípul | Twin</annotation>
 		<annotation cp="👨🏼‍🤝‍👨🏽" type="tts">Man-dẹm Wé Hól Han: Mídíọ́m-Laít Skín Ton, Mídíọ́m Skín Ton</annotation>
-		<annotation cp="👨🏼‍🤝‍👨🏾">De Hól Hand | Jẹ́míni | Man | Man-dẹm Wé Hól Han | Mẹn | Mẹn Wé Hól Hand | Mídíọ́m Dák Skín Ton | Mídíọ́m-Laít Skín Ton | Tú Pípul | Twin</annotation>
+		<annotation cp="👨🏼‍🤝‍👨🏾">De Hól Hand | Man | Man-dẹm Wé Hól Han | Mẹn | Mídíọ́m Dák Skín Ton | Mídíọ́m-Laít Skín Ton | Tuú Pípul | Twin</annotation>
 		<annotation cp="👨🏼‍🤝‍👨🏾" type="tts">Man-dẹm Wé Hól Han: Mídíọ́m-Laít Skín Ton, Mídíọ́m Dák Skín Ton</annotation>
-		<annotation cp="👨🏼‍🤝‍👨🏿">Dák Skín Ton | De Hól Hand | Jẹ́míni | Man | Man-dẹm Wé Hól Han | Mẹn | Mẹn Wé Hól Hand | Mídíọ́m-Laít Skín Ton | Tú Pípul | Twin</annotation>
+		<annotation cp="👨🏼‍🤝‍👨🏿">Dák Skín Ton | De Hól Hand | Man | Man-dẹm Wé Hól Han | Mẹn | Mídíọ́m-Laít Skín Ton | Tuú Pípul | Twin</annotation>
 		<annotation cp="👨🏼‍🤝‍👨🏿" type="tts">Man-dẹm Wé Hól Han: Mídíọ́m-Laít Skín Ton, Dák Skín Ton</annotation>
-		<annotation cp="👨🏽‍🤝‍👨🏻">De Hól Hand | Jẹ́míni | Laít Skín Ton | Man | Man-dẹm Wé Hól Han | Mẹn | Mẹn Wé Hól Hand | Mídíọ́m Skín Ton | Tú Pípul | Twin</annotation>
+		<annotation cp="👨🏽‍🤝‍👨🏻">De Hól Hand | Laít Skín Ton | Man | Man-dẹm Wé Hól Han | Mẹn | Mídíọ́m Skín Ton | Tuú Pípul | Twin</annotation>
 		<annotation cp="👨🏽‍🤝‍👨🏻" type="tts">Man-dẹm Wé Hól Han: Mídíọ́m Skín Ton, Laít Skín Ton</annotation>
-		<annotation cp="👨🏽‍🤝‍👨🏼">De Hól Hand | Jẹ́míni | Man | Man-dẹm Wé Hól Han | Mẹn | Mẹn Wé Hól Hand | Mídíọ́m Skín Ton | Mídíọ́m-Laít Skín Ton | Tú Pípul | Twin</annotation>
+		<annotation cp="👨🏽‍🤝‍👨🏼">De Hól Hand | Man | Man-dẹm Wé Hól Han | Mẹn | Mídíọ́m Skín Ton | Mídíọ́m-Laít Skín Ton | Tuú Pípul | Twin</annotation>
 		<annotation cp="👨🏽‍🤝‍👨🏼" type="tts">Man-dẹm Wé Hól Han: Mídíọ́m Skín Ton, Mídíọ́m-Laít Skín Ton</annotation>
-		<annotation cp="👬🏽">De Hól Hand | Jẹ́míni | Man | Man-dẹm Wé Hól Han | Mẹn | Mẹn Wé Hól Hand | Mídíọ́m Skín Ton | Tú Pípul | Twin</annotation>
+		<annotation cp="👬🏽">De Hól Hand | Man | Man-dẹm Wé Hól Han | Mẹn | Mídíọ́m Skín Ton | Tuú Pípul | Twin</annotation>
 		<annotation cp="👬🏽" type="tts">Man-dẹm Wé Hól Han: Mídíọ́m Skín Ton</annotation>
-		<annotation cp="👨🏽‍🤝‍👨🏾">De Hól Hand | Jẹ́míni | Man | Man-dẹm Wé Hól Han | Mẹn | Mẹn Wé Hól Hand | Mídíọ́m Dák Skín Ton | Mídíọ́m Skín Ton | Tú Pípul | Twin</annotation>
+		<annotation cp="👨🏽‍🤝‍👨🏾">De Hól Hand | Man | Man-dẹm Wé Hól Han | Mẹn | Mídíọ́m Dák Skín Ton | Mídíọ́m Skín Ton | Tuú Pípul | Twin</annotation>
 		<annotation cp="👨🏽‍🤝‍👨🏾" type="tts">Man-dẹm Wé Hól Han: Mídíọ́m Skín Ton, Mídíọ́m Dák Skín Ton</annotation>
-		<annotation cp="👨🏽‍🤝‍👨🏿">Dák Skín Ton | De Hól Hand | Jẹ́míni | Man | Man-dẹm Wé Hól Han | Mẹn | Mẹn Wé Hól Hand | Mídíọ́m Skín Ton | Tú Pípul | Twin</annotation>
+		<annotation cp="👨🏽‍🤝‍👨🏿">Dák Skín Ton | De Hól Hand | Man | Man-dẹm Wé Hól Han | Mẹn | Mídíọ́m Skín Ton | Tuú Pípul | Twin</annotation>
 		<annotation cp="👨🏽‍🤝‍👨🏿" type="tts">Man-dẹm Wé Hól Han: Mídíọ́m Skín Ton, Dák Skín Ton</annotation>
-		<annotation cp="👨🏾‍🤝‍👨🏻">De Hól Hand | Jẹ́míni | Laít Skín Ton | Man | Man-dẹm Wé Hól Han | Mẹn | Mẹn Wé Hól Hand | Mídíọ́m Dák Skín Ton | Tú Pípul | Twin</annotation>
+		<annotation cp="👨🏾‍🤝‍👨🏻">De Hól Hand | Laít Skín Ton | Man | Man-dẹm Wé Hól Han | Mẹn | Mídíọ́m Dák Skín Ton | Tuú Pípul | Twin</annotation>
 		<annotation cp="👨🏾‍🤝‍👨🏻" type="tts">Man-dẹm Wé Hól Han: Mídíọ́m Dák Skín Ton, Laít Skín Ton</annotation>
-		<annotation cp="👨🏾‍🤝‍👨🏼">De Hól Hand | Jẹ́míni | Man | Man-dẹm Wé Hól Han | Mẹn | Mẹn Wé Hól Hand | Mídíọ́m Dák Skín Ton | Mídíọ́m-Laít Skín Ton | Tú Pípul | Twin</annotation>
+		<annotation cp="👨🏾‍🤝‍👨🏼">De Hól Hand | Man | Man-dẹm Wé Hól Han | Mẹn | Mídíọ́m Dák Skín Ton | Mídíọ́m-Laít Skín Ton | Tuú Pípul | Twin</annotation>
 		<annotation cp="👨🏾‍🤝‍👨🏼" type="tts">Man-dẹm Wé Hól Han: Mídíọ́m Dák Skín Ton, Mídíọ́m-Laít Skín Ton</annotation>
-		<annotation cp="👨🏾‍🤝‍👨🏽">De Hól Hand | Jẹ́míni | Man | Man-dẹm Wé Hól Han | Mẹn | Mẹn Wé Hól Hand | Mídíọ́m Dák Skín Ton | Mídíọ́m Skín Ton | Tú Pípul | Twin</annotation>
+		<annotation cp="👨🏾‍🤝‍👨🏽">De Hól Hand | Man | Man-dẹm Wé Hól Han | Mẹn | Mídíọ́m Dák Skín Ton | Mídíọ́m Skín Ton | Tuú Pípul | Twin</annotation>
 		<annotation cp="👨🏾‍🤝‍👨🏽" type="tts">Man-dẹm Wé Hól Han: Mídíọ́m Dák Skín Ton, Mídíọ́m Skín Ton</annotation>
-		<annotation cp="👬🏾">De Hól Hand | Jẹ́míni | Man | Man-dẹm Wé Hól Han | Mẹn | Mẹn Wé Hól Hand | Mídíọ́m Dák Skín Ton | Tú Pípul | Twin</annotation>
+		<annotation cp="👬🏾">De Hól Hand | Man | Man-dẹm Wé Hól Han | Mẹn | Mídíọ́m Dák Skín Ton | Tuú Pípul | Twin</annotation>
 		<annotation cp="👬🏾" type="tts">Man-dẹm Wé Hól Han: Mídíọ́m Dák Skín Ton</annotation>
-		<annotation cp="👨🏾‍🤝‍👨🏿">Dák Skín Ton | De Hól Hand | Jẹ́míni | Man | Man-dẹm Wé Hól Han | Mẹn | Mẹn Wé Hól Hand | Mídíọ́m Dák Skín Ton | Tú Pípul | Twin</annotation>
+		<annotation cp="👨🏾‍🤝‍👨🏿">Dák Skín Ton | De Hól Hand | Man | Man-dẹm Wé Hól Han | Mẹn | Mídíọ́m Dák Skín Ton | Tuú Pípul | Twin</annotation>
 		<annotation cp="👨🏾‍🤝‍👨🏿" type="tts">Man-dẹm Wé Hól Han: Mídíọ́m Dák Skín Ton, Dák Skín Ton</annotation>
-		<annotation cp="👨🏿‍🤝‍👨🏻">Dák Skín Ton | De Hól Hand | Jẹ́míni | Laít Skín Ton | Man | Man-dẹm Wé Hól Han | Mẹn | Mẹn Wé Hól Hand | Tú Pípul | Twin</annotation>
+		<annotation cp="👨🏿‍🤝‍👨🏻">Dák Skín Ton | De Hól Hand | Laít Skín Ton | Man | Man-dẹm Wé Hól Han | Mẹn | Tuú Pípul | Twin</annotation>
 		<annotation cp="👨🏿‍🤝‍👨🏻" type="tts">Man-dẹm Wé Hól Han: Dák Skín Ton, Laít Skín Ton</annotation>
-		<annotation cp="👨🏿‍🤝‍👨🏼">Dák Skín Ton | De Hól Hand | Jẹ́míni | Man | Man-dẹm Wé Hól Han | Mẹn | Mẹn Wé Hól Hand | Mídíọ́m-Laít Skín Ton | Tú Pípul | Twin</annotation>
+		<annotation cp="👨🏿‍🤝‍👨🏼">Dák Skín Ton | De Hól Hand | Man | Man-dẹm Wé Hól Han | Mẹn | Mídíọ́m-Laít Skín Ton | Tuú Pípul | Twin</annotation>
 		<annotation cp="👨🏿‍🤝‍👨🏼" type="tts">Man-dẹm Wé Hól Han: Dák Skín Ton, Mídíọ́m-Laít Skín Ton</annotation>
-		<annotation cp="👨🏿‍🤝‍👨🏽">Dák Skín Ton | De Hól Hand | Jẹ́míni | Man | Man-dẹm Wé Hól Han | Mẹn | Mẹn Wé Hól Hand | Mídíọ́m Skín Ton | Tú Pípul | Twin</annotation>
+		<annotation cp="👨🏿‍🤝‍👨🏽">Dák Skín Ton | De Hól Hand | Man | Man-dẹm Wé Hól Han | Mẹn | Mídíọ́m Skín Ton | Tuú Pípul | Twin</annotation>
 		<annotation cp="👨🏿‍🤝‍👨🏽" type="tts">Man-dẹm Wé Hól Han: Dák Skín Ton, Mídíọ́m Skín Ton</annotation>
-		<annotation cp="👨🏿‍🤝‍👨🏾">Dák Skín Ton | De Hól Hand | Jẹ́míni | Man | Man-dẹm Wé Hól Han | Mẹn | Mẹn Wé Hól Hand | Mídíọ́m Dák Skín Ton | Tú Pípul | Twin</annotation>
+		<annotation cp="👨🏿‍🤝‍👨🏾">Dák Skín Ton | De Hól Hand | Man | Man-dẹm Wé Hól Han | Mẹn | Mídíọ́m Dák Skín Ton | Tuú Pípul | Twin</annotation>
 		<annotation cp="👨🏿‍🤝‍👨🏾" type="tts">Man-dẹm Wé Hól Han: Dák Skín Ton, Mídíọ́m Dák Skín Ton</annotation>
-		<annotation cp="👬🏿">Dák Skín Ton | De Hól Hand | Jẹ́míni | Man | Man-dẹm Wé Hól Han | Mẹn | Mẹn Wé Hól Hand | Tú Pípul | Twin</annotation>
+		<annotation cp="👬🏿">Dák Skín Ton | De Hól Hand | Man | Man-dẹm Wé Hól Han | Mẹn | Tuú Pípul | Twin</annotation>
 		<annotation cp="👬🏿" type="tts">Man-dẹm Wé Hól Han: Dák Skín Ton</annotation>
-		<annotation cp="💏🏻">Kis | Laít Skín Ton | Tú Pípol</annotation>
+		<annotation cp="💏🏻">Kis | Laít Skín Ton | Tuú Pípul</annotation>
 		<annotation cp="💏🏻" type="tts">Kis: Laít Skín Ton</annotation>
-		<annotation cp="💏🏼">Kis | Mídíọ́m-Laít Skín Ton | Tú Pípol</annotation>
+		<annotation cp="💏🏼">Kis | Mídíọ́m-Laít Skín Ton | Tuú Pípul</annotation>
 		<annotation cp="💏🏼" type="tts">Kis: Mídíọ́m-Laít Skín Ton</annotation>
-		<annotation cp="💏🏽">Kis | Mídíọ́m Skín Ton | Tú Pípol</annotation>
+		<annotation cp="💏🏽">Kis | Mídíọ́m Skín Ton | Tuú Pípul</annotation>
 		<annotation cp="💏🏽" type="tts">Kis: Mídíọ́m Skín Ton</annotation>
-		<annotation cp="💏🏾">Kis | Mídíọ́m Dák Skín Ton | Tú Pípol</annotation>
+		<annotation cp="💏🏾">Kis | Mídíọ́m Dák Skín Ton | Tuú Pípul</annotation>
 		<annotation cp="💏🏾" type="tts">Kis: Mídíọ́m Dák Skín Ton</annotation>
-		<annotation cp="💏🏿">Dák Skín Ton | Kis | Tú Pípol</annotation>
+		<annotation cp="💏🏿">Dák Skín Ton | Kis | Tuú Pípul</annotation>
 		<annotation cp="💏🏿" type="tts">Kis: Dák Skín Ton</annotation>
-		<annotation cp="👩‍❤‍💋‍👨">Kis | Man | Tú Pípol | Wúman</annotation>
+		<annotation cp="👩‍❤‍💋‍👨">Kis | Man | Tuú Pípul | Wúman</annotation>
 		<annotation cp="👩‍❤‍💋‍👨" type="tts">Kis: Wúman, Man</annotation>
-		<annotation cp="👨‍❤‍💋‍👨">Kis | Man | Tú Pípol</annotation>
+		<annotation cp="👨‍❤‍💋‍👨">Kis | Man | Tuú Pípul</annotation>
 		<annotation cp="👨‍❤‍💋‍👨" type="tts">Kis: Man, Man</annotation>
-		<annotation cp="👩‍❤‍💋‍👩">Kis | Tú Pípol | Wúman</annotation>
+		<annotation cp="👩‍❤‍💋‍👩">Kis | Tuú Pípul | Wúman</annotation>
 		<annotation cp="👩‍❤‍💋‍👩" type="tts">Kis: Wúman, Wúman</annotation>
-		<annotation cp="💑🏻">Laít Skín Ton | Lọv | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat</annotation>
-		<annotation cp="💑🏻" type="tts">Tú Pípol Wit Hat: Laít Skín Ton</annotation>
-		<annotation cp="💑🏼">Lọv | Mídíọ́m-Laít Skín Ton | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat</annotation>
-		<annotation cp="💑🏼" type="tts">Tú Pípol Wit Hat: Mídíọ́m-Laít Skín Ton</annotation>
-		<annotation cp="💑🏽">Lọv | Mídíọ́m Skín Ton | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat</annotation>
-		<annotation cp="💑🏽" type="tts">Tú Pípol Wit Hat: Mídíọ́m Skín Ton</annotation>
-		<annotation cp="💑🏾">Lọv | Mídíọ́m Dák Skín Ton | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat</annotation>
-		<annotation cp="💑🏾" type="tts">Tú Pípol Wit Hat: Mídíọ́m Dák Skín Ton</annotation>
-		<annotation cp="💑🏿">Dák Skín Ton | Lọv | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat</annotation>
-		<annotation cp="💑🏿" type="tts">Tú Pípol Wit Hat: Dák Skín Ton</annotation>
-		<annotation cp="👩‍❤‍👨">Lọv | Man | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat | Wúman</annotation>
-		<annotation cp="👩‍❤‍👨" type="tts">Tú Pípol Wit Hat: Wúman, Man</annotation>
-		<annotation cp="👨‍❤‍👨">Lọv | Man | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat</annotation>
-		<annotation cp="👨‍❤‍👨" type="tts">Tú Pípol Wit Hat: Man, Man</annotation>
-		<annotation cp="👩‍❤‍👩">Lọv | Tú Pípol Wit Hat | Tú Pípul | Tú Pípul Wit Hat | Wúman</annotation>
-		<annotation cp="👩‍❤‍👩" type="tts">Tú Pípol Wit Hat: Wúman, Wúman</annotation>
+		<annotation cp="💑🏻">Laít Skín Ton | Lọv | Tuú Pípul | Tuú Pípul Wit Hat</annotation>
+		<annotation cp="💑🏻" type="tts">Tuú Pípul Wit Hat: Laít Skín Ton</annotation>
+		<annotation cp="💑🏼">Lọv | Mídíọ́m-Laít Skín Ton | Tuú Pípul | Tuú Pípul Wit Hat</annotation>
+		<annotation cp="💑🏼" type="tts">Tuú Pípul Wit Hat: Mídíọ́m-Laít Skín Ton</annotation>
+		<annotation cp="💑🏽">Lọv | Mídíọ́m Skín Ton | Tuú Pípul | Tuú Pípul Wit Hat</annotation>
+		<annotation cp="💑🏽" type="tts">Tuú Pípul Wit Hat: Mídíọ́m Skín Ton</annotation>
+		<annotation cp="💑🏾">Lọv | Mídíọ́m Dák Skín Ton | Tuú Pípul | Tuú Pípul Wit Hat</annotation>
+		<annotation cp="💑🏾" type="tts">Tuú Pípul Wit Hat: Mídíọ́m Dák Skín Ton</annotation>
+		<annotation cp="💑🏿">Dák Skín Ton | Lọv | Tuú Pípul | Tuú Pípul Wit Hat</annotation>
+		<annotation cp="💑🏿" type="tts">Tuú Pípul Wit Hat: Dák Skín Ton</annotation>
+		<annotation cp="👩‍❤‍👨">Lọv | Man | Tuú Pípul | Tuú Pípul Wit Hat | Wúman</annotation>
+		<annotation cp="👩‍❤‍👨" type="tts">Tuú Pípul Wit Hat: Wúman, Man</annotation>
+		<annotation cp="👨‍❤‍👨">Lọv | Man | Tuú Pípul | Tuú Pípul Wit Hat</annotation>
+		<annotation cp="👨‍❤‍👨" type="tts">Tuú Pípul Wit Hat: Man, Man</annotation>
+		<annotation cp="👩‍❤‍👩">Lọv | Tuú Pípul | Tuú Pípul Wit Hat | Wúman</annotation>
+		<annotation cp="👩‍❤‍👩" type="tts">Tuú Pípul Wit Hat: Wúman, Wúman</annotation>
 		<annotation cp="👨‍👩‍👦">Fámíli | Man | Smọ́l Bọi | Wúman</annotation>
 		<annotation cp="👨‍👩‍👦" type="tts">Fámíli: Man, Wúman, Smọ́l Bọi</annotation>
-		<annotation cp="👨‍👩‍👧">Fámíli | Man | Smọ́l Gẹl | Wúman</annotation>
-		<annotation cp="👨‍👩‍👧" type="tts">Fámíli: Man, Wúman, Smọ́l Gẹl</annotation>
-		<annotation cp="👨‍👩‍👧‍👦">Fámíli | Man | Smọ́l Bọi | Smọ́l Gẹl | Wúman</annotation>
-		<annotation cp="👨‍👩‍👧‍👦" type="tts">Fámíli: Man, Wúman, Smọ́l Gẹl, Smọ́l Bọi</annotation>
+		<annotation cp="👨‍👩‍👧">Fámíli | Gẹl | Man | Wúman</annotation>
+		<annotation cp="👨‍👩‍👧" type="tts">Fámíli: Man, Wúman, Gẹl</annotation>
+		<annotation cp="👨‍👩‍👧‍👦">Fámíli | Gẹl | Man | Smọ́l Bọi | Wúman</annotation>
+		<annotation cp="👨‍👩‍👧‍👦" type="tts">Fámíli: Man, Wúman, Gẹl, Smọ́l Bọi</annotation>
 		<annotation cp="👨‍👩‍👦‍👦">Fámíli | Man | Smọ́l Bọi | Wúman</annotation>
 		<annotation cp="👨‍👩‍👦‍👦" type="tts">Fámíli: Man, Wúman, Smọ́l Bọi, Smọ́l Bọi</annotation>
-		<annotation cp="👨‍👩‍👧‍👧">Fámíli | Man | Smọ́l Gẹl | Wúman</annotation>
-		<annotation cp="👨‍👩‍👧‍👧" type="tts">Fámíli: Man, Wúman, Smọ́l Gẹl, Smọ́l Gẹl</annotation>
+		<annotation cp="👨‍👩‍👧‍👧">Fámíli | Gẹl | Man | Wúman</annotation>
+		<annotation cp="👨‍👩‍👧‍👧" type="tts">Fámíli: Man, Wúman, Gẹl, Gẹl</annotation>
 		<annotation cp="👨‍👨‍👦">Fámíli | Man | Smọ́l Bọi</annotation>
 		<annotation cp="👨‍👨‍👦" type="tts">Fámíli: Man, Man, Smọ́l Bọi</annotation>
-		<annotation cp="👨‍👨‍👧">Fámíli | Man | Smọ́l Gẹl</annotation>
-		<annotation cp="👨‍👨‍👧" type="tts">Fámíli: Man, Man, Smọ́l Gẹl</annotation>
-		<annotation cp="👨‍👨‍👧‍👦">Fámíli | Man | Smọ́l Bọi | Smọ́l Gẹl</annotation>
-		<annotation cp="👨‍👨‍👧‍👦" type="tts">Fámíli: Man, Man, Smọ́l Gẹl, Smọ́l Bọi</annotation>
+		<annotation cp="👨‍👨‍👧">Fámíli | Gẹl | Man</annotation>
+		<annotation cp="👨‍👨‍👧" type="tts">Fámíli: Man, Man, Gẹl</annotation>
+		<annotation cp="👨‍👨‍👧‍👦">Fámíli | Gẹl | Man | Smọ́l Bọi</annotation>
+		<annotation cp="👨‍👨‍👧‍👦" type="tts">Fámíli: Man, Man, Gẹl, Smọ́l Bọi</annotation>
 		<annotation cp="👨‍👨‍👦‍👦">Fámíli | Man | Smọ́l Bọi</annotation>
 		<annotation cp="👨‍👨‍👦‍👦" type="tts">Fámíli: Man, Man, Smọ́l Bọi, Smọ́l Bọi</annotation>
-		<annotation cp="👨‍👨‍👧‍👧">Fámíli | Man | Smọ́l Gẹl</annotation>
-		<annotation cp="👨‍👨‍👧‍👧" type="tts">Fámíli: Man, Man, Smọ́l Gẹl, Smọ́l Gẹl</annotation>
+		<annotation cp="👨‍👨‍👧‍👧">Fámíli | Gẹl | Man</annotation>
+		<annotation cp="👨‍👨‍👧‍👧" type="tts">Fámíli: Man, Man, Gẹl, Gẹl</annotation>
 		<annotation cp="👩‍👩‍👦">Fámíli | Smọ́l Bọi | Wúman</annotation>
 		<annotation cp="👩‍👩‍👦" type="tts">Fámíli: Wúman, Wúman, Smọ́l Bọi</annotation>
-		<annotation cp="👩‍👩‍👧">Fámíli | Smọ́l Gẹl | Wúman</annotation>
-		<annotation cp="👩‍👩‍👧" type="tts">Fámíli: Wúman, Wúman, Smọ́l Gẹl</annotation>
-		<annotation cp="👩‍👩‍👧‍👦">Fámíli | Smọ́l Bọi | Smọ́l Gẹl | Wúman</annotation>
-		<annotation cp="👩‍👩‍👧‍👦" type="tts">Fámíli: Wúman, Wúman, Smọ́l Gẹl, Smọ́l Bọi</annotation>
+		<annotation cp="👩‍👩‍👧">Fámíli | Gẹl | Wúman</annotation>
+		<annotation cp="👩‍👩‍👧" type="tts">Fámíli: Wúman, Wúman, Gẹl</annotation>
+		<annotation cp="👩‍👩‍👧‍👦">Fámíli | Gẹl | Smọ́l Bọi | Wúman</annotation>
+		<annotation cp="👩‍👩‍👧‍👦" type="tts">Fámíli: Wúman, Wúman, Gẹl, Smọ́l Bọi</annotation>
 		<annotation cp="👩‍👩‍👦‍👦">Fámíli | Smọ́l Bọi | Wúman</annotation>
 		<annotation cp="👩‍👩‍👦‍👦" type="tts">Fámíli: Wúman, Wúman, Smọ́l Bọi, Smọ́l Bọi</annotation>
-		<annotation cp="👩‍👩‍👧‍👧">Fámíli | Smọ́l Gẹl | Wúman</annotation>
-		<annotation cp="👩‍👩‍👧‍👧" type="tts">Fámíli: Wúman, Wúman, Smọ́l Gẹl, Smọ́l Gẹl</annotation>
+		<annotation cp="👩‍👩‍👧‍👧">Fámíli | Gẹl | Wúman</annotation>
+		<annotation cp="👩‍👩‍👧‍👧" type="tts">Fámíli: Wúman, Wúman, Gẹl, Gẹl</annotation>
 		<annotation cp="👨‍👦">Fámíli | Man | Smọ́l Bọi</annotation>
 		<annotation cp="👨‍👦" type="tts">Fámíli: Man, Smọ́l Bọi</annotation>
 		<annotation cp="👨‍👦‍👦">Fámíli | Man | Smọ́l Bọi</annotation>
 		<annotation cp="👨‍👦‍👦" type="tts">Fámíli: Man, Smọ́l Bọi, Smọ́l Bọi</annotation>
-		<annotation cp="👨‍👧">Fámíli | Man | Smọ́l Gẹl</annotation>
-		<annotation cp="👨‍👧" type="tts">Fámíli: Man, Smọ́l Gẹl</annotation>
-		<annotation cp="👨‍👧‍👦">Fámíli | Man | Smọ́l Bọi | Smọ́l Gẹl</annotation>
-		<annotation cp="👨‍👧‍👦" type="tts">Fámíli: Man, Smọ́l Gẹl, Smọ́l Bọi</annotation>
-		<annotation cp="👨‍👧‍👧">Fámíli | Man | Smọ́l Gẹl</annotation>
-		<annotation cp="👨‍👧‍👧" type="tts">Fámíli: Man, Smọ́l Gẹl, Smọ́l Gẹl</annotation>
+		<annotation cp="👨‍👧">Fámíli | Gẹl | Man</annotation>
+		<annotation cp="👨‍👧" type="tts">Fámíli: Man, Gẹl</annotation>
+		<annotation cp="👨‍👧‍👦">Fámíli | Gẹl | Man | Smọ́l Bọi</annotation>
+		<annotation cp="👨‍👧‍👦" type="tts">Fámíli: Man, Gẹl, Smọ́l Bọi</annotation>
+		<annotation cp="👨‍👧‍👧">Fámíli | Gẹl | Man</annotation>
+		<annotation cp="👨‍👧‍👧" type="tts">Fámíli: Man, Gẹl, Gẹl</annotation>
 		<annotation cp="👩‍👦">Fámíli | Smọ́l Bọi | Wúman</annotation>
 		<annotation cp="👩‍👦" type="tts">Fámíli: Wúman, Smọ́l Bọi</annotation>
 		<annotation cp="👩‍👦‍👦">Fámíli | Smọ́l Bọi | Wúman</annotation>
 		<annotation cp="👩‍👦‍👦" type="tts">Fámíli: Wúman, Smọ́l Bọi, Smọ́l Bọi</annotation>
-		<annotation cp="👩‍👧">Fámíli | Smọ́l Gẹl | Wúman</annotation>
-		<annotation cp="👩‍👧" type="tts">Fámíli: Wúman, Smọ́l Gẹl</annotation>
-		<annotation cp="👩‍👧‍👦">Fámíli | Smọ́l Bọi | Smọ́l Gẹl | Wúman</annotation>
-		<annotation cp="👩‍👧‍👦" type="tts">Fámíli: Wúman, Smọ́l Gẹl, Smọ́l Bọi</annotation>
-		<annotation cp="👩‍👧‍👧">Fámíli | Smọ́l Gẹl | Wúman</annotation>
-		<annotation cp="👩‍👧‍👧" type="tts">Fámíli: Wúman, Smọ́l Gẹl, Smọ́l Gẹl</annotation>
+		<annotation cp="👩‍👧">Fámíli | Gẹl | Wúman</annotation>
+		<annotation cp="👩‍👧" type="tts">Fámíli: Wúman, Gẹl</annotation>
+		<annotation cp="👩‍👧‍👦">Fámíli | Gẹl | Smọ́l Bọi | Wúman</annotation>
+		<annotation cp="👩‍👧‍👦" type="tts">Fámíli: Wúman, Gẹl, Smọ́l Bọi</annotation>
+		<annotation cp="👩‍👧‍👧">Fámíli | Gẹl | Wúman</annotation>
+		<annotation cp="👩‍👧‍👧" type="tts">Fámíli: Wúman, Gẹl, Gẹl</annotation>
 		<annotation cp="#⃣">Kíkap</annotation>
 		<annotation cp="#⃣" type="tts">Kíkap: #</annotation>
 		<annotation cp="*⃣">Kíkap</annotation>
@@ -3697,7 +3868,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🇬🇹">Flag</annotation>
 		<annotation cp="🇬🇹" type="tts">Flag: Guátẹmála</annotation>
 		<annotation cp="🇬🇺">Flag</annotation>
-		<annotation cp="🇬🇺" type="tts">Flag: Guam</annotation>
+		<annotation cp="🇬🇺" type="tts">Flag: Guám</annotation>
 		<annotation cp="🇬🇼">Flag</annotation>
 		<annotation cp="🇬🇼" type="tts">Flag: Gíní-Bisáu</annotation>
 		<annotation cp="🇬🇾">Flag</annotation>
@@ -3731,7 +3902,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🇮🇶">Flag</annotation>
 		<annotation cp="🇮🇶" type="tts">Flag: Irak</annotation>
 		<annotation cp="🇮🇷">Flag</annotation>
-		<annotation cp="🇮🇷" type="tts">Flag: Iran</annotation>
+		<annotation cp="🇮🇷" type="tts">Flag: Irán</annotation>
 		<annotation cp="🇮🇸">Flag</annotation>
 		<annotation cp="🇮🇸" type="tts">Flag: Aísland</annotation>
 		<annotation cp="🇮🇹">Flag</annotation>
@@ -3743,7 +3914,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🇯🇴">Flag</annotation>
 		<annotation cp="🇯🇴" type="tts">Flag: Jọ́dan</annotation>
 		<annotation cp="🇯🇵">Flag</annotation>
-		<annotation cp="🇯🇵" type="tts">Flag: Japan</annotation>
+		<annotation cp="🇯🇵" type="tts">Flag: Japán</annotation>
 		<annotation cp="🇰🇪">Flag</annotation>
 		<annotation cp="🇰🇪" type="tts">Flag: Kẹ́nya</annotation>
 		<annotation cp="🇰🇬">Flag</annotation>
@@ -3767,7 +3938,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🇰🇿">Flag</annotation>
 		<annotation cp="🇰🇿" type="tts">Flag: Kazakstan</annotation>
 		<annotation cp="🇱🇦">Flag</annotation>
-		<annotation cp="🇱🇦" type="tts">Flag: Laos</annotation>
+		<annotation cp="🇱🇦" type="tts">Flag: Láos</annotation>
 		<annotation cp="🇱🇧">Flag</annotation>
 		<annotation cp="🇱🇧" type="tts">Flag: Lẹ́bánọn</annotation>
 		<annotation cp="🇱🇨">Flag</annotation>
@@ -3859,7 +4030,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🇳🇿">Flag</annotation>
 		<annotation cp="🇳🇿" type="tts">Flag: Niú Zíland</annotation>
 		<annotation cp="🇴🇲">Flag</annotation>
-		<annotation cp="🇴🇲" type="tts">Flag: Oman</annotation>
+		<annotation cp="🇴🇲" type="tts">Flag: Omán</annotation>
 		<annotation cp="🇵🇦">Flag</annotation>
 		<annotation cp="🇵🇦" type="tts">Flag: Pánáma</annotation>
 		<annotation cp="🇵🇪">Flag</annotation>
@@ -3885,7 +4056,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🇵🇹">Flag</annotation>
 		<annotation cp="🇵🇹" type="tts">Flag: Pọ́túgal</annotation>
 		<annotation cp="🇵🇼">Flag</annotation>
-		<annotation cp="🇵🇼" type="tts">Flag: Palau</annotation>
+		<annotation cp="🇵🇼" type="tts">Flag: Paláu</annotation>
 		<annotation cp="🇵🇾">Flag</annotation>
 		<annotation cp="🇵🇾" type="tts">Flag: Párágwue</annotation>
 		<annotation cp="🇶🇦">Flag</annotation>
@@ -3907,7 +4078,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🇸🇨">Flag</annotation>
 		<annotation cp="🇸🇨" type="tts">Flag: Sẹ́chẹls</annotation>
 		<annotation cp="🇸🇩">Flag</annotation>
-		<annotation cp="🇸🇩" type="tts">Flag: Sudan</annotation>
+		<annotation cp="🇸🇩" type="tts">Flag: Sudán</annotation>
 		<annotation cp="🇸🇪">Flag</annotation>
 		<annotation cp="🇸🇪" type="tts">Flag: Swídẹn</annotation>
 		<annotation cp="🇸🇬">Flag</annotation>
@@ -3947,7 +4118,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🇹🇨">Flag</annotation>
 		<annotation cp="🇹🇨" type="tts">Flag: Tọks an Kaíkọ́s Aílands</annotation>
 		<annotation cp="🇹🇩">Flag</annotation>
-		<annotation cp="🇹🇩" type="tts">Flag: Chad</annotation>
+		<annotation cp="🇹🇩" type="tts">Flag: Chád</annotation>
 		<annotation cp="🇹🇫">Flag</annotation>
 		<annotation cp="🇹🇫" type="tts">Flag: Frẹ́nch Saútán Tẹ́rẹ́tris</annotation>
 		<annotation cp="🇹🇬">Flag</annotation>
@@ -3973,7 +4144,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🇹🇻">Flag</annotation>
 		<annotation cp="🇹🇻" type="tts">Flag: Tuválu</annotation>
 		<annotation cp="🇹🇼">Flag</annotation>
-		<annotation cp="🇹🇼" type="tts">Flag: Taiwan</annotation>
+		<annotation cp="🇹🇼" type="tts">Flag: Taíwán</annotation>
 		<annotation cp="🇹🇿">Flag</annotation>
 		<annotation cp="🇹🇿" type="tts">Flag: Tanzánia</annotation>
 		<annotation cp="🇺🇦">Flag</annotation>
@@ -4020,7 +4191,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🇿🇲" type="tts">Flag: Zámbia</annotation>
 		<annotation cp="🇿🇼">Flag</annotation>
 		<annotation cp="🇿🇼" type="tts">Flag: Zimbábwẹ</annotation>
-		<annotation cp="¤" type="tts">Mọní Wé Pípol Nọ No</annotation>
+		<annotation cp="¤" type="tts">Mọní Wé Pípul Nọ́ No</annotation>
 		<annotation cp="֏" type="tts">Armẹ́niá Dram</annotation>
 		<annotation cp="؋" type="tts">Afgán Afgáni</annotation>
 		<annotation cp="৳" type="tts">Bangladẹ́sh Táka</annotation>

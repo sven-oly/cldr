@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE ldml SYSTEM "../../common/dtd/ldml.dtd">
 <!--
-Copyright © 1991-2013 Unicode, Inc.
-CLDR data files are interpreted according to the LDML specification (http://unicode.org/reports/tr35/)
+Copyright © 1991-2024 Unicode, Inc.
 For terms of use, see http://www.unicode.org/copyright.html
+SPDX-License-Identifier: Unicode-DFS-2016
+CLDR data files are interpreted according to the LDML specification (http://unicode.org/reports/tr35/)
 -->
 <ldml>
     <identity>
@@ -90,6 +91,13 @@ For terms of use, see http://www.unicode.org/copyright.html
                 <rbnfrule value="1000000000000000">←← biljard[ →→];</rbnfrule>
                 <rbnfrule value="1000000000000000000">=#,##0=;</rbnfrule>
             </ruleset>
+            <ruleset type="spellout-cardinal-stressed">
+                <rbnfrule value="-x">min →→;</rbnfrule>
+                <rbnfrule value="x.x">=%spellout-cardinal=;</rbnfrule>
+                <rbnfrule value="0">=%spellout-cardinal=;</rbnfrule>
+                <rbnfrule value="1">één;</rbnfrule>
+                <rbnfrule value="2">=%spellout-cardinal=;</rbnfrule>
+            </ruleset>
             <ruleset type="ord-ste" access="private">
                 <rbnfrule value="0">ste;</rbnfrule>
                 <rbnfrule value="1">­=%spellout-ordinal=;</rbnfrule>
@@ -113,7 +121,7 @@ For terms of use, see http://www.unicode.org/copyright.html
                 <rbnfrule value="1000000000">←%spellout-cardinal←­miljard→%%ord-ste→;</rbnfrule>
                 <rbnfrule value="1000000000000">←%spellout-cardinal←­biljoen→%%ord-ste→;</rbnfrule>
                 <rbnfrule value="1000000000000000">←%spellout-cardinal←­biljard→%%ord-ste→;</rbnfrule>
-                <rbnfrule value="1000000000000000000">=#,##0=.;</rbnfrule>
+                <rbnfrule value="1000000000000000000">=#,##0=e;</rbnfrule>
             </ruleset>
         </rulesetGrouping>
         <rulesetGrouping type="OrdinalRules">

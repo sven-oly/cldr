@@ -1,26 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE ldml SYSTEM "../../common/dtd/ldml.dtd">
-<!-- Copyright © 1991-2020 Unicode, Inc.
+<!-- Copyright © 1991-2024 Unicode, Inc.
 For terms of use, see http://www.unicode.org/copyright.html
-Unicode and the Unicode Logo are registered trademarks of Unicode, Inc. in the U.S. and other countries.
+SPDX-License-Identifier: Unicode-3.0
 CLDR data files are interpreted according to the LDML specification (http://unicode.org/reports/tr35/)
+
+Derived short names and annotations, using GenerateDerivedAnnotations.java. See warnings in /annotations/ file.
 -->
-<!-- Derived short names and annotations, using GenerateDerivedAnnotations.java. See warnings in /annotations/ file. -->
 <ldml>
 	<identity>
 		<version number="$Revision$"/>
 		<language type="sv"/>
 	</identity>
 	<annotations>
-		<annotation cp="👋🏻">hand | ljus hy | vinka | vinkande hand</annotation>
+		<annotation cp="👋🏻">är du där? | hallå | hand | hej | ljus hy | vinka | vinkande hand | vinkning</annotation>
 		<annotation cp="👋🏻" type="tts">vinkande hand: ljus hy</annotation>
-		<annotation cp="👋🏼">hand | mellanljus hy | vinka | vinkande hand</annotation>
+		<annotation cp="👋🏼">är du där? | hallå | hand | hej | mellanljus hy | vinka | vinkande hand | vinkning</annotation>
 		<annotation cp="👋🏼" type="tts">vinkande hand: mellanljus hy</annotation>
-		<annotation cp="👋🏽">hand | mellanfärgad hy | vinka | vinkande hand</annotation>
+		<annotation cp="👋🏽">är du där? | hallå | hand | hej | mellanfärgad hy | vinka | vinkande hand | vinkning</annotation>
 		<annotation cp="👋🏽" type="tts">vinkande hand: mellanfärgad hy</annotation>
-		<annotation cp="👋🏾">hand | mellanmörk hy | vinka | vinkande hand</annotation>
+		<annotation cp="👋🏾">är du där? | hallå | hand | hej | mellanmörk hy | vinka | vinkande hand | vinkning</annotation>
 		<annotation cp="👋🏾" type="tts">vinkande hand: mellanmörk hy</annotation>
-		<annotation cp="👋🏿">hand | mörk hy | vinka | vinkande hand</annotation>
+		<annotation cp="👋🏿">är du där? | hallå | hand | hej | mörk hy | vinka | vinkande hand | vinkning</annotation>
 		<annotation cp="👋🏿" type="tts">vinkande hand: mörk hy</annotation>
 		<annotation cp="🤚🏻">hand | höjd handrygg | ljus hy | lyft</annotation>
 		<annotation cp="🤚🏻" type="tts">höjd handrygg: ljus hy</annotation>
@@ -62,25 +63,125 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🖖🏾" type="tts">vulcan-hälsning: mellanmörk hy</annotation>
 		<annotation cp="🖖🏿">hand | mörk hy | spock | Star Trek | vulcan | vulcan-hälsning</annotation>
 		<annotation cp="🖖🏿" type="tts">vulcan-hälsning: mörk hy</annotation>
-		<annotation cp="👌🏻">hand | ljus hy | OK | OK-tecken | tecken</annotation>
+		<annotation cp="🫱🏻">hälsa | hand | hand som pekar till höger | handslag | hej | höger | ljus hy | skaka | till höger</annotation>
+		<annotation cp="🫱🏻" type="tts">hand som pekar till höger: ljus hy</annotation>
+		<annotation cp="🫱🏼">hälsa | hand | hand som pekar till höger | handslag | hej | höger | mellanljus hy | skaka | till höger</annotation>
+		<annotation cp="🫱🏼" type="tts">hand som pekar till höger: mellanljus hy</annotation>
+		<annotation cp="🫱🏽">hälsa | hand | hand som pekar till höger | handslag | hej | höger | mellanfärgad hy | skaka | till höger</annotation>
+		<annotation cp="🫱🏽" type="tts">hand som pekar till höger: mellanfärgad hy</annotation>
+		<annotation cp="🫱🏾">hälsa | hand | hand som pekar till höger | handslag | hej | höger | mellanmörk hy | skaka | till höger</annotation>
+		<annotation cp="🫱🏾" type="tts">hand som pekar till höger: mellanmörk hy</annotation>
+		<annotation cp="🫱🏿">hälsa | hand | hand som pekar till höger | handslag | hej | höger | mörk hy | skaka | till höger</annotation>
+		<annotation cp="🫱🏿" type="tts">hand som pekar till höger: mörk hy</annotation>
+		<annotation cp="🫱🏻‍🫲🏼">avtal | hand | handskakning | ljus hy | mellanljus hy | möte</annotation>
+		<annotation cp="🫱🏻‍🫲🏼" type="tts">handskakning: ljus hy, mellanljus hy</annotation>
+		<annotation cp="🫱🏻‍🫲🏽">avtal | hand | handskakning | ljus hy | mellanfärgad hy | möte</annotation>
+		<annotation cp="🫱🏻‍🫲🏽" type="tts">handskakning: ljus hy, mellanfärgad hy</annotation>
+		<annotation cp="🫱🏻‍🫲🏾">avtal | hand | handskakning | ljus hy | mellanmörk hy | möte</annotation>
+		<annotation cp="🫱🏻‍🫲🏾" type="tts">handskakning: ljus hy, mellanmörk hy</annotation>
+		<annotation cp="🫱🏻‍🫲🏿">avtal | hand | handskakning | ljus hy | mörk hy | möte</annotation>
+		<annotation cp="🫱🏻‍🫲🏿" type="tts">handskakning: ljus hy, mörk hy</annotation>
+		<annotation cp="🫱🏼‍🫲🏻">avtal | hand | handskakning | ljus hy | mellanljus hy | möte</annotation>
+		<annotation cp="🫱🏼‍🫲🏻" type="tts">handskakning: mellanljus hy, ljus hy</annotation>
+		<annotation cp="🫱🏼‍🫲🏽">avtal | hand | handskakning | mellanfärgad hy | mellanljus hy | möte</annotation>
+		<annotation cp="🫱🏼‍🫲🏽" type="tts">handskakning: mellanljus hy, mellanfärgad hy</annotation>
+		<annotation cp="🫱🏼‍🫲🏾">avtal | hand | handskakning | mellanljus hy | mellanmörk hy | möte</annotation>
+		<annotation cp="🫱🏼‍🫲🏾" type="tts">handskakning: mellanljus hy, mellanmörk hy</annotation>
+		<annotation cp="🫱🏼‍🫲🏿">avtal | hand | handskakning | mellanljus hy | mörk hy | möte</annotation>
+		<annotation cp="🫱🏼‍🫲🏿" type="tts">handskakning: mellanljus hy, mörk hy</annotation>
+		<annotation cp="🫱🏽‍🫲🏻">avtal | hand | handskakning | ljus hy | mellanfärgad hy | möte</annotation>
+		<annotation cp="🫱🏽‍🫲🏻" type="tts">handskakning: mellanfärgad hy, ljus hy</annotation>
+		<annotation cp="🫱🏽‍🫲🏼">avtal | hand | handskakning | mellanfärgad hy | mellanljus hy | möte</annotation>
+		<annotation cp="🫱🏽‍🫲🏼" type="tts">handskakning: mellanfärgad hy, mellanljus hy</annotation>
+		<annotation cp="🫱🏽‍🫲🏾">avtal | hand | handskakning | mellanfärgad hy | mellanmörk hy | möte</annotation>
+		<annotation cp="🫱🏽‍🫲🏾" type="tts">handskakning: mellanfärgad hy, mellanmörk hy</annotation>
+		<annotation cp="🫱🏽‍🫲🏿">avtal | hand | handskakning | mellanfärgad hy | mörk hy | möte</annotation>
+		<annotation cp="🫱🏽‍🫲🏿" type="tts">handskakning: mellanfärgad hy, mörk hy</annotation>
+		<annotation cp="🫱🏾‍🫲🏻">avtal | hand | handskakning | ljus hy | mellanmörk hy | möte</annotation>
+		<annotation cp="🫱🏾‍🫲🏻" type="tts">handskakning: mellanmörk hy, ljus hy</annotation>
+		<annotation cp="🫱🏾‍🫲🏼">avtal | hand | handskakning | mellanljus hy | mellanmörk hy | möte</annotation>
+		<annotation cp="🫱🏾‍🫲🏼" type="tts">handskakning: mellanmörk hy, mellanljus hy</annotation>
+		<annotation cp="🫱🏾‍🫲🏽">avtal | hand | handskakning | mellanfärgad hy | mellanmörk hy | möte</annotation>
+		<annotation cp="🫱🏾‍🫲🏽" type="tts">handskakning: mellanmörk hy, mellanfärgad hy</annotation>
+		<annotation cp="🫱🏾‍🫲🏿">avtal | hand | handskakning | mellanmörk hy | mörk hy | möte</annotation>
+		<annotation cp="🫱🏾‍🫲🏿" type="tts">handskakning: mellanmörk hy, mörk hy</annotation>
+		<annotation cp="🫱🏿‍🫲🏻">avtal | hand | handskakning | ljus hy | mörk hy | möte</annotation>
+		<annotation cp="🫱🏿‍🫲🏻" type="tts">handskakning: mörk hy, ljus hy</annotation>
+		<annotation cp="🫱🏿‍🫲🏼">avtal | hand | handskakning | mellanljus hy | mörk hy | möte</annotation>
+		<annotation cp="🫱🏿‍🫲🏼" type="tts">handskakning: mörk hy, mellanljus hy</annotation>
+		<annotation cp="🫱🏿‍🫲🏽">avtal | hand | handskakning | mellanfärgad hy | mörk hy | möte</annotation>
+		<annotation cp="🫱🏿‍🫲🏽" type="tts">handskakning: mörk hy, mellanfärgad hy</annotation>
+		<annotation cp="🫱🏿‍🫲🏾">avtal | hand | handskakning | mellanmörk hy | mörk hy | möte</annotation>
+		<annotation cp="🫱🏿‍🫲🏾" type="tts">handskakning: mörk hy, mellanmörk hy</annotation>
+		<annotation cp="🫲🏻">hand | hand som pekar till vänster | ljus hy | skaka | till vänster | vänster</annotation>
+		<annotation cp="🫲🏻" type="tts">hand som pekar till vänster: ljus hy</annotation>
+		<annotation cp="🫲🏼">hand | hand som pekar till vänster | mellanljus hy | skaka | till vänster | vänster</annotation>
+		<annotation cp="🫲🏼" type="tts">hand som pekar till vänster: mellanljus hy</annotation>
+		<annotation cp="🫲🏽">hand | hand som pekar till vänster | mellanfärgad hy | skaka | till vänster | vänster</annotation>
+		<annotation cp="🫲🏽" type="tts">hand som pekar till vänster: mellanfärgad hy</annotation>
+		<annotation cp="🫲🏾">hand | hand som pekar till vänster | mellanmörk hy | skaka | till vänster | vänster</annotation>
+		<annotation cp="🫲🏾" type="tts">hand som pekar till vänster: mellanmörk hy</annotation>
+		<annotation cp="🫲🏿">hand | hand som pekar till vänster | mörk hy | skaka | till vänster | vänster</annotation>
+		<annotation cp="🫲🏿" type="tts">hand som pekar till vänster: mörk hy</annotation>
+		<annotation cp="🫳🏻">avvisa | handflatan nedåt | ljus hy | neka | plocka upp | schas | släppa | släppte</annotation>
+		<annotation cp="🫳🏻" type="tts">handflatan nedåt: ljus hy</annotation>
+		<annotation cp="🫳🏼">avvisa | handflatan nedåt | mellanljus hy | neka | plocka upp | schas | släppa | släppte</annotation>
+		<annotation cp="🫳🏼" type="tts">handflatan nedåt: mellanljus hy</annotation>
+		<annotation cp="🫳🏽">avvisa | handflatan nedåt | mellanfärgad hy | neka | plocka upp | schas | släppa | släppte</annotation>
+		<annotation cp="🫳🏽" type="tts">handflatan nedåt: mellanfärgad hy</annotation>
+		<annotation cp="🫳🏾">avvisa | handflatan nedåt | mellanmörk hy | neka | plocka upp | schas | släppa | släppte</annotation>
+		<annotation cp="🫳🏾" type="tts">handflatan nedåt: mellanmörk hy</annotation>
+		<annotation cp="🫳🏿">avvisa | handflatan nedåt | mörk hy | neka | plocka upp | schas | släppa | släppte</annotation>
+		<annotation cp="🫳🏿" type="tts">handflatan nedåt: mörk hy</annotation>
+		<annotation cp="🫴🏻">bjuda in | erbjuda | fånga | handflatan uppåt | kalla på | ljus hy | sträcka ut en hand</annotation>
+		<annotation cp="🫴🏻" type="tts">handflatan uppåt: ljus hy</annotation>
+		<annotation cp="🫴🏼">bjuda in | erbjuda | fånga | handflatan uppåt | kalla på | mellanljus hy | sträcka ut en hand</annotation>
+		<annotation cp="🫴🏼" type="tts">handflatan uppåt: mellanljus hy</annotation>
+		<annotation cp="🫴🏽">bjuda in | erbjuda | fånga | handflatan uppåt | kalla på | mellanfärgad hy | sträcka ut en hand</annotation>
+		<annotation cp="🫴🏽" type="tts">handflatan uppåt: mellanfärgad hy</annotation>
+		<annotation cp="🫴🏾">bjuda in | erbjuda | fånga | handflatan uppåt | kalla på | mellanmörk hy | sträcka ut en hand</annotation>
+		<annotation cp="🫴🏾" type="tts">handflatan uppåt: mellanmörk hy</annotation>
+		<annotation cp="🫴🏿">bjuda in | erbjuda | fånga | handflatan uppåt | kalla på | mörk hy | sträcka ut en hand</annotation>
+		<annotation cp="🫴🏿" type="tts">handflatan uppåt: mörk hy</annotation>
+		<annotation cp="🫷🏻">hand | hand som knuffar åt vänster | high five | ljus hy | neka | stanna | stopp | till vänster | trycka | vänta</annotation>
+		<annotation cp="🫷🏻" type="tts">hand som knuffar åt vänster: ljus hy</annotation>
+		<annotation cp="🫷🏼">hand | hand som knuffar åt vänster | high five | mellanljus hy | neka | stanna | stopp | till vänster | trycka | vänta</annotation>
+		<annotation cp="🫷🏼" type="tts">hand som knuffar åt vänster: mellanljus hy</annotation>
+		<annotation cp="🫷🏽">hand | hand som knuffar åt vänster | high five | mellanfärgad hy | neka | stanna | stopp | till vänster | trycka | vänta</annotation>
+		<annotation cp="🫷🏽" type="tts">hand som knuffar åt vänster: mellanfärgad hy</annotation>
+		<annotation cp="🫷🏾">hand | hand som knuffar åt vänster | high five | mellanmörk hy | neka | stanna | stopp | till vänster | trycka | vänta</annotation>
+		<annotation cp="🫷🏾" type="tts">hand som knuffar åt vänster: mellanmörk hy</annotation>
+		<annotation cp="🫷🏿">hand | hand som knuffar åt vänster | high five | mörk hy | neka | stanna | stopp | till vänster | trycka | vänta</annotation>
+		<annotation cp="🫷🏿" type="tts">hand som knuffar åt vänster: mörk hy</annotation>
+		<annotation cp="🫸🏻">blockera | hand | hand som knuffar åt höger | high five | ljus hy | neka | pausa | stanna | stopp | till höger | trycka | vänta</annotation>
+		<annotation cp="🫸🏻" type="tts">hand som knuffar åt höger: ljus hy</annotation>
+		<annotation cp="🫸🏼">blockera | hand | hand som knuffar åt höger | high five | mellanljus hy | neka | pausa | stanna | stopp | till höger | trycka | vänta</annotation>
+		<annotation cp="🫸🏼" type="tts">hand som knuffar åt höger: mellanljus hy</annotation>
+		<annotation cp="🫸🏽">blockera | hand | hand som knuffar åt höger | high five | mellanfärgad hy | neka | pausa | stanna | stopp | till höger | trycka | vänta</annotation>
+		<annotation cp="🫸🏽" type="tts">hand som knuffar åt höger: mellanfärgad hy</annotation>
+		<annotation cp="🫸🏾">blockera | hand | hand som knuffar åt höger | high five | mellanmörk hy | neka | pausa | stanna | stopp | till höger | trycka | vänta</annotation>
+		<annotation cp="🫸🏾" type="tts">hand som knuffar åt höger: mellanmörk hy</annotation>
+		<annotation cp="🫸🏿">blockera | hand | hand som knuffar åt höger | high five | mörk hy | neka | pausa | stanna | stopp | till höger | trycka | vänta</annotation>
+		<annotation cp="🫸🏿" type="tts">hand som knuffar åt höger: mörk hy</annotation>
+		<annotation cp="👌🏻">hand | Instämmer | Javisst | ljus hy | Ok | OK | OK-tecken | tecken</annotation>
 		<annotation cp="👌🏻" type="tts">OK-tecken: ljus hy</annotation>
-		<annotation cp="👌🏼">hand | mellanljus hy | OK | OK-tecken | tecken</annotation>
+		<annotation cp="👌🏼">hand | Instämmer | Javisst | mellanljus hy | Ok | OK | OK-tecken | tecken</annotation>
 		<annotation cp="👌🏼" type="tts">OK-tecken: mellanljus hy</annotation>
-		<annotation cp="👌🏽">hand | mellanfärgad hy | OK | OK-tecken | tecken</annotation>
+		<annotation cp="👌🏽">hand | Instämmer | Javisst | mellanfärgad hy | Ok | OK | OK-tecken | tecken</annotation>
 		<annotation cp="👌🏽" type="tts">OK-tecken: mellanfärgad hy</annotation>
-		<annotation cp="👌🏾">hand | mellanmörk hy | OK | OK-tecken | tecken</annotation>
+		<annotation cp="👌🏾">hand | Instämmer | Javisst | mellanmörk hy | Ok | OK | OK-tecken | tecken</annotation>
 		<annotation cp="👌🏾" type="tts">OK-tecken: mellanmörk hy</annotation>
-		<annotation cp="👌🏿">hand | mörk hy | OK | OK-tecken | tecken</annotation>
+		<annotation cp="👌🏿">hand | Instämmer | Javisst | mörk hy | Ok | OK | OK-tecken | tecken</annotation>
 		<annotation cp="👌🏿" type="tts">OK-tecken: mörk hy</annotation>
-		<annotation cp="🤌🏻">fingerportmonnä | fingrar | förhör | handgest | knuten | ljus hy | sarkastisk</annotation>
+		<annotation cp="🤌🏻">fingerportmonnä | fingrar | förhör | handgest | ljus hy | nypa | sarkastisk</annotation>
 		<annotation cp="🤌🏻" type="tts">fingerportmonnä: ljus hy</annotation>
-		<annotation cp="🤌🏼">fingerportmonnä | fingrar | förhör | handgest | knuten | mellanljus hy | sarkastisk</annotation>
+		<annotation cp="🤌🏼">fingerportmonnä | fingrar | förhör | handgest | mellanljus hy | nypa | sarkastisk</annotation>
 		<annotation cp="🤌🏼" type="tts">fingerportmonnä: mellanljus hy</annotation>
-		<annotation cp="🤌🏽">fingerportmonnä | fingrar | förhör | handgest | knuten | mellanfärgad hy | sarkastisk</annotation>
+		<annotation cp="🤌🏽">fingerportmonnä | fingrar | förhör | handgest | mellanfärgad hy | nypa | sarkastisk</annotation>
 		<annotation cp="🤌🏽" type="tts">fingerportmonnä: mellanfärgad hy</annotation>
-		<annotation cp="🤌🏾">fingerportmonnä | fingrar | förhör | handgest | knuten | mellanmörk hy | sarkastisk</annotation>
+		<annotation cp="🤌🏾">fingerportmonnä | fingrar | förhör | handgest | mellanmörk hy | nypa | sarkastisk</annotation>
 		<annotation cp="🤌🏾" type="tts">fingerportmonnä: mellanmörk hy</annotation>
-		<annotation cp="🤌🏿">fingerportmonnä | fingrar | förhör | handgest | knuten | mörk hy | sarkastisk</annotation>
+		<annotation cp="🤌🏿">fingerportmonnä | fingrar | förhör | handgest | mörk hy | nypa | sarkastisk</annotation>
 		<annotation cp="🤌🏿" type="tts">fingerportmonnä: mörk hy</annotation>
 		<annotation cp="🤏🏻">liten mängd | ljus hy | nypande hand</annotation>
 		<annotation cp="🤏🏻" type="tts">nypande hand: ljus hy</annotation>
@@ -112,6 +213,16 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🤞🏾" type="tts">korsade fingrar: mellanmörk hy</annotation>
 		<annotation cp="🤞🏿">finger | hand | korsa | korsade fingrar | lycka | mörk hy</annotation>
 		<annotation cp="🤞🏿" type="tts">korsade fingrar: mörk hy</annotation>
+		<annotation cp="🫰🏻">dyrt | hand med tummen och pekfingret korsade | knäppa med fingrarna | ljus hy | pengaprassel | pengar | snäppa med fingrarna</annotation>
+		<annotation cp="🫰🏻" type="tts">hand med tummen och pekfingret korsade: ljus hy</annotation>
+		<annotation cp="🫰🏼">dyrt | hand med tummen och pekfingret korsade | knäppa med fingrarna | mellanljus hy | pengaprassel | pengar | snäppa med fingrarna</annotation>
+		<annotation cp="🫰🏼" type="tts">hand med tummen och pekfingret korsade: mellanljus hy</annotation>
+		<annotation cp="🫰🏽">dyrt | hand med tummen och pekfingret korsade | knäppa med fingrarna | mellanfärgad hy | pengaprassel | pengar | snäppa med fingrarna</annotation>
+		<annotation cp="🫰🏽" type="tts">hand med tummen och pekfingret korsade: mellanfärgad hy</annotation>
+		<annotation cp="🫰🏾">dyrt | hand med tummen och pekfingret korsade | knäppa med fingrarna | mellanmörk hy | pengaprassel | pengar | snäppa med fingrarna</annotation>
+		<annotation cp="🫰🏾" type="tts">hand med tummen och pekfingret korsade: mellanmörk hy</annotation>
+		<annotation cp="🫰🏿">dyrt | hand med tummen och pekfingret korsade | knäppa med fingrarna | mörk hy | pengaprassel | pengar | snäppa med fingrarna</annotation>
+		<annotation cp="🫰🏿" type="tts">hand med tummen och pekfingret korsade: mörk hy</annotation>
 		<annotation cp="🤟🏻">hand | jag älskar dig-gest | ljus hy</annotation>
 		<annotation cp="🤟🏻" type="tts">jag älskar dig-gest: ljus hy</annotation>
 		<annotation cp="🤟🏼">hand | jag älskar dig-gest | mellanljus hy</annotation>
@@ -122,15 +233,15 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🤟🏾" type="tts">jag älskar dig-gest: mellanmörk hy</annotation>
 		<annotation cp="🤟🏿">hand | jag älskar dig-gest | mörk hy</annotation>
 		<annotation cp="🤟🏿" type="tts">jag älskar dig-gest: mörk hy</annotation>
-		<annotation cp="🤘🏻">djävulstecknet | hand | hårdrock | horn | ljus hy</annotation>
+		<annotation cp="🤘🏻">djävulstecken | djävulstecknet | hand | hårdrock | horn | ljus hy | rock | rocka loss</annotation>
 		<annotation cp="🤘🏻" type="tts">djävulstecknet: ljus hy</annotation>
-		<annotation cp="🤘🏼">djävulstecknet | hand | hårdrock | horn | mellanljus hy</annotation>
+		<annotation cp="🤘🏼">djävulstecken | djävulstecknet | hand | hårdrock | horn | mellanljus hy | rock | rocka loss</annotation>
 		<annotation cp="🤘🏼" type="tts">djävulstecknet: mellanljus hy</annotation>
-		<annotation cp="🤘🏽">djävulstecknet | hand | hårdrock | horn | mellanfärgad hy</annotation>
+		<annotation cp="🤘🏽">djävulstecken | djävulstecknet | hand | hårdrock | horn | mellanfärgad hy | rock | rocka loss</annotation>
 		<annotation cp="🤘🏽" type="tts">djävulstecknet: mellanfärgad hy</annotation>
-		<annotation cp="🤘🏾">djävulstecknet | hand | hårdrock | horn | mellanmörk hy</annotation>
+		<annotation cp="🤘🏾">djävulstecken | djävulstecknet | hand | hårdrock | horn | mellanmörk hy | rock | rocka loss</annotation>
 		<annotation cp="🤘🏾" type="tts">djävulstecknet: mellanmörk hy</annotation>
-		<annotation cp="🤘🏿">djävulstecknet | hand | hårdrock | horn | mörk hy</annotation>
+		<annotation cp="🤘🏿">djävulstecken | djävulstecknet | hand | hårdrock | horn | mörk hy | rock | rocka loss</annotation>
 		<annotation cp="🤘🏿" type="tts">djävulstecknet: mörk hy</annotation>
 		<annotation cp="🤙🏻">hand | ljus hy | ring | ring mig-hand</annotation>
 		<annotation cp="🤙🏻" type="tts">ring mig-hand: ljus hy</annotation>
@@ -162,15 +273,15 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👉🏾" type="tts">högerpekande finger: mellanmörk hy</annotation>
 		<annotation cp="👉🏿">högerpekande finger | mörk hy | peka åt höger | pekfinger</annotation>
 		<annotation cp="👉🏿" type="tts">högerpekande finger: mörk hy</annotation>
-		<annotation cp="👆🏻">finger | ljus hy | peka uppåt | pekfinger | pekfinger upp</annotation>
+		<annotation cp="👆🏻">finger | hand som pekar pekfingret uppåt | ljus hy | peka uppåt | pekfinger | pekfinger upp</annotation>
 		<annotation cp="👆🏻" type="tts">pekfinger upp: ljus hy</annotation>
-		<annotation cp="👆🏼">finger | mellanljus hy | peka uppåt | pekfinger | pekfinger upp</annotation>
+		<annotation cp="👆🏼">finger | hand som pekar pekfingret uppåt | mellanljus hy | peka uppåt | pekfinger | pekfinger upp</annotation>
 		<annotation cp="👆🏼" type="tts">pekfinger upp: mellanljus hy</annotation>
-		<annotation cp="👆🏽">finger | mellanfärgad hy | peka uppåt | pekfinger | pekfinger upp</annotation>
+		<annotation cp="👆🏽">finger | hand som pekar pekfingret uppåt | mellanfärgad hy | peka uppåt | pekfinger | pekfinger upp</annotation>
 		<annotation cp="👆🏽" type="tts">pekfinger upp: mellanfärgad hy</annotation>
-		<annotation cp="👆🏾">finger | mellanmörk hy | peka uppåt | pekfinger | pekfinger upp</annotation>
+		<annotation cp="👆🏾">finger | hand som pekar pekfingret uppåt | mellanmörk hy | peka uppåt | pekfinger | pekfinger upp</annotation>
 		<annotation cp="👆🏾" type="tts">pekfinger upp: mellanmörk hy</annotation>
-		<annotation cp="👆🏿">finger | mörk hy | peka uppåt | pekfinger | pekfinger upp</annotation>
+		<annotation cp="👆🏿">finger | hand som pekar pekfingret uppåt | mörk hy | peka uppåt | pekfinger | pekfinger upp</annotation>
 		<annotation cp="👆🏿" type="tts">pekfinger upp: mörk hy</annotation>
 		<annotation cp="🖕🏻">finger | hand | långfinger upp | ljus hy</annotation>
 		<annotation cp="🖕🏻" type="tts">långfinger upp: ljus hy</annotation>
@@ -202,15 +313,25 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="☝🏾" type="tts">finger upp: mellanmörk hy</annotation>
 		<annotation cp="☝🏿">finger | finger upp | förmaning | mörk hy | peka</annotation>
 		<annotation cp="☝🏿" type="tts">finger upp: mörk hy</annotation>
-		<annotation cp="👍🏻">gillar | ljus hy | tumme | tummen upp | upp</annotation>
+		<annotation cp="🫵🏻">du | finger som pekar mot tittaren | finger som pekar på mig | ljus hy | mig | peka</annotation>
+		<annotation cp="🫵🏻" type="tts">finger som pekar på mig: ljus hy</annotation>
+		<annotation cp="🫵🏼">du | finger som pekar mot tittaren | finger som pekar på mig | mellanljus hy | mig | peka</annotation>
+		<annotation cp="🫵🏼" type="tts">finger som pekar på mig: mellanljus hy</annotation>
+		<annotation cp="🫵🏽">du | finger som pekar mot tittaren | finger som pekar på mig | mellanfärgad hy | mig | peka</annotation>
+		<annotation cp="🫵🏽" type="tts">finger som pekar på mig: mellanfärgad hy</annotation>
+		<annotation cp="🫵🏾">du | finger som pekar mot tittaren | finger som pekar på mig | mellanmörk hy | mig | peka</annotation>
+		<annotation cp="🫵🏾" type="tts">finger som pekar på mig: mellanmörk hy</annotation>
+		<annotation cp="🫵🏿">du | finger som pekar mot tittaren | finger som pekar på mig | mig | mörk hy | peka</annotation>
+		<annotation cp="🫵🏿" type="tts">finger som pekar på mig: mörk hy</annotation>
+		<annotation cp="👍🏻">bra | gillar | ljus hy | ok | okej | tumme | tummen upp | upp</annotation>
 		<annotation cp="👍🏻" type="tts">tummen upp: ljus hy</annotation>
-		<annotation cp="👍🏼">gillar | mellanljus hy | tumme | tummen upp | upp</annotation>
+		<annotation cp="👍🏼">bra | gillar | mellanljus hy | ok | okej | tumme | tummen upp | upp</annotation>
 		<annotation cp="👍🏼" type="tts">tummen upp: mellanljus hy</annotation>
-		<annotation cp="👍🏽">gillar | mellanfärgad hy | tumme | tummen upp | upp</annotation>
+		<annotation cp="👍🏽">bra | gillar | mellanfärgad hy | ok | okej | tumme | tummen upp | upp</annotation>
 		<annotation cp="👍🏽" type="tts">tummen upp: mellanfärgad hy</annotation>
-		<annotation cp="👍🏾">gillar | mellanmörk hy | tumme | tummen upp | upp</annotation>
+		<annotation cp="👍🏾">bra | gillar | mellanmörk hy | ok | okej | tumme | tummen upp | upp</annotation>
 		<annotation cp="👍🏾" type="tts">tummen upp: mellanmörk hy</annotation>
-		<annotation cp="👍🏿">gillar | mörk hy | tumme | tummen upp | upp</annotation>
+		<annotation cp="👍🏿">bra | gillar | mörk hy | ok | okej | tumme | tummen upp | upp</annotation>
 		<annotation cp="👍🏿" type="tts">tummen upp: mörk hy</annotation>
 		<annotation cp="👎🏻">ljus hy | ner | ogilla | tumme | tummen ned</annotation>
 		<annotation cp="👎🏻" type="tts">tummen ned: ljus hy</annotation>
@@ -282,15 +403,25 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🙌🏾" type="tts">båda händerna i luften: mellanmörk hy</annotation>
 		<annotation cp="🙌🏿">båda händerna i luften | hurra | mörk hy | räcker upp händerna</annotation>
 		<annotation cp="🙌🏿" type="tts">båda händerna i luften: mörk hy</annotation>
-		<annotation cp="👐🏻">händer | ljus hy | öppna</annotation>
+		<annotation cp="🫶🏻">älskar | handhjärta | kärlek | ljus hy</annotation>
+		<annotation cp="🫶🏻" type="tts">handhjärta: ljus hy</annotation>
+		<annotation cp="🫶🏼">älskar | handhjärta | kärlek | mellanljus hy</annotation>
+		<annotation cp="🫶🏼" type="tts">handhjärta: mellanljus hy</annotation>
+		<annotation cp="🫶🏽">älskar | handhjärta | kärlek | mellanfärgad hy</annotation>
+		<annotation cp="🫶🏽" type="tts">handhjärta: mellanfärgad hy</annotation>
+		<annotation cp="🫶🏾">älskar | handhjärta | kärlek | mellanmörk hy</annotation>
+		<annotation cp="🫶🏾" type="tts">handhjärta: mellanmörk hy</annotation>
+		<annotation cp="🫶🏿">älskar | handhjärta | kärlek | mörk hy</annotation>
+		<annotation cp="🫶🏿" type="tts">handhjärta: mörk hy</annotation>
+		<annotation cp="👐🏻">hand | händer | jazzhänder | ljus hy | öppna</annotation>
 		<annotation cp="👐🏻" type="tts">öppna händer: ljus hy</annotation>
-		<annotation cp="👐🏼">händer | mellanljus hy | öppna</annotation>
+		<annotation cp="👐🏼">hand | händer | jazzhänder | mellanljus hy | öppna</annotation>
 		<annotation cp="👐🏼" type="tts">öppna händer: mellanljus hy</annotation>
-		<annotation cp="👐🏽">händer | mellanfärgad hy | öppna</annotation>
+		<annotation cp="👐🏽">hand | händer | jazzhänder | mellanfärgad hy | öppna</annotation>
 		<annotation cp="👐🏽" type="tts">öppna händer: mellanfärgad hy</annotation>
-		<annotation cp="👐🏾">händer | mellanmörk hy | öppna</annotation>
+		<annotation cp="👐🏾">hand | händer | jazzhänder | mellanmörk hy | öppna</annotation>
 		<annotation cp="👐🏾" type="tts">öppna händer: mellanmörk hy</annotation>
-		<annotation cp="👐🏿">händer | mörk hy | öppna</annotation>
+		<annotation cp="👐🏿">hand | händer | jazzhänder | mörk hy | öppna</annotation>
 		<annotation cp="👐🏿" type="tts">öppna händer: mörk hy</annotation>
 		<annotation cp="🤲🏻">bön | handflatorna upp | ljus hy</annotation>
 		<annotation cp="🤲🏻" type="tts">handflatorna upp: ljus hy</annotation>
@@ -302,6 +433,16 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🤲🏾" type="tts">handflatorna upp: mellanmörk hy</annotation>
 		<annotation cp="🤲🏿">bön | handflatorna upp | mörk hy</annotation>
 		<annotation cp="🤲🏿" type="tts">handflatorna upp: mörk hy</annotation>
+		<annotation cp="🤝🏻">avtal | hand | handskakning | ljus hy | möte</annotation>
+		<annotation cp="🤝🏻" type="tts">handskakning: ljus hy</annotation>
+		<annotation cp="🤝🏼">avtal | hand | handskakning | mellanljus hy | möte</annotation>
+		<annotation cp="🤝🏼" type="tts">handskakning: mellanljus hy</annotation>
+		<annotation cp="🤝🏽">avtal | hand | handskakning | mellanfärgad hy | möte</annotation>
+		<annotation cp="🤝🏽" type="tts">handskakning: mellanfärgad hy</annotation>
+		<annotation cp="🤝🏾">avtal | hand | handskakning | mellanmörk hy | möte</annotation>
+		<annotation cp="🤝🏾" type="tts">handskakning: mellanmörk hy</annotation>
+		<annotation cp="🤝🏿">avtal | hand | handskakning | mörk hy | möte</annotation>
+		<annotation cp="🤝🏿" type="tts">handskakning: mörk hy</annotation>
 		<annotation cp="🙏🏻">be | beende händer | ber | händer | knäppta händer | ljus hy</annotation>
 		<annotation cp="🙏🏻" type="tts">beende händer: ljus hy</annotation>
 		<annotation cp="🙏🏼">be | beende händer | ber | händer | knäppta händer | mellanljus hy</annotation>
@@ -332,15 +473,15 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="💅🏾" type="tts">nagellack: mellanmörk hy</annotation>
 		<annotation cp="💅🏿">måla naglar | manikyr | mörk hy | nagellack | smink</annotation>
 		<annotation cp="💅🏿" type="tts">nagellack: mörk hy</annotation>
-		<annotation cp="🤳🏻">kamera | ljus hy | selfie | telefon</annotation>
+		<annotation cp="🤳🏻">arm som tar en selfie med telefon | kamera | ljus hy | selfie | telefon</annotation>
 		<annotation cp="🤳🏻" type="tts">selfie: ljus hy</annotation>
-		<annotation cp="🤳🏼">kamera | mellanljus hy | selfie | telefon</annotation>
+		<annotation cp="🤳🏼">arm som tar en selfie med telefon | kamera | mellanljus hy | selfie | telefon</annotation>
 		<annotation cp="🤳🏼" type="tts">selfie: mellanljus hy</annotation>
-		<annotation cp="🤳🏽">kamera | mellanfärgad hy | selfie | telefon</annotation>
+		<annotation cp="🤳🏽">arm som tar en selfie med telefon | kamera | mellanfärgad hy | selfie | telefon</annotation>
 		<annotation cp="🤳🏽" type="tts">selfie: mellanfärgad hy</annotation>
-		<annotation cp="🤳🏾">kamera | mellanmörk hy | selfie | telefon</annotation>
+		<annotation cp="🤳🏾">arm som tar en selfie med telefon | kamera | mellanmörk hy | selfie | telefon</annotation>
 		<annotation cp="🤳🏾" type="tts">selfie: mellanmörk hy</annotation>
-		<annotation cp="🤳🏿">kamera | mörk hy | selfie | telefon</annotation>
+		<annotation cp="🤳🏿">arm som tar en selfie med telefon | kamera | mörk hy | selfie | telefon</annotation>
 		<annotation cp="🤳🏿" type="tts">selfie: mörk hy</annotation>
 		<annotation cp="💪🏻">ljus hy | muskler | spänd biceps | stark</annotation>
 		<annotation cp="💪🏻" type="tts">spänd biceps: ljus hy</annotation>
@@ -412,15 +553,15 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👶🏾" type="tts">bebis: mellanmörk hy</annotation>
 		<annotation cp="👶🏿">baby | bebis | liten | mörk hy | ung</annotation>
 		<annotation cp="👶🏿" type="tts">bebis: mörk hy</annotation>
-		<annotation cp="🧒🏻">barn | könsneutral | ljus hy | ung</annotation>
+		<annotation cp="🧒🏻">barn | könsneutral | leende barn | ljus hy | ung</annotation>
 		<annotation cp="🧒🏻" type="tts">barn: ljus hy</annotation>
-		<annotation cp="🧒🏼">barn | könsneutral | mellanljus hy | ung</annotation>
+		<annotation cp="🧒🏼">barn | könsneutral | leende barn | mellanljus hy | ung</annotation>
 		<annotation cp="🧒🏼" type="tts">barn: mellanljus hy</annotation>
-		<annotation cp="🧒🏽">barn | könsneutral | mellanfärgad hy | ung</annotation>
+		<annotation cp="🧒🏽">barn | könsneutral | leende barn | mellanfärgad hy | ung</annotation>
 		<annotation cp="🧒🏽" type="tts">barn: mellanfärgad hy</annotation>
-		<annotation cp="🧒🏾">barn | könsneutral | mellanmörk hy | ung</annotation>
+		<annotation cp="🧒🏾">barn | könsneutral | leende barn | mellanmörk hy | ung</annotation>
 		<annotation cp="🧒🏾" type="tts">barn: mellanmörk hy</annotation>
-		<annotation cp="🧒🏿">barn | könsneutral | mörk hy | ung</annotation>
+		<annotation cp="🧒🏿">barn | könsneutral | leende barn | mörk hy | ung</annotation>
 		<annotation cp="🧒🏿" type="tts">barn: mörk hy</annotation>
 		<annotation cp="👦🏻">kille | ljus hy | pojke | ung</annotation>
 		<annotation cp="👦🏻" type="tts">pojke: ljus hy</annotation>
@@ -452,15 +593,15 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🧑🏾" type="tts">person: mellanmörk hy</annotation>
 		<annotation cp="🧑🏿">könsneutral | mörk hy | person | vuxen</annotation>
 		<annotation cp="🧑🏿" type="tts">person: mörk hy</annotation>
-		<annotation cp="👱🏻">blond | blond person | ljus hy | människor</annotation>
+		<annotation cp="👱🏻">blond | blond man | blond person | ljus hy | människor</annotation>
 		<annotation cp="👱🏻" type="tts">blond person: ljus hy</annotation>
-		<annotation cp="👱🏼">blond | blond person | människor | mellanljus hy</annotation>
+		<annotation cp="👱🏼">blond | blond man | blond person | människor | mellanljus hy</annotation>
 		<annotation cp="👱🏼" type="tts">blond person: mellanljus hy</annotation>
-		<annotation cp="👱🏽">blond | blond person | människor | mellanfärgad hy</annotation>
+		<annotation cp="👱🏽">blond | blond man | blond person | människor | mellanfärgad hy</annotation>
 		<annotation cp="👱🏽" type="tts">blond person: mellanfärgad hy</annotation>
-		<annotation cp="👱🏾">blond | blond person | människor | mellanmörk hy</annotation>
+		<annotation cp="👱🏾">blond | blond man | blond person | människor | mellanmörk hy</annotation>
 		<annotation cp="👱🏾" type="tts">blond person: mellanmörk hy</annotation>
-		<annotation cp="👱🏿">blond | blond person | människor | mörk hy</annotation>
+		<annotation cp="👱🏿">blond | blond man | blond person | människor | mörk hy</annotation>
 		<annotation cp="👱🏿" type="tts">blond person: mörk hy</annotation>
 		<annotation cp="🧑🏻‍❤‍💋‍🧑🏼">kärlek | kyssas | ljus hy | människor | mellanljus hy | person | puss</annotation>
 		<annotation cp="🧑🏻‍❤‍💋‍🧑🏼" type="tts">puss: person, person, ljus hy, mellanljus hy</annotation>
@@ -1086,25 +1227,25 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👵🏾" type="tts">gammal kvinna: mellanmörk hy</annotation>
 		<annotation cp="👵🏿">äldre kvinna | gammal | kvinna | mörk hy | vuxen</annotation>
 		<annotation cp="👵🏿" type="tts">gammal kvinna: mörk hy</annotation>
-		<annotation cp="🙍🏻">ljus hy | person | sur | sur uppsyn</annotation>
+		<annotation cp="🙍🏻">ljus hy | missnöjd | person | sur | sur kvinna | sur uppsyn</annotation>
 		<annotation cp="🙍🏻" type="tts">sur person: ljus hy</annotation>
-		<annotation cp="🙍🏼">mellanljus hy | person | sur | sur uppsyn</annotation>
+		<annotation cp="🙍🏼">mellanljus hy | missnöjd | person | sur | sur kvinna | sur uppsyn</annotation>
 		<annotation cp="🙍🏼" type="tts">sur person: mellanljus hy</annotation>
-		<annotation cp="🙍🏽">mellanfärgad hy | person | sur | sur uppsyn</annotation>
+		<annotation cp="🙍🏽">mellanfärgad hy | missnöjd | person | sur | sur kvinna | sur uppsyn</annotation>
 		<annotation cp="🙍🏽" type="tts">sur person: mellanfärgad hy</annotation>
-		<annotation cp="🙍🏾">mellanmörk hy | person | sur | sur uppsyn</annotation>
+		<annotation cp="🙍🏾">mellanmörk hy | missnöjd | person | sur | sur kvinna | sur uppsyn</annotation>
 		<annotation cp="🙍🏾" type="tts">sur person: mellanmörk hy</annotation>
-		<annotation cp="🙍🏿">mörk hy | person | sur | sur uppsyn</annotation>
+		<annotation cp="🙍🏿">missnöjd | mörk hy | person | sur | sur kvinna | sur uppsyn</annotation>
 		<annotation cp="🙍🏿" type="tts">sur person: mörk hy</annotation>
-		<annotation cp="🙍🏻‍♂">gest | ljus hy | man | sur</annotation>
+		<annotation cp="🙍🏻‍♂">gest | ljus hy | man | missnöjd | sur</annotation>
 		<annotation cp="🙍🏻‍♂" type="tts">sur man: ljus hy</annotation>
-		<annotation cp="🙍🏼‍♂">gest | man | mellanljus hy | sur</annotation>
+		<annotation cp="🙍🏼‍♂">gest | man | mellanljus hy | missnöjd | sur</annotation>
 		<annotation cp="🙍🏼‍♂" type="tts">sur man: mellanljus hy</annotation>
-		<annotation cp="🙍🏽‍♂">gest | man | mellanfärgad hy | sur</annotation>
+		<annotation cp="🙍🏽‍♂">gest | man | mellanfärgad hy | missnöjd | sur</annotation>
 		<annotation cp="🙍🏽‍♂" type="tts">sur man: mellanfärgad hy</annotation>
-		<annotation cp="🙍🏾‍♂">gest | man | mellanmörk hy | sur</annotation>
+		<annotation cp="🙍🏾‍♂">gest | man | mellanmörk hy | missnöjd | sur</annotation>
 		<annotation cp="🙍🏾‍♂" type="tts">sur man: mellanmörk hy</annotation>
-		<annotation cp="🙍🏿‍♂">gest | man | mörk hy | sur</annotation>
+		<annotation cp="🙍🏿‍♂">gest | man | missnöjd | mörk hy | sur</annotation>
 		<annotation cp="🙍🏿‍♂" type="tts">sur man: mörk hy</annotation>
 		<annotation cp="🙍🏻‍♀">gest | kvinna | ljus hy | sur</annotation>
 		<annotation cp="🙍🏻‍♀" type="tts">sur kvinna: ljus hy</annotation>
@@ -1116,15 +1257,15 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🙍🏾‍♀" type="tts">sur kvinna: mellanmörk hy</annotation>
 		<annotation cp="🙍🏿‍♀">gest | kvinna | mörk hy | sur</annotation>
 		<annotation cp="🙍🏿‍♀" type="tts">sur kvinna: mörk hy</annotation>
-		<annotation cp="🙎🏻">ljus hy | person som plutar | plutande person | plutar</annotation>
+		<annotation cp="🙎🏻">kvinna som putar med läpparna | ljus hy | person som plutar | plutande person | plutar | puta med munnen | putar med läpparna</annotation>
 		<annotation cp="🙎🏻" type="tts">plutande person: ljus hy</annotation>
-		<annotation cp="🙎🏼">mellanljus hy | person som plutar | plutande person | plutar</annotation>
+		<annotation cp="🙎🏼">kvinna som putar med läpparna | mellanljus hy | person som plutar | plutande person | plutar | puta med munnen | putar med läpparna</annotation>
 		<annotation cp="🙎🏼" type="tts">plutande person: mellanljus hy</annotation>
-		<annotation cp="🙎🏽">mellanfärgad hy | person som plutar | plutande person | plutar</annotation>
+		<annotation cp="🙎🏽">kvinna som putar med läpparna | mellanfärgad hy | person som plutar | plutande person | plutar | puta med munnen | putar med läpparna</annotation>
 		<annotation cp="🙎🏽" type="tts">plutande person: mellanfärgad hy</annotation>
-		<annotation cp="🙎🏾">mellanmörk hy | person som plutar | plutande person | plutar</annotation>
+		<annotation cp="🙎🏾">kvinna som putar med läpparna | mellanmörk hy | person som plutar | plutande person | plutar | puta med munnen | putar med läpparna</annotation>
 		<annotation cp="🙎🏾" type="tts">plutande person: mellanmörk hy</annotation>
-		<annotation cp="🙎🏿">mörk hy | person som plutar | plutande person | plutar</annotation>
+		<annotation cp="🙎🏿">kvinna som putar med läpparna | mörk hy | person som plutar | plutande person | plutar | puta med munnen | putar med läpparna</annotation>
 		<annotation cp="🙎🏿" type="tts">plutande person: mörk hy</annotation>
 		<annotation cp="🙎🏻‍♂">ljus hy | man | plutande man | plutar</annotation>
 		<annotation cp="🙎🏻‍♂" type="tts">plutande man: ljus hy</annotation>
@@ -1146,15 +1287,15 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🙎🏾‍♀" type="tts">plutande kvinna: mellanmörk hy</annotation>
 		<annotation cp="🙎🏿‍♀">kvinna | mörk hy | plutande kvinna | plutar</annotation>
 		<annotation cp="🙎🏿‍♀" type="tts">plutande kvinna: mörk hy</annotation>
-		<annotation cp="🙅🏻">förbjudet | gest | gest för NEJ | ljus hy | person gestikulerar NEJ</annotation>
+		<annotation cp="🙅🏻">förbjudet | gest | gest för NEJ | icke | kvinna som gestikulerar NEJ | ljus hy | nej | person gestikulerar NEJ</annotation>
 		<annotation cp="🙅🏻" type="tts">person gestikulerar NEJ: ljus hy</annotation>
-		<annotation cp="🙅🏼">förbjudet | gest | gest för NEJ | mellanljus hy | person gestikulerar NEJ</annotation>
+		<annotation cp="🙅🏼">förbjudet | gest | gest för NEJ | icke | kvinna som gestikulerar NEJ | mellanljus hy | nej | person gestikulerar NEJ</annotation>
 		<annotation cp="🙅🏼" type="tts">person gestikulerar NEJ: mellanljus hy</annotation>
-		<annotation cp="🙅🏽">förbjudet | gest | gest för NEJ | mellanfärgad hy | person gestikulerar NEJ</annotation>
+		<annotation cp="🙅🏽">förbjudet | gest | gest för NEJ | icke | kvinna som gestikulerar NEJ | mellanfärgad hy | nej | person gestikulerar NEJ</annotation>
 		<annotation cp="🙅🏽" type="tts">person gestikulerar NEJ: mellanfärgad hy</annotation>
-		<annotation cp="🙅🏾">förbjudet | gest | gest för NEJ | mellanmörk hy | person gestikulerar NEJ</annotation>
+		<annotation cp="🙅🏾">förbjudet | gest | gest för NEJ | icke | kvinna som gestikulerar NEJ | mellanmörk hy | nej | person gestikulerar NEJ</annotation>
 		<annotation cp="🙅🏾" type="tts">person gestikulerar NEJ: mellanmörk hy</annotation>
-		<annotation cp="🙅🏿">förbjudet | gest | gest för NEJ | mörk hy | person gestikulerar NEJ</annotation>
+		<annotation cp="🙅🏿">förbjudet | gest | gest för NEJ | icke | kvinna som gestikulerar NEJ | mörk hy | nej | person gestikulerar NEJ</annotation>
 		<annotation cp="🙅🏿" type="tts">person gestikulerar NEJ: mörk hy</annotation>
 		<annotation cp="🙅🏻‍♂">förbjudet | gest | ljus hy | man | man gestikulerar NEJ</annotation>
 		<annotation cp="🙅🏻‍♂" type="tts">man gestikulerar NEJ: ljus hy</annotation>
@@ -1176,15 +1317,15 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🙅🏾‍♀" type="tts">kvinna gestikulerar NEJ: mellanmörk hy</annotation>
 		<annotation cp="🙅🏿‍♀">förbjudet | gest | kvinna | kvinna gestikulerar NEJ | mörk hy</annotation>
 		<annotation cp="🙅🏿‍♀" type="tts">kvinna gestikulerar NEJ: mörk hy</annotation>
-		<annotation cp="🙆🏻">gest | gest för OK | hand | ljus hy | okej | person gestikulerar OK</annotation>
+		<annotation cp="🙆🏻">gest | gest för OK | hand | kvinna som gestikulerar OK | ljus hy | okej | person gestikulerar OK</annotation>
 		<annotation cp="🙆🏻" type="tts">person gestikulerar OK: ljus hy</annotation>
-		<annotation cp="🙆🏼">gest | gest för OK | hand | mellanljus hy | okej | person gestikulerar OK</annotation>
+		<annotation cp="🙆🏼">gest | gest för OK | hand | kvinna som gestikulerar OK | mellanljus hy | okej | person gestikulerar OK</annotation>
 		<annotation cp="🙆🏼" type="tts">person gestikulerar OK: mellanljus hy</annotation>
-		<annotation cp="🙆🏽">gest | gest för OK | hand | mellanfärgad hy | okej | person gestikulerar OK</annotation>
+		<annotation cp="🙆🏽">gest | gest för OK | hand | kvinna som gestikulerar OK | mellanfärgad hy | okej | person gestikulerar OK</annotation>
 		<annotation cp="🙆🏽" type="tts">person gestikulerar OK: mellanfärgad hy</annotation>
-		<annotation cp="🙆🏾">gest | gest för OK | hand | mellanmörk hy | okej | person gestikulerar OK</annotation>
+		<annotation cp="🙆🏾">gest | gest för OK | hand | kvinna som gestikulerar OK | mellanmörk hy | okej | person gestikulerar OK</annotation>
 		<annotation cp="🙆🏾" type="tts">person gestikulerar OK: mellanmörk hy</annotation>
-		<annotation cp="🙆🏿">gest | gest för OK | hand | mörk hy | okej | person gestikulerar OK</annotation>
+		<annotation cp="🙆🏿">gest | gest för OK | hand | kvinna som gestikulerar OK | mörk hy | okej | person gestikulerar OK</annotation>
 		<annotation cp="🙆🏿" type="tts">person gestikulerar OK: mörk hy</annotation>
 		<annotation cp="🙆🏻‍♂">gest | gest för OK | hand | ljus hy | man gestikulerar OK | okej</annotation>
 		<annotation cp="🙆🏻‍♂" type="tts">man gestikulerar OK: ljus hy</annotation>
@@ -1206,25 +1347,25 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🙆🏾‍♀" type="tts">kvinna gestikulerar OK: mellanmörk hy</annotation>
 		<annotation cp="🙆🏿‍♀">gest | gest för OK | hand | kvinna gestikulerar OK | mörk hy | okej</annotation>
 		<annotation cp="🙆🏿‍♀" type="tts">kvinna gestikulerar OK: mörk hy</annotation>
-		<annotation cp="💁🏻">information | ljus hy | människor | reception | receptionist</annotation>
+		<annotation cp="💁🏻">hand | information | kvinna som vinkar med handen | ljus hy | människor | reception | receptionist | sarkastisk | skvaller</annotation>
 		<annotation cp="💁🏻" type="tts">receptionist: ljus hy</annotation>
-		<annotation cp="💁🏼">information | människor | mellanljus hy | reception | receptionist</annotation>
+		<annotation cp="💁🏼">hand | information | kvinna som vinkar med handen | människor | mellanljus hy | reception | receptionist | sarkastisk | skvaller</annotation>
 		<annotation cp="💁🏼" type="tts">receptionist: mellanljus hy</annotation>
-		<annotation cp="💁🏽">information | människor | mellanfärgad hy | reception | receptionist</annotation>
+		<annotation cp="💁🏽">hand | information | kvinna som vinkar med handen | människor | mellanfärgad hy | reception | receptionist | sarkastisk | skvaller</annotation>
 		<annotation cp="💁🏽" type="tts">receptionist: mellanfärgad hy</annotation>
-		<annotation cp="💁🏾">information | människor | mellanmörk hy | reception | receptionist</annotation>
+		<annotation cp="💁🏾">hand | information | kvinna som vinkar med handen | människor | mellanmörk hy | reception | receptionist | sarkastisk | skvaller</annotation>
 		<annotation cp="💁🏾" type="tts">receptionist: mellanmörk hy</annotation>
-		<annotation cp="💁🏿">information | människor | mörk hy | reception | receptionist</annotation>
+		<annotation cp="💁🏿">hand | information | kvinna som vinkar med handen | människor | mörk hy | reception | receptionist | sarkastisk | skvaller</annotation>
 		<annotation cp="💁🏿" type="tts">receptionist: mörk hy</annotation>
-		<annotation cp="💁🏻‍♂">hjälpa | hjälpande man | information | ljus hy | man</annotation>
+		<annotation cp="💁🏻‍♂">hjälpa | hjälpande man | information | ljus hy | man | man som vinkar</annotation>
 		<annotation cp="💁🏻‍♂" type="tts">hjälpande man: ljus hy</annotation>
-		<annotation cp="💁🏼‍♂">hjälpa | hjälpande man | information | man | mellanljus hy</annotation>
+		<annotation cp="💁🏼‍♂">hjälpa | hjälpande man | information | man | man som vinkar | mellanljus hy</annotation>
 		<annotation cp="💁🏼‍♂" type="tts">hjälpande man: mellanljus hy</annotation>
-		<annotation cp="💁🏽‍♂">hjälpa | hjälpande man | information | man | mellanfärgad hy</annotation>
+		<annotation cp="💁🏽‍♂">hjälpa | hjälpande man | information | man | man som vinkar | mellanfärgad hy</annotation>
 		<annotation cp="💁🏽‍♂" type="tts">hjälpande man: mellanfärgad hy</annotation>
-		<annotation cp="💁🏾‍♂">hjälpa | hjälpande man | information | man | mellanmörk hy</annotation>
+		<annotation cp="💁🏾‍♂">hjälpa | hjälpande man | information | man | man som vinkar | mellanmörk hy</annotation>
 		<annotation cp="💁🏾‍♂" type="tts">hjälpande man: mellanmörk hy</annotation>
-		<annotation cp="💁🏿‍♂">hjälpa | hjälpande man | information | man | mörk hy</annotation>
+		<annotation cp="💁🏿‍♂">hjälpa | hjälpande man | information | man | man som vinkar | mörk hy</annotation>
 		<annotation cp="💁🏿‍♂" type="tts">hjälpande man: mörk hy</annotation>
 		<annotation cp="💁🏻‍♀">hjälpa | hjälpande kvinna | information | kvinna | ljus hy</annotation>
 		<annotation cp="💁🏻‍♀" type="tts">hjälpande kvinna: ljus hy</annotation>
@@ -1236,15 +1377,15 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="💁🏾‍♀" type="tts">hjälpande kvinna: mellanmörk hy</annotation>
 		<annotation cp="💁🏿‍♀">hjälpa | hjälpande kvinna | information | kvinna | mörk hy</annotation>
 		<annotation cp="💁🏿‍♀" type="tts">hjälpande kvinna: mörk hy</annotation>
-		<annotation cp="🙋🏻">ljus hy | person | person som räcker upp handen | räcker upp handen</annotation>
+		<annotation cp="🙋🏻">fråga | jag vet | kvinna som räcker upp handen | ljus hy | person | person som räcker upp handen | räcker upp handen</annotation>
 		<annotation cp="🙋🏻" type="tts">person som räcker upp handen: ljus hy</annotation>
-		<annotation cp="🙋🏼">mellanljus hy | person | person som räcker upp handen | räcker upp handen</annotation>
+		<annotation cp="🙋🏼">fråga | jag vet | kvinna som räcker upp handen | mellanljus hy | person | person som räcker upp handen | räcker upp handen</annotation>
 		<annotation cp="🙋🏼" type="tts">person som räcker upp handen: mellanljus hy</annotation>
-		<annotation cp="🙋🏽">mellanfärgad hy | person | person som räcker upp handen | räcker upp handen</annotation>
+		<annotation cp="🙋🏽">fråga | jag vet | kvinna som räcker upp handen | mellanfärgad hy | person | person som räcker upp handen | räcker upp handen</annotation>
 		<annotation cp="🙋🏽" type="tts">person som räcker upp handen: mellanfärgad hy</annotation>
-		<annotation cp="🙋🏾">mellanmörk hy | person | person som räcker upp handen | räcker upp handen</annotation>
+		<annotation cp="🙋🏾">fråga | jag vet | kvinna som räcker upp handen | mellanmörk hy | person | person som räcker upp handen | räcker upp handen</annotation>
 		<annotation cp="🙋🏾" type="tts">person som räcker upp handen: mellanmörk hy</annotation>
-		<annotation cp="🙋🏿">mörk hy | person | person som räcker upp handen | räcker upp handen</annotation>
+		<annotation cp="🙋🏿">fråga | jag vet | kvinna som räcker upp handen | mörk hy | person | person som räcker upp handen | räcker upp handen</annotation>
 		<annotation cp="🙋🏿" type="tts">person som räcker upp handen: mörk hy</annotation>
 		<annotation cp="🙋🏻‍♂">ljus hy | man | man som räcker upp handen | räcka upp handen</annotation>
 		<annotation cp="🙋🏻‍♂" type="tts">man som räcker upp handen: ljus hy</annotation>
@@ -1296,15 +1437,15 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🧏🏾‍♀" type="tts">hörselskada kvinna: mellanmörk hy</annotation>
 		<annotation cp="🧏🏿‍♀">hörselskada kvinna | hörselskadad | kvinna | mörk hy</annotation>
 		<annotation cp="🧏🏿‍♀" type="tts">hörselskada kvinna: mörk hy</annotation>
-		<annotation cp="🙇🏻">beklagar | bugande person | bugar | gest | ljus hy</annotation>
+		<annotation cp="🙇🏻">beklagar | buga | bugande person | bugar | gest | ljus hy | meditation | meditera | ursäkt</annotation>
 		<annotation cp="🙇🏻" type="tts">bugande person: ljus hy</annotation>
-		<annotation cp="🙇🏼">beklagar | bugande person | bugar | gest | mellanljus hy</annotation>
+		<annotation cp="🙇🏼">beklagar | buga | bugande person | bugar | gest | meditation | meditera | mellanljus hy | ursäkt</annotation>
 		<annotation cp="🙇🏼" type="tts">bugande person: mellanljus hy</annotation>
-		<annotation cp="🙇🏽">beklagar | bugande person | bugar | gest | mellanfärgad hy</annotation>
+		<annotation cp="🙇🏽">beklagar | buga | bugande person | bugar | gest | meditation | meditera | mellanfärgad hy | ursäkt</annotation>
 		<annotation cp="🙇🏽" type="tts">bugande person: mellanfärgad hy</annotation>
-		<annotation cp="🙇🏾">beklagar | bugande person | bugar | gest | mellanmörk hy</annotation>
+		<annotation cp="🙇🏾">beklagar | buga | bugande person | bugar | gest | meditation | meditera | mellanmörk hy | ursäkt</annotation>
 		<annotation cp="🙇🏾" type="tts">bugande person: mellanmörk hy</annotation>
-		<annotation cp="🙇🏿">beklagar | bugande person | bugar | gest | mörk hy</annotation>
+		<annotation cp="🙇🏿">beklagar | buga | bugande person | bugar | gest | meditation | meditera | mörk hy | ursäkt</annotation>
 		<annotation cp="🙇🏿" type="tts">bugande person: mörk hy</annotation>
 		<annotation cp="🙇🏻‍♂">beklagelse | buga | bugande man | ljus hy | man | ursäkt</annotation>
 		<annotation cp="🙇🏻‍♂" type="tts">bugande man: ljus hy</annotation>
@@ -1366,15 +1507,15 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🤷🏾" type="tts">person som rycker på axlarna: mellanmörk hy</annotation>
 		<annotation cp="🤷🏿">axelryckning | likgiltighet | mörk hy | okunskap | person som rycker på axlarna | tvivel</annotation>
 		<annotation cp="🤷🏿" type="tts">person som rycker på axlarna: mörk hy</annotation>
-		<annotation cp="🤷🏻‍♂">axelryckning | likgiltighet | ljus hy | man | man som rycker på axlarna | okunskap | tvivel</annotation>
+		<annotation cp="🤷🏻‍♂">axelryckning | likgiltighet | ljus hy | man | man som rycker på axlarna | okunskap | tvivel | vet inte</annotation>
 		<annotation cp="🤷🏻‍♂" type="tts">man som rycker på axlarna: ljus hy</annotation>
-		<annotation cp="🤷🏼‍♂">axelryckning | likgiltighet | man | man som rycker på axlarna | mellanljus hy | okunskap | tvivel</annotation>
+		<annotation cp="🤷🏼‍♂">axelryckning | likgiltighet | man | man som rycker på axlarna | mellanljus hy | okunskap | tvivel | vet inte</annotation>
 		<annotation cp="🤷🏼‍♂" type="tts">man som rycker på axlarna: mellanljus hy</annotation>
-		<annotation cp="🤷🏽‍♂">axelryckning | likgiltighet | man | man som rycker på axlarna | mellanfärgad hy | okunskap | tvivel</annotation>
+		<annotation cp="🤷🏽‍♂">axelryckning | likgiltighet | man | man som rycker på axlarna | mellanfärgad hy | okunskap | tvivel | vet inte</annotation>
 		<annotation cp="🤷🏽‍♂" type="tts">man som rycker på axlarna: mellanfärgad hy</annotation>
-		<annotation cp="🤷🏾‍♂">axelryckning | likgiltighet | man | man som rycker på axlarna | mellanmörk hy | okunskap | tvivel</annotation>
+		<annotation cp="🤷🏾‍♂">axelryckning | likgiltighet | man | man som rycker på axlarna | mellanmörk hy | okunskap | tvivel | vet inte</annotation>
 		<annotation cp="🤷🏾‍♂" type="tts">man som rycker på axlarna: mellanmörk hy</annotation>
-		<annotation cp="🤷🏿‍♂">axelryckning | likgiltighet | man | man som rycker på axlarna | mörk hy | okunskap | tvivel</annotation>
+		<annotation cp="🤷🏿‍♂">axelryckning | likgiltighet | man | man som rycker på axlarna | mörk hy | okunskap | tvivel | vet inte</annotation>
 		<annotation cp="🤷🏿‍♂" type="tts">man som rycker på axlarna: mörk hy</annotation>
 		<annotation cp="🤷🏻‍♀">axelryckning | kvinna | kvinna som rycker på axlarna | likgiltighet | ljus hy | okunskap | tvivel</annotation>
 		<annotation cp="🤷🏻‍♀" type="tts">kvinna som rycker på axlarna: ljus hy</annotation>
@@ -1746,15 +1887,15 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👩🏾‍🎤" type="tts">kvinnlig sångare: mellanmörk hy</annotation>
 		<annotation cp="👩🏿‍🎤">artist | kändis | konsert | kvinna | kvinnlig sångare | mörk hy | stjärna</annotation>
 		<annotation cp="👩🏿‍🎤" type="tts">kvinnlig sångare: mörk hy</annotation>
-		<annotation cp="🧑🏻‍🎨">artist | konstnär | ljus hy</annotation>
+		<annotation cp="🧑🏻‍🎨">konstnär | ljus hy | palett</annotation>
 		<annotation cp="🧑🏻‍🎨" type="tts">konstnär: ljus hy</annotation>
-		<annotation cp="🧑🏼‍🎨">artist | konstnär | mellanljus hy</annotation>
+		<annotation cp="🧑🏼‍🎨">konstnär | mellanljus hy | palett</annotation>
 		<annotation cp="🧑🏼‍🎨" type="tts">konstnär: mellanljus hy</annotation>
-		<annotation cp="🧑🏽‍🎨">artist | konstnär | mellanfärgad hy</annotation>
+		<annotation cp="🧑🏽‍🎨">konstnär | mellanfärgad hy | palett</annotation>
 		<annotation cp="🧑🏽‍🎨" type="tts">konstnär: mellanfärgad hy</annotation>
-		<annotation cp="🧑🏾‍🎨">artist | konstnär | mellanmörk hy</annotation>
+		<annotation cp="🧑🏾‍🎨">konstnär | mellanmörk hy | palett</annotation>
 		<annotation cp="🧑🏾‍🎨" type="tts">konstnär: mellanmörk hy</annotation>
-		<annotation cp="🧑🏿‍🎨">artist | konstnär | mörk hy</annotation>
+		<annotation cp="🧑🏿‍🎨">konstnär | mörk hy | palett</annotation>
 		<annotation cp="🧑🏿‍🎨" type="tts">konstnär: mörk hy</annotation>
 		<annotation cp="👨🏻‍🎨">ljus hy | målare | man | manlig konstnär | palett</annotation>
 		<annotation cp="👨🏻‍🎨" type="tts">manlig konstnär: ljus hy</annotation>
@@ -1866,15 +2007,15 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👩🏾‍🚒" type="tts">kvinnlig brandman: mellanmörk hy</annotation>
 		<annotation cp="👩🏿‍🚒">brandbil | brandväsendet | kvinna | kvinnlig brandman | mörk hy</annotation>
 		<annotation cp="👩🏿‍🚒" type="tts">kvinnlig brandman: mörk hy</annotation>
-		<annotation cp="👮🏻">konstapel | ljus hy | polis</annotation>
+		<annotation cp="👮🏻">konstapel | ljus hy | polis | snut</annotation>
 		<annotation cp="👮🏻" type="tts">polis: ljus hy</annotation>
-		<annotation cp="👮🏼">konstapel | mellanljus hy | polis</annotation>
+		<annotation cp="👮🏼">konstapel | mellanljus hy | polis | snut</annotation>
 		<annotation cp="👮🏼" type="tts">polis: mellanljus hy</annotation>
-		<annotation cp="👮🏽">konstapel | mellanfärgad hy | polis</annotation>
+		<annotation cp="👮🏽">konstapel | mellanfärgad hy | polis | snut</annotation>
 		<annotation cp="👮🏽" type="tts">polis: mellanfärgad hy</annotation>
-		<annotation cp="👮🏾">konstapel | mellanmörk hy | polis</annotation>
+		<annotation cp="👮🏾">konstapel | mellanmörk hy | polis | snut</annotation>
 		<annotation cp="👮🏾" type="tts">polis: mellanmörk hy</annotation>
-		<annotation cp="👮🏿">konstapel | mörk hy | polis</annotation>
+		<annotation cp="👮🏿">konstapel | mörk hy | polis | snut</annotation>
 		<annotation cp="👮🏿" type="tts">polis: mörk hy</annotation>
 		<annotation cp="👮🏻‍♂">konstapel | lagen | ljus hy | man | manlig polis | polisman</annotation>
 		<annotation cp="👮🏻‍♂" type="tts">manlig polis: ljus hy</annotation>
@@ -1886,15 +2027,15 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👮🏾‍♂" type="tts">manlig polis: mellanmörk hy</annotation>
 		<annotation cp="👮🏿‍♂">konstapel | lagen | man | manlig polis | mörk hy | polisman</annotation>
 		<annotation cp="👮🏿‍♂" type="tts">manlig polis: mörk hy</annotation>
-		<annotation cp="👮🏻‍♀">konstapel | kvinna | kvinnlig polis | lagen | ljus hy | polis</annotation>
+		<annotation cp="👮🏻‍♀">konstapel | kvinna | kvinnlig polis | lagen | ljus hy | polis | snut</annotation>
 		<annotation cp="👮🏻‍♀" type="tts">kvinnlig polis: ljus hy</annotation>
-		<annotation cp="👮🏼‍♀">konstapel | kvinna | kvinnlig polis | lagen | mellanljus hy | polis</annotation>
+		<annotation cp="👮🏼‍♀">konstapel | kvinna | kvinnlig polis | lagen | mellanljus hy | polis | snut</annotation>
 		<annotation cp="👮🏼‍♀" type="tts">kvinnlig polis: mellanljus hy</annotation>
-		<annotation cp="👮🏽‍♀">konstapel | kvinna | kvinnlig polis | lagen | mellanfärgad hy | polis</annotation>
+		<annotation cp="👮🏽‍♀">konstapel | kvinna | kvinnlig polis | lagen | mellanfärgad hy | polis | snut</annotation>
 		<annotation cp="👮🏽‍♀" type="tts">kvinnlig polis: mellanfärgad hy</annotation>
-		<annotation cp="👮🏾‍♀">konstapel | kvinna | kvinnlig polis | lagen | mellanmörk hy | polis</annotation>
+		<annotation cp="👮🏾‍♀">konstapel | kvinna | kvinnlig polis | lagen | mellanmörk hy | polis | snut</annotation>
 		<annotation cp="👮🏾‍♀" type="tts">kvinnlig polis: mellanmörk hy</annotation>
-		<annotation cp="👮🏿‍♀">konstapel | kvinna | kvinnlig polis | lagen | mörk hy | polis</annotation>
+		<annotation cp="👮🏿‍♀">konstapel | kvinna | kvinnlig polis | lagen | mörk hy | polis | snut</annotation>
 		<annotation cp="👮🏿‍♀" type="tts">kvinnlig polis: mörk hy</annotation>
 		<annotation cp="🕵🏻">detektiv | ljus hy | spion</annotation>
 		<annotation cp="🕵🏻" type="tts">detektiv: ljus hy</annotation>
@@ -1916,15 +2057,15 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🕵🏾‍♂" type="tts">manlig detektiv: mellanmörk hy</annotation>
 		<annotation cp="🕵🏿‍♂">kommissarie | man | manlig detektiv | mörk hy | privatdetektiv | spanare | spion</annotation>
 		<annotation cp="🕵🏿‍♂" type="tts">manlig detektiv: mörk hy</annotation>
-		<annotation cp="🕵🏻‍♀">kommissarie | kvinna | kvinnlig detektiv | ljus hy | privatdetektiv | spanare | spion</annotation>
+		<annotation cp="🕵🏻‍♀">detektiv | kommissarie | kvinna | kvinnlig detektiv | ljus hy | privatdetektiv | spanare | spion</annotation>
 		<annotation cp="🕵🏻‍♀" type="tts">kvinnlig detektiv: ljus hy</annotation>
-		<annotation cp="🕵🏼‍♀">kommissarie | kvinna | kvinnlig detektiv | mellanljus hy | privatdetektiv | spanare | spion</annotation>
+		<annotation cp="🕵🏼‍♀">detektiv | kommissarie | kvinna | kvinnlig detektiv | mellanljus hy | privatdetektiv | spanare | spion</annotation>
 		<annotation cp="🕵🏼‍♀" type="tts">kvinnlig detektiv: mellanljus hy</annotation>
-		<annotation cp="🕵🏽‍♀">kommissarie | kvinna | kvinnlig detektiv | mellanfärgad hy | privatdetektiv | spanare | spion</annotation>
+		<annotation cp="🕵🏽‍♀">detektiv | kommissarie | kvinna | kvinnlig detektiv | mellanfärgad hy | privatdetektiv | spanare | spion</annotation>
 		<annotation cp="🕵🏽‍♀" type="tts">kvinnlig detektiv: mellanfärgad hy</annotation>
-		<annotation cp="🕵🏾‍♀">kommissarie | kvinna | kvinnlig detektiv | mellanmörk hy | privatdetektiv | spanare | spion</annotation>
+		<annotation cp="🕵🏾‍♀">detektiv | kommissarie | kvinna | kvinnlig detektiv | mellanmörk hy | privatdetektiv | spanare | spion</annotation>
 		<annotation cp="🕵🏾‍♀" type="tts">kvinnlig detektiv: mellanmörk hy</annotation>
-		<annotation cp="🕵🏿‍♀">kommissarie | kvinna | kvinnlig detektiv | mörk hy | privatdetektiv | spanare | spion</annotation>
+		<annotation cp="🕵🏿‍♀">detektiv | kommissarie | kvinna | kvinnlig detektiv | mörk hy | privatdetektiv | spanare | spion</annotation>
 		<annotation cp="🕵🏿‍♀" type="tts">kvinnlig detektiv: mörk hy</annotation>
 		<annotation cp="💂🏻">grenadjär | ljus hy | vakt</annotation>
 		<annotation cp="💂🏻" type="tts">vakt: ljus hy</annotation>
@@ -1996,6 +2137,16 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👷🏾‍♀" type="tts">kvinnlig byggarbetare: mellanmörk hy</annotation>
 		<annotation cp="👷🏿‍♀">arbetare | bygge | kvinna | kvinnlig byggarbetare | mörk hy</annotation>
 		<annotation cp="👷🏿‍♀" type="tts">kvinnlig byggarbetare: mörk hy</annotation>
+		<annotation cp="🫅🏻">ädling | kung | kunglighet | ljus hy | monark | person med krona</annotation>
+		<annotation cp="🫅🏻" type="tts">person med krona: ljus hy</annotation>
+		<annotation cp="🫅🏼">ädling | kung | kunglighet | mellanljus hy | monark | person med krona</annotation>
+		<annotation cp="🫅🏼" type="tts">person med krona: mellanljus hy</annotation>
+		<annotation cp="🫅🏽">ädling | kung | kunglighet | mellanfärgad hy | monark | person med krona</annotation>
+		<annotation cp="🫅🏽" type="tts">person med krona: mellanfärgad hy</annotation>
+		<annotation cp="🫅🏾">ädling | kung | kunglighet | mellanmörk hy | monark | person med krona</annotation>
+		<annotation cp="🫅🏾" type="tts">person med krona: mellanmörk hy</annotation>
+		<annotation cp="🫅🏿">ädling | kung | kunglighet | monark | mörk hy | person med krona</annotation>
+		<annotation cp="🫅🏿" type="tts">person med krona: mörk hy</annotation>
 		<annotation cp="🤴🏻">ljus hy | prins</annotation>
 		<annotation cp="🤴🏻" type="tts">prins: ljus hy</annotation>
 		<annotation cp="🤴🏼">mellanljus hy | prins</annotation>
@@ -2066,15 +2217,15 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🧕🏾" type="tts">kvinna i sjal: mellanmörk hy</annotation>
 		<annotation cp="🧕🏿">hijab | kvinna i sjal | mörk hy | sjal | slöja</annotation>
 		<annotation cp="🧕🏿" type="tts">kvinna i sjal: mörk hy</annotation>
-		<annotation cp="🤵🏻">brudgum | ljus hy | person | person i smoking | smoking</annotation>
+		<annotation cp="🤵🏻">brudgum | ljus hy | man i smoking | person | person i smoking | smoking</annotation>
 		<annotation cp="🤵🏻" type="tts">person i smoking: ljus hy</annotation>
-		<annotation cp="🤵🏼">brudgum | mellanljus hy | person | person i smoking | smoking</annotation>
+		<annotation cp="🤵🏼">brudgum | man i smoking | mellanljus hy | person | person i smoking | smoking</annotation>
 		<annotation cp="🤵🏼" type="tts">person i smoking: mellanljus hy</annotation>
-		<annotation cp="🤵🏽">brudgum | mellanfärgad hy | person | person i smoking | smoking</annotation>
+		<annotation cp="🤵🏽">brudgum | man i smoking | mellanfärgad hy | person | person i smoking | smoking</annotation>
 		<annotation cp="🤵🏽" type="tts">person i smoking: mellanfärgad hy</annotation>
-		<annotation cp="🤵🏾">brudgum | mellanmörk hy | person | person i smoking | smoking</annotation>
+		<annotation cp="🤵🏾">brudgum | man i smoking | mellanmörk hy | person | person i smoking | smoking</annotation>
 		<annotation cp="🤵🏾" type="tts">person i smoking: mellanmörk hy</annotation>
-		<annotation cp="🤵🏿">brudgum | mörk hy | person | person i smoking | smoking</annotation>
+		<annotation cp="🤵🏿">brudgum | man i smoking | mörk hy | person | person i smoking | smoking</annotation>
 		<annotation cp="🤵🏿" type="tts">person i smoking: mörk hy</annotation>
 		<annotation cp="🤵🏻‍♂">ljus hy | man | man i smoking | smoking</annotation>
 		<annotation cp="🤵🏻‍♂" type="tts">man i smoking: ljus hy</annotation>
@@ -2096,15 +2247,15 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🤵🏾‍♀" type="tts">kvinna i smoking: mellanmörk hy</annotation>
 		<annotation cp="🤵🏿‍♀">kvinna | kvinna i smoking | mörk hy | smoking</annotation>
 		<annotation cp="🤵🏿‍♀" type="tts">kvinna i smoking: mörk hy</annotation>
-		<annotation cp="👰🏻">bröllop | brud | brudslöja | ljus hy | person | person i brudslöja</annotation>
+		<annotation cp="👰🏻">bröllop | brud | brud med slöja | brudslöja | ljus hy | person | person i brudslöja</annotation>
 		<annotation cp="👰🏻" type="tts">person i brudslöja: ljus hy</annotation>
-		<annotation cp="👰🏼">bröllop | brud | brudslöja | mellanljus hy | person | person i brudslöja</annotation>
+		<annotation cp="👰🏼">bröllop | brud | brud med slöja | brudslöja | mellanljus hy | person | person i brudslöja</annotation>
 		<annotation cp="👰🏼" type="tts">person i brudslöja: mellanljus hy</annotation>
-		<annotation cp="👰🏽">bröllop | brud | brudslöja | mellanfärgad hy | person | person i brudslöja</annotation>
+		<annotation cp="👰🏽">bröllop | brud | brud med slöja | brudslöja | mellanfärgad hy | person | person i brudslöja</annotation>
 		<annotation cp="👰🏽" type="tts">person i brudslöja: mellanfärgad hy</annotation>
-		<annotation cp="👰🏾">bröllop | brud | brudslöja | mellanmörk hy | person | person i brudslöja</annotation>
+		<annotation cp="👰🏾">bröllop | brud | brud med slöja | brudslöja | mellanmörk hy | person | person i brudslöja</annotation>
 		<annotation cp="👰🏾" type="tts">person i brudslöja: mellanmörk hy</annotation>
-		<annotation cp="👰🏿">bröllop | brud | brudslöja | mörk hy | person | person i brudslöja</annotation>
+		<annotation cp="👰🏿">bröllop | brud | brud med slöja | brudslöja | mörk hy | person | person i brudslöja</annotation>
 		<annotation cp="👰🏿" type="tts">person i brudslöja: mörk hy</annotation>
 		<annotation cp="👰🏻‍♂">brudslöja | ljus hy | man | man i brudslöja</annotation>
 		<annotation cp="👰🏻‍♂" type="tts">man i brudslöja: ljus hy</annotation>
@@ -2136,6 +2287,26 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🤰🏾" type="tts">gravid kvinna: mellanmörk hy</annotation>
 		<annotation cp="🤰🏿">gravid | kvinna | mörk hy</annotation>
 		<annotation cp="🤰🏿" type="tts">gravid kvinna: mörk hy</annotation>
+		<annotation cp="🫃🏻">gravid | gravid man | ljus hy | proppmätt | stor mage | uppsvälld</annotation>
+		<annotation cp="🫃🏻" type="tts">gravid man: ljus hy</annotation>
+		<annotation cp="🫃🏼">gravid | gravid man | mellanljus hy | proppmätt | stor mage | uppsvälld</annotation>
+		<annotation cp="🫃🏼" type="tts">gravid man: mellanljus hy</annotation>
+		<annotation cp="🫃🏽">gravid | gravid man | mellanfärgad hy | proppmätt | stor mage | uppsvälld</annotation>
+		<annotation cp="🫃🏽" type="tts">gravid man: mellanfärgad hy</annotation>
+		<annotation cp="🫃🏾">gravid | gravid man | mellanmörk hy | proppmätt | stor mage | uppsvälld</annotation>
+		<annotation cp="🫃🏾" type="tts">gravid man: mellanmörk hy</annotation>
+		<annotation cp="🫃🏿">gravid | gravid man | mörk hy | proppmätt | stor mage | uppsvälld</annotation>
+		<annotation cp="🫃🏿" type="tts">gravid man: mörk hy</annotation>
+		<annotation cp="🫄🏻">gravid | gravid person | ljus hy | stor mage | uppsvälld</annotation>
+		<annotation cp="🫄🏻" type="tts">gravid person: ljus hy</annotation>
+		<annotation cp="🫄🏼">gravid | gravid person | mellanljus hy | stor mage | uppsvälld</annotation>
+		<annotation cp="🫄🏼" type="tts">gravid person: mellanljus hy</annotation>
+		<annotation cp="🫄🏽">gravid | gravid person | mellanfärgad hy | stor mage | uppsvälld</annotation>
+		<annotation cp="🫄🏽" type="tts">gravid person: mellanfärgad hy</annotation>
+		<annotation cp="🫄🏾">gravid | gravid person | mellanmörk hy | stor mage | uppsvälld</annotation>
+		<annotation cp="🫄🏾" type="tts">gravid person: mellanmörk hy</annotation>
+		<annotation cp="🫄🏿">gravid | gravid person | mörk hy | stor mage | uppsvälld</annotation>
+		<annotation cp="🫄🏿" type="tts">gravid person: mörk hy</annotation>
 		<annotation cp="🤱🏻">amma | amning | baby | bröst | ljus hy</annotation>
 		<annotation cp="🤱🏻" type="tts">amning: ljus hy</annotation>
 		<annotation cp="🤱🏼">amma | amning | baby | bröst | mellanljus hy</annotation>
@@ -2156,25 +2327,25 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👩🏾‍🍼" type="tts">kvinna matar spädbarn: mellanmörk hy</annotation>
 		<annotation cp="👩🏿‍🍼">amma | kvinna | kvinna matar spädbarn | mata | mörk hy | spädbarn</annotation>
 		<annotation cp="👩🏿‍🍼" type="tts">kvinna matar spädbarn: mörk hy</annotation>
-		<annotation cp="👨🏻‍🍼">amma | ljus hy | man | man matar spädbarn | mata | spädbarn</annotation>
+		<annotation cp="👨🏻‍🍼">amma | barnskötare | ljus hy | man | man matar spädbarn | mata | spädbarn</annotation>
 		<annotation cp="👨🏻‍🍼" type="tts">man matar spädbarn: ljus hy</annotation>
-		<annotation cp="👨🏼‍🍼">amma | man | man matar spädbarn | mata | mellanljus hy | spädbarn</annotation>
+		<annotation cp="👨🏼‍🍼">amma | barnskötare | man | man matar spädbarn | mata | mellanljus hy | spädbarn</annotation>
 		<annotation cp="👨🏼‍🍼" type="tts">man matar spädbarn: mellanljus hy</annotation>
-		<annotation cp="👨🏽‍🍼">amma | man | man matar spädbarn | mata | mellanfärgad hy | spädbarn</annotation>
+		<annotation cp="👨🏽‍🍼">amma | barnskötare | man | man matar spädbarn | mata | mellanfärgad hy | spädbarn</annotation>
 		<annotation cp="👨🏽‍🍼" type="tts">man matar spädbarn: mellanfärgad hy</annotation>
-		<annotation cp="👨🏾‍🍼">amma | man | man matar spädbarn | mata | mellanmörk hy | spädbarn</annotation>
+		<annotation cp="👨🏾‍🍼">amma | barnskötare | man | man matar spädbarn | mata | mellanmörk hy | spädbarn</annotation>
 		<annotation cp="👨🏾‍🍼" type="tts">man matar spädbarn: mellanmörk hy</annotation>
-		<annotation cp="👨🏿‍🍼">amma | man | man matar spädbarn | mata | mörk hy | spädbarn</annotation>
+		<annotation cp="👨🏿‍🍼">amma | barnskötare | man | man matar spädbarn | mata | mörk hy | spädbarn</annotation>
 		<annotation cp="👨🏿‍🍼" type="tts">man matar spädbarn: mörk hy</annotation>
-		<annotation cp="🧑🏻‍🍼">amma | ljus hy | mata | person | person ammar spädbarn | person matar spädbarn | spädbarn</annotation>
+		<annotation cp="🧑🏻‍🍼">amma | barnskötare | ljus hy | mata | person | person ammar spädbarn | person matar spädbarn | spädbarn</annotation>
 		<annotation cp="🧑🏻‍🍼" type="tts">person ammar spädbarn: ljus hy</annotation>
-		<annotation cp="🧑🏼‍🍼">amma | mata | mellanljus hy | person | person ammar spädbarn | person matar spädbarn | spädbarn</annotation>
+		<annotation cp="🧑🏼‍🍼">amma | barnskötare | mata | mellanljus hy | person | person ammar spädbarn | person matar spädbarn | spädbarn</annotation>
 		<annotation cp="🧑🏼‍🍼" type="tts">person ammar spädbarn: mellanljus hy</annotation>
-		<annotation cp="🧑🏽‍🍼">amma | mata | mellanfärgad hy | person | person ammar spädbarn | person matar spädbarn | spädbarn</annotation>
+		<annotation cp="🧑🏽‍🍼">amma | barnskötare | mata | mellanfärgad hy | person | person ammar spädbarn | person matar spädbarn | spädbarn</annotation>
 		<annotation cp="🧑🏽‍🍼" type="tts">person ammar spädbarn: mellanfärgad hy</annotation>
-		<annotation cp="🧑🏾‍🍼">amma | mata | mellanmörk hy | person | person ammar spädbarn | person matar spädbarn | spädbarn</annotation>
+		<annotation cp="🧑🏾‍🍼">amma | barnskötare | mata | mellanmörk hy | person | person ammar spädbarn | person matar spädbarn | spädbarn</annotation>
 		<annotation cp="🧑🏾‍🍼" type="tts">person ammar spädbarn: mellanmörk hy</annotation>
-		<annotation cp="🧑🏿‍🍼">amma | mata | mörk hy | person | person ammar spädbarn | person matar spädbarn | spädbarn</annotation>
+		<annotation cp="🧑🏿‍🍼">amma | barnskötare | mata | mörk hy | person | person ammar spädbarn | person matar spädbarn | spädbarn</annotation>
 		<annotation cp="🧑🏿‍🍼" type="tts">person ammar spädbarn: mörk hy</annotation>
 		<annotation cp="👼🏻">ängel | bebisängel | ljus hy | saga</annotation>
 		<annotation cp="👼🏻" type="tts">bebisängel: ljus hy</annotation>
@@ -2206,15 +2377,15 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🤶🏾" type="tts">tomtemor: mellanmörk hy</annotation>
 		<annotation cp="🤶🏿">jul | mor | mörk hy | nisse | tomtemor</annotation>
 		<annotation cp="🤶🏿" type="tts">tomtemor: mörk hy</annotation>
-		<annotation cp="🧑🏻‍🎄">könsneutral tomte | ljus hy | tomte, jul</annotation>
+		<annotation cp="🧑🏻‍🎄">jul | jultomte | könsneutral tomte | ljus hy | tomte</annotation>
 		<annotation cp="🧑🏻‍🎄" type="tts">könsneutral tomte: ljus hy</annotation>
-		<annotation cp="🧑🏼‍🎄">könsneutral tomte | mellanljus hy | tomte, jul</annotation>
+		<annotation cp="🧑🏼‍🎄">jul | jultomte | könsneutral tomte | mellanljus hy | tomte</annotation>
 		<annotation cp="🧑🏼‍🎄" type="tts">könsneutral tomte: mellanljus hy</annotation>
-		<annotation cp="🧑🏽‍🎄">könsneutral tomte | mellanfärgad hy | tomte, jul</annotation>
+		<annotation cp="🧑🏽‍🎄">jul | jultomte | könsneutral tomte | mellanfärgad hy | tomte</annotation>
 		<annotation cp="🧑🏽‍🎄" type="tts">könsneutral tomte: mellanfärgad hy</annotation>
-		<annotation cp="🧑🏾‍🎄">könsneutral tomte | mellanmörk hy | tomte, jul</annotation>
+		<annotation cp="🧑🏾‍🎄">jul | jultomte | könsneutral tomte | mellanmörk hy | tomte</annotation>
 		<annotation cp="🧑🏾‍🎄" type="tts">könsneutral tomte: mellanmörk hy</annotation>
-		<annotation cp="🧑🏿‍🎄">könsneutral tomte | mörk hy | tomte, jul</annotation>
+		<annotation cp="🧑🏿‍🎄">jul | jultomte | könsneutral tomte | mörk hy | tomte</annotation>
 		<annotation cp="🧑🏿‍🎄" type="tts">könsneutral tomte: mörk hy</annotation>
 		<annotation cp="🦸🏻">god | hjälte | hjältinna | ljus hy | superhjälte | superkraft | superkrafter</annotation>
 		<annotation cp="🦸🏻" type="tts">superhjälte: ljus hy</annotation>
@@ -2306,15 +2477,15 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🧙🏾‍♀" type="tts">kvinnlig magiker: mellanmörk hy</annotation>
 		<annotation cp="🧙🏿‍♀">häxa | kvinnlig magiker | mörk hy</annotation>
 		<annotation cp="🧙🏿‍♀" type="tts">kvinnlig magiker: mörk hy</annotation>
-		<annotation cp="🧚🏻">älva | fé | ljus hy | Oberon | Puck | Titania</annotation>
+		<annotation cp="🧚🏻">älva | fé | ljus hy | Oberon | Puck | Titania | vingar</annotation>
 		<annotation cp="🧚🏻" type="tts">fé: ljus hy</annotation>
-		<annotation cp="🧚🏼">älva | fé | mellanljus hy | Oberon | Puck | Titania</annotation>
+		<annotation cp="🧚🏼">älva | fé | mellanljus hy | Oberon | Puck | Titania | vingar</annotation>
 		<annotation cp="🧚🏼" type="tts">fé: mellanljus hy</annotation>
-		<annotation cp="🧚🏽">älva | fé | mellanfärgad hy | Oberon | Puck | Titania</annotation>
+		<annotation cp="🧚🏽">älva | fé | mellanfärgad hy | Oberon | Puck | Titania | vingar</annotation>
 		<annotation cp="🧚🏽" type="tts">fé: mellanfärgad hy</annotation>
-		<annotation cp="🧚🏾">älva | fé | mellanmörk hy | Oberon | Puck | Titania</annotation>
+		<annotation cp="🧚🏾">älva | fé | mellanmörk hy | Oberon | Puck | Titania | vingar</annotation>
 		<annotation cp="🧚🏾" type="tts">fé: mellanmörk hy</annotation>
-		<annotation cp="🧚🏿">älva | fé | mörk hy | Oberon | Puck | Titania</annotation>
+		<annotation cp="🧚🏿">älva | fé | mörk hy | Oberon | Puck | Titania | vingar</annotation>
 		<annotation cp="🧚🏿" type="tts">fé: mörk hy</annotation>
 		<annotation cp="🧚🏻‍♂">ljus hy | manlig älva | Oberon | Puck</annotation>
 		<annotation cp="🧚🏻‍♂" type="tts">manlig älva: ljus hy</annotation>
@@ -2336,15 +2507,15 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🧚🏾‍♀" type="tts">kvinnlig fé: mellanmörk hy</annotation>
 		<annotation cp="🧚🏿‍♀">kvinnlig älva | kvinnlig fé | mörk hy | Titania</annotation>
 		<annotation cp="🧚🏿‍♀" type="tts">kvinnlig fé: mörk hy</annotation>
-		<annotation cp="🧛🏻">Drakula | ljus hy | vampyr | vandöd</annotation>
+		<annotation cp="🧛🏻">blod | Drakula | huggtänder | ljus hy | vampyr | vandöd</annotation>
 		<annotation cp="🧛🏻" type="tts">vampyr: ljus hy</annotation>
-		<annotation cp="🧛🏼">Drakula | mellanljus hy | vampyr | vandöd</annotation>
+		<annotation cp="🧛🏼">blod | Drakula | huggtänder | mellanljus hy | vampyr | vandöd</annotation>
 		<annotation cp="🧛🏼" type="tts">vampyr: mellanljus hy</annotation>
-		<annotation cp="🧛🏽">Drakula | mellanfärgad hy | vampyr | vandöd</annotation>
+		<annotation cp="🧛🏽">blod | Drakula | huggtänder | mellanfärgad hy | vampyr | vandöd</annotation>
 		<annotation cp="🧛🏽" type="tts">vampyr: mellanfärgad hy</annotation>
-		<annotation cp="🧛🏾">Drakula | mellanmörk hy | vampyr | vandöd</annotation>
+		<annotation cp="🧛🏾">blod | Drakula | huggtänder | mellanmörk hy | vampyr | vandöd</annotation>
 		<annotation cp="🧛🏾" type="tts">vampyr: mellanmörk hy</annotation>
-		<annotation cp="🧛🏿">Drakula | mörk hy | vampyr | vandöd</annotation>
+		<annotation cp="🧛🏿">blod | Drakula | huggtänder | mörk hy | vampyr | vandöd</annotation>
 		<annotation cp="🧛🏿" type="tts">vampyr: mörk hy</annotation>
 		<annotation cp="🧛🏻‍♂">Drakula | ljus hy | manlig vampyr | vandöd</annotation>
 		<annotation cp="🧛🏻‍♂" type="tts">manlig vampyr: ljus hy</annotation>
@@ -2396,15 +2567,15 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🧜🏾‍♀" type="tts">sjöjungfru: mellanmörk hy</annotation>
 		<annotation cp="🧜🏿‍♀">mörk hy | sjöjungfru | sjörå</annotation>
 		<annotation cp="🧜🏿‍♀" type="tts">sjöjungfru: mörk hy</annotation>
-		<annotation cp="🧝🏻">alv | ljus hy | magisk</annotation>
+		<annotation cp="🧝🏻">alv | ljus hy | magisk | mystisk</annotation>
 		<annotation cp="🧝🏻" type="tts">alv: ljus hy</annotation>
-		<annotation cp="🧝🏼">alv | magisk | mellanljus hy</annotation>
+		<annotation cp="🧝🏼">alv | magisk | mellanljus hy | mystisk</annotation>
 		<annotation cp="🧝🏼" type="tts">alv: mellanljus hy</annotation>
-		<annotation cp="🧝🏽">alv | magisk | mellanfärgad hy</annotation>
+		<annotation cp="🧝🏽">alv | magisk | mellanfärgad hy | mystisk</annotation>
 		<annotation cp="🧝🏽" type="tts">alv: mellanfärgad hy</annotation>
-		<annotation cp="🧝🏾">alv | magisk | mellanmörk hy</annotation>
+		<annotation cp="🧝🏾">alv | magisk | mellanmörk hy | mystisk</annotation>
 		<annotation cp="🧝🏾" type="tts">alv: mellanmörk hy</annotation>
-		<annotation cp="🧝🏿">alv | magisk | mörk hy</annotation>
+		<annotation cp="🧝🏿">alv | magisk | mörk hy | mystisk</annotation>
 		<annotation cp="🧝🏿" type="tts">alv: mörk hy</annotation>
 		<annotation cp="🧝🏻‍♂">ljus hy | magisk | manlig alv</annotation>
 		<annotation cp="🧝🏻‍♂" type="tts">manlig alv: ljus hy</annotation>
@@ -2426,15 +2597,15 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🧝🏾‍♀" type="tts">kvinnlig alv: mellanmörk hy</annotation>
 		<annotation cp="🧝🏿‍♀">kvinnlig alv | magisk | mörk hy</annotation>
 		<annotation cp="🧝🏿‍♀" type="tts">kvinnlig alv: mörk hy</annotation>
-		<annotation cp="💆🏻">ansiktsmassage | behandling | ljus hy | massage | person som blir masserad</annotation>
+		<annotation cp="💆🏻">ansiktsmassage | behandling | kvinna som blir masserad | ljus hy | massage | person som blir masserad</annotation>
 		<annotation cp="💆🏻" type="tts">person som blir masserad: ljus hy</annotation>
-		<annotation cp="💆🏼">ansiktsmassage | behandling | massage | mellanljus hy | person som blir masserad</annotation>
+		<annotation cp="💆🏼">ansiktsmassage | behandling | kvinna som blir masserad | massage | mellanljus hy | person som blir masserad</annotation>
 		<annotation cp="💆🏼" type="tts">person som blir masserad: mellanljus hy</annotation>
-		<annotation cp="💆🏽">ansiktsmassage | behandling | massage | mellanfärgad hy | person som blir masserad</annotation>
+		<annotation cp="💆🏽">ansiktsmassage | behandling | kvinna som blir masserad | massage | mellanfärgad hy | person som blir masserad</annotation>
 		<annotation cp="💆🏽" type="tts">person som blir masserad: mellanfärgad hy</annotation>
-		<annotation cp="💆🏾">ansiktsmassage | behandling | massage | mellanmörk hy | person som blir masserad</annotation>
+		<annotation cp="💆🏾">ansiktsmassage | behandling | kvinna som blir masserad | massage | mellanmörk hy | person som blir masserad</annotation>
 		<annotation cp="💆🏾" type="tts">person som blir masserad: mellanmörk hy</annotation>
-		<annotation cp="💆🏿">ansiktsmassage | behandling | massage | mörk hy | person som blir masserad</annotation>
+		<annotation cp="💆🏿">ansiktsmassage | behandling | kvinna som blir masserad | massage | mörk hy | person som blir masserad</annotation>
 		<annotation cp="💆🏿" type="tts">person som blir masserad: mörk hy</annotation>
 		<annotation cp="💆🏻‍♂">avslappning | huvudmassage | ljus hy | man | man som blir masserad | man som får massage | massage</annotation>
 		<annotation cp="💆🏻‍♂" type="tts">man som blir masserad: ljus hy</annotation>
@@ -2456,15 +2627,15 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="💆🏾‍♀" type="tts">kvinna som blir masserad: mellanmörk hy</annotation>
 		<annotation cp="💆🏿‍♀">avslappning | huvudmassage | kvinna | kvinna som blir masserad | kvinna som får massage | massage | mörk hy</annotation>
 		<annotation cp="💆🏿‍♀" type="tts">kvinna som blir masserad: mörk hy</annotation>
-		<annotation cp="💇🏻">frisör | hårklippning | ljus hy | person som får håret klippt | skönhet</annotation>
+		<annotation cp="💇🏻">frisör | frisyr | hårklippning | kvinna som får håret klippt | ljus hy | person som får håret klippt | skönhet</annotation>
 		<annotation cp="💇🏻" type="tts">person som får håret klippt: ljus hy</annotation>
-		<annotation cp="💇🏼">frisör | hårklippning | mellanljus hy | person som får håret klippt | skönhet</annotation>
+		<annotation cp="💇🏼">frisör | frisyr | hårklippning | kvinna som får håret klippt | mellanljus hy | person som får håret klippt | skönhet</annotation>
 		<annotation cp="💇🏼" type="tts">person som får håret klippt: mellanljus hy</annotation>
-		<annotation cp="💇🏽">frisör | hårklippning | mellanfärgad hy | person som får håret klippt | skönhet</annotation>
+		<annotation cp="💇🏽">frisör | frisyr | hårklippning | kvinna som får håret klippt | mellanfärgad hy | person som får håret klippt | skönhet</annotation>
 		<annotation cp="💇🏽" type="tts">person som får håret klippt: mellanfärgad hy</annotation>
-		<annotation cp="💇🏾">frisör | hårklippning | mellanmörk hy | person som får håret klippt | skönhet</annotation>
+		<annotation cp="💇🏾">frisör | frisyr | hårklippning | kvinna som får håret klippt | mellanmörk hy | person som får håret klippt | skönhet</annotation>
 		<annotation cp="💇🏾" type="tts">person som får håret klippt: mellanmörk hy</annotation>
-		<annotation cp="💇🏿">frisör | hårklippning | mörk hy | person som får håret klippt | skönhet</annotation>
+		<annotation cp="💇🏿">frisör | frisyr | hårklippning | kvinna som får håret klippt | mörk hy | person som får håret klippt | skönhet</annotation>
 		<annotation cp="💇🏿" type="tts">person som får håret klippt: mörk hy</annotation>
 		<annotation cp="💇🏻‍♂">frisör | hårklipp | ljus hy | man | man som får håret klippt</annotation>
 		<annotation cp="💇🏻‍♂" type="tts">man som får håret klippt: ljus hy</annotation>
@@ -2486,15 +2657,15 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="💇🏾‍♀" type="tts">kvinna som får håret klippt: mellanmörk hy</annotation>
 		<annotation cp="💇🏿‍♀">frisör | hårklipp | kvinna | kvinna som får håret klippt | mörk hy</annotation>
 		<annotation cp="💇🏿‍♀" type="tts">kvinna som får håret klippt: mörk hy</annotation>
-		<annotation cp="🚶🏻">fotgängare | ljus hy | promenerar</annotation>
+		<annotation cp="🚶🏻">fotgängare | ljus hy | lunka | man som går | promenerar | vandra</annotation>
 		<annotation cp="🚶🏻" type="tts">fotgängare: ljus hy</annotation>
-		<annotation cp="🚶🏼">fotgängare | mellanljus hy | promenerar</annotation>
+		<annotation cp="🚶🏼">fotgängare | lunka | man som går | mellanljus hy | promenerar | vandra</annotation>
 		<annotation cp="🚶🏼" type="tts">fotgängare: mellanljus hy</annotation>
-		<annotation cp="🚶🏽">fotgängare | mellanfärgad hy | promenerar</annotation>
+		<annotation cp="🚶🏽">fotgängare | lunka | man som går | mellanfärgad hy | promenerar | vandra</annotation>
 		<annotation cp="🚶🏽" type="tts">fotgängare: mellanfärgad hy</annotation>
-		<annotation cp="🚶🏾">fotgängare | mellanmörk hy | promenerar</annotation>
+		<annotation cp="🚶🏾">fotgängare | lunka | man som går | mellanmörk hy | promenerar | vandra</annotation>
 		<annotation cp="🚶🏾" type="tts">fotgängare: mellanmörk hy</annotation>
-		<annotation cp="🚶🏿">fotgängare | mörk hy | promenerar</annotation>
+		<annotation cp="🚶🏿">fotgängare | lunka | man som går | mörk hy | promenerar | vandra</annotation>
 		<annotation cp="🚶🏿" type="tts">fotgängare: mörk hy</annotation>
 		<annotation cp="🚶🏻‍♂">fotgängare | gå | ljus hy | man | man går | man som går</annotation>
 		<annotation cp="🚶🏻‍♂" type="tts">man som går: ljus hy</annotation>
@@ -2516,6 +2687,42 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🚶🏾‍♀" type="tts">kvinna som går: mellanmörk hy</annotation>
 		<annotation cp="🚶🏿‍♀">fotgängare | gå | kvinna | kvinna går | kvinna som går | mörk hy</annotation>
 		<annotation cp="🚶🏿‍♀" type="tts">kvinna som går: mörk hy</annotation>
+		<annotation cp="🚶‍➡">åt | fotgängare | höger | lunka | man som går | promenerar | vandra</annotation>
+		<annotation cp="🚶‍➡" type="tts">fotgängare: åt höger</annotation>
+		<annotation cp="🚶🏻‍➡">åt | fotgängare | höger | ljus hy | lunka | man som går | promenerar | vandra</annotation>
+		<annotation cp="🚶🏻‍➡" type="tts">fotgängare: ljus hy, åt höger</annotation>
+		<annotation cp="🚶🏼‍➡">åt | fotgängare | höger | lunka | man som går | mellanljus hy | promenerar | vandra</annotation>
+		<annotation cp="🚶🏼‍➡" type="tts">fotgängare: mellanljus hy, åt höger</annotation>
+		<annotation cp="🚶🏽‍➡">åt | fotgängare | höger | lunka | man som går | mellanfärgad hy | promenerar | vandra</annotation>
+		<annotation cp="🚶🏽‍➡" type="tts">fotgängare: mellanfärgad hy, åt höger</annotation>
+		<annotation cp="🚶🏾‍➡">åt | fotgängare | höger | lunka | man som går | mellanmörk hy | promenerar | vandra</annotation>
+		<annotation cp="🚶🏾‍➡" type="tts">fotgängare: mellanmörk hy, åt höger</annotation>
+		<annotation cp="🚶🏿‍➡">åt | fotgängare | höger | lunka | man som går | mörk hy | promenerar | vandra</annotation>
+		<annotation cp="🚶🏿‍➡" type="tts">fotgängare: mörk hy, åt höger</annotation>
+		<annotation cp="🚶‍♀‍➡">åt | fotgängare | gå | höger | kvinna | kvinna går | kvinna som går</annotation>
+		<annotation cp="🚶‍♀‍➡" type="tts">kvinna som går: åt höger</annotation>
+		<annotation cp="🚶🏻‍♀‍➡">åt | fotgängare | gå | höger | kvinna | kvinna går | kvinna som går | ljus hy</annotation>
+		<annotation cp="🚶🏻‍♀‍➡" type="tts">kvinna som går: ljus hy, åt höger</annotation>
+		<annotation cp="🚶🏼‍♀‍➡">åt | fotgängare | gå | höger | kvinna | kvinna går | kvinna som går | mellanljus hy</annotation>
+		<annotation cp="🚶🏼‍♀‍➡" type="tts">kvinna som går: mellanljus hy, åt höger</annotation>
+		<annotation cp="🚶🏽‍♀‍➡">åt | fotgängare | gå | höger | kvinna | kvinna går | kvinna som går | mellanfärgad hy</annotation>
+		<annotation cp="🚶🏽‍♀‍➡" type="tts">kvinna som går: mellanfärgad hy, åt höger</annotation>
+		<annotation cp="🚶🏾‍♀‍➡">åt | fotgängare | gå | höger | kvinna | kvinna går | kvinna som går | mellanmörk hy</annotation>
+		<annotation cp="🚶🏾‍♀‍➡" type="tts">kvinna som går: mellanmörk hy, åt höger</annotation>
+		<annotation cp="🚶🏿‍♀‍➡">åt | fotgängare | gå | höger | kvinna | kvinna går | kvinna som går | mörk hy</annotation>
+		<annotation cp="🚶🏿‍♀‍➡" type="tts">kvinna som går: mörk hy, åt höger</annotation>
+		<annotation cp="🚶‍♂‍➡">åt | fotgängare | gå | höger | man | man går | man som går</annotation>
+		<annotation cp="🚶‍♂‍➡" type="tts">man som går: åt höger</annotation>
+		<annotation cp="🚶🏻‍♂‍➡">åt | fotgängare | gå | höger | ljus hy | man | man går | man som går</annotation>
+		<annotation cp="🚶🏻‍♂‍➡" type="tts">man som går: ljus hy, åt höger</annotation>
+		<annotation cp="🚶🏼‍♂‍➡">åt | fotgängare | gå | höger | man | man går | man som går | mellanljus hy</annotation>
+		<annotation cp="🚶🏼‍♂‍➡" type="tts">man som går: mellanljus hy, åt höger</annotation>
+		<annotation cp="🚶🏽‍♂‍➡">åt | fotgängare | gå | höger | man | man går | man som går | mellanfärgad hy</annotation>
+		<annotation cp="🚶🏽‍♂‍➡" type="tts">man som går: mellanfärgad hy, åt höger</annotation>
+		<annotation cp="🚶🏾‍♂‍➡">åt | fotgängare | gå | höger | man | man går | man som går | mellanmörk hy</annotation>
+		<annotation cp="🚶🏾‍♂‍➡" type="tts">man som går: mellanmörk hy, åt höger</annotation>
+		<annotation cp="🚶🏿‍♂‍➡">åt | fotgängare | gå | höger | man | man går | man som går | mörk hy</annotation>
+		<annotation cp="🚶🏿‍♂‍➡" type="tts">man som går: mörk hy, åt höger</annotation>
 		<annotation cp="🧍🏻">ljus hy | person | stående</annotation>
 		<annotation cp="🧍🏻" type="tts">stående person: ljus hy</annotation>
 		<annotation cp="🧍🏼">mellanljus hy | person | stående</annotation>
@@ -2546,15 +2753,15 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🧍🏾‍♀" type="tts">stående kvinna: mellanmörk hy</annotation>
 		<annotation cp="🧍🏿‍♀">kvinna | mörk hy | stående</annotation>
 		<annotation cp="🧍🏿‍♀" type="tts">stående kvinna: mörk hy</annotation>
-		<annotation cp="🧎🏻">knäsittande | knästående | ljus hy | person</annotation>
+		<annotation cp="🧎🏻">knäsittande | knästående person | ljus hy | på knäna</annotation>
 		<annotation cp="🧎🏻" type="tts">knäsittande person: ljus hy</annotation>
-		<annotation cp="🧎🏼">knäsittande | knästående | mellanljus hy | person</annotation>
+		<annotation cp="🧎🏼">knäsittande | knästående person | mellanljus hy | på knäna</annotation>
 		<annotation cp="🧎🏼" type="tts">knäsittande person: mellanljus hy</annotation>
-		<annotation cp="🧎🏽">knäsittande | knästående | mellanfärgad hy | person</annotation>
+		<annotation cp="🧎🏽">knäsittande | knästående person | mellanfärgad hy | på knäna</annotation>
 		<annotation cp="🧎🏽" type="tts">knäsittande person: mellanfärgad hy</annotation>
-		<annotation cp="🧎🏾">knäsittande | knästående | mellanmörk hy | person</annotation>
+		<annotation cp="🧎🏾">knäsittande | knästående person | mellanmörk hy | på knäna</annotation>
 		<annotation cp="🧎🏾" type="tts">knäsittande person: mellanmörk hy</annotation>
-		<annotation cp="🧎🏿">knäsittande | knästående | mörk hy | person</annotation>
+		<annotation cp="🧎🏿">knäsittande | knästående person | mörk hy | på knäna</annotation>
 		<annotation cp="🧎🏿" type="tts">knäsittande person: mörk hy</annotation>
 		<annotation cp="🧎🏻‍♂">knäsittande | knästående | ljus hy | man</annotation>
 		<annotation cp="🧎🏻‍♂" type="tts">knäsittande man: ljus hy</annotation>
@@ -2576,6 +2783,42 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🧎🏾‍♀" type="tts">knäsittande kvinna: mellanmörk hy</annotation>
 		<annotation cp="🧎🏿‍♀">knäsittande | knästående | kvinna | mörk hy</annotation>
 		<annotation cp="🧎🏿‍♀" type="tts">knäsittande kvinna: mörk hy</annotation>
+		<annotation cp="🧎‍➡">åt | höger | knäsittande | knästående person | på knäna</annotation>
+		<annotation cp="🧎‍➡" type="tts">knäsittande person: åt höger</annotation>
+		<annotation cp="🧎🏻‍➡">åt | höger | knäsittande | knästående person | ljus hy | på knäna</annotation>
+		<annotation cp="🧎🏻‍➡" type="tts">knäsittande person: ljus hy, åt höger</annotation>
+		<annotation cp="🧎🏼‍➡">åt | höger | knäsittande | knästående person | mellanljus hy | på knäna</annotation>
+		<annotation cp="🧎🏼‍➡" type="tts">knäsittande person: mellanljus hy, åt höger</annotation>
+		<annotation cp="🧎🏽‍➡">åt | höger | knäsittande | knästående person | mellanfärgad hy | på knäna</annotation>
+		<annotation cp="🧎🏽‍➡" type="tts">knäsittande person: mellanfärgad hy, åt höger</annotation>
+		<annotation cp="🧎🏾‍➡">åt | höger | knäsittande | knästående person | mellanmörk hy | på knäna</annotation>
+		<annotation cp="🧎🏾‍➡" type="tts">knäsittande person: mellanmörk hy, åt höger</annotation>
+		<annotation cp="🧎🏿‍➡">åt | höger | knäsittande | knästående person | mörk hy | på knäna</annotation>
+		<annotation cp="🧎🏿‍➡" type="tts">knäsittande person: mörk hy, åt höger</annotation>
+		<annotation cp="🧎‍♀‍➡">åt | höger | knäsittande | knästående | kvinna</annotation>
+		<annotation cp="🧎‍♀‍➡" type="tts">knäsittande kvinna: åt höger</annotation>
+		<annotation cp="🧎🏻‍♀‍➡">åt | höger | knäsittande | knästående | kvinna | ljus hy</annotation>
+		<annotation cp="🧎🏻‍♀‍➡" type="tts">knäsittande kvinna: ljus hy, åt höger</annotation>
+		<annotation cp="🧎🏼‍♀‍➡">åt | höger | knäsittande | knästående | kvinna | mellanljus hy</annotation>
+		<annotation cp="🧎🏼‍♀‍➡" type="tts">knäsittande kvinna: mellanljus hy, åt höger</annotation>
+		<annotation cp="🧎🏽‍♀‍➡">åt | höger | knäsittande | knästående | kvinna | mellanfärgad hy</annotation>
+		<annotation cp="🧎🏽‍♀‍➡" type="tts">knäsittande kvinna: mellanfärgad hy, åt höger</annotation>
+		<annotation cp="🧎🏾‍♀‍➡">åt | höger | knäsittande | knästående | kvinna | mellanmörk hy</annotation>
+		<annotation cp="🧎🏾‍♀‍➡" type="tts">knäsittande kvinna: mellanmörk hy, åt höger</annotation>
+		<annotation cp="🧎🏿‍♀‍➡">åt | höger | knäsittande | knästående | kvinna | mörk hy</annotation>
+		<annotation cp="🧎🏿‍♀‍➡" type="tts">knäsittande kvinna: mörk hy, åt höger</annotation>
+		<annotation cp="🧎‍♂‍➡">åt | höger | knäsittande | knästående | man</annotation>
+		<annotation cp="🧎‍♂‍➡" type="tts">knäsittande man: åt höger</annotation>
+		<annotation cp="🧎🏻‍♂‍➡">åt | höger | knäsittande | knästående | ljus hy | man</annotation>
+		<annotation cp="🧎🏻‍♂‍➡" type="tts">knäsittande man: ljus hy, åt höger</annotation>
+		<annotation cp="🧎🏼‍♂‍➡">åt | höger | knäsittande | knästående | man | mellanljus hy</annotation>
+		<annotation cp="🧎🏼‍♂‍➡" type="tts">knäsittande man: mellanljus hy, åt höger</annotation>
+		<annotation cp="🧎🏽‍♂‍➡">åt | höger | knäsittande | knästående | man | mellanfärgad hy</annotation>
+		<annotation cp="🧎🏽‍♂‍➡" type="tts">knäsittande man: mellanfärgad hy, åt höger</annotation>
+		<annotation cp="🧎🏾‍♂‍➡">åt | höger | knäsittande | knästående | man | mellanmörk hy</annotation>
+		<annotation cp="🧎🏾‍♂‍➡" type="tts">knäsittande man: mellanmörk hy, åt höger</annotation>
+		<annotation cp="🧎🏿‍♂‍➡">åt | höger | knäsittande | knästående | man | mörk hy</annotation>
+		<annotation cp="🧎🏿‍♂‍➡" type="tts">knäsittande man: mörk hy, åt höger</annotation>
 		<annotation cp="🧑🏻‍🦯">hjälpmedel | ljus hy | person med vit käpp | synskadad</annotation>
 		<annotation cp="🧑🏻‍🦯" type="tts">person med vit käpp: ljus hy</annotation>
 		<annotation cp="🧑🏼‍🦯">hjälpmedel | mellanljus hy | person med vit käpp | synskadad</annotation>
@@ -2586,26 +2829,62 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🧑🏾‍🦯" type="tts">person med vit käpp: mellanmörk hy</annotation>
 		<annotation cp="🧑🏿‍🦯">hjälpmedel | mörk hy | person med vit käpp | synskadad</annotation>
 		<annotation cp="🧑🏿‍🦯" type="tts">person med vit käpp: mörk hy</annotation>
-		<annotation cp="👨🏻‍🦯">blind | blindkäpp | ljus hy | man | man med vit käpp | vit käpp</annotation>
+		<annotation cp="🧑‍🦯‍➡">åt | hjälpmedel | höger | person med vit käpp | synskadad</annotation>
+		<annotation cp="🧑‍🦯‍➡" type="tts">person med vit käpp: åt höger</annotation>
+		<annotation cp="🧑🏻‍🦯‍➡">åt | hjälpmedel | höger | ljus hy | person med vit käpp | synskadad</annotation>
+		<annotation cp="🧑🏻‍🦯‍➡" type="tts">person med vit käpp: ljus hy, åt höger</annotation>
+		<annotation cp="🧑🏼‍🦯‍➡">åt | hjälpmedel | höger | mellanljus hy | person med vit käpp | synskadad</annotation>
+		<annotation cp="🧑🏼‍🦯‍➡" type="tts">person med vit käpp: mellanljus hy, åt höger</annotation>
+		<annotation cp="🧑🏽‍🦯‍➡">åt | hjälpmedel | höger | mellanfärgad hy | person med vit käpp | synskadad</annotation>
+		<annotation cp="🧑🏽‍🦯‍➡" type="tts">person med vit käpp: mellanfärgad hy, åt höger</annotation>
+		<annotation cp="🧑🏾‍🦯‍➡">åt | hjälpmedel | höger | mellanmörk hy | person med vit käpp | synskadad</annotation>
+		<annotation cp="🧑🏾‍🦯‍➡" type="tts">person med vit käpp: mellanmörk hy, åt höger</annotation>
+		<annotation cp="🧑🏿‍🦯‍➡">åt | hjälpmedel | höger | mörk hy | person med vit käpp | synskadad</annotation>
+		<annotation cp="🧑🏿‍🦯‍➡" type="tts">person med vit käpp: mörk hy, åt höger</annotation>
+		<annotation cp="👨🏻‍🦯">blind | blindkäpp | ljus hy | man | man med blindkäpp | man med vit käpp | vit käpp</annotation>
 		<annotation cp="👨🏻‍🦯" type="tts">man med vit käpp: ljus hy</annotation>
-		<annotation cp="👨🏼‍🦯">blind | blindkäpp | man | man med vit käpp | mellanljus hy | vit käpp</annotation>
+		<annotation cp="👨🏼‍🦯">blind | blindkäpp | man | man med blindkäpp | man med vit käpp | mellanljus hy | vit käpp</annotation>
 		<annotation cp="👨🏼‍🦯" type="tts">man med vit käpp: mellanljus hy</annotation>
-		<annotation cp="👨🏽‍🦯">blind | blindkäpp | man | man med vit käpp | mellanfärgad hy | vit käpp</annotation>
+		<annotation cp="👨🏽‍🦯">blind | blindkäpp | man | man med blindkäpp | man med vit käpp | mellanfärgad hy | vit käpp</annotation>
 		<annotation cp="👨🏽‍🦯" type="tts">man med vit käpp: mellanfärgad hy</annotation>
-		<annotation cp="👨🏾‍🦯">blind | blindkäpp | man | man med vit käpp | mellanmörk hy | vit käpp</annotation>
+		<annotation cp="👨🏾‍🦯">blind | blindkäpp | man | man med blindkäpp | man med vit käpp | mellanmörk hy | vit käpp</annotation>
 		<annotation cp="👨🏾‍🦯" type="tts">man med vit käpp: mellanmörk hy</annotation>
-		<annotation cp="👨🏿‍🦯">blind | blindkäpp | man | man med vit käpp | mörk hy | vit käpp</annotation>
+		<annotation cp="👨🏿‍🦯">blind | blindkäpp | man | man med blindkäpp | man med vit käpp | mörk hy | vit käpp</annotation>
 		<annotation cp="👨🏿‍🦯" type="tts">man med vit käpp: mörk hy</annotation>
-		<annotation cp="👩🏻‍🦯">blind | blindkäpp | kvinna | kvinna med vit käpp | ljus hy | vit käpp</annotation>
+		<annotation cp="👨‍🦯‍➡">åt | blind | blindkäpp | höger | man | man med blindkäpp | man med vit käpp | vit käpp</annotation>
+		<annotation cp="👨‍🦯‍➡" type="tts">man med vit käpp: åt höger</annotation>
+		<annotation cp="👨🏻‍🦯‍➡">åt | blind | blindkäpp | höger | ljus hy | man | man med blindkäpp | man med vit käpp | vit käpp</annotation>
+		<annotation cp="👨🏻‍🦯‍➡" type="tts">man med vit käpp: ljus hy, åt höger</annotation>
+		<annotation cp="👨🏼‍🦯‍➡">åt | blind | blindkäpp | höger | man | man med blindkäpp | man med vit käpp | mellanljus hy | vit käpp</annotation>
+		<annotation cp="👨🏼‍🦯‍➡" type="tts">man med vit käpp: mellanljus hy, åt höger</annotation>
+		<annotation cp="👨🏽‍🦯‍➡">åt | blind | blindkäpp | höger | man | man med blindkäpp | man med vit käpp | mellanfärgad hy | vit käpp</annotation>
+		<annotation cp="👨🏽‍🦯‍➡" type="tts">man med vit käpp: mellanfärgad hy, åt höger</annotation>
+		<annotation cp="👨🏾‍🦯‍➡">åt | blind | blindkäpp | höger | man | man med blindkäpp | man med vit käpp | mellanmörk hy | vit käpp</annotation>
+		<annotation cp="👨🏾‍🦯‍➡" type="tts">man med vit käpp: mellanmörk hy, åt höger</annotation>
+		<annotation cp="👨🏿‍🦯‍➡">åt | blind | blindkäpp | höger | man | man med blindkäpp | man med vit käpp | mörk hy | vit käpp</annotation>
+		<annotation cp="👨🏿‍🦯‍➡" type="tts">man med vit käpp: mörk hy, åt höger</annotation>
+		<annotation cp="👩🏻‍🦯">blind | blindkäpp | kvinna | kvinna med blindkäpp | kvinna med vit käpp | ljus hy | vit käpp</annotation>
 		<annotation cp="👩🏻‍🦯" type="tts">kvinna med vit käpp: ljus hy</annotation>
-		<annotation cp="👩🏼‍🦯">blind | blindkäpp | kvinna | kvinna med vit käpp | mellanljus hy | vit käpp</annotation>
+		<annotation cp="👩🏼‍🦯">blind | blindkäpp | kvinna | kvinna med blindkäpp | kvinna med vit käpp | mellanljus hy | vit käpp</annotation>
 		<annotation cp="👩🏼‍🦯" type="tts">kvinna med vit käpp: mellanljus hy</annotation>
-		<annotation cp="👩🏽‍🦯">blind | blindkäpp | kvinna | kvinna med vit käpp | mellanfärgad hy | vit käpp</annotation>
+		<annotation cp="👩🏽‍🦯">blind | blindkäpp | kvinna | kvinna med blindkäpp | kvinna med vit käpp | mellanfärgad hy | vit käpp</annotation>
 		<annotation cp="👩🏽‍🦯" type="tts">kvinna med vit käpp: mellanfärgad hy</annotation>
-		<annotation cp="👩🏾‍🦯">blind | blindkäpp | kvinna | kvinna med vit käpp | mellanmörk hy | vit käpp</annotation>
+		<annotation cp="👩🏾‍🦯">blind | blindkäpp | kvinna | kvinna med blindkäpp | kvinna med vit käpp | mellanmörk hy | vit käpp</annotation>
 		<annotation cp="👩🏾‍🦯" type="tts">kvinna med vit käpp: mellanmörk hy</annotation>
-		<annotation cp="👩🏿‍🦯">blind | blindkäpp | kvinna | kvinna med vit käpp | mörk hy | vit käpp</annotation>
+		<annotation cp="👩🏿‍🦯">blind | blindkäpp | kvinna | kvinna med blindkäpp | kvinna med vit käpp | mörk hy | vit käpp</annotation>
 		<annotation cp="👩🏿‍🦯" type="tts">kvinna med vit käpp: mörk hy</annotation>
+		<annotation cp="👩‍🦯‍➡">åt | blind | blindkäpp | höger | kvinna | kvinna med blindkäpp | kvinna med vit käpp | vit käpp</annotation>
+		<annotation cp="👩‍🦯‍➡" type="tts">kvinna med vit käpp: åt höger</annotation>
+		<annotation cp="👩🏻‍🦯‍➡">åt | blind | blindkäpp | höger | kvinna | kvinna med blindkäpp | kvinna med vit käpp | ljus hy | vit käpp</annotation>
+		<annotation cp="👩🏻‍🦯‍➡" type="tts">kvinna med vit käpp: ljus hy, åt höger</annotation>
+		<annotation cp="👩🏼‍🦯‍➡">åt | blind | blindkäpp | höger | kvinna | kvinna med blindkäpp | kvinna med vit käpp | mellanljus hy | vit käpp</annotation>
+		<annotation cp="👩🏼‍🦯‍➡" type="tts">kvinna med vit käpp: mellanljus hy, åt höger</annotation>
+		<annotation cp="👩🏽‍🦯‍➡">åt | blind | blindkäpp | höger | kvinna | kvinna med blindkäpp | kvinna med vit käpp | mellanfärgad hy | vit käpp</annotation>
+		<annotation cp="👩🏽‍🦯‍➡" type="tts">kvinna med vit käpp: mellanfärgad hy, åt höger</annotation>
+		<annotation cp="👩🏾‍🦯‍➡">åt | blind | blindkäpp | höger | kvinna | kvinna med blindkäpp | kvinna med vit käpp | mellanmörk hy | vit käpp</annotation>
+		<annotation cp="👩🏾‍🦯‍➡" type="tts">kvinna med vit käpp: mellanmörk hy, åt höger</annotation>
+		<annotation cp="👩🏿‍🦯‍➡">åt | blind | blindkäpp | höger | kvinna | kvinna med blindkäpp | kvinna med vit käpp | mörk hy | vit käpp</annotation>
+		<annotation cp="👩🏿‍🦯‍➡" type="tts">kvinna med vit käpp: mörk hy, åt höger</annotation>
 		<annotation cp="🧑🏻‍🦼">eldriven rullstol | elektrisk rullstol | ljus hy | person i permobil | tillträde</annotation>
 		<annotation cp="🧑🏻‍🦼" type="tts">person i permobil: ljus hy</annotation>
 		<annotation cp="🧑🏼‍🦼">eldriven rullstol | elektrisk rullstol | mellanljus hy | person i permobil | tillträde</annotation>
@@ -2616,6 +2895,18 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🧑🏾‍🦼" type="tts">person i permobil: mellanmörk hy</annotation>
 		<annotation cp="🧑🏿‍🦼">eldriven rullstol | elektrisk rullstol | mörk hy | person i permobil | tillträde</annotation>
 		<annotation cp="🧑🏿‍🦼" type="tts">person i permobil: mörk hy</annotation>
+		<annotation cp="🧑‍🦼‍➡">åt | eldriven rullstol | elektrisk rullstol | höger | person i permobil | tillträde</annotation>
+		<annotation cp="🧑‍🦼‍➡" type="tts">person i permobil: åt höger</annotation>
+		<annotation cp="🧑🏻‍🦼‍➡">åt | eldriven rullstol | elektrisk rullstol | höger | ljus hy | person i permobil | tillträde</annotation>
+		<annotation cp="🧑🏻‍🦼‍➡" type="tts">person i permobil: ljus hy, åt höger</annotation>
+		<annotation cp="🧑🏼‍🦼‍➡">åt | eldriven rullstol | elektrisk rullstol | höger | mellanljus hy | person i permobil | tillträde</annotation>
+		<annotation cp="🧑🏼‍🦼‍➡" type="tts">person i permobil: mellanljus hy, åt höger</annotation>
+		<annotation cp="🧑🏽‍🦼‍➡">åt | eldriven rullstol | elektrisk rullstol | höger | mellanfärgad hy | person i permobil | tillträde</annotation>
+		<annotation cp="🧑🏽‍🦼‍➡" type="tts">person i permobil: mellanfärgad hy, åt höger</annotation>
+		<annotation cp="🧑🏾‍🦼‍➡">åt | eldriven rullstol | elektrisk rullstol | höger | mellanmörk hy | person i permobil | tillträde</annotation>
+		<annotation cp="🧑🏾‍🦼‍➡" type="tts">person i permobil: mellanmörk hy, åt höger</annotation>
+		<annotation cp="🧑🏿‍🦼‍➡">åt | eldriven rullstol | elektrisk rullstol | höger | mörk hy | person i permobil | tillträde</annotation>
+		<annotation cp="🧑🏿‍🦼‍➡" type="tts">person i permobil: mörk hy, åt höger</annotation>
 		<annotation cp="👨🏻‍🦼">ljus hy | man | man i permobil | permobil | rullstol</annotation>
 		<annotation cp="👨🏻‍🦼" type="tts">man i permobil: ljus hy</annotation>
 		<annotation cp="👨🏼‍🦼">man | man i permobil | mellanljus hy | permobil | rullstol</annotation>
@@ -2626,6 +2917,18 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👨🏾‍🦼" type="tts">man i permobil: mellanmörk hy</annotation>
 		<annotation cp="👨🏿‍🦼">man | man i permobil | mörk hy | permobil | rullstol</annotation>
 		<annotation cp="👨🏿‍🦼" type="tts">man i permobil: mörk hy</annotation>
+		<annotation cp="👨‍🦼‍➡">åt | höger | man | man i permobil | permobil | rullstol</annotation>
+		<annotation cp="👨‍🦼‍➡" type="tts">man i permobil: åt höger</annotation>
+		<annotation cp="👨🏻‍🦼‍➡">åt | höger | ljus hy | man | man i permobil | permobil | rullstol</annotation>
+		<annotation cp="👨🏻‍🦼‍➡" type="tts">man i permobil: ljus hy, åt höger</annotation>
+		<annotation cp="👨🏼‍🦼‍➡">åt | höger | man | man i permobil | mellanljus hy | permobil | rullstol</annotation>
+		<annotation cp="👨🏼‍🦼‍➡" type="tts">man i permobil: mellanljus hy, åt höger</annotation>
+		<annotation cp="👨🏽‍🦼‍➡">åt | höger | man | man i permobil | mellanfärgad hy | permobil | rullstol</annotation>
+		<annotation cp="👨🏽‍🦼‍➡" type="tts">man i permobil: mellanfärgad hy, åt höger</annotation>
+		<annotation cp="👨🏾‍🦼‍➡">åt | höger | man | man i permobil | mellanmörk hy | permobil | rullstol</annotation>
+		<annotation cp="👨🏾‍🦼‍➡" type="tts">man i permobil: mellanmörk hy, åt höger</annotation>
+		<annotation cp="👨🏿‍🦼‍➡">åt | höger | man | man i permobil | mörk hy | permobil | rullstol</annotation>
+		<annotation cp="👨🏿‍🦼‍➡" type="tts">man i permobil: mörk hy, åt höger</annotation>
 		<annotation cp="👩🏻‍🦼">kvinna | kvinna i permobil | ljus hy | permobil | rullstol</annotation>
 		<annotation cp="👩🏻‍🦼" type="tts">kvinna i permobil: ljus hy</annotation>
 		<annotation cp="👩🏼‍🦼">kvinna | kvinna i permobil | mellanljus hy | permobil | rullstol</annotation>
@@ -2636,6 +2939,18 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👩🏾‍🦼" type="tts">kvinna i permobil: mellanmörk hy</annotation>
 		<annotation cp="👩🏿‍🦼">kvinna | kvinna i permobil | mörk hy | permobil | rullstol</annotation>
 		<annotation cp="👩🏿‍🦼" type="tts">kvinna i permobil: mörk hy</annotation>
+		<annotation cp="👩‍🦼‍➡">åt | höger | kvinna | kvinna i permobil | permobil | rullstol</annotation>
+		<annotation cp="👩‍🦼‍➡" type="tts">kvinna i permobil: åt höger</annotation>
+		<annotation cp="👩🏻‍🦼‍➡">åt | höger | kvinna | kvinna i permobil | ljus hy | permobil | rullstol</annotation>
+		<annotation cp="👩🏻‍🦼‍➡" type="tts">kvinna i permobil: ljus hy, åt höger</annotation>
+		<annotation cp="👩🏼‍🦼‍➡">åt | höger | kvinna | kvinna i permobil | mellanljus hy | permobil | rullstol</annotation>
+		<annotation cp="👩🏼‍🦼‍➡" type="tts">kvinna i permobil: mellanljus hy, åt höger</annotation>
+		<annotation cp="👩🏽‍🦼‍➡">åt | höger | kvinna | kvinna i permobil | mellanfärgad hy | permobil | rullstol</annotation>
+		<annotation cp="👩🏽‍🦼‍➡" type="tts">kvinna i permobil: mellanfärgad hy, åt höger</annotation>
+		<annotation cp="👩🏾‍🦼‍➡">åt | höger | kvinna | kvinna i permobil | mellanmörk hy | permobil | rullstol</annotation>
+		<annotation cp="👩🏾‍🦼‍➡" type="tts">kvinna i permobil: mellanmörk hy, åt höger</annotation>
+		<annotation cp="👩🏿‍🦼‍➡">åt | höger | kvinna | kvinna i permobil | mörk hy | permobil | rullstol</annotation>
+		<annotation cp="👩🏿‍🦼‍➡" type="tts">kvinna i permobil: mörk hy, åt höger</annotation>
 		<annotation cp="🧑🏻‍🦽">ljus hy | person i manuell rullstol | rullstol | tillträde</annotation>
 		<annotation cp="🧑🏻‍🦽" type="tts">person i manuell rullstol: ljus hy</annotation>
 		<annotation cp="🧑🏼‍🦽">mellanljus hy | person i manuell rullstol | rullstol | tillträde</annotation>
@@ -2646,6 +2961,18 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🧑🏾‍🦽" type="tts">person i manuell rullstol: mellanmörk hy</annotation>
 		<annotation cp="🧑🏿‍🦽">mörk hy | person i manuell rullstol | rullstol | tillträde</annotation>
 		<annotation cp="🧑🏿‍🦽" type="tts">person i manuell rullstol: mörk hy</annotation>
+		<annotation cp="🧑‍🦽‍➡">åt | höger | person i manuell rullstol | rullstol | tillträde</annotation>
+		<annotation cp="🧑‍🦽‍➡" type="tts">person i manuell rullstol: åt höger</annotation>
+		<annotation cp="🧑🏻‍🦽‍➡">åt | höger | ljus hy | person i manuell rullstol | rullstol | tillträde</annotation>
+		<annotation cp="🧑🏻‍🦽‍➡" type="tts">person i manuell rullstol: ljus hy, åt höger</annotation>
+		<annotation cp="🧑🏼‍🦽‍➡">åt | höger | mellanljus hy | person i manuell rullstol | rullstol | tillträde</annotation>
+		<annotation cp="🧑🏼‍🦽‍➡" type="tts">person i manuell rullstol: mellanljus hy, åt höger</annotation>
+		<annotation cp="🧑🏽‍🦽‍➡">åt | höger | mellanfärgad hy | person i manuell rullstol | rullstol | tillträde</annotation>
+		<annotation cp="🧑🏽‍🦽‍➡" type="tts">person i manuell rullstol: mellanfärgad hy, åt höger</annotation>
+		<annotation cp="🧑🏾‍🦽‍➡">åt | höger | mellanmörk hy | person i manuell rullstol | rullstol | tillträde</annotation>
+		<annotation cp="🧑🏾‍🦽‍➡" type="tts">person i manuell rullstol: mellanmörk hy, åt höger</annotation>
+		<annotation cp="🧑🏿‍🦽‍➡">åt | höger | mörk hy | person i manuell rullstol | rullstol | tillträde</annotation>
+		<annotation cp="🧑🏿‍🦽‍➡" type="tts">person i manuell rullstol: mörk hy, åt höger</annotation>
 		<annotation cp="👨🏻‍🦽">ljus hy | man | man i manuell rullstol | rullstol</annotation>
 		<annotation cp="👨🏻‍🦽" type="tts">man i manuell rullstol: ljus hy</annotation>
 		<annotation cp="👨🏼‍🦽">man | man i manuell rullstol | mellanljus hy | rullstol</annotation>
@@ -2656,6 +2983,18 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👨🏾‍🦽" type="tts">man i manuell rullstol: mellanmörk hy</annotation>
 		<annotation cp="👨🏿‍🦽">man | man i manuell rullstol | mörk hy | rullstol</annotation>
 		<annotation cp="👨🏿‍🦽" type="tts">man i manuell rullstol: mörk hy</annotation>
+		<annotation cp="👨‍🦽‍➡">åt | höger | man | man i manuell rullstol | rullstol</annotation>
+		<annotation cp="👨‍🦽‍➡" type="tts">man i manuell rullstol: åt höger</annotation>
+		<annotation cp="👨🏻‍🦽‍➡">åt | höger | ljus hy | man | man i manuell rullstol | rullstol</annotation>
+		<annotation cp="👨🏻‍🦽‍➡" type="tts">man i manuell rullstol: ljus hy, åt höger</annotation>
+		<annotation cp="👨🏼‍🦽‍➡">åt | höger | man | man i manuell rullstol | mellanljus hy | rullstol</annotation>
+		<annotation cp="👨🏼‍🦽‍➡" type="tts">man i manuell rullstol: mellanljus hy, åt höger</annotation>
+		<annotation cp="👨🏽‍🦽‍➡">åt | höger | man | man i manuell rullstol | mellanfärgad hy | rullstol</annotation>
+		<annotation cp="👨🏽‍🦽‍➡" type="tts">man i manuell rullstol: mellanfärgad hy, åt höger</annotation>
+		<annotation cp="👨🏾‍🦽‍➡">åt | höger | man | man i manuell rullstol | mellanmörk hy | rullstol</annotation>
+		<annotation cp="👨🏾‍🦽‍➡" type="tts">man i manuell rullstol: mellanmörk hy, åt höger</annotation>
+		<annotation cp="👨🏿‍🦽‍➡">åt | höger | man | man i manuell rullstol | mörk hy | rullstol</annotation>
+		<annotation cp="👨🏿‍🦽‍➡" type="tts">man i manuell rullstol: mörk hy, åt höger</annotation>
 		<annotation cp="👩🏻‍🦽">kvinna | kvinna i manuell rullstol | ljus hy | rullstol</annotation>
 		<annotation cp="👩🏻‍🦽" type="tts">kvinna i manuell rullstol: ljus hy</annotation>
 		<annotation cp="👩🏼‍🦽">kvinna | kvinna i manuell rullstol | mellanljus hy | rullstol</annotation>
@@ -2666,15 +3005,27 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👩🏾‍🦽" type="tts">kvinna i manuell rullstol: mellanmörk hy</annotation>
 		<annotation cp="👩🏿‍🦽">kvinna | kvinna i manuell rullstol | mörk hy | rullstol</annotation>
 		<annotation cp="👩🏿‍🦽" type="tts">kvinna i manuell rullstol: mörk hy</annotation>
-		<annotation cp="🏃🏻">ljus hy | löpare | löpning | person som springer</annotation>
+		<annotation cp="👩‍🦽‍➡">åt | höger | kvinna | kvinna i manuell rullstol | rullstol</annotation>
+		<annotation cp="👩‍🦽‍➡" type="tts">kvinna i manuell rullstol: åt höger</annotation>
+		<annotation cp="👩🏻‍🦽‍➡">åt | höger | kvinna | kvinna i manuell rullstol | ljus hy | rullstol</annotation>
+		<annotation cp="👩🏻‍🦽‍➡" type="tts">kvinna i manuell rullstol: ljus hy, åt höger</annotation>
+		<annotation cp="👩🏼‍🦽‍➡">åt | höger | kvinna | kvinna i manuell rullstol | mellanljus hy | rullstol</annotation>
+		<annotation cp="👩🏼‍🦽‍➡" type="tts">kvinna i manuell rullstol: mellanljus hy, åt höger</annotation>
+		<annotation cp="👩🏽‍🦽‍➡">åt | höger | kvinna | kvinna i manuell rullstol | mellanfärgad hy | rullstol</annotation>
+		<annotation cp="👩🏽‍🦽‍➡" type="tts">kvinna i manuell rullstol: mellanfärgad hy, åt höger</annotation>
+		<annotation cp="👩🏾‍🦽‍➡">åt | höger | kvinna | kvinna i manuell rullstol | mellanmörk hy | rullstol</annotation>
+		<annotation cp="👩🏾‍🦽‍➡" type="tts">kvinna i manuell rullstol: mellanmörk hy, åt höger</annotation>
+		<annotation cp="👩🏿‍🦽‍➡">åt | höger | kvinna | kvinna i manuell rullstol | mörk hy | rullstol</annotation>
+		<annotation cp="👩🏿‍🦽‍➡" type="tts">kvinna i manuell rullstol: mörk hy, åt höger</annotation>
+		<annotation cp="🏃🏻">ljus hy | löpare | löpning | maraton | person som löper | person som springer</annotation>
 		<annotation cp="🏃🏻" type="tts">person som springer: ljus hy</annotation>
-		<annotation cp="🏃🏼">löpare | löpning | mellanljus hy | person som springer</annotation>
+		<annotation cp="🏃🏼">löpare | löpning | maraton | mellanljus hy | person som löper | person som springer</annotation>
 		<annotation cp="🏃🏼" type="tts">person som springer: mellanljus hy</annotation>
-		<annotation cp="🏃🏽">löpare | löpning | mellanfärgad hy | person som springer</annotation>
+		<annotation cp="🏃🏽">löpare | löpning | maraton | mellanfärgad hy | person som löper | person som springer</annotation>
 		<annotation cp="🏃🏽" type="tts">person som springer: mellanfärgad hy</annotation>
-		<annotation cp="🏃🏾">löpare | löpning | mellanmörk hy | person som springer</annotation>
+		<annotation cp="🏃🏾">löpare | löpning | maraton | mellanmörk hy | person som löper | person som springer</annotation>
 		<annotation cp="🏃🏾" type="tts">person som springer: mellanmörk hy</annotation>
-		<annotation cp="🏃🏿">löpare | löpning | mörk hy | person som springer</annotation>
+		<annotation cp="🏃🏿">löpare | löpning | maraton | mörk hy | person som löper | person som springer</annotation>
 		<annotation cp="🏃🏿" type="tts">person som springer: mörk hy</annotation>
 		<annotation cp="🏃🏻‍♂">jogga | ljus hy | löpa | man | man som springer | man springer</annotation>
 		<annotation cp="🏃🏻‍♂" type="tts">man som springer: ljus hy</annotation>
@@ -2696,6 +3047,42 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🏃🏾‍♀" type="tts">kvinna som springer: mellanmörk hy</annotation>
 		<annotation cp="🏃🏿‍♀">jogga | kvinna | kvinna som springer | kvinna springer | löpa | mörk hy</annotation>
 		<annotation cp="🏃🏿‍♀" type="tts">kvinna som springer: mörk hy</annotation>
+		<annotation cp="🏃‍➡">åt | höger | löpare | löpning | maraton | person som löper | person som springer</annotation>
+		<annotation cp="🏃‍➡" type="tts">person som springer: åt höger</annotation>
+		<annotation cp="🏃🏻‍➡">åt | höger | ljus hy | löpare | löpning | maraton | person som löper | person som springer</annotation>
+		<annotation cp="🏃🏻‍➡" type="tts">person som springer: ljus hy, åt höger</annotation>
+		<annotation cp="🏃🏼‍➡">åt | höger | löpare | löpning | maraton | mellanljus hy | person som löper | person som springer</annotation>
+		<annotation cp="🏃🏼‍➡" type="tts">person som springer: mellanljus hy, åt höger</annotation>
+		<annotation cp="🏃🏽‍➡">åt | höger | löpare | löpning | maraton | mellanfärgad hy | person som löper | person som springer</annotation>
+		<annotation cp="🏃🏽‍➡" type="tts">person som springer: mellanfärgad hy, åt höger</annotation>
+		<annotation cp="🏃🏾‍➡">åt | höger | löpare | löpning | maraton | mellanmörk hy | person som löper | person som springer</annotation>
+		<annotation cp="🏃🏾‍➡" type="tts">person som springer: mellanmörk hy, åt höger</annotation>
+		<annotation cp="🏃🏿‍➡">åt | höger | löpare | löpning | maraton | mörk hy | person som löper | person som springer</annotation>
+		<annotation cp="🏃🏿‍➡" type="tts">person som springer: mörk hy, åt höger</annotation>
+		<annotation cp="🏃‍♀‍➡">åt | höger | jogga | kvinna | kvinna som springer | kvinna springer | löpa</annotation>
+		<annotation cp="🏃‍♀‍➡" type="tts">kvinna som springer: åt höger</annotation>
+		<annotation cp="🏃🏻‍♀‍➡">åt | höger | jogga | kvinna | kvinna som springer | kvinna springer | ljus hy | löpa</annotation>
+		<annotation cp="🏃🏻‍♀‍➡" type="tts">kvinna som springer: ljus hy, åt höger</annotation>
+		<annotation cp="🏃🏼‍♀‍➡">åt | höger | jogga | kvinna | kvinna som springer | kvinna springer | löpa | mellanljus hy</annotation>
+		<annotation cp="🏃🏼‍♀‍➡" type="tts">kvinna som springer: mellanljus hy, åt höger</annotation>
+		<annotation cp="🏃🏽‍♀‍➡">åt | höger | jogga | kvinna | kvinna som springer | kvinna springer | löpa | mellanfärgad hy</annotation>
+		<annotation cp="🏃🏽‍♀‍➡" type="tts">kvinna som springer: mellanfärgad hy, åt höger</annotation>
+		<annotation cp="🏃🏾‍♀‍➡">åt | höger | jogga | kvinna | kvinna som springer | kvinna springer | löpa | mellanmörk hy</annotation>
+		<annotation cp="🏃🏾‍♀‍➡" type="tts">kvinna som springer: mellanmörk hy, åt höger</annotation>
+		<annotation cp="🏃🏿‍♀‍➡">åt | höger | jogga | kvinna | kvinna som springer | kvinna springer | löpa | mörk hy</annotation>
+		<annotation cp="🏃🏿‍♀‍➡" type="tts">kvinna som springer: mörk hy, åt höger</annotation>
+		<annotation cp="🏃‍♂‍➡">åt | höger | jogga | löpa | man | man som springer | man springer</annotation>
+		<annotation cp="🏃‍♂‍➡" type="tts">man som springer: åt höger</annotation>
+		<annotation cp="🏃🏻‍♂‍➡">åt | höger | jogga | ljus hy | löpa | man | man som springer | man springer</annotation>
+		<annotation cp="🏃🏻‍♂‍➡" type="tts">man som springer: ljus hy, åt höger</annotation>
+		<annotation cp="🏃🏼‍♂‍➡">åt | höger | jogga | löpa | man | man som springer | man springer | mellanljus hy</annotation>
+		<annotation cp="🏃🏼‍♂‍➡" type="tts">man som springer: mellanljus hy, åt höger</annotation>
+		<annotation cp="🏃🏽‍♂‍➡">åt | höger | jogga | löpa | man | man som springer | man springer | mellanfärgad hy</annotation>
+		<annotation cp="🏃🏽‍♂‍➡" type="tts">man som springer: mellanfärgad hy, åt höger</annotation>
+		<annotation cp="🏃🏾‍♂‍➡">åt | höger | jogga | löpa | man | man som springer | man springer | mellanmörk hy</annotation>
+		<annotation cp="🏃🏾‍♂‍➡" type="tts">man som springer: mellanmörk hy, åt höger</annotation>
+		<annotation cp="🏃🏿‍♂‍➡">åt | höger | jogga | löpa | man | man som springer | man springer | mörk hy</annotation>
+		<annotation cp="🏃🏿‍♂‍➡" type="tts">man som springer: mörk hy, åt höger</annotation>
 		<annotation cp="💃🏻">dans | dansande kvinna | ljus hy | människor</annotation>
 		<annotation cp="💃🏻" type="tts">dansande kvinna: ljus hy</annotation>
 		<annotation cp="💃🏼">dans | dansande kvinna | människor | mellanljus hy</annotation>
@@ -2726,15 +3113,15 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🕴🏾" type="tts">svävande man i kostym: mellanmörk hy</annotation>
 		<annotation cp="🕴🏿">kostym | människor | mörk hy | svävande man i kostym | svävar</annotation>
 		<annotation cp="🕴🏿" type="tts">svävande man i kostym: mörk hy</annotation>
-		<annotation cp="🧖🏻">ångbastu | bastu | ljus hy | person i ångbastu</annotation>
+		<annotation cp="🧖🏻">ångbastu | bastu | ljus hy | person i ångbastu | slappna av | spa</annotation>
 		<annotation cp="🧖🏻" type="tts">person i ångbastu: ljus hy</annotation>
-		<annotation cp="🧖🏼">ångbastu | bastu | mellanljus hy | person i ångbastu</annotation>
+		<annotation cp="🧖🏼">ångbastu | bastu | mellanljus hy | person i ångbastu | slappna av | spa</annotation>
 		<annotation cp="🧖🏼" type="tts">person i ångbastu: mellanljus hy</annotation>
-		<annotation cp="🧖🏽">ångbastu | bastu | mellanfärgad hy | person i ångbastu</annotation>
+		<annotation cp="🧖🏽">ångbastu | bastu | mellanfärgad hy | person i ångbastu | slappna av | spa</annotation>
 		<annotation cp="🧖🏽" type="tts">person i ångbastu: mellanfärgad hy</annotation>
-		<annotation cp="🧖🏾">ångbastu | bastu | mellanmörk hy | person i ångbastu</annotation>
+		<annotation cp="🧖🏾">ångbastu | bastu | mellanmörk hy | person i ångbastu | slappna av | spa</annotation>
 		<annotation cp="🧖🏾" type="tts">person i ångbastu: mellanmörk hy</annotation>
-		<annotation cp="🧖🏿">ångbastu | bastu | mörk hy | person i ångbastu</annotation>
+		<annotation cp="🧖🏿">ångbastu | bastu | mörk hy | person i ångbastu | slappna av | spa</annotation>
 		<annotation cp="🧖🏿" type="tts">person i ångbastu: mörk hy</annotation>
 		<annotation cp="🧖🏻‍♂">ångbastu | bastu | ljus hy | man i ångbastu</annotation>
 		<annotation cp="🧖🏻‍♂" type="tts">man i ångbastu: ljus hy</annotation>
@@ -2756,15 +3143,15 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🧖🏾‍♀" type="tts">kvinna i ångbastu: mellanmörk hy</annotation>
 		<annotation cp="🧖🏿‍♀">ångbastu | bastu | kvinna i ångbastu | mörk hy</annotation>
 		<annotation cp="🧖🏿‍♀" type="tts">kvinna i ångbastu: mörk hy</annotation>
-		<annotation cp="🧗🏻">klättrare | ljus hy | person klättrar | person som klättrar</annotation>
+		<annotation cp="🧗🏻">bergsklättring | klättra upp | klättrare | ljus hy | person klättrar | person som klättrar</annotation>
 		<annotation cp="🧗🏻" type="tts">person som klättrar: ljus hy</annotation>
-		<annotation cp="🧗🏼">klättrare | mellanljus hy | person klättrar | person som klättrar</annotation>
+		<annotation cp="🧗🏼">bergsklättring | klättra upp | klättrare | mellanljus hy | person klättrar | person som klättrar</annotation>
 		<annotation cp="🧗🏼" type="tts">person som klättrar: mellanljus hy</annotation>
-		<annotation cp="🧗🏽">klättrare | mellanfärgad hy | person klättrar | person som klättrar</annotation>
+		<annotation cp="🧗🏽">bergsklättring | klättra upp | klättrare | mellanfärgad hy | person klättrar | person som klättrar</annotation>
 		<annotation cp="🧗🏽" type="tts">person som klättrar: mellanfärgad hy</annotation>
-		<annotation cp="🧗🏾">klättrare | mellanmörk hy | person klättrar | person som klättrar</annotation>
+		<annotation cp="🧗🏾">bergsklättring | klättra upp | klättrare | mellanmörk hy | person klättrar | person som klättrar</annotation>
 		<annotation cp="🧗🏾" type="tts">person som klättrar: mellanmörk hy</annotation>
-		<annotation cp="🧗🏿">klättrare | mörk hy | person klättrar | person som klättrar</annotation>
+		<annotation cp="🧗🏿">bergsklättring | klättra upp | klättrare | mörk hy | person klättrar | person som klättrar</annotation>
 		<annotation cp="🧗🏿" type="tts">person som klättrar: mörk hy</annotation>
 		<annotation cp="🧗🏻‍♂">klättrare | ljus hy | man klättrar | man som klättrar</annotation>
 		<annotation cp="🧗🏻‍♂" type="tts">man som klättrar: ljus hy</annotation>
@@ -2786,15 +3173,15 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🧗🏾‍♀" type="tts">kvinna som klättrar: mellanmörk hy</annotation>
 		<annotation cp="🧗🏿‍♀">klättrare | kvinna klättrar | kvinna som klättrar | mörk hy</annotation>
 		<annotation cp="🧗🏿‍♀" type="tts">kvinna som klättrar: mörk hy</annotation>
-		<annotation cp="🏇🏻">häst | hästkapplöpning | jockey | kapplöpning | ljus hy</annotation>
+		<annotation cp="🏇🏻">häst | hästkapplöpning | jockey | kapplöpning | ljus hy | person som galopperar med en häst</annotation>
 		<annotation cp="🏇🏻" type="tts">hästkapplöpning: ljus hy</annotation>
-		<annotation cp="🏇🏼">häst | hästkapplöpning | jockey | kapplöpning | mellanljus hy</annotation>
+		<annotation cp="🏇🏼">häst | hästkapplöpning | jockey | kapplöpning | mellanljus hy | person som galopperar med en häst</annotation>
 		<annotation cp="🏇🏼" type="tts">hästkapplöpning: mellanljus hy</annotation>
-		<annotation cp="🏇🏽">häst | hästkapplöpning | jockey | kapplöpning | mellanfärgad hy</annotation>
+		<annotation cp="🏇🏽">häst | hästkapplöpning | jockey | kapplöpning | mellanfärgad hy | person som galopperar med en häst</annotation>
 		<annotation cp="🏇🏽" type="tts">hästkapplöpning: mellanfärgad hy</annotation>
-		<annotation cp="🏇🏾">häst | hästkapplöpning | jockey | kapplöpning | mellanmörk hy</annotation>
+		<annotation cp="🏇🏾">häst | hästkapplöpning | jockey | kapplöpning | mellanmörk hy | person som galopperar med en häst</annotation>
 		<annotation cp="🏇🏾" type="tts">hästkapplöpning: mellanmörk hy</annotation>
-		<annotation cp="🏇🏿">häst | hästkapplöpning | jockey | kapplöpning | mörk hy</annotation>
+		<annotation cp="🏇🏿">häst | hästkapplöpning | jockey | kapplöpning | mörk hy | person som galopperar med en häst</annotation>
 		<annotation cp="🏇🏿" type="tts">hästkapplöpning: mörk hy</annotation>
 		<annotation cp="🏂🏻">ljus hy | snowboard | snowboardåkare</annotation>
 		<annotation cp="🏂🏻" type="tts">snowboardåkare: ljus hy</annotation>
@@ -2806,15 +3193,15 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🏂🏾" type="tts">snowboardåkare: mellanmörk hy</annotation>
 		<annotation cp="🏂🏿">mörk hy | snowboard | snowboardåkare</annotation>
 		<annotation cp="🏂🏿" type="tts">snowboardåkare: mörk hy</annotation>
-		<annotation cp="🏌🏻">golf | golfspelare | ljus hy | person som spelar golf | sport</annotation>
+		<annotation cp="🏌🏻">birdie | golf | golfspelare | ljus hy | person som spelar golf | putt | sport | tee</annotation>
 		<annotation cp="🏌🏻" type="tts">person som spelar golf: ljus hy</annotation>
-		<annotation cp="🏌🏼">golf | golfspelare | mellanljus hy | person som spelar golf | sport</annotation>
+		<annotation cp="🏌🏼">birdie | golf | golfspelare | mellanljus hy | person som spelar golf | putt | sport | tee</annotation>
 		<annotation cp="🏌🏼" type="tts">person som spelar golf: mellanljus hy</annotation>
-		<annotation cp="🏌🏽">golf | golfspelare | mellanfärgad hy | person som spelar golf | sport</annotation>
+		<annotation cp="🏌🏽">birdie | golf | golfspelare | mellanfärgad hy | person som spelar golf | putt | sport | tee</annotation>
 		<annotation cp="🏌🏽" type="tts">person som spelar golf: mellanfärgad hy</annotation>
-		<annotation cp="🏌🏾">golf | golfspelare | mellanmörk hy | person som spelar golf | sport</annotation>
+		<annotation cp="🏌🏾">birdie | golf | golfspelare | mellanmörk hy | person som spelar golf | putt | sport | tee</annotation>
 		<annotation cp="🏌🏾" type="tts">person som spelar golf: mellanmörk hy</annotation>
-		<annotation cp="🏌🏿">golf | golfspelare | mörk hy | person som spelar golf | sport</annotation>
+		<annotation cp="🏌🏿">birdie | golf | golfspelare | mörk hy | person som spelar golf | putt | sport | tee</annotation>
 		<annotation cp="🏌🏿" type="tts">person som spelar golf: mörk hy</annotation>
 		<annotation cp="🏌🏻‍♂">golf | ljus hy | man | man som spelar golf | man spelar golf | manlig</annotation>
 		<annotation cp="🏌🏻‍♂" type="tts">man som spelar golf: ljus hy</annotation>
@@ -2836,15 +3223,15 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🏌🏾‍♀" type="tts">kvinna som spelar golf: mellanmörk hy</annotation>
 		<annotation cp="🏌🏿‍♀">golf | kvinna | kvinna som spelar golf | kvinna spelar golf | kvinnlig | mörk hy</annotation>
 		<annotation cp="🏌🏿‍♀" type="tts">kvinna som spelar golf: mörk hy</annotation>
-		<annotation cp="🏄🏻">ljus hy | person som surfar | surfare | surfing | surfning</annotation>
+		<annotation cp="🏄🏻">hav | ljus hy | person som surfar | strand | surfare | surfing | surfning</annotation>
 		<annotation cp="🏄🏻" type="tts">person som surfar: ljus hy</annotation>
-		<annotation cp="🏄🏼">mellanljus hy | person som surfar | surfare | surfing | surfning</annotation>
+		<annotation cp="🏄🏼">hav | mellanljus hy | person som surfar | strand | surfare | surfing | surfning</annotation>
 		<annotation cp="🏄🏼" type="tts">person som surfar: mellanljus hy</annotation>
-		<annotation cp="🏄🏽">mellanfärgad hy | person som surfar | surfare | surfing | surfning</annotation>
+		<annotation cp="🏄🏽">hav | mellanfärgad hy | person som surfar | strand | surfare | surfing | surfning</annotation>
 		<annotation cp="🏄🏽" type="tts">person som surfar: mellanfärgad hy</annotation>
-		<annotation cp="🏄🏾">mellanmörk hy | person som surfar | surfare | surfing | surfning</annotation>
+		<annotation cp="🏄🏾">hav | mellanmörk hy | person som surfar | strand | surfare | surfing | surfning</annotation>
 		<annotation cp="🏄🏾" type="tts">person som surfar: mellanmörk hy</annotation>
-		<annotation cp="🏄🏿">mörk hy | person som surfar | surfare | surfing | surfning</annotation>
+		<annotation cp="🏄🏿">hav | mörk hy | person som surfar | strand | surfare | surfing | surfning</annotation>
 		<annotation cp="🏄🏿" type="tts">person som surfar: mörk hy</annotation>
 		<annotation cp="🏄🏻‍♂">ljus hy | man | man som surfar | man surfar | manlig | surfing</annotation>
 		<annotation cp="🏄🏻‍♂" type="tts">man som surfar: ljus hy</annotation>
@@ -2896,15 +3283,15 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🚣🏾‍♀" type="tts">kvinna som ror en båt: mellanmörk hy</annotation>
 		<annotation cp="🚣🏿‍♀">eka | kvinna | kvinna ror | kvinna som ror en båt | kvinnlig | mörk hy | roddbåt</annotation>
 		<annotation cp="🚣🏿‍♀" type="tts">kvinna som ror en båt: mörk hy</annotation>
-		<annotation cp="🏊🏻">ljus hy | person som simmar | simmare | simning</annotation>
+		<annotation cp="🏊🏻">ljus hy | person som simmar | simma | simmare | simning</annotation>
 		<annotation cp="🏊🏻" type="tts">person som simmar: ljus hy</annotation>
-		<annotation cp="🏊🏼">mellanljus hy | person som simmar | simmare | simning</annotation>
+		<annotation cp="🏊🏼">mellanljus hy | person som simmar | simma | simmare | simning</annotation>
 		<annotation cp="🏊🏼" type="tts">person som simmar: mellanljus hy</annotation>
-		<annotation cp="🏊🏽">mellanfärgad hy | person som simmar | simmare | simning</annotation>
+		<annotation cp="🏊🏽">mellanfärgad hy | person som simmar | simma | simmare | simning</annotation>
 		<annotation cp="🏊🏽" type="tts">person som simmar: mellanfärgad hy</annotation>
-		<annotation cp="🏊🏾">mellanmörk hy | person som simmar | simmare | simning</annotation>
+		<annotation cp="🏊🏾">mellanmörk hy | person som simmar | simma | simmare | simning</annotation>
 		<annotation cp="🏊🏾" type="tts">person som simmar: mellanmörk hy</annotation>
-		<annotation cp="🏊🏿">mörk hy | person som simmar | simmare | simning</annotation>
+		<annotation cp="🏊🏿">mörk hy | person som simmar | simma | simmare | simning</annotation>
 		<annotation cp="🏊🏿" type="tts">person som simmar: mörk hy</annotation>
 		<annotation cp="🏊🏻‍♂">ljus hy | man | man som simmar | simmare | simning</annotation>
 		<annotation cp="🏊🏻‍♂" type="tts">man som simmar: ljus hy</annotation>
@@ -2926,15 +3313,15 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🏊🏾‍♀" type="tts">kvinna som simmar: mellanmörk hy</annotation>
 		<annotation cp="🏊🏿‍♀">kvinna | kvinna som simmar | mörk hy | simmare | simning</annotation>
 		<annotation cp="🏊🏿‍♀" type="tts">kvinna som simmar: mörk hy</annotation>
-		<annotation cp="⛹🏻">boll | ljus hy | person med boll | sport</annotation>
+		<annotation cp="⛹🏻">basket | basketspelare | boll | dribbla | ljus hy | person med boll | sport</annotation>
 		<annotation cp="⛹🏻" type="tts">person med boll: ljus hy</annotation>
-		<annotation cp="⛹🏼">boll | mellanljus hy | person med boll | sport</annotation>
+		<annotation cp="⛹🏼">basket | basketspelare | boll | dribbla | mellanljus hy | person med boll | sport</annotation>
 		<annotation cp="⛹🏼" type="tts">person med boll: mellanljus hy</annotation>
-		<annotation cp="⛹🏽">boll | mellanfärgad hy | person med boll | sport</annotation>
+		<annotation cp="⛹🏽">basket | basketspelare | boll | dribbla | mellanfärgad hy | person med boll | sport</annotation>
 		<annotation cp="⛹🏽" type="tts">person med boll: mellanfärgad hy</annotation>
-		<annotation cp="⛹🏾">boll | mellanmörk hy | person med boll | sport</annotation>
+		<annotation cp="⛹🏾">basket | basketspelare | boll | dribbla | mellanmörk hy | person med boll | sport</annotation>
 		<annotation cp="⛹🏾" type="tts">person med boll: mellanmörk hy</annotation>
-		<annotation cp="⛹🏿">boll | mörk hy | person med boll | sport</annotation>
+		<annotation cp="⛹🏿">basket | basketspelare | boll | dribbla | mörk hy | person med boll | sport</annotation>
 		<annotation cp="⛹🏿" type="tts">person med boll: mörk hy</annotation>
 		<annotation cp="⛹🏻‍♂">boll | ljus hy | man | man med boll | manlig</annotation>
 		<annotation cp="⛹🏻‍♂" type="tts">man med boll: ljus hy</annotation>
@@ -2956,15 +3343,15 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="⛹🏾‍♀" type="tts">kvinna med boll: mellanmörk hy</annotation>
 		<annotation cp="⛹🏿‍♀">boll | kvinna | kvinna med boll | kvinnlig | mörk hy</annotation>
 		<annotation cp="⛹🏿‍♀" type="tts">kvinna med boll: mörk hy</annotation>
-		<annotation cp="🏋🏻">ljus hy | person som lyfter tyngder | sport | tyngdlyftare</annotation>
+		<annotation cp="🏋🏻">kroppsbyggare | ljus hy | person som lyfter tyngder | sport | tyngdlyftare</annotation>
 		<annotation cp="🏋🏻" type="tts">person som lyfter tyngder: ljus hy</annotation>
-		<annotation cp="🏋🏼">mellanljus hy | person som lyfter tyngder | sport | tyngdlyftare</annotation>
+		<annotation cp="🏋🏼">kroppsbyggare | mellanljus hy | person som lyfter tyngder | sport | tyngdlyftare</annotation>
 		<annotation cp="🏋🏼" type="tts">person som lyfter tyngder: mellanljus hy</annotation>
-		<annotation cp="🏋🏽">mellanfärgad hy | person som lyfter tyngder | sport | tyngdlyftare</annotation>
+		<annotation cp="🏋🏽">kroppsbyggare | mellanfärgad hy | person som lyfter tyngder | sport | tyngdlyftare</annotation>
 		<annotation cp="🏋🏽" type="tts">person som lyfter tyngder: mellanfärgad hy</annotation>
-		<annotation cp="🏋🏾">mellanmörk hy | person som lyfter tyngder | sport | tyngdlyftare</annotation>
+		<annotation cp="🏋🏾">kroppsbyggare | mellanmörk hy | person som lyfter tyngder | sport | tyngdlyftare</annotation>
 		<annotation cp="🏋🏾" type="tts">person som lyfter tyngder: mellanmörk hy</annotation>
-		<annotation cp="🏋🏿">mörk hy | person som lyfter tyngder | sport | tyngdlyftare</annotation>
+		<annotation cp="🏋🏿">kroppsbyggare | mörk hy | person som lyfter tyngder | sport | tyngdlyftare</annotation>
 		<annotation cp="🏋🏿" type="tts">person som lyfter tyngder: mörk hy</annotation>
 		<annotation cp="🏋🏻‍♂">ljus hy | man | man lyfter tyngder | man som lyfter tyngder | manlig | tyngdlyftare</annotation>
 		<annotation cp="🏋🏻‍♂" type="tts">man som lyfter tyngder: ljus hy</annotation>
@@ -2986,15 +3373,15 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🏋🏾‍♀" type="tts">kvinna som lyfter tyngder: mellanmörk hy</annotation>
 		<annotation cp="🏋🏿‍♀">kvinna | kvinna lyfter tyngder | kvinna som lyfter tyngder | kvinnlig | mörk hy | tyngdlyftare</annotation>
 		<annotation cp="🏋🏿‍♀" type="tts">kvinna som lyfter tyngder: mörk hy</annotation>
-		<annotation cp="🚴🏻">cykel | cyklist | ljus hy | person som cyklar</annotation>
+		<annotation cp="🚴🏻">cykel | cykla | cyklist | ljus hy | person som cyklar</annotation>
 		<annotation cp="🚴🏻" type="tts">person som cyklar: ljus hy</annotation>
-		<annotation cp="🚴🏼">cykel | cyklist | mellanljus hy | person som cyklar</annotation>
+		<annotation cp="🚴🏼">cykel | cykla | cyklist | mellanljus hy | person som cyklar</annotation>
 		<annotation cp="🚴🏼" type="tts">person som cyklar: mellanljus hy</annotation>
-		<annotation cp="🚴🏽">cykel | cyklist | mellanfärgad hy | person som cyklar</annotation>
+		<annotation cp="🚴🏽">cykel | cykla | cyklist | mellanfärgad hy | person som cyklar</annotation>
 		<annotation cp="🚴🏽" type="tts">person som cyklar: mellanfärgad hy</annotation>
-		<annotation cp="🚴🏾">cykel | cyklist | mellanmörk hy | person som cyklar</annotation>
+		<annotation cp="🚴🏾">cykel | cykla | cyklist | mellanmörk hy | person som cyklar</annotation>
 		<annotation cp="🚴🏾" type="tts">person som cyklar: mellanmörk hy</annotation>
-		<annotation cp="🚴🏿">cykel | cyklist | mörk hy | person som cyklar</annotation>
+		<annotation cp="🚴🏿">cykel | cykla | cyklist | mörk hy | person som cyklar</annotation>
 		<annotation cp="🚴🏿" type="tts">person som cyklar: mörk hy</annotation>
 		<annotation cp="🚴🏻‍♂">cykel | cyklist | ljus hy | man | man cyklar | man som cyklar | manlig</annotation>
 		<annotation cp="🚴🏻‍♂" type="tts">man som cyklar: ljus hy</annotation>
@@ -3016,15 +3403,15 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🚴🏾‍♀" type="tts">kvinna som cyklar: mellanmörk hy</annotation>
 		<annotation cp="🚴🏿‍♀">cykel | cyklist | kvinna | kvinna cyklar | kvinna som cyklar | kvinnlig | mörk hy</annotation>
 		<annotation cp="🚴🏿‍♀" type="tts">kvinna som cyklar: mörk hy</annotation>
-		<annotation cp="🚵🏻">cykel | cyklist | ljus hy | mountainbikeåkare | person som cyklar på en mountainbike</annotation>
+		<annotation cp="🚵🏻">cykel | cykla | cyklist | ljus hy | mountainbikeåkare | person som cyklar på en mountainbike</annotation>
 		<annotation cp="🚵🏻" type="tts">person som cyklar på en mountainbike: ljus hy</annotation>
-		<annotation cp="🚵🏼">cykel | cyklist | mellanljus hy | mountainbikeåkare | person som cyklar på en mountainbike</annotation>
+		<annotation cp="🚵🏼">cykel | cykla | cyklist | mellanljus hy | mountainbikeåkare | person som cyklar på en mountainbike</annotation>
 		<annotation cp="🚵🏼" type="tts">person som cyklar på en mountainbike: mellanljus hy</annotation>
-		<annotation cp="🚵🏽">cykel | cyklist | mellanfärgad hy | mountainbikeåkare | person som cyklar på en mountainbike</annotation>
+		<annotation cp="🚵🏽">cykel | cykla | cyklist | mellanfärgad hy | mountainbikeåkare | person som cyklar på en mountainbike</annotation>
 		<annotation cp="🚵🏽" type="tts">person som cyklar på en mountainbike: mellanfärgad hy</annotation>
-		<annotation cp="🚵🏾">cykel | cyklist | mellanmörk hy | mountainbikeåkare | person som cyklar på en mountainbike</annotation>
+		<annotation cp="🚵🏾">cykel | cykla | cyklist | mellanmörk hy | mountainbikeåkare | person som cyklar på en mountainbike</annotation>
 		<annotation cp="🚵🏾" type="tts">person som cyklar på en mountainbike: mellanmörk hy</annotation>
-		<annotation cp="🚵🏿">cykel | cyklist | mörk hy | mountainbikeåkare | person som cyklar på en mountainbike</annotation>
+		<annotation cp="🚵🏿">cykel | cykla | cyklist | mörk hy | mountainbikeåkare | person som cyklar på en mountainbike</annotation>
 		<annotation cp="🚵🏿" type="tts">person som cyklar på en mountainbike: mörk hy</annotation>
 		<annotation cp="🚵🏻‍♂">cykel | cyklist | ljus hy | man | man åker mountainbike | man som cyklar på en mountainbike</annotation>
 		<annotation cp="🚵🏻‍♂" type="tts">man som cyklar på en mountainbike: ljus hy</annotation>
@@ -3036,15 +3423,15 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🚵🏾‍♂" type="tts">man som cyklar på en mountainbike: mellanmörk hy</annotation>
 		<annotation cp="🚵🏿‍♂">cykel | cyklist | man | man åker mountainbike | man som cyklar på en mountainbike | mörk hy</annotation>
 		<annotation cp="🚵🏿‍♂" type="tts">man som cyklar på en mountainbike: mörk hy</annotation>
-		<annotation cp="🚵🏻‍♀">cykel | cyklist | kvinna | kvinna åker mountainbike | kvinna som cyklar på en mountainbike | ljus hy</annotation>
+		<annotation cp="🚵🏻‍♀">cykel | cyklist | kvinna | kvinna åker mountainbike | kvinna som cyklar | kvinna som cyklar på en mountainbike | ljus hy</annotation>
 		<annotation cp="🚵🏻‍♀" type="tts">kvinna som cyklar på en mountainbike: ljus hy</annotation>
-		<annotation cp="🚵🏼‍♀">cykel | cyklist | kvinna | kvinna åker mountainbike | kvinna som cyklar på en mountainbike | mellanljus hy</annotation>
+		<annotation cp="🚵🏼‍♀">cykel | cyklist | kvinna | kvinna åker mountainbike | kvinna som cyklar | kvinna som cyklar på en mountainbike | mellanljus hy</annotation>
 		<annotation cp="🚵🏼‍♀" type="tts">kvinna som cyklar på en mountainbike: mellanljus hy</annotation>
-		<annotation cp="🚵🏽‍♀">cykel | cyklist | kvinna | kvinna åker mountainbike | kvinna som cyklar på en mountainbike | mellanfärgad hy</annotation>
+		<annotation cp="🚵🏽‍♀">cykel | cyklist | kvinna | kvinna åker mountainbike | kvinna som cyklar | kvinna som cyklar på en mountainbike | mellanfärgad hy</annotation>
 		<annotation cp="🚵🏽‍♀" type="tts">kvinna som cyklar på en mountainbike: mellanfärgad hy</annotation>
-		<annotation cp="🚵🏾‍♀">cykel | cyklist | kvinna | kvinna åker mountainbike | kvinna som cyklar på en mountainbike | mellanmörk hy</annotation>
+		<annotation cp="🚵🏾‍♀">cykel | cyklist | kvinna | kvinna åker mountainbike | kvinna som cyklar | kvinna som cyklar på en mountainbike | mellanmörk hy</annotation>
 		<annotation cp="🚵🏾‍♀" type="tts">kvinna som cyklar på en mountainbike: mellanmörk hy</annotation>
-		<annotation cp="🚵🏿‍♀">cykel | cyklist | kvinna | kvinna åker mountainbike | kvinna som cyklar på en mountainbike | mörk hy</annotation>
+		<annotation cp="🚵🏿‍♀">cykel | cyklist | kvinna | kvinna åker mountainbike | kvinna som cyklar | kvinna som cyklar på en mountainbike | mörk hy</annotation>
 		<annotation cp="🚵🏿‍♀" type="tts">kvinna som cyklar på en mountainbike: mörk hy</annotation>
 		<annotation cp="🤸🏻">gymnastik | hjula | ljus hy | person | person som hjular</annotation>
 		<annotation cp="🤸🏻" type="tts">person som hjular: ljus hy</annotation>
@@ -3056,25 +3443,25 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🤸🏾" type="tts">person som hjular: mellanmörk hy</annotation>
 		<annotation cp="🤸🏿">gymnastik | hjula | mörk hy | person | person som hjular</annotation>
 		<annotation cp="🤸🏿" type="tts">person som hjular: mörk hy</annotation>
-		<annotation cp="🤸🏻‍♂">gymnastik | ljus hy | man | man som hjular</annotation>
+		<annotation cp="🤸🏻‍♂">gymnastik | kullerbytta | ljus hy | man | man som hjular | volt</annotation>
 		<annotation cp="🤸🏻‍♂" type="tts">man som hjular: ljus hy</annotation>
-		<annotation cp="🤸🏼‍♂">gymnastik | man | man som hjular | mellanljus hy</annotation>
+		<annotation cp="🤸🏼‍♂">gymnastik | kullerbytta | man | man som hjular | mellanljus hy | volt</annotation>
 		<annotation cp="🤸🏼‍♂" type="tts">man som hjular: mellanljus hy</annotation>
-		<annotation cp="🤸🏽‍♂">gymnastik | man | man som hjular | mellanfärgad hy</annotation>
+		<annotation cp="🤸🏽‍♂">gymnastik | kullerbytta | man | man som hjular | mellanfärgad hy | volt</annotation>
 		<annotation cp="🤸🏽‍♂" type="tts">man som hjular: mellanfärgad hy</annotation>
-		<annotation cp="🤸🏾‍♂">gymnastik | man | man som hjular | mellanmörk hy</annotation>
+		<annotation cp="🤸🏾‍♂">gymnastik | kullerbytta | man | man som hjular | mellanmörk hy | volt</annotation>
 		<annotation cp="🤸🏾‍♂" type="tts">man som hjular: mellanmörk hy</annotation>
-		<annotation cp="🤸🏿‍♂">gymnastik | man | man som hjular | mörk hy</annotation>
+		<annotation cp="🤸🏿‍♂">gymnastik | kullerbytta | man | man som hjular | mörk hy | volt</annotation>
 		<annotation cp="🤸🏿‍♂" type="tts">man som hjular: mörk hy</annotation>
-		<annotation cp="🤸🏻‍♀">gymnastik | kvinna | kvinna som hjular | ljus hy</annotation>
+		<annotation cp="🤸🏻‍♀">gymnastik | kullerbytta | kvinna | kvinna som hjular | ljus hy | volt</annotation>
 		<annotation cp="🤸🏻‍♀" type="tts">kvinna som hjular: ljus hy</annotation>
-		<annotation cp="🤸🏼‍♀">gymnastik | kvinna | kvinna som hjular | mellanljus hy</annotation>
+		<annotation cp="🤸🏼‍♀">gymnastik | kullerbytta | kvinna | kvinna som hjular | mellanljus hy | volt</annotation>
 		<annotation cp="🤸🏼‍♀" type="tts">kvinna som hjular: mellanljus hy</annotation>
-		<annotation cp="🤸🏽‍♀">gymnastik | kvinna | kvinna som hjular | mellanfärgad hy</annotation>
+		<annotation cp="🤸🏽‍♀">gymnastik | kullerbytta | kvinna | kvinna som hjular | mellanfärgad hy | volt</annotation>
 		<annotation cp="🤸🏽‍♀" type="tts">kvinna som hjular: mellanfärgad hy</annotation>
-		<annotation cp="🤸🏾‍♀">gymnastik | kvinna | kvinna som hjular | mellanmörk hy</annotation>
+		<annotation cp="🤸🏾‍♀">gymnastik | kullerbytta | kvinna | kvinna som hjular | mellanmörk hy | volt</annotation>
 		<annotation cp="🤸🏾‍♀" type="tts">kvinna som hjular: mellanmörk hy</annotation>
-		<annotation cp="🤸🏿‍♀">gymnastik | kvinna | kvinna som hjular | mörk hy</annotation>
+		<annotation cp="🤸🏿‍♀">gymnastik | kullerbytta | kvinna | kvinna som hjular | mörk hy | volt</annotation>
 		<annotation cp="🤸🏿‍♀" type="tts">kvinna som hjular: mörk hy</annotation>
 		<annotation cp="🤽🏻">ljus hy | person | person som spelar vattenpolo | polo | sport | vattenpolo</annotation>
 		<annotation cp="🤽🏻" type="tts">person som spelar vattenpolo: ljus hy</annotation>
@@ -3126,35 +3513,35 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🤾🏾‍♂" type="tts">man som spelar handboll: mellanmörk hy</annotation>
 		<annotation cp="🤾🏿‍♂">handboll | man | man som spelar handboll | mörk hy | sport</annotation>
 		<annotation cp="🤾🏿‍♂" type="tts">man som spelar handboll: mörk hy</annotation>
-		<annotation cp="🤾🏻‍♀">handboll | kvinna | kvinna som spelar handboll | ljus hy | sport</annotation>
+		<annotation cp="🤾🏻‍♀">boll | handboll | kasta | kvinna | kvinna som spelar handboll | ljus hy | sport</annotation>
 		<annotation cp="🤾🏻‍♀" type="tts">kvinna som spelar handboll: ljus hy</annotation>
-		<annotation cp="🤾🏼‍♀">handboll | kvinna | kvinna som spelar handboll | mellanljus hy | sport</annotation>
+		<annotation cp="🤾🏼‍♀">boll | handboll | kasta | kvinna | kvinna som spelar handboll | mellanljus hy | sport</annotation>
 		<annotation cp="🤾🏼‍♀" type="tts">kvinna som spelar handboll: mellanljus hy</annotation>
-		<annotation cp="🤾🏽‍♀">handboll | kvinna | kvinna som spelar handboll | mellanfärgad hy | sport</annotation>
+		<annotation cp="🤾🏽‍♀">boll | handboll | kasta | kvinna | kvinna som spelar handboll | mellanfärgad hy | sport</annotation>
 		<annotation cp="🤾🏽‍♀" type="tts">kvinna som spelar handboll: mellanfärgad hy</annotation>
-		<annotation cp="🤾🏾‍♀">handboll | kvinna | kvinna som spelar handboll | mellanmörk hy | sport</annotation>
+		<annotation cp="🤾🏾‍♀">boll | handboll | kasta | kvinna | kvinna som spelar handboll | mellanmörk hy | sport</annotation>
 		<annotation cp="🤾🏾‍♀" type="tts">kvinna som spelar handboll: mellanmörk hy</annotation>
-		<annotation cp="🤾🏿‍♀">handboll | kvinna | kvinna som spelar handboll | mörk hy | sport</annotation>
+		<annotation cp="🤾🏿‍♀">boll | handboll | kasta | kvinna | kvinna som spelar handboll | mörk hy | sport</annotation>
 		<annotation cp="🤾🏿‍♀" type="tts">kvinna som spelar handboll: mörk hy</annotation>
-		<annotation cp="🤹🏻">balans | färdighet | jonglering | ljus hy | multitasking | person som jonglerar</annotation>
+		<annotation cp="🤹🏻">balans | färdighet | jonglera | jonglering | ljus hy | multitasking | person som jonglerar</annotation>
 		<annotation cp="🤹🏻" type="tts">person som jonglerar: ljus hy</annotation>
-		<annotation cp="🤹🏼">balans | färdighet | jonglering | mellanljus hy | multitasking | person som jonglerar</annotation>
+		<annotation cp="🤹🏼">balans | färdighet | jonglera | jonglering | mellanljus hy | multitasking | person som jonglerar</annotation>
 		<annotation cp="🤹🏼" type="tts">person som jonglerar: mellanljus hy</annotation>
-		<annotation cp="🤹🏽">balans | färdighet | jonglering | mellanfärgad hy | multitasking | person som jonglerar</annotation>
+		<annotation cp="🤹🏽">balans | färdighet | jonglera | jonglering | mellanfärgad hy | multitasking | person som jonglerar</annotation>
 		<annotation cp="🤹🏽" type="tts">person som jonglerar: mellanfärgad hy</annotation>
-		<annotation cp="🤹🏾">balans | färdighet | jonglering | mellanmörk hy | multitasking | person som jonglerar</annotation>
+		<annotation cp="🤹🏾">balans | färdighet | jonglera | jonglering | mellanmörk hy | multitasking | person som jonglerar</annotation>
 		<annotation cp="🤹🏾" type="tts">person som jonglerar: mellanmörk hy</annotation>
-		<annotation cp="🤹🏿">balans | färdighet | jonglering | mörk hy | multitasking | person som jonglerar</annotation>
+		<annotation cp="🤹🏿">balans | färdighet | jonglera | jonglering | mörk hy | multitasking | person som jonglerar</annotation>
 		<annotation cp="🤹🏿" type="tts">person som jonglerar: mörk hy</annotation>
-		<annotation cp="🤹🏻‍♂">jonglering | ljus hy | man | man som jonglerar | multitasking</annotation>
+		<annotation cp="🤹🏻‍♂">jonglera | jonglering | ljus hy | man | man som jonglerar | multitasking</annotation>
 		<annotation cp="🤹🏻‍♂" type="tts">man som jonglerar: ljus hy</annotation>
-		<annotation cp="🤹🏼‍♂">jonglering | man | man som jonglerar | mellanljus hy | multitasking</annotation>
+		<annotation cp="🤹🏼‍♂">jonglera | jonglering | man | man som jonglerar | mellanljus hy | multitasking</annotation>
 		<annotation cp="🤹🏼‍♂" type="tts">man som jonglerar: mellanljus hy</annotation>
-		<annotation cp="🤹🏽‍♂">jonglering | man | man som jonglerar | mellanfärgad hy | multitasking</annotation>
+		<annotation cp="🤹🏽‍♂">jonglera | jonglering | man | man som jonglerar | mellanfärgad hy | multitasking</annotation>
 		<annotation cp="🤹🏽‍♂" type="tts">man som jonglerar: mellanfärgad hy</annotation>
-		<annotation cp="🤹🏾‍♂">jonglering | man | man som jonglerar | mellanmörk hy | multitasking</annotation>
+		<annotation cp="🤹🏾‍♂">jonglera | jonglering | man | man som jonglerar | mellanmörk hy | multitasking</annotation>
 		<annotation cp="🤹🏾‍♂" type="tts">man som jonglerar: mellanmörk hy</annotation>
-		<annotation cp="🤹🏿‍♂">jonglering | man | man som jonglerar | mörk hy | multitasking</annotation>
+		<annotation cp="🤹🏿‍♂">jonglera | jonglering | man | man som jonglerar | mörk hy | multitasking</annotation>
 		<annotation cp="🤹🏿‍♂" type="tts">man som jonglerar: mörk hy</annotation>
 		<annotation cp="🤹🏻‍♀">jonglering | kvinna | kvinna jonglerar | kvinna som jonglerar | kvinnlig | ljus hy | multitask</annotation>
 		<annotation cp="🤹🏻‍♀" type="tts">kvinna som jonglerar: ljus hy</annotation>
@@ -3166,15 +3553,15 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🤹🏾‍♀" type="tts">kvinna som jonglerar: mellanmörk hy</annotation>
 		<annotation cp="🤹🏿‍♀">jonglering | kvinna | kvinna jonglerar | kvinna som jonglerar | kvinnlig | mörk hy | multitask</annotation>
 		<annotation cp="🤹🏿‍♀" type="tts">kvinna som jonglerar: mörk hy</annotation>
-		<annotation cp="🧘🏻">ljus hy | meditering | person i lotusposition | yoga</annotation>
+		<annotation cp="🧘🏻">ljus hy | meditation | person i lotusposition | person i lotusställning | yoga</annotation>
 		<annotation cp="🧘🏻" type="tts">person i lotusposition: ljus hy</annotation>
-		<annotation cp="🧘🏼">meditering | mellanljus hy | person i lotusposition | yoga</annotation>
+		<annotation cp="🧘🏼">meditation | mellanljus hy | person i lotusposition | person i lotusställning | yoga</annotation>
 		<annotation cp="🧘🏼" type="tts">person i lotusposition: mellanljus hy</annotation>
-		<annotation cp="🧘🏽">meditering | mellanfärgad hy | person i lotusposition | yoga</annotation>
+		<annotation cp="🧘🏽">meditation | mellanfärgad hy | person i lotusposition | person i lotusställning | yoga</annotation>
 		<annotation cp="🧘🏽" type="tts">person i lotusposition: mellanfärgad hy</annotation>
-		<annotation cp="🧘🏾">meditering | mellanmörk hy | person i lotusposition | yoga</annotation>
+		<annotation cp="🧘🏾">meditation | mellanmörk hy | person i lotusposition | person i lotusställning | yoga</annotation>
 		<annotation cp="🧘🏾" type="tts">person i lotusposition: mellanmörk hy</annotation>
-		<annotation cp="🧘🏿">meditering | mörk hy | person i lotusposition | yoga</annotation>
+		<annotation cp="🧘🏿">meditation | mörk hy | person i lotusposition | person i lotusställning | yoga</annotation>
 		<annotation cp="🧘🏿" type="tts">person i lotusposition: mörk hy</annotation>
 		<annotation cp="🧘🏻‍♂">ljus hy | man i lotusposition | meditering | yoga</annotation>
 		<annotation cp="🧘🏻‍♂" type="tts">man i lotusposition: ljus hy</annotation>
@@ -3206,15 +3593,15 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🛀🏾" type="tts">person som badar: mellanmörk hy</annotation>
 		<annotation cp="🛀🏿">bad | badar | badkar | mörk hy | person som badar</annotation>
 		<annotation cp="🛀🏿" type="tts">person som badar: mörk hy</annotation>
-		<annotation cp="🛌🏻">hotell | ljus hy | person i en säng | säng | sömn</annotation>
+		<annotation cp="🛌🏻">hotell | hotellnatt | ligger i sängen | ljus hy | person i en säng | säng | sömn | sömnig | sova | sova middag | trött</annotation>
 		<annotation cp="🛌🏻" type="tts">person i en säng: ljus hy</annotation>
-		<annotation cp="🛌🏼">hotell | mellanljus hy | person i en säng | säng | sömn</annotation>
+		<annotation cp="🛌🏼">hotell | hotellnatt | ligger i sängen | mellanljus hy | person i en säng | säng | sömn | sömnig | sova | sova middag | trött</annotation>
 		<annotation cp="🛌🏼" type="tts">person i en säng: mellanljus hy</annotation>
-		<annotation cp="🛌🏽">hotell | mellanfärgad hy | person i en säng | säng | sömn</annotation>
+		<annotation cp="🛌🏽">hotell | hotellnatt | ligger i sängen | mellanfärgad hy | person i en säng | säng | sömn | sömnig | sova | sova middag | trött</annotation>
 		<annotation cp="🛌🏽" type="tts">person i en säng: mellanfärgad hy</annotation>
-		<annotation cp="🛌🏾">hotell | mellanmörk hy | person i en säng | säng | sömn</annotation>
+		<annotation cp="🛌🏾">hotell | hotellnatt | ligger i sängen | mellanmörk hy | person i en säng | säng | sömn | sömnig | sova | sova middag | trött</annotation>
 		<annotation cp="🛌🏾" type="tts">person i en säng: mellanmörk hy</annotation>
-		<annotation cp="🛌🏿">hotell | mörk hy | person i en säng | säng | sömn</annotation>
+		<annotation cp="🛌🏿">hotell | hotellnatt | ligger i sängen | mörk hy | person i en säng | säng | sömn | sömnig | sova | sova middag | trött</annotation>
 		<annotation cp="🛌🏿" type="tts">person i en säng: mörk hy</annotation>
 		<annotation cp="🧑🏻‍🤝‍🧑🏻">håller hand | ljus hy | människor | par | personer som håller hand</annotation>
 		<annotation cp="🧑🏻‍🤝‍🧑🏻" type="tts">personer som håller hand: ljus hy</annotation>
@@ -3448,62 +3835,56 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👨‍❤‍👨" type="tts">par med hjärta: man, man</annotation>
 		<annotation cp="👩‍❤‍👩">hjärta | kärlek | kvinna | människor | par med hjärta</annotation>
 		<annotation cp="👩‍❤‍👩" type="tts">par med hjärta: kvinna, kvinna</annotation>
-		<annotation cp="👨‍👩‍👦">barn | familj | kvinna | mamma | man | människor | pappa | pojke</annotation>
+		<annotation cp="👨‍👩‍👦">barn | familj | kvinna | mamma | mamma och pappa och en son | man | människor | pappa | pojke</annotation>
 		<annotation cp="👨‍👩‍👦" type="tts">familj: man, kvinna, pojke</annotation>
-		<annotation cp="👨‍👩‍👧">barn | familj | flicka | kvinna | mamma | man | människor | pappa</annotation>
+		<annotation cp="👨‍👩‍👧">barn | familj | flicka | kvinna | mamma | mamma och pappa och en son | man | människor | pappa</annotation>
 		<annotation cp="👨‍👩‍👧" type="tts">familj: man, kvinna, flicka</annotation>
-		<annotation cp="👨‍👩‍👧‍👦">barn | familj | flicka | kvinna | mamma | man | människor | pappa | pojke</annotation>
+		<annotation cp="👨‍👩‍👧‍👦">barn | familj | flicka | kvinna | mamma | mamma och pappa och en son | man | människor | pappa | pojke</annotation>
 		<annotation cp="👨‍👩‍👧‍👦" type="tts">familj: man, kvinna, flicka, pojke</annotation>
-		<annotation cp="👨‍👩‍👦‍👦">barn | familj | kvinna | mamma | man | människor | pappa | pojke</annotation>
+		<annotation cp="👨‍👩‍👦‍👦">barn | familj | kvinna | mamma | mamma och pappa och en son | man | människor | pappa | pojke</annotation>
 		<annotation cp="👨‍👩‍👦‍👦" type="tts">familj: man, kvinna, pojke, pojke</annotation>
-		<annotation cp="👨‍👩‍👧‍👧">barn | familj | flicka | kvinna | mamma | man | människor | pappa</annotation>
+		<annotation cp="👨‍👩‍👧‍👧">barn | familj | flicka | kvinna | mamma | mamma och pappa och en son | man | människor | pappa</annotation>
 		<annotation cp="👨‍👩‍👧‍👧" type="tts">familj: man, kvinna, flicka, flicka</annotation>
-		<annotation cp="👨‍👨‍👦">barn | familj | mamma | man | människor | pappa | pojke</annotation>
+		<annotation cp="👨‍👨‍👦">barn | familj | mamma | mamma och pappa och en son | man | människor | pappa | pojke</annotation>
 		<annotation cp="👨‍👨‍👦" type="tts">familj: man, man, pojke</annotation>
-		<annotation cp="👨‍👨‍👧">barn | familj | flicka | mamma | man | människor | pappa</annotation>
+		<annotation cp="👨‍👨‍👧">barn | familj | flicka | mamma | mamma och pappa och en son | man | människor | pappa</annotation>
 		<annotation cp="👨‍👨‍👧" type="tts">familj: man, man, flicka</annotation>
-		<annotation cp="👨‍👨‍👧‍👦">barn | familj | flicka | mamma | man | människor | pappa | pojke</annotation>
+		<annotation cp="👨‍👨‍👧‍👦">barn | familj | flicka | mamma | mamma och pappa och en son | man | människor | pappa | pojke</annotation>
 		<annotation cp="👨‍👨‍👧‍👦" type="tts">familj: man, man, flicka, pojke</annotation>
-		<annotation cp="👨‍👨‍👦‍👦">barn | familj | mamma | man | människor | pappa | pojke</annotation>
+		<annotation cp="👨‍👨‍👦‍👦">barn | familj | mamma | mamma och pappa och en son | man | människor | pappa | pojke</annotation>
 		<annotation cp="👨‍👨‍👦‍👦" type="tts">familj: man, man, pojke, pojke</annotation>
-		<annotation cp="👨‍👨‍👧‍👧">barn | familj | flicka | mamma | man | människor | pappa</annotation>
+		<annotation cp="👨‍👨‍👧‍👧">barn | familj | flicka | mamma | mamma och pappa och en son | man | människor | pappa</annotation>
 		<annotation cp="👨‍👨‍👧‍👧" type="tts">familj: man, man, flicka, flicka</annotation>
-		<annotation cp="👩‍👩‍👦">barn | familj | kvinna | mamma | människor | pappa | pojke</annotation>
+		<annotation cp="👩‍👩‍👦">barn | familj | kvinna | mamma | mamma och pappa och en son | människor | pappa | pojke</annotation>
 		<annotation cp="👩‍👩‍👦" type="tts">familj: kvinna, kvinna, pojke</annotation>
-		<annotation cp="👩‍👩‍👧">barn | familj | flicka | kvinna | mamma | människor | pappa</annotation>
+		<annotation cp="👩‍👩‍👧">barn | familj | flicka | kvinna | mamma | mamma och pappa och en son | människor | pappa</annotation>
 		<annotation cp="👩‍👩‍👧" type="tts">familj: kvinna, kvinna, flicka</annotation>
-		<annotation cp="👩‍👩‍👧‍👦">barn | familj | flicka | kvinna | mamma | människor | pappa | pojke</annotation>
+		<annotation cp="👩‍👩‍👧‍👦">barn | familj | flicka | kvinna | mamma | mamma och pappa och en son | människor | pappa | pojke</annotation>
 		<annotation cp="👩‍👩‍👧‍👦" type="tts">familj: kvinna, kvinna, flicka, pojke</annotation>
-		<annotation cp="👩‍👩‍👦‍👦">barn | familj | kvinna | mamma | människor | pappa | pojke</annotation>
+		<annotation cp="👩‍👩‍👦‍👦">barn | familj | kvinna | mamma | mamma och pappa och en son | människor | pappa | pojke</annotation>
 		<annotation cp="👩‍👩‍👦‍👦" type="tts">familj: kvinna, kvinna, pojke, pojke</annotation>
-		<annotation cp="👩‍👩‍👧‍👧">barn | familj | flicka | kvinna | mamma | människor | pappa</annotation>
+		<annotation cp="👩‍👩‍👧‍👧">barn | familj | flicka | kvinna | mamma | mamma och pappa och en son | människor | pappa</annotation>
 		<annotation cp="👩‍👩‍👧‍👧" type="tts">familj: kvinna, kvinna, flicka, flicka</annotation>
-		<annotation cp="👨‍👦">barn | familj | mamma | man | människor | pappa | pojke</annotation>
+		<annotation cp="👨‍👦">barn | familj | mamma | mamma och pappa och en son | man | människor | pappa | pojke</annotation>
 		<annotation cp="👨‍👦" type="tts">familj: man, pojke</annotation>
-		<annotation cp="👨‍👦‍👦">barn | familj | mamma | man | människor | pappa | pojke</annotation>
+		<annotation cp="👨‍👦‍👦">barn | familj | mamma | mamma och pappa och en son | man | människor | pappa | pojke</annotation>
 		<annotation cp="👨‍👦‍👦" type="tts">familj: man, pojke, pojke</annotation>
-		<annotation cp="👨‍👧">barn | familj | flicka | mamma | man | människor | pappa</annotation>
+		<annotation cp="👨‍👧">barn | familj | flicka | mamma | mamma och pappa och en son | man | människor | pappa</annotation>
 		<annotation cp="👨‍👧" type="tts">familj: man, flicka</annotation>
-		<annotation cp="👨‍👧‍👦">barn | familj | flicka | mamma | man | människor | pappa | pojke</annotation>
+		<annotation cp="👨‍👧‍👦">barn | familj | flicka | mamma | mamma och pappa och en son | man | människor | pappa | pojke</annotation>
 		<annotation cp="👨‍👧‍👦" type="tts">familj: man, flicka, pojke</annotation>
-		<annotation cp="👨‍👧‍👧">barn | familj | flicka | mamma | man | människor | pappa</annotation>
+		<annotation cp="👨‍👧‍👧">barn | familj | flicka | mamma | mamma och pappa och en son | man | människor | pappa</annotation>
 		<annotation cp="👨‍👧‍👧" type="tts">familj: man, flicka, flicka</annotation>
-		<annotation cp="👩‍👦">barn | familj | kvinna | mamma | människor | pappa | pojke</annotation>
+		<annotation cp="👩‍👦">barn | familj | kvinna | mamma | mamma och pappa och en son | människor | pappa | pojke</annotation>
 		<annotation cp="👩‍👦" type="tts">familj: kvinna, pojke</annotation>
-		<annotation cp="👩‍👦‍👦">barn | familj | kvinna | mamma | människor | pappa | pojke</annotation>
+		<annotation cp="👩‍👦‍👦">barn | familj | kvinna | mamma | mamma och pappa och en son | människor | pappa | pojke</annotation>
 		<annotation cp="👩‍👦‍👦" type="tts">familj: kvinna, pojke, pojke</annotation>
-		<annotation cp="👩‍👧">barn | familj | flicka | kvinna | mamma | människor | pappa</annotation>
+		<annotation cp="👩‍👧">barn | familj | flicka | kvinna | mamma | mamma och pappa och en son | människor | pappa</annotation>
 		<annotation cp="👩‍👧" type="tts">familj: kvinna, flicka</annotation>
-		<annotation cp="👩‍👧‍👦">barn | familj | flicka | kvinna | mamma | människor | pappa | pojke</annotation>
+		<annotation cp="👩‍👧‍👦">barn | familj | flicka | kvinna | mamma | mamma och pappa och en son | människor | pappa | pojke</annotation>
 		<annotation cp="👩‍👧‍👦" type="tts">familj: kvinna, flicka, pojke</annotation>
-		<annotation cp="👩‍👧‍👧">barn | familj | flicka | kvinna | mamma | människor | pappa</annotation>
+		<annotation cp="👩‍👧‍👧">barn | familj | flicka | kvinna | mamma | mamma och pappa och en son | människor | pappa</annotation>
 		<annotation cp="👩‍👧‍👧" type="tts">familj: kvinna, flicka, flicka</annotation>
-		<annotation cp="#⃣">keycap</annotation>
-		<annotation cp="#⃣" type="tts">keycap: #</annotation>
-		<annotation cp="*⃣">keycap</annotation>
-		<annotation cp="*⃣" type="tts">keycap: *</annotation>
-		<annotation cp="🔟">keycap</annotation>
-		<annotation cp="🔟" type="tts">keycap: 10</annotation>
 		<annotation cp="🇦🇨">flagga</annotation>
 		<annotation cp="🇦🇨" type="tts">flagga: Ascension</annotation>
 		<annotation cp="🇦🇩">flagga</annotation>
@@ -3577,7 +3958,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🇧🇼">flagga</annotation>
 		<annotation cp="🇧🇼" type="tts">flagga: Botswana</annotation>
 		<annotation cp="🇧🇾">flagga</annotation>
-		<annotation cp="🇧🇾" type="tts">flagga: Vitryssland</annotation>
+		<annotation cp="🇧🇾" type="tts">flagga: Belarus</annotation>
 		<annotation cp="🇧🇿">flagga</annotation>
 		<annotation cp="🇧🇿" type="tts">flagga: Belize</annotation>
 		<annotation cp="🇨🇦">flagga</annotation>
@@ -3593,7 +3974,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🇨🇭">flagga</annotation>
 		<annotation cp="🇨🇭" type="tts">flagga: Schweiz</annotation>
 		<annotation cp="🇨🇮">flagga</annotation>
-		<annotation cp="🇨🇮" type="tts">flagga: Côte d’Ivoire</annotation>
+		<annotation cp="🇨🇮" type="tts">flagga: Elfenbenskusten</annotation>
 		<annotation cp="🇨🇰">flagga</annotation>
 		<annotation cp="🇨🇰" type="tts">flagga: Cooköarna</annotation>
 		<annotation cp="🇨🇱">flagga</annotation>
@@ -3941,7 +4322,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🇸🇾">flagga</annotation>
 		<annotation cp="🇸🇾" type="tts">flagga: Syrien</annotation>
 		<annotation cp="🇸🇿">flagga</annotation>
-		<annotation cp="🇸🇿" type="tts">flagga: Swaziland</annotation>
+		<annotation cp="🇸🇿" type="tts">flagga: Eswatini</annotation>
 		<annotation cp="🇹🇦">flagga</annotation>
 		<annotation cp="🇹🇦" type="tts">flagga: Tristan da Cunha</annotation>
 		<annotation cp="🇹🇨">flagga</annotation>
@@ -4034,7 +4415,6 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="៛" type="tts">kambodjansk riel</annotation>
 		<annotation cp="₡" type="tts">costarikansk colón</annotation>
 		<annotation cp="₦" type="tts">nigeriansk naira</annotation>
-		<annotation cp="₧" type="tts">spansk peseta</annotation>
 		<annotation cp="₪" type="tts">israelisk ny shekel</annotation>
 		<annotation cp="₫" type="tts">vietnamesisk dong</annotation>
 		<annotation cp="₭" type="tts">laotisk kip</annotation>
@@ -4046,25 +4426,6 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="₺" type="tts">turkisk lira</annotation>
 		<annotation cp="₼" type="tts">azerbajdzjansk manat</annotation>
 		<annotation cp="₾" type="tts">georgisk lari</annotation>
-		<annotation cp="0⃣">keycap</annotation>
-		<annotation cp="0⃣" type="tts">keycap: 0</annotation>
-		<annotation cp="1⃣">keycap</annotation>
-		<annotation cp="1⃣" type="tts">keycap: 1</annotation>
-		<annotation cp="2⃣">keycap</annotation>
-		<annotation cp="2⃣" type="tts">keycap: 2</annotation>
-		<annotation cp="3⃣">keycap</annotation>
-		<annotation cp="3⃣" type="tts">keycap: 3</annotation>
-		<annotation cp="4⃣">keycap</annotation>
-		<annotation cp="4⃣" type="tts">keycap: 4</annotation>
-		<annotation cp="5⃣">keycap</annotation>
-		<annotation cp="5⃣" type="tts">keycap: 5</annotation>
-		<annotation cp="6⃣">keycap</annotation>
-		<annotation cp="6⃣" type="tts">keycap: 6</annotation>
-		<annotation cp="7⃣">keycap</annotation>
-		<annotation cp="7⃣" type="tts">keycap: 7</annotation>
-		<annotation cp="8⃣">keycap</annotation>
-		<annotation cp="8⃣" type="tts">keycap: 8</annotation>
-		<annotation cp="9⃣">keycap</annotation>
-		<annotation cp="9⃣" type="tts">keycap: 9</annotation>
+		<annotation cp="₧" type="tts">spansk peseta</annotation>
 	</annotations>
 </ldml>

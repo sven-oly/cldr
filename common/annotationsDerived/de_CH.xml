@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE ldml SYSTEM "../../common/dtd/ldml.dtd">
-<!-- Copyright © 1991-2020 Unicode, Inc.
+<!-- Copyright © 1991-2024 Unicode, Inc.
 For terms of use, see http://www.unicode.org/copyright.html
-Unicode and the Unicode Logo are registered trademarks of Unicode, Inc. in the U.S. and other countries.
+SPDX-License-Identifier: Unicode-3.0
 CLDR data files are interpreted according to the LDML specification (http://unicode.org/reports/tr35/)
 
 Derived short names and annotations, using GenerateDerivedAnnotations.java. See warnings in /annotations/ file.
@@ -24,6 +24,26 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🖖🏾" type="tts">Vulkanischer Gruss: mitteldunkle Hautfarbe</annotation>
 		<annotation cp="🖖🏿">dunkle Hautfarbe | Finger | Hand | Spock | Vulkanier(in) | vulkanisch | Vulkanischer Gruss</annotation>
 		<annotation cp="🖖🏿" type="tts">Vulkanischer Gruss: dunkle Hautfarbe</annotation>
+		<annotation cp="🫷🏻">drücken | helle Hautfarbe | High Five | nach links | nach links drückende Hand | nein | Stopp | warten</annotation>
+		<annotation cp="🫷🏻" type="tts">nach links drückende Hand: helle Hautfarbe</annotation>
+		<annotation cp="🫷🏼">drücken | High Five | mittelhelle Hautfarbe | nach links | nach links drückende Hand | nein | Stopp | warten</annotation>
+		<annotation cp="🫷🏼" type="tts">nach links drückende Hand: mittelhelle Hautfarbe</annotation>
+		<annotation cp="🫷🏽">drücken | High Five | mittlere Hautfarbe | nach links | nach links drückende Hand | nein | Stopp | warten</annotation>
+		<annotation cp="🫷🏽" type="tts">nach links drückende Hand: mittlere Hautfarbe</annotation>
+		<annotation cp="🫷🏾">drücken | High Five | mitteldunkle Hautfarbe | nach links | nach links drückende Hand | nein | Stopp | warten</annotation>
+		<annotation cp="🫷🏾" type="tts">nach links drückende Hand: mitteldunkle Hautfarbe</annotation>
+		<annotation cp="🫷🏿">drücken | dunkle Hautfarbe | High Five | nach links | nach links drückende Hand | nein | Stopp | warten</annotation>
+		<annotation cp="🫷🏿" type="tts">nach links drückende Hand: dunkle Hautfarbe</annotation>
+		<annotation cp="🫸🏻">drücken | helle Hautfarbe | High Five | nach rechts | nach rechts drückende Hand | nein | Stopp | warten</annotation>
+		<annotation cp="🫸🏻" type="tts">nach rechts drückende Hand: helle Hautfarbe</annotation>
+		<annotation cp="🫸🏼">drücken | High Five | mittelhelle Hautfarbe | nach rechts | nach rechts drückende Hand | nein | Stopp | warten</annotation>
+		<annotation cp="🫸🏼" type="tts">nach rechts drückende Hand: mittelhelle Hautfarbe</annotation>
+		<annotation cp="🫸🏽">drücken | High Five | mittlere Hautfarbe | nach rechts | nach rechts drückende Hand | nein | Stopp | warten</annotation>
+		<annotation cp="🫸🏽" type="tts">nach rechts drückende Hand: mittlere Hautfarbe</annotation>
+		<annotation cp="🫸🏾">drücken | High Five | mitteldunkle Hautfarbe | nach rechts | nach rechts drückende Hand | nein | Stopp | warten</annotation>
+		<annotation cp="🫸🏾" type="tts">nach rechts drückende Hand: mitteldunkle Hautfarbe</annotation>
+		<annotation cp="🫸🏿">drücken | dunkle Hautfarbe | High Five | nach rechts | nach rechts drückende Hand | nein | Stopp | warten</annotation>
+		<annotation cp="🫸🏿" type="tts">nach rechts drückende Hand: dunkle Hautfarbe</annotation>
 		<annotation cp="🤘🏻">Finger | Hand | helle Hautfarbe | Hörner | Rock | Teufel | Teufelsgruss</annotation>
 		<annotation cp="🤘🏻" type="tts">Teufelsgruss: helle Hautfarbe</annotation>
 		<annotation cp="🤘🏼">Finger | Hand | Hörner | mittelhelle Hautfarbe | Rock | Teufel | Teufelsgruss</annotation>
@@ -34,6 +54,21 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🤘🏾" type="tts">Teufelsgruss: mitteldunkle Hautfarbe</annotation>
 		<annotation cp="🤘🏿">dunkle Hautfarbe | Finger | Hand | Hörner | Rock | Teufel | Teufelsgruss</annotation>
 		<annotation cp="🤘🏿" type="tts">Teufelsgruss: dunkle Hautfarbe</annotation>
+		<annotation cp="👏🏻">applaudieren | Applaus | Beifall | Gratulation | grossartig | gut | Hand | Hände | helle Hautfarbe | Klatschen | klatschend | toll</annotation>
+		<annotation cp="👏🏼">applaudieren | Applaus | Beifall | Gratulation | grossartig | gut | Hand | Hände | Klatschen | klatschend | mittelhelle Hautfarbe | toll</annotation>
+		<annotation cp="👏🏽">applaudieren | Applaus | Beifall | Gratulation | grossartig | gut | Hand | Hände | Klatschen | klatschend | mittlere Hautfarbe | toll</annotation>
+		<annotation cp="👏🏾">applaudieren | Applaus | Beifall | Gratulation | grossartig | gut | Hand | Hände | Klatschen | klatschend | mitteldunkle Hautfarbe | toll</annotation>
+		<annotation cp="👏🏿">applaudieren | Applaus | Beifall | dunkle Hautfarbe | Gratulation | grossartig | gut | Hand | Hände | Klatschen | klatschend | toll</annotation>
+		<annotation cp="🙏🏻">beten | betende Hände | bitten | danken | Gebet | grüssen | helle Hautfarbe | zusammengelegte Handflächen</annotation>
+		<annotation cp="🙏🏼">beten | betende Hände | bitten | danken | Gebet | grüssen | mittelhelle Hautfarbe | zusammengelegte Handflächen</annotation>
+		<annotation cp="🙏🏽">beten | betende Hände | bitten | danken | Gebet | grüssen | mittlere Hautfarbe | zusammengelegte Handflächen</annotation>
+		<annotation cp="🙏🏾">beten | betende Hände | bitten | danken | Gebet | grüssen | mitteldunkle Hautfarbe | zusammengelegte Handflächen</annotation>
+		<annotation cp="🙏🏿">beten | betende Hände | bitten | danken | dunkle Hautfarbe | Gebet | grüssen | zusammengelegte Handflächen</annotation>
+		<annotation cp="🦵🏻">Bein | Extremität | Fuss | gebeugtes Knie | Gliedmasse | helle Hautfarbe | Knie | Körperglied | Körperteil | Treten | Tritt</annotation>
+		<annotation cp="🦵🏼">Bein | Extremität | Fuss | gebeugtes Knie | Gliedmasse | Knie | Körperglied | Körperteil | mittelhelle Hautfarbe | Treten | Tritt</annotation>
+		<annotation cp="🦵🏽">Bein | Extremität | Fuss | gebeugtes Knie | Gliedmasse | Knie | Körperglied | Körperteil | mittlere Hautfarbe | Treten | Tritt</annotation>
+		<annotation cp="🦵🏾">Bein | Extremität | Fuss | gebeugtes Knie | Gliedmasse | Knie | Körperglied | Körperteil | mitteldunkle Hautfarbe | Treten | Tritt</annotation>
+		<annotation cp="🦵🏿">Bein | dunkle Hautfarbe | Extremität | Fuss | gebeugtes Knie | Gliedmasse | Knie | Körperglied | Körperteil | Treten | Tritt</annotation>
 		<annotation cp="🦶🏻">Fuss | helle Hautfarbe | Kick | stampfen</annotation>
 		<annotation cp="🦶🏻" type="tts">Fuss: helle Hautfarbe</annotation>
 		<annotation cp="🦶🏼">Fuss | Kick | mittelhelle Hautfarbe | stampfen</annotation>
@@ -44,67 +79,127 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🦶🏾" type="tts">Fuss: mitteldunkle Hautfarbe</annotation>
 		<annotation cp="🦶🏿">dunkle Hautfarbe | Fuss | Kick | stampfen</annotation>
 		<annotation cp="🦶🏿" type="tts">Fuss: dunkle Hautfarbe</annotation>
-		<annotation cp="🧑‍🦳">erwachsene Person | Erwachsener | geschlechtsneutral | Mensch | Person | weisses Haar</annotation>
-		<annotation cp="🧑‍🦳" type="tts">Erwachsener: weisses Haar</annotation>
-		<annotation cp="🧑🏻‍🦳">erwachsene Person | Erwachsener | geschlechtsneutral | helle Hautfarbe | Mensch | Person | weisses Haar</annotation>
-		<annotation cp="🧑🏻‍🦳" type="tts">Erwachsener: helle Hautfarbe, weisses Haar</annotation>
-		<annotation cp="🧑🏼‍🦳">erwachsene Person | Erwachsener | geschlechtsneutral | Mensch | mittelhelle Hautfarbe | Person | weisses Haar</annotation>
-		<annotation cp="🧑🏼‍🦳" type="tts">Erwachsener: mittelhelle Hautfarbe, weisses Haar</annotation>
-		<annotation cp="🧑🏽‍🦳">erwachsene Person | Erwachsener | geschlechtsneutral | Mensch | mittlere Hautfarbe | Person | weisses Haar</annotation>
-		<annotation cp="🧑🏽‍🦳" type="tts">Erwachsener: mittlere Hautfarbe, weisses Haar</annotation>
-		<annotation cp="🧑🏾‍🦳">erwachsene Person | Erwachsener | geschlechtsneutral | Mensch | mitteldunkle Hautfarbe | Person | weisses Haar</annotation>
-		<annotation cp="🧑🏾‍🦳" type="tts">Erwachsener: mitteldunkle Hautfarbe, weisses Haar</annotation>
-		<annotation cp="🧑🏿‍🦳">dunkle Hautfarbe | erwachsene Person | Erwachsener | geschlechtsneutral | Mensch | Person | weisses Haar</annotation>
-		<annotation cp="🧑🏿‍🦳" type="tts">Erwachsener: dunkle Hautfarbe, weisses Haar</annotation>
-		<annotation cp="👨‍🦳">Mann | weisses Haar</annotation>
+		<annotation cp="🧑‍🦳">erwachsen | erwachsene Person | Mensch | Person | weisses Haar</annotation>
+		<annotation cp="🧑‍🦳" type="tts">Person: weisses Haar</annotation>
+		<annotation cp="🧑🏻‍🦳">erwachsen | erwachsene Person | helle Hautfarbe | Mensch | Person | weisses Haar</annotation>
+		<annotation cp="🧑🏻‍🦳" type="tts">Person: helle Hautfarbe, weisses Haar</annotation>
+		<annotation cp="🧑🏼‍🦳">erwachsen | erwachsene Person | Mensch | mittelhelle Hautfarbe | Person | weisses Haar</annotation>
+		<annotation cp="🧑🏼‍🦳" type="tts">Person: mittelhelle Hautfarbe, weisses Haar</annotation>
+		<annotation cp="🧑🏽‍🦳">erwachsen | erwachsene Person | Mensch | mittlere Hautfarbe | Person | weisses Haar</annotation>
+		<annotation cp="🧑🏽‍🦳" type="tts">Person: mittlere Hautfarbe, weisses Haar</annotation>
+		<annotation cp="🧑🏾‍🦳">erwachsen | erwachsene Person | Mensch | mitteldunkle Hautfarbe | Person | weisses Haar</annotation>
+		<annotation cp="🧑🏾‍🦳" type="tts">Person: mitteldunkle Hautfarbe, weisses Haar</annotation>
+		<annotation cp="🧑🏿‍🦳">dunkle Hautfarbe | erwachsen | erwachsene Person | Mensch | Person | weisses Haar</annotation>
+		<annotation cp="🧑🏿‍🦳" type="tts">Person: dunkle Hautfarbe, weisses Haar</annotation>
+		<annotation cp="👨‍🦳">erwachsen | Gesicht | Mann | weisses Haar</annotation>
 		<annotation cp="👨‍🦳" type="tts">Mann: weisses Haar</annotation>
-		<annotation cp="👨🏻‍🦳">helle Hautfarbe | Mann | weisses Haar</annotation>
+		<annotation cp="👨🏻‍🦳">erwachsen | Gesicht | helle Hautfarbe | Mann | weisses Haar</annotation>
 		<annotation cp="👨🏻‍🦳" type="tts">Mann: helle Hautfarbe, weisses Haar</annotation>
-		<annotation cp="👨🏼‍🦳">Mann | mittelhelle Hautfarbe | weisses Haar</annotation>
+		<annotation cp="👨🏼‍🦳">erwachsen | Gesicht | Mann | mittelhelle Hautfarbe | weisses Haar</annotation>
 		<annotation cp="👨🏼‍🦳" type="tts">Mann: mittelhelle Hautfarbe, weisses Haar</annotation>
-		<annotation cp="👨🏽‍🦳">Mann | mittlere Hautfarbe | weisses Haar</annotation>
+		<annotation cp="👨🏽‍🦳">erwachsen | Gesicht | Mann | mittlere Hautfarbe | weisses Haar</annotation>
 		<annotation cp="👨🏽‍🦳" type="tts">Mann: mittlere Hautfarbe, weisses Haar</annotation>
-		<annotation cp="👨🏾‍🦳">Mann | mitteldunkle Hautfarbe | weisses Haar</annotation>
+		<annotation cp="👨🏾‍🦳">erwachsen | Gesicht | Mann | mitteldunkle Hautfarbe | weisses Haar</annotation>
 		<annotation cp="👨🏾‍🦳" type="tts">Mann: mitteldunkle Hautfarbe, weisses Haar</annotation>
-		<annotation cp="👨🏿‍🦳">dunkle Hautfarbe | Mann | weisses Haar</annotation>
+		<annotation cp="👨🏿‍🦳">dunkle Hautfarbe | erwachsen | Gesicht | Mann | weisses Haar</annotation>
 		<annotation cp="👨🏿‍🦳" type="tts">Mann: dunkle Hautfarbe, weisses Haar</annotation>
-		<annotation cp="👩‍🦳">Frau | weisses Haar</annotation>
+		<annotation cp="👩‍🦳">erwachsen | Frau | Gesicht | weisses Haar</annotation>
 		<annotation cp="👩‍🦳" type="tts">Frau: weisses Haar</annotation>
-		<annotation cp="👩🏻‍🦳">Frau | helle Hautfarbe | weisses Haar</annotation>
+		<annotation cp="👩🏻‍🦳">erwachsen | Frau | Gesicht | helle Hautfarbe | weisses Haar</annotation>
 		<annotation cp="👩🏻‍🦳" type="tts">Frau: helle Hautfarbe, weisses Haar</annotation>
-		<annotation cp="👩🏼‍🦳">Frau | mittelhelle Hautfarbe | weisses Haar</annotation>
+		<annotation cp="👩🏼‍🦳">erwachsen | Frau | Gesicht | mittelhelle Hautfarbe | weisses Haar</annotation>
 		<annotation cp="👩🏼‍🦳" type="tts">Frau: mittelhelle Hautfarbe, weisses Haar</annotation>
-		<annotation cp="👩🏽‍🦳">Frau | mittlere Hautfarbe | weisses Haar</annotation>
+		<annotation cp="👩🏽‍🦳">erwachsen | Frau | Gesicht | mittlere Hautfarbe | weisses Haar</annotation>
 		<annotation cp="👩🏽‍🦳" type="tts">Frau: mittlere Hautfarbe, weisses Haar</annotation>
-		<annotation cp="👩🏾‍🦳">Frau | mitteldunkle Hautfarbe | weisses Haar</annotation>
+		<annotation cp="👩🏾‍🦳">erwachsen | Frau | Gesicht | mitteldunkle Hautfarbe | weisses Haar</annotation>
 		<annotation cp="👩🏾‍🦳" type="tts">Frau: mitteldunkle Hautfarbe, weisses Haar</annotation>
-		<annotation cp="👩🏿‍🦳">dunkle Hautfarbe | Frau | weisses Haar</annotation>
+		<annotation cp="👩🏿‍🦳">dunkle Hautfarbe | erwachsen | Frau | Gesicht | weisses Haar</annotation>
 		<annotation cp="👩🏿‍🦳" type="tts">Frau: dunkle Hautfarbe, weisses Haar</annotation>
-		<annotation cp="🧑🏻‍🔧">helle Hautfarbe | Mechaniker(in)</annotation>
-		<annotation cp="🧑🏼‍🔧">Mechaniker(in) | mittelhelle Hautfarbe</annotation>
-		<annotation cp="🧑🏽‍🔧">Mechaniker(in) | mittlere Hautfarbe</annotation>
-		<annotation cp="🧑🏾‍🔧">Mechaniker(in) | mitteldunkle Hautfarbe</annotation>
-		<annotation cp="🧑🏿‍🔧">dunkle Hautfarbe | Mechaniker(in)</annotation>
-		<annotation cp="🧑🏻‍🏭">Fabrikarbeiter(in) | helle Hautfarbe</annotation>
-		<annotation cp="🧑🏼‍🏭">Fabrikarbeiter(in) | mittelhelle Hautfarbe</annotation>
-		<annotation cp="🧑🏽‍🏭">Fabrikarbeiter(in) | mittlere Hautfarbe</annotation>
-		<annotation cp="🧑🏾‍🏭">Fabrikarbeiter(in) | mitteldunkle Hautfarbe</annotation>
-		<annotation cp="🧑🏿‍🏭">dunkle Hautfarbe | Fabrikarbeiter(in)</annotation>
-		<annotation cp="🧑🏻‍💼">Architekt | Büroangestellte(r) | Business | helle Hautfarbe | Manager</annotation>
-		<annotation cp="🧑🏼‍💼">Architekt | Büroangestellte(r) | Business | Manager | mittelhelle Hautfarbe</annotation>
-		<annotation cp="🧑🏽‍💼">Architekt | Büroangestellte(r) | Business | Manager | mittlere Hautfarbe</annotation>
-		<annotation cp="🧑🏾‍💼">Architekt | Büroangestellte(r) | Business | Manager | mitteldunkle Hautfarbe</annotation>
-		<annotation cp="🧑🏿‍💼">Architekt | Büroangestellte(r) | Business | dunkle Hautfarbe | Manager</annotation>
-		<annotation cp="🧑🏻‍🔬">helle Hautfarbe | Wissenschaftler(in)</annotation>
-		<annotation cp="🧑🏼‍🔬">mittelhelle Hautfarbe | Wissenschaftler(in)</annotation>
-		<annotation cp="🧑🏽‍🔬">mittlere Hautfarbe | Wissenschaftler(in)</annotation>
-		<annotation cp="🧑🏾‍🔬">mitteldunkle Hautfarbe | Wissenschaftler(in)</annotation>
-		<annotation cp="🧑🏿‍🔬">dunkle Hautfarbe | Wissenschaftler(in)</annotation>
-		<annotation cp="🥷🏻">helle Hautfarbe | Ninja</annotation>
-		<annotation cp="🥷🏼">mittelhelle Hautfarbe | Ninja</annotation>
-		<annotation cp="🥷🏽">mittlere Hautfarbe | Ninja</annotation>
-		<annotation cp="🥷🏾">mitteldunkle Hautfarbe | Ninja</annotation>
-		<annotation cp="🥷🏿">dunkle Hautfarbe | Ninja</annotation>
+		<annotation cp="🧓🏻">alt | älter | erwachsen | Grosseltern | helle Hautfarbe | Mensch | Person | weise</annotation>
+		<annotation cp="🧓🏼">alt | älter | erwachsen | Grosseltern | Mensch | mittelhelle Hautfarbe | Person | weise</annotation>
+		<annotation cp="🧓🏽">alt | älter | erwachsen | Grosseltern | Mensch | mittlere Hautfarbe | Person | weise</annotation>
+		<annotation cp="🧓🏾">alt | älter | erwachsen | Grosseltern | Mensch | mitteldunkle Hautfarbe | Person | weise</annotation>
+		<annotation cp="🧓🏿">alt | älter | dunkle Hautfarbe | erwachsen | Grosseltern | Mensch | Person | weise</annotation>
+		<annotation cp="👴🏻">älterer Mann | Älterer Mann | Gesicht | Glatze | Grossvater | helle Hautfarbe | Mann | Opa | Senior</annotation>
+		<annotation cp="👴🏼">älterer Mann | Älterer Mann | Gesicht | Glatze | Grossvater | Mann | mittelhelle Hautfarbe | Opa | Senior</annotation>
+		<annotation cp="👴🏽">älterer Mann | Älterer Mann | Gesicht | Glatze | Grossvater | Mann | mittlere Hautfarbe | Opa | Senior</annotation>
+		<annotation cp="👴🏾">älterer Mann | Älterer Mann | Gesicht | Glatze | Grossvater | Mann | mitteldunkle Hautfarbe | Opa | Senior</annotation>
+		<annotation cp="👴🏿">älterer Mann | Älterer Mann | dunkle Hautfarbe | Gesicht | Glatze | Grossvater | Mann | Opa | Senior</annotation>
+		<annotation cp="👵🏻">ältere Frau | Ältere Frau | Brille | Dutt | Frau | Gesicht | Grossmutter | helle Hautfarbe | Oma | Seniorin</annotation>
+		<annotation cp="👵🏼">ältere Frau | Ältere Frau | Brille | Dutt | Frau | Gesicht | Grossmutter | mittelhelle Hautfarbe | Oma | Seniorin</annotation>
+		<annotation cp="👵🏽">ältere Frau | Ältere Frau | Brille | Dutt | Frau | Gesicht | Grossmutter | mittlere Hautfarbe | Oma | Seniorin</annotation>
+		<annotation cp="👵🏾">ältere Frau | Ältere Frau | Brille | Dutt | Frau | Gesicht | Grossmutter | mitteldunkle Hautfarbe | Oma | Seniorin</annotation>
+		<annotation cp="👵🏿">ältere Frau | Ältere Frau | Brille | dunkle Hautfarbe | Dutt | Frau | Gesicht | Grossmutter | Oma | Seniorin</annotation>
+		<annotation cp="🙅🏻">ausschliessen | falsch | Geste | helle Hautfarbe | keine Chance | Nein | Person | Person mit überkreuzten Armen | verbieten | verboten | verschränkte Arme | x</annotation>
+		<annotation cp="🙅🏼">ausschliessen | falsch | Geste | keine Chance | mittelhelle Hautfarbe | Nein | Person | Person mit überkreuzten Armen | verbieten | verboten | verschränkte Arme | x</annotation>
+		<annotation cp="🙅🏽">ausschliessen | falsch | Geste | keine Chance | mittlere Hautfarbe | Nein | Person | Person mit überkreuzten Armen | verbieten | verboten | verschränkte Arme | x</annotation>
+		<annotation cp="🙅🏾">ausschliessen | falsch | Geste | keine Chance | mitteldunkle Hautfarbe | Nein | Person | Person mit überkreuzten Armen | verbieten | verboten | verschränkte Arme | x</annotation>
+		<annotation cp="🙅🏿">ausschliessen | dunkle Hautfarbe | falsch | Geste | keine Chance | Nein | Person | Person mit überkreuzten Armen | verbieten | verboten | verschränkte Arme | x</annotation>
+		<annotation cp="🙋🏻">erhobener Arm | Hand heben | Hand hoch | helle Hautfarbe | ich weiss | nimm mich | Person | Person mit erhobenem Arm | Siegerpose</annotation>
+		<annotation cp="🙋🏼">erhobener Arm | Hand heben | Hand hoch | ich weiss | mittelhelle Hautfarbe | nimm mich | Person | Person mit erhobenem Arm | Siegerpose</annotation>
+		<annotation cp="🙋🏽">erhobener Arm | Hand heben | Hand hoch | ich weiss | mittlere Hautfarbe | nimm mich | Person | Person mit erhobenem Arm | Siegerpose</annotation>
+		<annotation cp="🙋🏾">erhobener Arm | Hand heben | Hand hoch | ich weiss | mitteldunkle Hautfarbe | nimm mich | Person | Person mit erhobenem Arm | Siegerpose</annotation>
+		<annotation cp="🙋🏿">dunkle Hautfarbe | erhobener Arm | Hand heben | Hand hoch | ich weiss | nimm mich | Person | Person mit erhobenem Arm | Siegerpose</annotation>
+		<annotation cp="🤷🏻">egal | gleichgültig | helle Hautfarbe | ich weiss nicht | keine Ahnung | Person | Schultern zucken | schulterzuckende Person | weiss nicht | wer weiss | Zweifel</annotation>
+		<annotation cp="🤷🏼">egal | gleichgültig | ich weiss nicht | keine Ahnung | mittelhelle Hautfarbe | Person | Schultern zucken | schulterzuckende Person | weiss nicht | wer weiss | Zweifel</annotation>
+		<annotation cp="🤷🏽">egal | gleichgültig | ich weiss nicht | keine Ahnung | mittlere Hautfarbe | Person | Schultern zucken | schulterzuckende Person | weiss nicht | wer weiss | Zweifel</annotation>
+		<annotation cp="🤷🏾">egal | gleichgültig | ich weiss nicht | keine Ahnung | mitteldunkle Hautfarbe | Person | Schultern zucken | schulterzuckende Person | weiss nicht | wer weiss | Zweifel</annotation>
+		<annotation cp="🤷🏿">dunkle Hautfarbe | egal | gleichgültig | ich weiss nicht | keine Ahnung | Person | Schultern zucken | schulterzuckende Person | weiss nicht | wer weiss | Zweifel</annotation>
+		<annotation cp="🤷🏻‍♂">egal | gleichgültig | helle Hautfarbe | ich weiss nicht | keine Ahnung | Mann | Person | Schultern zucken | schulterzuckender Mann | weiss nicht | wer weiss | Zweifel</annotation>
+		<annotation cp="🤷🏼‍♂">egal | gleichgültig | ich weiss nicht | keine Ahnung | Mann | mittelhelle Hautfarbe | Person | Schultern zucken | schulterzuckender Mann | weiss nicht | wer weiss | Zweifel</annotation>
+		<annotation cp="🤷🏽‍♂">egal | gleichgültig | ich weiss nicht | keine Ahnung | Mann | mittlere Hautfarbe | Person | Schultern zucken | schulterzuckender Mann | weiss nicht | wer weiss | Zweifel</annotation>
+		<annotation cp="🤷🏾‍♂">egal | gleichgültig | ich weiss nicht | keine Ahnung | Mann | mitteldunkle Hautfarbe | Person | Schultern zucken | schulterzuckender Mann | weiss nicht | wer weiss | Zweifel</annotation>
+		<annotation cp="🤷🏿‍♂">dunkle Hautfarbe | egal | gleichgültig | ich weiss nicht | keine Ahnung | Mann | Person | Schultern zucken | schulterzuckender Mann | weiss nicht | wer weiss | Zweifel</annotation>
+		<annotation cp="🤷🏻‍♀">egal | Frau | gleichgültig | helle Hautfarbe | ich weiss nicht | keine Ahnung | Person | Schultern zucken | schulterzuckende Frau | weiss nicht | Zweifel</annotation>
+		<annotation cp="🤷🏼‍♀">egal | Frau | gleichgültig | ich weiss nicht | keine Ahnung | mittelhelle Hautfarbe | Person | Schultern zucken | schulterzuckende Frau | weiss nicht | Zweifel</annotation>
+		<annotation cp="🤷🏽‍♀">egal | Frau | gleichgültig | ich weiss nicht | keine Ahnung | mittlere Hautfarbe | Person | Schultern zucken | schulterzuckende Frau | weiss nicht | Zweifel</annotation>
+		<annotation cp="🤷🏾‍♀">egal | Frau | gleichgültig | ich weiss nicht | keine Ahnung | mitteldunkle Hautfarbe | Person | Schultern zucken | schulterzuckende Frau | weiss nicht | Zweifel</annotation>
+		<annotation cp="🤷🏿‍♀">dunkle Hautfarbe | egal | Frau | gleichgültig | ich weiss nicht | keine Ahnung | Person | Schultern zucken | schulterzuckende Frau | weiss nicht | Zweifel</annotation>
+		<annotation cp="🧑🏻‍⚕">Arzt | Arzt/Ärztin | Gesundheitswesen | helle Hautfarbe | Krankenpfleger | Krankenpflegerin | Therapeut</annotation>
+		<annotation cp="🧑🏼‍⚕">Arzt | Arzt/Ärztin | Gesundheitswesen | Krankenpfleger | Krankenpflegerin | mittelhelle Hautfarbe | Therapeut</annotation>
+		<annotation cp="🧑🏽‍⚕">Arzt | Arzt/Ärztin | Gesundheitswesen | Krankenpfleger | Krankenpflegerin | mittlere Hautfarbe | Therapeut</annotation>
+		<annotation cp="🧑🏾‍⚕">Arzt | Arzt/Ärztin | Gesundheitswesen | Krankenpfleger | Krankenpflegerin | mitteldunkle Hautfarbe | Therapeut</annotation>
+		<annotation cp="🧑🏿‍⚕">Arzt | Arzt/Ärztin | dunkle Hautfarbe | Gesundheitswesen | Krankenpfleger | Krankenpflegerin | Therapeut</annotation>
+		<annotation cp="🧑🏻‍🔧">Add a translation Elektriker(in) | helle Hautfarbe | Klempner(in) | Mechaniker(in) | Sanitär(in)</annotation>
+		<annotation cp="🧑🏼‍🔧">Add a translation Elektriker(in) | Klempner(in) | Mechaniker(in) | mittelhelle Hautfarbe | Sanitär(in)</annotation>
+		<annotation cp="🧑🏽‍🔧">Add a translation Elektriker(in) | Klempner(in) | Mechaniker(in) | mittlere Hautfarbe | Sanitär(in)</annotation>
+		<annotation cp="🧑🏾‍🔧">Add a translation Elektriker(in) | Klempner(in) | Mechaniker(in) | mitteldunkle Hautfarbe | Sanitär(in)</annotation>
+		<annotation cp="🧑🏿‍🔧">Add a translation Elektriker(in) | dunkle Hautfarbe | Klempner(in) | Mechaniker(in) | Sanitär(in)</annotation>
+		<annotation cp="👨🏻‍🏭">Arbeiter | Fabrik | Fabrikarbeiter | helle Hautfarbe | industriell | Montage</annotation>
+		<annotation cp="👨🏼‍🏭">Arbeiter | Fabrik | Fabrikarbeiter | industriell | mittelhelle Hautfarbe | Montage</annotation>
+		<annotation cp="👨🏽‍🏭">Arbeiter | Fabrik | Fabrikarbeiter | industriell | mittlere Hautfarbe | Montage</annotation>
+		<annotation cp="👨🏾‍🏭">Arbeiter | Fabrik | Fabrikarbeiter | industriell | mitteldunkle Hautfarbe | Montage</annotation>
+		<annotation cp="👨🏿‍🏭">Arbeiter | dunkle Hautfarbe | Fabrik | Fabrikarbeiter | industriell | Montage</annotation>
+		<annotation cp="👩🏻‍🏭">Arbeiter | Fabrik | Fabrikarbeiterin | helle Hautfarbe | industriell | Montage</annotation>
+		<annotation cp="👩🏼‍🏭">Arbeiter | Fabrik | Fabrikarbeiterin | industriell | mittelhelle Hautfarbe | Montage</annotation>
+		<annotation cp="👩🏽‍🏭">Arbeiter | Fabrik | Fabrikarbeiterin | industriell | mittlere Hautfarbe | Montage</annotation>
+		<annotation cp="👩🏾‍🏭">Arbeiter | Fabrik | Fabrikarbeiterin | industriell | mitteldunkle Hautfarbe | Montage</annotation>
+		<annotation cp="👩🏿‍🏭">Arbeiter | dunkle Hautfarbe | Fabrik | Fabrikarbeiterin | industriell | Montage</annotation>
+		<annotation cp="🎅🏻">helle Hautfarbe | Samichlaus | Weihnachten | Weihnachtsmann</annotation>
+		<annotation cp="🎅🏼">mittelhelle Hautfarbe | Samichlaus | Weihnachten | Weihnachtsmann</annotation>
+		<annotation cp="🎅🏽">mittlere Hautfarbe | Samichlaus | Weihnachten | Weihnachtsmann</annotation>
+		<annotation cp="🎅🏾">mitteldunkle Hautfarbe | Samichlaus | Weihnachten | Weihnachtsmann</annotation>
+		<annotation cp="🎅🏿">dunkle Hautfarbe | Samichlaus | Weihnachten | Weihnachtsmann</annotation>
+		<annotation cp="🧛🏻">Blutsauger | Dracula | Halloween | helle Hautfarbe | Person | Reisszähne | untot | Untoter | Vampir | Zähne</annotation>
+		<annotation cp="🧛🏼">Blutsauger | Dracula | Halloween | mittelhelle Hautfarbe | Person | Reisszähne | untot | Untoter | Vampir | Zähne</annotation>
+		<annotation cp="🧛🏽">Blutsauger | Dracula | Halloween | mittlere Hautfarbe | Person | Reisszähne | untot | Untoter | Vampir | Zähne</annotation>
+		<annotation cp="🧛🏾">Blutsauger | Dracula | Halloween | mitteldunkle Hautfarbe | Person | Reisszähne | untot | Untoter | Vampir | Zähne</annotation>
+		<annotation cp="🧛🏿">Blutsauger | Dracula | dunkle Hautfarbe | Halloween | Person | Reisszähne | untot | Untoter | Vampir | Zähne</annotation>
+		<annotation cp="💇🏻">Coiffeur | Friseur(in) | Friseuse | Frisör(in) | Frisur | Haare | Haarschnitt | helle Hautfarbe | Person | Person beim Haareschneiden | Schere</annotation>
+		<annotation cp="💇🏼">Coiffeur | Friseur(in) | Friseuse | Frisör(in) | Frisur | Haare | Haarschnitt | mittelhelle Hautfarbe | Person | Person beim Haareschneiden | Schere</annotation>
+		<annotation cp="💇🏽">Coiffeur | Friseur(in) | Friseuse | Frisör(in) | Frisur | Haare | Haarschnitt | mittlere Hautfarbe | Person | Person beim Haareschneiden | Schere</annotation>
+		<annotation cp="💇🏾">Coiffeur | Friseur(in) | Friseuse | Frisör(in) | Frisur | Haare | Haarschnitt | mitteldunkle Hautfarbe | Person | Person beim Haareschneiden | Schere</annotation>
+		<annotation cp="💇🏿">Coiffeur | dunkle Hautfarbe | Friseur(in) | Friseuse | Frisör(in) | Frisur | Haare | Haarschnitt | Person | Person beim Haareschneiden | Schere</annotation>
+		<annotation cp="💇🏻‍♂">Coiffeur | Friseur | Haarschnitt | helle Hautfarbe | Mann | Mann beim Haareschneiden | Schere</annotation>
+		<annotation cp="💇🏼‍♂">Coiffeur | Friseur | Haarschnitt | Mann | Mann beim Haareschneiden | mittelhelle Hautfarbe | Schere</annotation>
+		<annotation cp="💇🏽‍♂">Coiffeur | Friseur | Haarschnitt | Mann | Mann beim Haareschneiden | mittlere Hautfarbe | Schere</annotation>
+		<annotation cp="💇🏾‍♂">Coiffeur | Friseur | Haarschnitt | Mann | Mann beim Haareschneiden | mitteldunkle Hautfarbe | Schere</annotation>
+		<annotation cp="💇🏿‍♂">Coiffeur | dunkle Hautfarbe | Friseur | Haarschnitt | Mann | Mann beim Haareschneiden | Schere</annotation>
+		<annotation cp="💇🏻‍♀">Coiffeur | Frau | Frau beim Haareschneiden | Friseur | Haarschnitt | helle Hautfarbe | Schere</annotation>
+		<annotation cp="💇🏼‍♀">Coiffeur | Frau | Frau beim Haareschneiden | Friseur | Haarschnitt | mittelhelle Hautfarbe | Schere</annotation>
+		<annotation cp="💇🏽‍♀">Coiffeur | Frau | Frau beim Haareschneiden | Friseur | Haarschnitt | mittlere Hautfarbe | Schere</annotation>
+		<annotation cp="💇🏾‍♀">Coiffeur | Frau | Frau beim Haareschneiden | Friseur | Haarschnitt | mitteldunkle Hautfarbe | Schere</annotation>
+		<annotation cp="💇🏿‍♀">Coiffeur | dunkle Hautfarbe | Frau | Frau beim Haareschneiden | Friseur | Haarschnitt | Schere</annotation>
 		<annotation cp="🚶🏻">Fussgänger(in) | gehen | gehend | helle Hautfarbe | wandern</annotation>
 		<annotation cp="🚶🏻" type="tts">Fussgänger(in): helle Hautfarbe</annotation>
 		<annotation cp="🚶🏼">Fussgänger(in) | gehen | gehend | mittelhelle Hautfarbe | wandern</annotation>
@@ -135,25 +230,66 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🚶🏾‍♀" type="tts">Fussgängerin: mitteldunkle Hautfarbe</annotation>
 		<annotation cp="🚶🏿‍♀">dunkle Hautfarbe | Frau | Fussgängerin | gehen | Spaziergang</annotation>
 		<annotation cp="🚶🏿‍♀" type="tts">Fussgängerin: dunkle Hautfarbe</annotation>
+		<annotation cp="🚶‍➡">Fussgänger(in) | gehen | gehend | nach | rechts | wandern</annotation>
+		<annotation cp="🚶‍➡" type="tts">Fussgänger(in): nach rechts</annotation>
+		<annotation cp="🚶🏻‍➡">Fussgänger(in) | gehen | gehend | helle Hautfarbe | nach | rechts | wandern</annotation>
+		<annotation cp="🚶🏻‍➡" type="tts">Fussgänger(in): helle Hautfarbe, nach rechts</annotation>
+		<annotation cp="🚶🏼‍➡">Fussgänger(in) | gehen | gehend | mittelhelle Hautfarbe | nach | rechts | wandern</annotation>
+		<annotation cp="🚶🏼‍➡" type="tts">Fussgänger(in): mittelhelle Hautfarbe, nach rechts</annotation>
+		<annotation cp="🚶🏽‍➡">Fussgänger(in) | gehen | gehend | mittlere Hautfarbe | nach | rechts | wandern</annotation>
+		<annotation cp="🚶🏽‍➡" type="tts">Fussgänger(in): mittlere Hautfarbe, nach rechts</annotation>
+		<annotation cp="🚶🏾‍➡">Fussgänger(in) | gehen | gehend | mitteldunkle Hautfarbe | nach | rechts | wandern</annotation>
+		<annotation cp="🚶🏾‍➡" type="tts">Fussgänger(in): mitteldunkle Hautfarbe, nach rechts</annotation>
+		<annotation cp="🚶🏿‍➡">dunkle Hautfarbe | Fussgänger(in) | gehen | gehend | nach | rechts | wandern</annotation>
+		<annotation cp="🚶🏿‍➡" type="tts">Fussgänger(in): dunkle Hautfarbe, nach rechts</annotation>
+		<annotation cp="🚶‍♀‍➡">Frau | Fussgängerin | gehen | nach | rechts | Spaziergang</annotation>
+		<annotation cp="🚶‍♀‍➡" type="tts">Fussgängerin: nach rechts</annotation>
+		<annotation cp="🚶🏻‍♀‍➡">Frau | Fussgängerin | gehen | helle Hautfarbe | nach | rechts | Spaziergang</annotation>
+		<annotation cp="🚶🏻‍♀‍➡" type="tts">Fussgängerin: helle Hautfarbe, nach rechts</annotation>
+		<annotation cp="🚶🏼‍♀‍➡">Frau | Fussgängerin | gehen | mittelhelle Hautfarbe | nach | rechts | Spaziergang</annotation>
+		<annotation cp="🚶🏼‍♀‍➡" type="tts">Fussgängerin: mittelhelle Hautfarbe, nach rechts</annotation>
+		<annotation cp="🚶🏽‍♀‍➡">Frau | Fussgängerin | gehen | mittlere Hautfarbe | nach | rechts | Spaziergang</annotation>
+		<annotation cp="🚶🏽‍♀‍➡" type="tts">Fussgängerin: mittlere Hautfarbe, nach rechts</annotation>
+		<annotation cp="🚶🏾‍♀‍➡">Frau | Fussgängerin | gehen | mitteldunkle Hautfarbe | nach | rechts | Spaziergang</annotation>
+		<annotation cp="🚶🏾‍♀‍➡" type="tts">Fussgängerin: mitteldunkle Hautfarbe, nach rechts</annotation>
+		<annotation cp="🚶🏿‍♀‍➡">dunkle Hautfarbe | Frau | Fussgängerin | gehen | nach | rechts | Spaziergang</annotation>
+		<annotation cp="🚶🏿‍♀‍➡" type="tts">Fussgängerin: dunkle Hautfarbe, nach rechts</annotation>
+		<annotation cp="🚶‍♂‍➡">Fussgänger | gehen | Mann | nach | rechts | Spaziergang</annotation>
+		<annotation cp="🚶‍♂‍➡" type="tts">Fussgänger: nach rechts</annotation>
+		<annotation cp="🚶🏻‍♂‍➡">Fussgänger | gehen | helle Hautfarbe | Mann | nach | rechts | Spaziergang</annotation>
+		<annotation cp="🚶🏻‍♂‍➡" type="tts">Fussgänger: helle Hautfarbe, nach rechts</annotation>
+		<annotation cp="🚶🏼‍♂‍➡">Fussgänger | gehen | Mann | mittelhelle Hautfarbe | nach | rechts | Spaziergang</annotation>
+		<annotation cp="🚶🏼‍♂‍➡" type="tts">Fussgänger: mittelhelle Hautfarbe, nach rechts</annotation>
+		<annotation cp="🚶🏽‍♂‍➡">Fussgänger | gehen | Mann | mittlere Hautfarbe | nach | rechts | Spaziergang</annotation>
+		<annotation cp="🚶🏽‍♂‍➡" type="tts">Fussgänger: mittlere Hautfarbe, nach rechts</annotation>
+		<annotation cp="🚶🏾‍♂‍➡">Fussgänger | gehen | Mann | mitteldunkle Hautfarbe | nach | rechts | Spaziergang</annotation>
+		<annotation cp="🚶🏾‍♂‍➡" type="tts">Fussgänger: mitteldunkle Hautfarbe, nach rechts</annotation>
+		<annotation cp="🚶🏿‍♂‍➡">dunkle Hautfarbe | Fussgänger | gehen | Mann | nach | rechts | Spaziergang</annotation>
+		<annotation cp="🚶🏿‍♂‍➡" type="tts">Fussgänger: dunkle Hautfarbe, nach rechts</annotation>
 		<annotation cp="🧑🏻‍🦯">Barrierefreiheit | blind | helle Hautfarbe | Person mit Langstock</annotation>
-		<annotation cp="🧑🏻‍🦯" type="tts">Person mit Langstock: helle Hautfarbe</annotation>
 		<annotation cp="🧑🏼‍🦯">Barrierefreiheit | blind | mittelhelle Hautfarbe | Person mit Langstock</annotation>
-		<annotation cp="🧑🏼‍🦯" type="tts">Person mit Langstock: mittelhelle Hautfarbe</annotation>
 		<annotation cp="🧑🏽‍🦯">Barrierefreiheit | blind | mittlere Hautfarbe | Person mit Langstock</annotation>
-		<annotation cp="🧑🏽‍🦯" type="tts">Person mit Langstock: mittlere Hautfarbe</annotation>
 		<annotation cp="🧑🏾‍🦯">Barrierefreiheit | blind | mitteldunkle Hautfarbe | Person mit Langstock</annotation>
-		<annotation cp="🧑🏾‍🦯" type="tts">Person mit Langstock: mitteldunkle Hautfarbe</annotation>
 		<annotation cp="🧑🏿‍🦯">Barrierefreiheit | blind | dunkle Hautfarbe | Person mit Langstock</annotation>
-		<annotation cp="🧑🏿‍🦯" type="tts">Person mit Langstock: dunkle Hautfarbe</annotation>
-		<annotation cp="👨🏻‍🦯">helle Hautfarbe | Mann mit Gehstock</annotation>
-		<annotation cp="👨🏼‍🦯">Mann mit Gehstock | mittelhelle Hautfarbe</annotation>
-		<annotation cp="👨🏽‍🦯">Mann mit Gehstock | mittlere Hautfarbe</annotation>
-		<annotation cp="👨🏾‍🦯">Mann mit Gehstock | mitteldunkle Hautfarbe</annotation>
-		<annotation cp="👨🏿‍🦯">dunkle Hautfarbe | Mann mit Gehstock</annotation>
+		<annotation cp="🧑‍🦯‍➡">Barrierefreiheit | blind | nach | Person mit Langstock | rechts</annotation>
+		<annotation cp="🧑🏻‍🦯‍➡">Barrierefreiheit | blind | helle Hautfarbe | nach | Person mit Langstock | rechts</annotation>
+		<annotation cp="🧑🏼‍🦯‍➡">Barrierefreiheit | blind | mittelhelle Hautfarbe | nach | Person mit Langstock | rechts</annotation>
+		<annotation cp="🧑🏽‍🦯‍➡">Barrierefreiheit | blind | mittlere Hautfarbe | nach | Person mit Langstock | rechts</annotation>
+		<annotation cp="🧑🏾‍🦯‍➡">Barrierefreiheit | blind | mitteldunkle Hautfarbe | nach | Person mit Langstock | rechts</annotation>
+		<annotation cp="🧑🏿‍🦯‍➡">Barrierefreiheit | blind | dunkle Hautfarbe | nach | Person mit Langstock | rechts</annotation>
+		<annotation cp="🧗🏻‍♂">bergsteigen | Bergsteiger | helle Hautfarbe | Kletterer | klettern</annotation>
+		<annotation cp="🧗🏼‍♂">bergsteigen | Bergsteiger | Kletterer | klettern | mittelhelle Hautfarbe</annotation>
+		<annotation cp="🧗🏽‍♂">bergsteigen | Bergsteiger | Kletterer | klettern | mittlere Hautfarbe</annotation>
+		<annotation cp="🧗🏾‍♂">bergsteigen | Bergsteiger | Kletterer | klettern | mitteldunkle Hautfarbe</annotation>
+		<annotation cp="🧗🏿‍♂">bergsteigen | Bergsteiger | dunkle Hautfarbe | Kletterer | klettern</annotation>
+		<annotation cp="🧗🏻‍♀">bergsteigen | Bergsteigerin | helle Hautfarbe | Kletterin | klettern</annotation>
+		<annotation cp="🧗🏼‍♀">bergsteigen | Bergsteigerin | Kletterin | klettern | mittelhelle Hautfarbe</annotation>
+		<annotation cp="🧗🏽‍♀">bergsteigen | Bergsteigerin | Kletterin | klettern | mittlere Hautfarbe</annotation>
+		<annotation cp="🧗🏾‍♀">bergsteigen | Bergsteigerin | Kletterin | klettern | mitteldunkle Hautfarbe</annotation>
+		<annotation cp="🧗🏿‍♀">bergsteigen | Bergsteigerin | dunkle Hautfarbe | Kletterin | klettern</annotation>
 		<annotation cp="🇧🇳" type="tts">Flagge: Brunei</annotation>
 		<annotation cp="🇧🇼" type="tts">Flagge: Botswana</annotation>
 		<annotation cp="🇨🇻" type="tts">Flagge: Kapverden</annotation>
-		<annotation cp="🇬🇧" type="tts">Flagge: Grossbritannien</annotation>
 		<annotation cp="🇸🇧" type="tts">Flagge: Salomon-Inseln</annotation>
 		<annotation cp="🇹🇱" type="tts">Flagge: Osttimor</annotation>
 		<annotation cp="🇿🇼" type="tts">Flagge: Zimbabwe</annotation>

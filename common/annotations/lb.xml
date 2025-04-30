@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE ldml SYSTEM "../../common/dtd/ldml.dtd">
-<!-- Copyright © 1991-2020 Unicode, Inc.
+<!-- Copyright © 1991-2024 Unicode, Inc.
 For terms of use, see http://www.unicode.org/copyright.html
-Unicode and the Unicode Logo are registered trademarks of Unicode, Inc. in the U.S. and other countries.
+SPDX-License-Identifier: Unicode-3.0
 CLDR data files are interpreted according to the LDML specification (http://unicode.org/reports/tr35/)
-
-Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/ for derived annotations.
 -->
 <ldml>
 	<identity>
@@ -237,8 +235,6 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🙉" type="tts">Oueren zouhalenden Af</annotation>
 		<annotation cp="🙊">Af | béis | Gesiicht | Geste | Mond | Mond zouhalenden Af | net | schwätzen | verbueden | zouhalen</annotation>
 		<annotation cp="🙊" type="tts">Mond zouhalenden Af</annotation>
-		<annotation cp="💋">Kuss | Kussmond | Lëpsen</annotation>
-		<annotation cp="💋" type="tts">Kussmond</annotation>
 		<annotation cp="💌">Bréif | Häerz | Léift | Libesbréif | Post</annotation>
 		<annotation cp="💌" type="tts">Libesbréif</annotation>
 		<annotation cp="💘">Cupidon | Feil | Häerz mat Feil</annotation>
@@ -275,6 +271,8 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="💜" type="tts">mooft Häerz</annotation>
 		<annotation cp="🖤">béis | schlecht | schwaarz | schwaarzt Häerz</annotation>
 		<annotation cp="🖤" type="tts">schwaarzt Häerz</annotation>
+		<annotation cp="💋">Kuss | Kussmond | Lëpsen</annotation>
+		<annotation cp="💋" type="tts">Kussmond</annotation>
 		<annotation cp="💯">100 | honnert | honnert Punkten | Score | voll</annotation>
 		<annotation cp="💯" type="tts">honnert Punkten</annotation>
 		<annotation cp="💢">béis | Comic | rosen | Rosereiszeechen</annotation>
@@ -289,8 +287,6 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="💨" type="tts">séier fort</annotation>
 		<annotation cp="🕳">Lach</annotation>
 		<annotation cp="🕳" type="tts">Lach</annotation>
-		<annotation cp="💣">Bomm | Comic</annotation>
-		<annotation cp="💣" type="tts">Bomm</annotation>
 		<annotation cp="💬">Ball | Blos | Comic | Dialog | schwätzen | Spriechblos</annotation>
 		<annotation cp="💬" type="tts">Spriechblos</annotation>
 		<annotation cp="👁‍🗨">A | A an enger Spriechblos | erkennen | gesinn | Spriechblos</annotation>
@@ -321,7 +317,7 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🤞" type="tts">gekräizt Fanger</annotation>
 		<annotation cp="🤟">Hand | ILY | Léift-Geste</annotation>
 		<annotation cp="🤟" type="tts">Léift-Geste</annotation>
-		<annotation cp="🤘">Fanger | Hand | Haren | Mano cornuta, Harenzeechen | rocken</annotation>
+		<annotation cp="🤘">Fanger | Hand | Haren | Harenzeechen | Mano cornuta | Mano cornuta, Harenzeechen | rocken</annotation>
 		<annotation cp="🤘" type="tts">Mano cornuta, Harenzeechen</annotation>
 		<annotation cp="🤙">Hand | Telefon-Handzeechen | uruffen</annotation>
 		<annotation cp="🤙" type="tts">Telefon-Handzeechen</annotation>
@@ -423,29 +419,29 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🙎‍♂" type="tts">motzende Mann</annotation>
 		<annotation cp="🙎‍♀">Fra | Geste | motzen | motzend Fra</annotation>
 		<annotation cp="🙎‍♀" type="tts">motzend Fra</annotation>
-		<annotation cp="🙅">Geste | Hand | neen | net | Persoun, déi NEEN weist | Verbueden</annotation>
+		<annotation cp="🙅">déi NEEN weist | Geste | Hand | neen | net | Persoun | Persoun, déi NEEN weist | Verbueden</annotation>
 		<annotation cp="🙅" type="tts">Persoun, déi NEEN weist</annotation>
-		<annotation cp="🙅‍♂">Geste | Hand | Mann | Mann, deen NEEN weist | neen | net | verbueden</annotation>
+		<annotation cp="🙅‍♂">deen NEEN weist | Geste | Hand | Mann | Mann, deen NEEN weist | neen | net | verbueden</annotation>
 		<annotation cp="🙅‍♂" type="tts">Mann, deen NEEN weist</annotation>
-		<annotation cp="🙅‍♀">Fra | Fra, déi NEEN weist | Geste | Hand | neen | net | verbueden</annotation>
+		<annotation cp="🙅‍♀">déi NEEN weist | Fra | Fra, déi NEEN weist | Geste | Hand | neen | net | verbueden</annotation>
 		<annotation cp="🙅‍♀" type="tts">Fra, déi NEEN weist</annotation>
-		<annotation cp="🙆">Geste | Hand | OK | Persoun, déi OK weist</annotation>
+		<annotation cp="🙆">déi OK weist | Geste | Hand | OK | Persoun | Persoun, déi OK weist</annotation>
 		<annotation cp="🙆" type="tts">Persoun, déi OK weist</annotation>
-		<annotation cp="🙆‍♂">Geste | Hand | Mann | Mann, deen OK weist | OK</annotation>
+		<annotation cp="🙆‍♂">deen OK weist | Geste | Hand | Mann | Mann, deen OK weist | OK</annotation>
 		<annotation cp="🙆‍♂" type="tts">Mann, deen OK weist</annotation>
-		<annotation cp="🙆‍♀">Fra | Fra, déi OK weist | Geste | Hand | OK</annotation>
+		<annotation cp="🙆‍♀">déi OK weist | Fra | Fra, déi OK weist | Geste | Hand | OK</annotation>
 		<annotation cp="🙆‍♀" type="tts">Fra, déi OK weist</annotation>
-		<annotation cp="💁">frech | Hand | Hëllef | Informatiounen | ophalen | Persoun, déi d’Hand op hält</annotation>
+		<annotation cp="💁">déi d’Hand op hält | frech | Hand | Hëllef | Informatiounen | ophalen | Persoun | Persoun, déi d’Hand op hält</annotation>
 		<annotation cp="💁" type="tts">Persoun, déi d’Hand op hält</annotation>
-		<annotation cp="💁‍♂">frech | Mann | Mann, deen d’Hand op hält | opgehalen Hand</annotation>
+		<annotation cp="💁‍♂">deen d’Hand op hält | frech | Mann | Mann, deen d’Hand op hält | opgehalen Hand</annotation>
 		<annotation cp="💁‍♂" type="tts">Mann, deen d’Hand op hält</annotation>
-		<annotation cp="💁‍♀">Fra | Fra, déi d’Hand op hält | frech | opgehalen Hand</annotation>
+		<annotation cp="💁‍♀">déi d’Hand op hält | Fra | Fra, déi d’Hand op hält | frech | opgehalen Hand</annotation>
 		<annotation cp="💁‍♀" type="tts">Fra, déi d’Hand op hält</annotation>
-		<annotation cp="🙋">gehuewen | Geste | glécklech | Hand | Persoun, déi d’Hand hieft</annotation>
+		<annotation cp="🙋">déi d’Hand hieft | gehuewen | Geste | glécklech | Hand | Persoun | Persoun, déi d’Hand hieft</annotation>
 		<annotation cp="🙋" type="tts">Persoun, déi d’Hand hieft</annotation>
-		<annotation cp="🙋‍♂">gehuewen Hand | Geste | Mann | Mann, deen d’Hand hieft</annotation>
+		<annotation cp="🙋‍♂">deen d’Hand hieft | gehuewen Hand | Geste | Mann | Mann, deen d’Hand hieft</annotation>
 		<annotation cp="🙋‍♂" type="tts">Mann, deen d’Hand hieft</annotation>
-		<annotation cp="🙋‍♀">Fra | Fra, déi d’Hand hieft | gehuewen Hand | Geste</annotation>
+		<annotation cp="🙋‍♀">déi d’Hand hieft | Fra | Fra, déi d’Hand hieft | gehuewen Hand | Geste</annotation>
 		<annotation cp="🙋‍♀" type="tts">Fra, déi d’Hand hieft</annotation>
 		<annotation cp="🙇">entschëllegt | Entschëllegung | Geste | sech vernäipend Persoun | Verneigung</annotation>
 		<annotation cp="🙇" type="tts">sech vernäipend Persoun</annotation>
@@ -453,17 +449,17 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🙇‍♂" type="tts">sech vernäipende Mann</annotation>
 		<annotation cp="🙇‍♀">entschëllegt | Entschëllegung | Fra | Gefalen | Geste | sech vernäipend Fra | vernäipen</annotation>
 		<annotation cp="🙇‍♀" type="tts">sech vernäipend Fra</annotation>
-		<annotation cp="🤦">Frust | Gesiicht | Hand | Persoun, déi sech d’Hand widder de Kapp schléit | Zweiwel</annotation>
+		<annotation cp="🤦">déi sech d’Hand widder de Kapp schléit | Frust | Gesiicht | Hand | Persoun | Persoun, déi sech d’Hand widder de Kapp schléit | Zweiwel</annotation>
 		<annotation cp="🤦" type="tts">Persoun, déi sech d’Hand widder de Kapp schléit</annotation>
-		<annotation cp="🤦‍♂">entsat | Frust | Mann | Mann, deen sech d’Hand widder de Kapp schléit | Zweiwel</annotation>
+		<annotation cp="🤦‍♂">deen sech d’Hand widder de Kapp schléit | entsat | Frust | Mann | Mann, deen sech d’Hand widder de Kapp schléit | Zweiwel</annotation>
 		<annotation cp="🤦‍♂" type="tts">Mann, deen sech d’Hand widder de Kapp schléit</annotation>
-		<annotation cp="🤦‍♀">entsat | Fra | Fra, déi sech d’Hand widder de Kapp schléit | Frust | Zweiwel</annotation>
+		<annotation cp="🤦‍♀">déi sech d’Hand widder de Kapp schléit | entsat | Fra | Fra, déi sech d’Hand widder de Kapp schléit | Frust | Zweiwel</annotation>
 		<annotation cp="🤦‍♀" type="tts">Fra, déi sech d’Hand widder de Kapp schléit</annotation>
-		<annotation cp="🤷">Ignoranz | Indifferenz | Persoun, déi d’Schëlleren hieft | Schëlleren hiewen | Zweiwel</annotation>
+		<annotation cp="🤷">déi d’Schëlleren hieft | Ignoranz | Indifferenz | Persoun | Persoun, déi d’Schëlleren hieft | Schëlleren hiewen | Zweiwel</annotation>
 		<annotation cp="🤷" type="tts">Persoun, déi d’Schëlleren hieft</annotation>
-		<annotation cp="🤷‍♂">Ignoranz | Indifferenz | Mann | Mann, deen d’Schëlleren hieft | Schëlleren hiewen | Zweiwel</annotation>
+		<annotation cp="🤷‍♂">deen d’Schëlleren hieft | Ignoranz | Indifferenz | Mann | Mann, deen d’Schëlleren hieft | Schëlleren hiewen | Zweiwel</annotation>
 		<annotation cp="🤷‍♂" type="tts">Mann, deen d’Schëlleren hieft</annotation>
-		<annotation cp="🤷‍♀">Fra | Fra, déi d’Schëlleren hieft | Ignoranz | Indifferenz | Schëlleren hiewen | Zweiwel</annotation>
+		<annotation cp="🤷‍♀">déi d’Schëlleren hieft | Fra | Fra, déi d’Schëlleren hieft | Ignoranz | Indifferenz | Schëlleren hiewen | Zweiwel</annotation>
 		<annotation cp="🤷‍♀" type="tts">Fra, déi d’Schëlleren hieft</annotation>
 		<annotation cp="👨‍⚕">Dokter | Gesondheet | Infirmier | Mann | Medeziner | Therapeut</annotation>
 		<annotation cp="👨‍⚕" type="tts">Medeziner</annotation>
@@ -623,17 +619,17 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🧟‍♂" type="tts">Zombiemann</annotation>
 		<annotation cp="🧟‍♀">ondout | Zombie | Zombiefra</annotation>
 		<annotation cp="🧟‍♀" type="tts">Zombiefra</annotation>
-		<annotation cp="💆">Gesiicht | Massage | Persoun, déi eng Kappmassage kritt | Salon</annotation>
+		<annotation cp="💆">déi eng Kappmassage kritt | Gesiicht | Massage | Persoun | Persoun, déi eng Kappmassage kritt | Salon</annotation>
 		<annotation cp="💆" type="tts">Persoun, déi eng Kappmassage kritt</annotation>
-		<annotation cp="💆‍♂">Gesiicht | Mann | Mann, deen eng Kappmassage kritt | Massage</annotation>
+		<annotation cp="💆‍♂">deen eng Kappmassage kritt | Gesiicht | Mann | Mann, deen eng Kappmassage kritt | Massage</annotation>
 		<annotation cp="💆‍♂" type="tts">Mann, deen eng Kappmassage kritt</annotation>
-		<annotation cp="💆‍♀">Fra | Fra, déi eng Kappmassage kritt | Gesiicht | Massage</annotation>
+		<annotation cp="💆‍♀">déi eng Kappmassage kritt | Fra | Fra, déi eng Kappmassage kritt | Gesiicht | Massage</annotation>
 		<annotation cp="💆‍♀" type="tts">Fra, déi eng Kappmassage kritt</annotation>
-		<annotation cp="💇">Coiffer | Coupe | Hoer | Persoun, déi d’Hoer geschnidde kritt | Salon | Schéinheet | schneiden</annotation>
+		<annotation cp="💇">Coiffer | Coupe | déi d’Hoer geschnidde kritt | Hoer | Persoun | Persoun, déi d’Hoer geschnidde kritt | Salon | Schéinheet | schneiden</annotation>
 		<annotation cp="💇" type="tts">Persoun, déi d’Hoer geschnidde kritt</annotation>
-		<annotation cp="💇‍♂">Coupe | Hoer | Mann | Mann, deen d’Hoer geschnidde kritt | schneiden</annotation>
+		<annotation cp="💇‍♂">Coupe | deen d’Hoer geschnidde kritt | Hoer | Mann | Mann, deen d’Hoer geschnidde kritt | schneiden</annotation>
 		<annotation cp="💇‍♂" type="tts">Mann, deen d’Hoer geschnidde kritt</annotation>
-		<annotation cp="💇‍♀">Coupe | Fra | Fra, déi d’Hoer geschnidde kritt | Hoer | schneiden</annotation>
+		<annotation cp="💇‍♀">Coupe | déi d’Hoer geschnidde kritt | Fra | Fra, déi d’Hoer geschnidde kritt | Hoer | schneiden</annotation>
 		<annotation cp="💇‍♀" type="tts">Fra, déi d’Hoer geschnidde kritt</annotation>
 		<annotation cp="🚶">spadséieren | spadséierend | spadséierend Persoun | wanderen</annotation>
 		<annotation cp="🚶" type="tts">spadséierend Persoun</annotation>
@@ -727,11 +723,11 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🚵‍♂" type="tts">Mountainbikesfuerer</annotation>
 		<annotation cp="🚵‍♀">Bierg | Fra | Mountainbike | Mountainbikesfuererin | Vëlo | Vëlofueren | Vëlosfuerer</annotation>
 		<annotation cp="🚵‍♀" type="tts">Mountainbikesfuererin</annotation>
-		<annotation cp="🤸">Persoun, déi d’Rad schléit | Rad | Turnen</annotation>
+		<annotation cp="🤸">déi d’Rad schléit | Persoun | Persoun, déi d’Rad schléit | Rad | Turnen</annotation>
 		<annotation cp="🤸" type="tts">Persoun, déi d’Rad schléit</annotation>
-		<annotation cp="🤸‍♂">Mann | Mann, deen d’Rad schléit | Rad | Turnen</annotation>
+		<annotation cp="🤸‍♂">deen d’Rad schléit | Mann | Mann, deen d’Rad schléit | Rad | Turnen</annotation>
 		<annotation cp="🤸‍♂" type="tts">Mann, deen d’Rad schléit</annotation>
-		<annotation cp="🤸‍♀">Fra | Fra, déi d’Rad schléit | Rad | Turnen</annotation>
+		<annotation cp="🤸‍♀">déi d’Rad schléit | Fra | Fra, déi d’Rad schléit | Rad | Turnen</annotation>
 		<annotation cp="🤸‍♀" type="tts">Fra, déi d’Rad schléit</annotation>
 		<annotation cp="🤼">catchen | Wrestler | Wrestling</annotation>
 		<annotation cp="🤼" type="tts">Wrestling</annotation>
@@ -777,14 +773,14 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="💏" type="tts">Kuss</annotation>
 		<annotation cp="💑">Koppel | Léift | verléift Koppel</annotation>
 		<annotation cp="💑" type="tts">verléift Koppel</annotation>
-		<annotation cp="👪">Famill</annotation>
-		<annotation cp="👪" type="tts">Famill</annotation>
 		<annotation cp="🗣">Gesiicht | Kapp | schwätzen | schwätzend | schwätzende Kapp | Silhouette</annotation>
 		<annotation cp="🗣" type="tts">schwätzende Kapp</annotation>
 		<annotation cp="👤">Büst | mënschlech | Silhouette</annotation>
 		<annotation cp="👤" type="tts">mënschlech Silhouette</annotation>
 		<annotation cp="👥">Büst | mënschlech | mënschlech Silhouetten | Silhouette</annotation>
 		<annotation cp="👥" type="tts">mënschlech Silhouetten</annotation>
+		<annotation cp="👪">Famill</annotation>
+		<annotation cp="👪" type="tts">Famill</annotation>
 		<annotation cp="👣">Foussofdréck | Foussofdrock | Kleeder | Ofdrock</annotation>
 		<annotation cp="👣" type="tts">Foussofdréck</annotation>
 		<annotation cp="🐵">Af | Afegesiicht | Gesiicht</annotation>
@@ -943,6 +939,12 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🐙" type="tts">Tëntefësch</annotation>
 		<annotation cp="🐚">Muschel | Spiral | Spiralmuschel</annotation>
 		<annotation cp="🐚" type="tts">Spiralmuschel</annotation>
+		<annotation cp="🦀">Kriibs | Stärzeechen</annotation>
+		<annotation cp="🦀" type="tts">Kriibs</annotation>
+		<annotation cp="🦐">Crevette | Iessen | kleng | Mieresfruucht</annotation>
+		<annotation cp="🦐" type="tts">Crevette</annotation>
+		<annotation cp="🦑">Calamar | Iessen | Mollusk</annotation>
+		<annotation cp="🦑" type="tts">Calamar</annotation>
 		<annotation cp="🐌">Schleek</annotation>
 		<annotation cp="🐌" type="tts">Schleek</annotation>
 		<annotation cp="🦋">Insekt | Päiperlek | schéin</annotation>
@@ -1007,6 +1009,8 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🍂" type="tts">Hierschtblat</annotation>
 		<annotation cp="🍃">am Wand fléiend Blat | Blat | blosen | fléien | Wand</annotation>
 		<annotation cp="🍃" type="tts">am Wand fléiend Blat</annotation>
+		<annotation cp="🍄">Champignon | Gëftpilz | Pilz</annotation>
+		<annotation cp="🍄" type="tts">Champignon</annotation>
 		<annotation cp="🍇">Drauf | Drauwen | Uebst</annotation>
 		<annotation cp="🍇" type="tts">Drauwen</annotation>
 		<annotation cp="🍈">Meloun | Uebst</annotation>
@@ -1055,8 +1059,6 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🥒" type="tts">Kornischong</annotation>
 		<annotation cp="🥦">Brokkoli | wëlle Kabes</annotation>
 		<annotation cp="🥦" type="tts">Brokkoli</annotation>
-		<annotation cp="🍄">Champignon | Gëftpilz | Pilz</annotation>
-		<annotation cp="🍄" type="tts">Champignon</annotation>
 		<annotation cp="🥜">Geméis | Iessen | Kakuett | Noss</annotation>
 		<annotation cp="🥜" type="tts">Kakuett</annotation>
 		<annotation cp="🌰">Käscht | Planz</annotation>
@@ -1145,12 +1147,6 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🥠" type="tts">Gléckskichelchen</annotation>
 		<annotation cp="🥡">Austerkëscht | Takeout-Këscht</annotation>
 		<annotation cp="🥡" type="tts">Takeout-Këscht</annotation>
-		<annotation cp="🦀">Kriibs | Stärzeechen</annotation>
-		<annotation cp="🦀" type="tts">Kriibs</annotation>
-		<annotation cp="🦐">Crevette | Iessen | kleng | Mieresfruucht</annotation>
-		<annotation cp="🦐" type="tts">Crevette</annotation>
-		<annotation cp="🦑">Calamar | Iessen | Mollusk</annotation>
-		<annotation cp="🦑" type="tts">Calamar</annotation>
 		<annotation cp="🍦">Äis | Crème | Dessert | Glace | séiss | Softice</annotation>
 		<annotation cp="🍦" type="tts">Softice</annotation>
 		<annotation cp="🍧">Dessert | Glace | séiss | Waasser | Waasserglace</annotation>
@@ -1715,6 +1711,8 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🥌" type="tts">Curling-Steen</annotation>
 		<annotation cp="🎯">an d’Mëtt getraff | Dart | Match | Mëtt | Spill | treffen | Volltreffer | Zilscheif</annotation>
 		<annotation cp="🎯" type="tts">an d’Mëtt getraff</annotation>
+		<annotation cp="🔫">Pistoul | Revolver | Utensil | Waff</annotation>
+		<annotation cp="🔫" type="tts">Pistoul</annotation>
 		<annotation cp="🎱">8 | 8-Ball | aacht | Billardkugel | Billiard | Kugel | Spill</annotation>
 		<annotation cp="🎱" type="tts">Billardkugel</annotation>
 		<annotation cp="🔮">Fantasie | Kristall | Kristallkugel | Kugel | Mäerchen | Utensil | Zukunft</annotation>
@@ -2087,8 +2085,8 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🗡" type="tts">Dolch</annotation>
 		<annotation cp="⚔">gekräizt | Schwäerter | Waff</annotation>
 		<annotation cp="⚔" type="tts">gekräizt Schwäerter</annotation>
-		<annotation cp="🔫">Pistoul | Revolver | Utensil | Waff</annotation>
-		<annotation cp="🔫" type="tts">Pistoul</annotation>
+		<annotation cp="💣">Bomm | Comic</annotation>
+		<annotation cp="💣" type="tts">Bomm</annotation>
 		<annotation cp="🏹">Bou | Bou mat Feiler | Bouschéissen | Bouschéisser | Feil | Schütze | Stärzeechen | Utensil | Waff</annotation>
 		<annotation cp="🏹" type="tts">Bou mat Feiler</annotation>
 		<annotation cp="🛡">Schëld | Waff</annotation>

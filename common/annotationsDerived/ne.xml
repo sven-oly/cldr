@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE ldml SYSTEM "../../common/dtd/ldml.dtd">
-<!-- Copyright © 1991-2020 Unicode, Inc.
+<!-- Copyright © 1991-2024 Unicode, Inc.
 For terms of use, see http://www.unicode.org/copyright.html
-Unicode and the Unicode Logo are registered trademarks of Unicode, Inc. in the U.S. and other countries.
+SPDX-License-Identifier: Unicode-3.0
 CLDR data files are interpreted according to the LDML specification (http://unicode.org/reports/tr35/)
+
+Derived short names and annotations, using GenerateDerivedAnnotations.java. See warnings in /annotations/ file.
 -->
-<!-- Derived short names and annotations, using GenerateDerivedAnnotations.java. See warnings in /annotations/ file. -->
 <ldml>
 	<identity>
 		<version number="$Revision$"/>
@@ -62,6 +63,106 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🖖🏾" type="tts">बल्कन सलामी: छालाको प्रकार-५</annotation>
 		<annotation cp="🖖🏿">औंला | छालाको प्रकार-६ | बल्कन | शरीर | सलामी | हात</annotation>
 		<annotation cp="🖖🏿" type="tts">बल्कन सलामी: छालाको प्रकार-६</annotation>
+		<annotation cp="🫱🏻">छालाको प्रकार-१-२ | दायाँ | दायाँँतिर | दायाँँतिर देेखाएको हात | हात</annotation>
+		<annotation cp="🫱🏻" type="tts">दायाँँतिर देेखाएको हात: छालाको प्रकार-१-२</annotation>
+		<annotation cp="🫱🏼">छालाको प्रकार-३ | दायाँ | दायाँँतिर | दायाँँतिर देेखाएको हात | हात</annotation>
+		<annotation cp="🫱🏼" type="tts">दायाँँतिर देेखाएको हात: छालाको प्रकार-३</annotation>
+		<annotation cp="🫱🏽">छालाको प्रकार-४ | दायाँ | दायाँँतिर | दायाँँतिर देेखाएको हात | हात</annotation>
+		<annotation cp="🫱🏽" type="tts">दायाँँतिर देेखाएको हात: छालाको प्रकार-४</annotation>
+		<annotation cp="🫱🏾">छालाको प्रकार-५ | दायाँ | दायाँँतिर | दायाँँतिर देेखाएको हात | हात</annotation>
+		<annotation cp="🫱🏾" type="tts">दायाँँतिर देेखाएको हात: छालाको प्रकार-५</annotation>
+		<annotation cp="🫱🏿">छालाको प्रकार-६ | दायाँ | दायाँँतिर | दायाँँतिर देेखाएको हात | हात</annotation>
+		<annotation cp="🫱🏿" type="tts">दायाँँतिर देेखाएको हात: छालाको प्रकार-६</annotation>
+		<annotation cp="🫱🏻‍🫲🏼">छालाको प्रकार-१-२ | छालाको प्रकार-३ | बैठक | सम्झौंता | हल्लाउने | हात | हात मिलाउने कार्य</annotation>
+		<annotation cp="🫱🏻‍🫲🏼" type="tts">हात मिलाउने कार्य: छालाको प्रकार-१-२ छालाको प्रकार-३</annotation>
+		<annotation cp="🫱🏻‍🫲🏽">छालाको प्रकार-१-२ | छालाको प्रकार-४ | बैठक | सम्झौंता | हल्लाउने | हात | हात मिलाउने कार्य</annotation>
+		<annotation cp="🫱🏻‍🫲🏽" type="tts">हात मिलाउने कार्य: छालाको प्रकार-१-२ छालाको प्रकार-४</annotation>
+		<annotation cp="🫱🏻‍🫲🏾">छालाको प्रकार-१-२ | छालाको प्रकार-५ | बैठक | सम्झौंता | हल्लाउने | हात | हात मिलाउने कार्य</annotation>
+		<annotation cp="🫱🏻‍🫲🏾" type="tts">हात मिलाउने कार्य: छालाको प्रकार-१-२ छालाको प्रकार-५</annotation>
+		<annotation cp="🫱🏻‍🫲🏿">छालाको प्रकार-१-२ | छालाको प्रकार-६ | बैठक | सम्झौंता | हल्लाउने | हात | हात मिलाउने कार्य</annotation>
+		<annotation cp="🫱🏻‍🫲🏿" type="tts">हात मिलाउने कार्य: छालाको प्रकार-१-२ छालाको प्रकार-६</annotation>
+		<annotation cp="🫱🏼‍🫲🏻">छालाको प्रकार-१-२ | छालाको प्रकार-३ | बैठक | सम्झौंता | हल्लाउने | हात | हात मिलाउने कार्य</annotation>
+		<annotation cp="🫱🏼‍🫲🏻" type="tts">हात मिलाउने कार्य: छालाको प्रकार-३ छालाको प्रकार-१-२</annotation>
+		<annotation cp="🫱🏼‍🫲🏽">छालाको प्रकार-३ | छालाको प्रकार-४ | बैठक | सम्झौंता | हल्लाउने | हात | हात मिलाउने कार्य</annotation>
+		<annotation cp="🫱🏼‍🫲🏽" type="tts">हात मिलाउने कार्य: छालाको प्रकार-३ छालाको प्रकार-४</annotation>
+		<annotation cp="🫱🏼‍🫲🏾">छालाको प्रकार-३ | छालाको प्रकार-५ | बैठक | सम्झौंता | हल्लाउने | हात | हात मिलाउने कार्य</annotation>
+		<annotation cp="🫱🏼‍🫲🏾" type="tts">हात मिलाउने कार्य: छालाको प्रकार-३ छालाको प्रकार-५</annotation>
+		<annotation cp="🫱🏼‍🫲🏿">छालाको प्रकार-३ | छालाको प्रकार-६ | बैठक | सम्झौंता | हल्लाउने | हात | हात मिलाउने कार्य</annotation>
+		<annotation cp="🫱🏼‍🫲🏿" type="tts">हात मिलाउने कार्य: छालाको प्रकार-३ छालाको प्रकार-६</annotation>
+		<annotation cp="🫱🏽‍🫲🏻">छालाको प्रकार-१-२ | छालाको प्रकार-४ | बैठक | सम्झौंता | हल्लाउने | हात | हात मिलाउने कार्य</annotation>
+		<annotation cp="🫱🏽‍🫲🏻" type="tts">हात मिलाउने कार्य: छालाको प्रकार-४ छालाको प्रकार-१-२</annotation>
+		<annotation cp="🫱🏽‍🫲🏼">छालाको प्रकार-३ | छालाको प्रकार-४ | बैठक | सम्झौंता | हल्लाउने | हात | हात मिलाउने कार्य</annotation>
+		<annotation cp="🫱🏽‍🫲🏼" type="tts">हात मिलाउने कार्य: छालाको प्रकार-४ छालाको प्रकार-३</annotation>
+		<annotation cp="🫱🏽‍🫲🏾">छालाको प्रकार-४ | छालाको प्रकार-५ | बैठक | सम्झौंता | हल्लाउने | हात | हात मिलाउने कार्य</annotation>
+		<annotation cp="🫱🏽‍🫲🏾" type="tts">हात मिलाउने कार्य: छालाको प्रकार-४ छालाको प्रकार-५</annotation>
+		<annotation cp="🫱🏽‍🫲🏿">छालाको प्रकार-४ | छालाको प्रकार-६ | बैठक | सम्झौंता | हल्लाउने | हात | हात मिलाउने कार्य</annotation>
+		<annotation cp="🫱🏽‍🫲🏿" type="tts">हात मिलाउने कार्य: छालाको प्रकार-४ छालाको प्रकार-६</annotation>
+		<annotation cp="🫱🏾‍🫲🏻">छालाको प्रकार-१-२ | छालाको प्रकार-५ | बैठक | सम्झौंता | हल्लाउने | हात | हात मिलाउने कार्य</annotation>
+		<annotation cp="🫱🏾‍🫲🏻" type="tts">हात मिलाउने कार्य: छालाको प्रकार-५ छालाको प्रकार-१-२</annotation>
+		<annotation cp="🫱🏾‍🫲🏼">छालाको प्रकार-३ | छालाको प्रकार-५ | बैठक | सम्झौंता | हल्लाउने | हात | हात मिलाउने कार्य</annotation>
+		<annotation cp="🫱🏾‍🫲🏼" type="tts">हात मिलाउने कार्य: छालाको प्रकार-५ छालाको प्रकार-३</annotation>
+		<annotation cp="🫱🏾‍🫲🏽">छालाको प्रकार-४ | छालाको प्रकार-५ | बैठक | सम्झौंता | हल्लाउने | हात | हात मिलाउने कार्य</annotation>
+		<annotation cp="🫱🏾‍🫲🏽" type="tts">हात मिलाउने कार्य: छालाको प्रकार-५ छालाको प्रकार-४</annotation>
+		<annotation cp="🫱🏾‍🫲🏿">छालाको प्रकार-५ | छालाको प्रकार-६ | बैठक | सम्झौंता | हल्लाउने | हात | हात मिलाउने कार्य</annotation>
+		<annotation cp="🫱🏾‍🫲🏿" type="tts">हात मिलाउने कार्य: छालाको प्रकार-५ छालाको प्रकार-६</annotation>
+		<annotation cp="🫱🏿‍🫲🏻">छालाको प्रकार-१-२ | छालाको प्रकार-६ | बैठक | सम्झौंता | हल्लाउने | हात | हात मिलाउने कार्य</annotation>
+		<annotation cp="🫱🏿‍🫲🏻" type="tts">हात मिलाउने कार्य: छालाको प्रकार-६ छालाको प्रकार-१-२</annotation>
+		<annotation cp="🫱🏿‍🫲🏼">छालाको प्रकार-३ | छालाको प्रकार-६ | बैठक | सम्झौंता | हल्लाउने | हात | हात मिलाउने कार्य</annotation>
+		<annotation cp="🫱🏿‍🫲🏼" type="tts">हात मिलाउने कार्य: छालाको प्रकार-६ छालाको प्रकार-३</annotation>
+		<annotation cp="🫱🏿‍🫲🏽">छालाको प्रकार-४ | छालाको प्रकार-६ | बैठक | सम्झौंता | हल्लाउने | हात | हात मिलाउने कार्य</annotation>
+		<annotation cp="🫱🏿‍🫲🏽" type="tts">हात मिलाउने कार्य: छालाको प्रकार-६ छालाको प्रकार-४</annotation>
+		<annotation cp="🫱🏿‍🫲🏾">छालाको प्रकार-५ | छालाको प्रकार-६ | बैठक | सम्झौंता | हल्लाउने | हात | हात मिलाउने कार्य</annotation>
+		<annotation cp="🫱🏿‍🫲🏾" type="tts">हात मिलाउने कार्य: छालाको प्रकार-६ छालाको प्रकार-५</annotation>
+		<annotation cp="🫲🏻">छालाको प्रकार-१-२ | बायाँँ | बायाँँतिर | बायाँँतिर देेखाएको हात | हात</annotation>
+		<annotation cp="🫲🏻" type="tts">बायाँँतिर देेखाएको हात: छालाको प्रकार-१-२</annotation>
+		<annotation cp="🫲🏼">छालाको प्रकार-३ | बायाँँ | बायाँँतिर | बायाँँतिर देेखाएको हात | हात</annotation>
+		<annotation cp="🫲🏼" type="tts">बायाँँतिर देेखाएको हात: छालाको प्रकार-३</annotation>
+		<annotation cp="🫲🏽">छालाको प्रकार-४ | बायाँँ | बायाँँतिर | बायाँँतिर देेखाएको हात | हात</annotation>
+		<annotation cp="🫲🏽" type="tts">बायाँँतिर देेखाएको हात: छालाको प्रकार-४</annotation>
+		<annotation cp="🫲🏾">छालाको प्रकार-५ | बायाँँ | बायाँँतिर | बायाँँतिर देेखाएको हात | हात</annotation>
+		<annotation cp="🫲🏾" type="tts">बायाँँतिर देेखाएको हात: छालाको प्रकार-५</annotation>
+		<annotation cp="🫲🏿">छालाको प्रकार-६ | बायाँँ | बायाँँतिर | बायाँँतिर देेखाएको हात | हात</annotation>
+		<annotation cp="🫲🏿" type="tts">बायाँँतिर देेखाएको हात: छालाको प्रकार-६</annotation>
+		<annotation cp="🫳🏻">खारेजी | छालाको प्रकार-१-२ | छोड्नु | शु | हत्केला तल पारेको हात</annotation>
+		<annotation cp="🫳🏻" type="tts">हत्केला तल पारेको हात: छालाको प्रकार-१-२</annotation>
+		<annotation cp="🫳🏼">खारेजी | छालाको प्रकार-३ | छोड्नु | शु | हत्केला तल पारेको हात</annotation>
+		<annotation cp="🫳🏼" type="tts">हत्केला तल पारेको हात: छालाको प्रकार-३</annotation>
+		<annotation cp="🫳🏽">खारेजी | छालाको प्रकार-४ | छोड्नु | शु | हत्केला तल पारेको हात</annotation>
+		<annotation cp="🫳🏽" type="tts">हत्केला तल पारेको हात: छालाको प्रकार-४</annotation>
+		<annotation cp="🫳🏾">खारेजी | छालाको प्रकार-५ | छोड्नु | शु | हत्केला तल पारेको हात</annotation>
+		<annotation cp="🫳🏾" type="tts">हत्केला तल पारेको हात: छालाको प्रकार-५</annotation>
+		<annotation cp="🫳🏿">खारेजी | छालाको प्रकार-६ | छोड्नु | शु | हत्केला तल पारेको हात</annotation>
+		<annotation cp="🫳🏿" type="tts">हत्केला तल पारेको हात: छालाको प्रकार-६</annotation>
+		<annotation cp="🫴🏻">आउनु | छालाको प्रकार-१-२ | प्रस्ताव | बेकन | समात्नु | हत्केला माथि पारेको हात</annotation>
+		<annotation cp="🫴🏻" type="tts">हत्केला माथि पारेको हात: छालाको प्रकार-१-२</annotation>
+		<annotation cp="🫴🏼">आउनु | छालाको प्रकार-३ | प्रस्ताव | बेकन | समात्नु | हत्केला माथि पारेको हात</annotation>
+		<annotation cp="🫴🏼" type="tts">हत्केला माथि पारेको हात: छालाको प्रकार-३</annotation>
+		<annotation cp="🫴🏽">आउनु | छालाको प्रकार-४ | प्रस्ताव | बेकन | समात्नु | हत्केला माथि पारेको हात</annotation>
+		<annotation cp="🫴🏽" type="tts">हत्केला माथि पारेको हात: छालाको प्रकार-४</annotation>
+		<annotation cp="🫴🏾">आउनु | छालाको प्रकार-५ | प्रस्ताव | बेकन | समात्नु | हत्केला माथि पारेको हात</annotation>
+		<annotation cp="🫴🏾" type="tts">हत्केला माथि पारेको हात: छालाको प्रकार-५</annotation>
+		<annotation cp="🫴🏿">आउनु | छालाको प्रकार-६ | प्रस्ताव | बेकन | समात्नु | हत्केला माथि पारेको हात</annotation>
+		<annotation cp="🫴🏿" type="tts">हत्केला माथि पारेको हात: छालाको प्रकार-६</annotation>
+		<annotation cp="🫷🏻">अस्वीकार गर्नु | कदेेकद | छालाको प्रकार-१-२ | ठेल्नु | देब्रेतिर | पर्खनु | रोकिनु | हाइ फाइभ</annotation>
+		<annotation cp="🫷🏻" type="tts">कदेेकद: छालाको प्रकार-१-२</annotation>
+		<annotation cp="🫷🏼">अस्वीकार गर्नु | कदेेकद | छालाको प्रकार-३ | ठेल्नु | देब्रेतिर | पर्खनु | रोकिनु | हाइ फाइभ</annotation>
+		<annotation cp="🫷🏼" type="tts">कदेेकद: छालाको प्रकार-३</annotation>
+		<annotation cp="🫷🏽">अस्वीकार गर्नु | कदेेकद | छालाको प्रकार-४ | ठेल्नु | देब्रेतिर | पर्खनु | रोकिनु | हाइ फाइभ</annotation>
+		<annotation cp="🫷🏽" type="tts">कदेेकद: छालाको प्रकार-४</annotation>
+		<annotation cp="🫷🏾">अस्वीकार गर्नु | कदेेकद | छालाको प्रकार-५ | ठेल्नु | देब्रेतिर | पर्खनु | रोकिनु | हाइ फाइभ</annotation>
+		<annotation cp="🫷🏾" type="tts">कदेेकद: छालाको प्रकार-५</annotation>
+		<annotation cp="🫷🏿">अस्वीकार गर्नु | कदेेकद | छालाको प्रकार-६ | ठेल्नु | देब्रेतिर | पर्खनु | रोकिनु | हाइ फाइभ</annotation>
+		<annotation cp="🫷🏿" type="tts">कदेेकद: छालाको प्रकार-६</annotation>
+		<annotation cp="🫸🏻">अस्वीकार गर्नु | छालाको प्रकार-१-२ | ठेल्नु | दाहिनेतिर | दाहिनेतिर ठेल्दै गरेको हात | पर्खनु | रोकिनु | हाइ फाइभ</annotation>
+		<annotation cp="🫸🏻" type="tts">दाहिनेतिर ठेल्दै गरेको हात: छालाको प्रकार-१-२</annotation>
+		<annotation cp="🫸🏼">अस्वीकार गर्नु | छालाको प्रकार-३ | ठेल्नु | दाहिनेतिर | दाहिनेतिर ठेल्दै गरेको हात | पर्खनु | रोकिनु | हाइ फाइभ</annotation>
+		<annotation cp="🫸🏼" type="tts">दाहिनेतिर ठेल्दै गरेको हात: छालाको प्रकार-३</annotation>
+		<annotation cp="🫸🏽">अस्वीकार गर्नु | छालाको प्रकार-४ | ठेल्नु | दाहिनेतिर | दाहिनेतिर ठेल्दै गरेको हात | पर्खनु | रोकिनु | हाइ फाइभ</annotation>
+		<annotation cp="🫸🏽" type="tts">दाहिनेतिर ठेल्दै गरेको हात: छालाको प्रकार-४</annotation>
+		<annotation cp="🫸🏾">अस्वीकार गर्नु | छालाको प्रकार-५ | ठेल्नु | दाहिनेतिर | दाहिनेतिर ठेल्दै गरेको हात | पर्खनु | रोकिनु | हाइ फाइभ</annotation>
+		<annotation cp="🫸🏾" type="tts">दाहिनेतिर ठेल्दै गरेको हात: छालाको प्रकार-५</annotation>
+		<annotation cp="🫸🏿">अस्वीकार गर्नु | छालाको प्रकार-६ | ठेल्नु | दाहिनेतिर | दाहिनेतिर ठेल्दै गरेको हात | पर्खनु | रोकिनु | हाइ फाइभ</annotation>
+		<annotation cp="🫸🏿" type="tts">दाहिनेतिर ठेल्दै गरेको हात: छालाको प्रकार-६</annotation>
 		<annotation cp="👌🏻">छालाको प्रकार-१-२ | ठीक | ठीक छ जनाउने औंला | शरीर | हात</annotation>
 		<annotation cp="👌🏻" type="tts">ठीक छ जनाउने औंला: छालाको प्रकार-१-२</annotation>
 		<annotation cp="👌🏼">छालाको प्रकार-३ | ठीक | ठीक छ जनाउने औंला | शरीर | हात</annotation>
@@ -112,6 +213,16 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🤞🏾" type="tts">प्रार्थना गरिरहेको मुद्रा: छालाको प्रकार-५</annotation>
 		<annotation cp="🤞🏿">औंला | काट्नु | छालाको प्रकार-६ | प्रार्थना गरिरहेको मुद्रा | भाग्य | हात</annotation>
 		<annotation cp="🤞🏿" type="tts">प्रार्थना गरिरहेको मुद्रा: छालाको प्रकार-६</annotation>
+		<annotation cp="🫰🏻">छालाको प्रकार-१-२ | तत्काल | दिल | पैसा | बुढी औँला र चोर औँला क्रस गरेको हात | महँगो | माया</annotation>
+		<annotation cp="🫰🏻" type="tts">बुढी औँला र चोर औँला क्रस गरेको हात: छालाको प्रकार-१-२</annotation>
+		<annotation cp="🫰🏼">छालाको प्रकार-३ | तत्काल | दिल | पैसा | बुढी औँला र चोर औँला क्रस गरेको हात | महँगो | माया</annotation>
+		<annotation cp="🫰🏼" type="tts">बुढी औँला र चोर औँला क्रस गरेको हात: छालाको प्रकार-३</annotation>
+		<annotation cp="🫰🏽">छालाको प्रकार-४ | तत्काल | दिल | पैसा | बुढी औँला र चोर औँला क्रस गरेको हात | महँगो | माया</annotation>
+		<annotation cp="🫰🏽" type="tts">बुढी औँला र चोर औँला क्रस गरेको हात: छालाको प्रकार-४</annotation>
+		<annotation cp="🫰🏾">छालाको प्रकार-५ | तत्काल | दिल | पैसा | बुढी औँला र चोर औँला क्रस गरेको हात | महँगो | माया</annotation>
+		<annotation cp="🫰🏾" type="tts">बुढी औँला र चोर औँला क्रस गरेको हात: छालाको प्रकार-५</annotation>
+		<annotation cp="🫰🏿">छालाको प्रकार-६ | तत्काल | दिल | पैसा | बुढी औँला र चोर औँला क्रस गरेको हात | महँगो | माया</annotation>
+		<annotation cp="🫰🏿" type="tts">बुढी औँला र चोर औँला क्रस गरेको हात: छालाको प्रकार-६</annotation>
 		<annotation cp="🤟🏻">छालाको प्रकार-१-२ | प्रेमपूर्ण भाव | म तिमीलाई माया गर्छु | हात</annotation>
 		<annotation cp="🤟🏻" type="tts">प्रेमपूर्ण भाव: छालाको प्रकार-१-२</annotation>
 		<annotation cp="🤟🏼">छालाको प्रकार-३ | प्रेमपूर्ण भाव | म तिमीलाई माया गर्छु | हात</annotation>
@@ -202,6 +313,16 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="☝🏾" type="tts">माथितिर देखाइरहेको चोर औंला: छालाको प्रकार-५</annotation>
 		<annotation cp="☝🏿">औंला | छालाको प्रकार-६ | माथि | माथितिर देखाइरहेको चोर औंला | शरीर | संकेत | सूचक | हात</annotation>
 		<annotation cp="☝🏿" type="tts">माथितिर देखाइरहेको चोर औंला: छालाको प्रकार-६</annotation>
+		<annotation cp="🫵🏻">छालाको प्रकार-१-२ | तपाईं | दर्शकतर्फ चोर औँला देखाएको | देखाउनु</annotation>
+		<annotation cp="🫵🏻" type="tts">दर्शकतर्फ चोर औँला देखाएको: छालाको प्रकार-१-२</annotation>
+		<annotation cp="🫵🏼">छालाको प्रकार-३ | तपाईं | दर्शकतर्फ चोर औँला देखाएको | देखाउनु</annotation>
+		<annotation cp="🫵🏼" type="tts">दर्शकतर्फ चोर औँला देखाएको: छालाको प्रकार-३</annotation>
+		<annotation cp="🫵🏽">छालाको प्रकार-४ | तपाईं | दर्शकतर्फ चोर औँला देखाएको | देखाउनु</annotation>
+		<annotation cp="🫵🏽" type="tts">दर्शकतर्फ चोर औँला देखाएको: छालाको प्रकार-४</annotation>
+		<annotation cp="🫵🏾">छालाको प्रकार-५ | तपाईं | दर्शकतर्फ चोर औँला देखाएको | देखाउनु</annotation>
+		<annotation cp="🫵🏾" type="tts">दर्शकतर्फ चोर औँला देखाएको: छालाको प्रकार-५</annotation>
+		<annotation cp="🫵🏿">छालाको प्रकार-६ | तपाईं | दर्शकतर्फ चोर औँला देखाएको | देखाउनु</annotation>
+		<annotation cp="🫵🏿" type="tts">दर्शकतर्फ चोर औँला देखाएको: छालाको प्रकार-६</annotation>
 		<annotation cp="👍🏻">‌+1 | गजब | छालाको प्रकार-१-२ | बूढी औंला | माथि | हात</annotation>
 		<annotation cp="👍🏻" type="tts">गजब: छालाको प्रकार-१-२</annotation>
 		<annotation cp="👍🏼">‌+1 | गजब | छालाको प्रकार-३ | बूढी औंला | माथि | हात</annotation>
@@ -282,6 +403,16 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🙌🏾" type="tts">हात उठाइरहेको व्यक्ति: छालाको प्रकार-५</annotation>
 		<annotation cp="🙌🏿">उठाएको | छालाको प्रकार-६ | भाव प्रदर्शन | शरीर | समारोह | हात | हात उठाइरहेको व्यक्ति | हुर्रे</annotation>
 		<annotation cp="🙌🏿" type="tts">हात उठाइरहेको व्यक्ति: छालाको प्रकार-६</annotation>
+		<annotation cp="🫶🏻">छालाको प्रकार-१-२ | माया | हातले दिल बनाएको</annotation>
+		<annotation cp="🫶🏻" type="tts">हातले दिल बनाएको: छालाको प्रकार-१-२</annotation>
+		<annotation cp="🫶🏼">छालाको प्रकार-३ | माया | हातले दिल बनाएको</annotation>
+		<annotation cp="🫶🏼" type="tts">हातले दिल बनाएको: छालाको प्रकार-३</annotation>
+		<annotation cp="🫶🏽">छालाको प्रकार-४ | माया | हातले दिल बनाएको</annotation>
+		<annotation cp="🫶🏽" type="tts">हातले दिल बनाएको: छालाको प्रकार-४</annotation>
+		<annotation cp="🫶🏾">छालाको प्रकार-५ | माया | हातले दिल बनाएको</annotation>
+		<annotation cp="🫶🏾" type="tts">हातले दिल बनाएको: छालाको प्रकार-५</annotation>
+		<annotation cp="🫶🏿">छालाको प्रकार-६ | माया | हातले दिल बनाएको</annotation>
+		<annotation cp="🫶🏿" type="tts">हातले दिल बनाएको: छालाको प्रकार-६</annotation>
 		<annotation cp="👐🏻">खुला | खुला हातहरू | छालाको प्रकार-१-२ | शरीर | हात</annotation>
 		<annotation cp="👐🏻" type="tts">खुला हातहरू: छालाको प्रकार-१-२</annotation>
 		<annotation cp="👐🏼">खुला | खुला हातहरू | छालाको प्रकार-३ | शरीर | हात</annotation>
@@ -302,6 +433,16 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🤲🏾" type="tts">माथि जोडिएको जोर हात: छालाको प्रकार-५</annotation>
 		<annotation cp="🤲🏿">छालाको प्रकार-६ | प्रार्थना | माथि जोडिएको जोर हात</annotation>
 		<annotation cp="🤲🏿" type="tts">माथि जोडिएको जोर हात: छालाको प्रकार-६</annotation>
+		<annotation cp="🤝🏻">छालाको प्रकार-१-२ | बैठक | सम्झौंता | हल्लाउने | हात | हात मिलाउने कार्य</annotation>
+		<annotation cp="🤝🏻" type="tts">हात मिलाउने कार्य: छालाको प्रकार-१-२</annotation>
+		<annotation cp="🤝🏼">छालाको प्रकार-३ | बैठक | सम्झौंता | हल्लाउने | हात | हात मिलाउने कार्य</annotation>
+		<annotation cp="🤝🏼" type="tts">हात मिलाउने कार्य: छालाको प्रकार-३</annotation>
+		<annotation cp="🤝🏽">छालाको प्रकार-४ | बैठक | सम्झौंता | हल्लाउने | हात | हात मिलाउने कार्य</annotation>
+		<annotation cp="🤝🏽" type="tts">हात मिलाउने कार्य: छालाको प्रकार-४</annotation>
+		<annotation cp="🤝🏾">छालाको प्रकार-५ | बैठक | सम्झौंता | हल्लाउने | हात | हात मिलाउने कार्य</annotation>
+		<annotation cp="🤝🏾" type="tts">हात मिलाउने कार्य: छालाको प्रकार-५</annotation>
+		<annotation cp="🤝🏿">छालाको प्रकार-६ | बैठक | सम्झौंता | हल्लाउने | हात | हात मिलाउने कार्य</annotation>
+		<annotation cp="🤝🏿" type="tts">हात मिलाउने कार्य: छालाको प्रकार-६</annotation>
 		<annotation cp="🙏🏻">कृपया | छालाको प्रकार-१-२ | जोडिएका हातहरू | धन्यवाद | प्राथना गर्नु | बिन्ती भावमा जोडिएका हातहरू | सोध्नु | हात</annotation>
 		<annotation cp="🙏🏻" type="tts">जोडिएका हातहरू: छालाको प्रकार-१-२</annotation>
 		<annotation cp="🙏🏼">कृपया | छालाको प्रकार-३ | जोडिएका हातहरू | धन्यवाद | प्राथना गर्नु | बिन्ती भावमा जोडिएका हातहरू | सोध्नु | हात</annotation>
@@ -1996,6 +2137,16 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👷🏾‍♀" type="tts">निर्माणसम्बन्धी महिला कामदार: छालाको प्रकार-५</annotation>
 		<annotation cp="👷🏿‍♀">छालाको प्रकार-६ | छोरीमान्छे | निर्माण | निर्माणसम्बन्धी महिला कामदार | मजदुर | महिला</annotation>
 		<annotation cp="👷🏿‍♀" type="tts">निर्माणसम्बन्धी महिला कामदार: छालाको प्रकार-६</annotation>
+		<annotation cp="🫅🏻">छालाको प्रकार-१-२ | भद्र | मुकुटसहितको मान्छे | राजकीय | राजशाही | शाही</annotation>
+		<annotation cp="🫅🏻" type="tts">मुकुटसहितको मान्छे: छालाको प्रकार-१-२</annotation>
+		<annotation cp="🫅🏼">छालाको प्रकार-३ | भद्र | मुकुटसहितको मान्छे | राजकीय | राजशाही | शाही</annotation>
+		<annotation cp="🫅🏼" type="tts">मुकुटसहितको मान्छे: छालाको प्रकार-३</annotation>
+		<annotation cp="🫅🏽">छालाको प्रकार-४ | भद्र | मुकुटसहितको मान्छे | राजकीय | राजशाही | शाही</annotation>
+		<annotation cp="🫅🏽" type="tts">मुकुटसहितको मान्छे: छालाको प्रकार-४</annotation>
+		<annotation cp="🫅🏾">छालाको प्रकार-५ | भद्र | मुकुटसहितको मान्छे | राजकीय | राजशाही | शाही</annotation>
+		<annotation cp="🫅🏾" type="tts">मुकुटसहितको मान्छे: छालाको प्रकार-५</annotation>
+		<annotation cp="🫅🏿">छालाको प्रकार-६ | भद्र | मुकुटसहितको मान्छे | राजकीय | राजशाही | शाही</annotation>
+		<annotation cp="🫅🏿" type="tts">मुकुटसहितको मान्छे: छालाको प्रकार-६</annotation>
 		<annotation cp="🤴🏻">छालाको प्रकार-१-२ | राजकुमार</annotation>
 		<annotation cp="🤴🏻" type="tts">राजकुमार: छालाको प्रकार-१-२</annotation>
 		<annotation cp="🤴🏼">छालाको प्रकार-३ | राजकुमार</annotation>
@@ -2136,6 +2287,26 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🤰🏾" type="tts">गर्भवती आइमाई: छालाको प्रकार-५</annotation>
 		<annotation cp="🤰🏿">आइमाई | गर्भवती | छालाको प्रकार-६</annotation>
 		<annotation cp="🤰🏿" type="tts">गर्भवती आइमाई: छालाको प्रकार-६</annotation>
+		<annotation cp="🫃🏻">गर्भवती | गर्भसहितको पुरुष | छालाको प्रकार-१-२ | पेट | पेटे | भरिएको</annotation>
+		<annotation cp="🫃🏻" type="tts">गर्भसहितको पुरुष: छालाको प्रकार-१-२</annotation>
+		<annotation cp="🫃🏼">गर्भवती | गर्भसहितको पुरुष | छालाको प्रकार-३ | पेट | पेटे | भरिएको</annotation>
+		<annotation cp="🫃🏼" type="tts">गर्भसहितको पुरुष: छालाको प्रकार-३</annotation>
+		<annotation cp="🫃🏽">गर्भवती | गर्भसहितको पुरुष | छालाको प्रकार-४ | पेट | पेटे | भरिएको</annotation>
+		<annotation cp="🫃🏽" type="tts">गर्भसहितको पुरुष: छालाको प्रकार-४</annotation>
+		<annotation cp="🫃🏾">गर्भवती | गर्भसहितको पुरुष | छालाको प्रकार-५ | पेट | पेटे | भरिएको</annotation>
+		<annotation cp="🫃🏾" type="tts">गर्भसहितको पुरुष: छालाको प्रकार-५</annotation>
+		<annotation cp="🫃🏿">गर्भवती | गर्भसहितको पुरुष | छालाको प्रकार-६ | पेट | पेटे | भरिएको</annotation>
+		<annotation cp="🫃🏿" type="tts">गर्भसहितको पुरुष: छालाको प्रकार-६</annotation>
+		<annotation cp="🫄🏻">गर्भवती | गर्भसहितको व्यक्ति | छालाको प्रकार-१-२ | पेट | पेटे | भरिएको</annotation>
+		<annotation cp="🫄🏻" type="tts">गर्भसहितको व्यक्ति: छालाको प्रकार-१-२</annotation>
+		<annotation cp="🫄🏼">गर्भवती | गर्भसहितको व्यक्ति | छालाको प्रकार-३ | पेट | पेटे | भरिएको</annotation>
+		<annotation cp="🫄🏼" type="tts">गर्भसहितको व्यक्ति: छालाको प्रकार-३</annotation>
+		<annotation cp="🫄🏽">गर्भवती | गर्भसहितको व्यक्ति | छालाको प्रकार-४ | पेट | पेटे | भरिएको</annotation>
+		<annotation cp="🫄🏽" type="tts">गर्भसहितको व्यक्ति: छालाको प्रकार-४</annotation>
+		<annotation cp="🫄🏾">गर्भवती | गर्भसहितको व्यक्ति | छालाको प्रकार-५ | पेट | पेटे | भरिएको</annotation>
+		<annotation cp="🫄🏾" type="tts">गर्भसहितको व्यक्ति: छालाको प्रकार-५</annotation>
+		<annotation cp="🫄🏿">गर्भवती | गर्भसहितको व्यक्ति | छालाको प्रकार-६ | पेट | पेटे | भरिएको</annotation>
+		<annotation cp="🫄🏿" type="tts">गर्भसहितको व्यक्ति: छालाको प्रकार-६</annotation>
 		<annotation cp="🤱🏻">छालाको प्रकार-१-२ | शिशु | स्तन | स्तनपान | स्याहारसुसार</annotation>
 		<annotation cp="🤱🏻" type="tts">स्तनपान: छालाको प्रकार-१-२</annotation>
 		<annotation cp="🤱🏼">छालाको प्रकार-३ | शिशु | स्तन | स्तनपान | स्याहारसुसार</annotation>
@@ -2166,15 +2337,15 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👨🏾‍🍼" type="tts">शिशुलाई खाना ख्वाइरहेको पुरुष: छालाको प्रकार-५</annotation>
 		<annotation cp="👨🏿‍🍼">खाना ख्वाउँदै | छालाको प्रकार-६ | पुरुष | शिशु | शिशुलाई खाना ख्वाइरहेको पुरुष | स्याहारसुसार</annotation>
 		<annotation cp="👨🏿‍🍼" type="tts">शिशुलाई खाना ख्वाइरहेको पुरुष: छालाको प्रकार-६</annotation>
-		<annotation cp="🧑🏻‍🍼">छालाको प्रकार-१-२ | शिशु, खाना ख्वाउँदै, स्याहारसुसार, मान्छे | शिशुलाई खाना ख्वाइरहेको मान्छे</annotation>
+		<annotation cp="🧑🏻‍🍼">अभिभावक | आया | ख्वाउँदै | ख्वाउनु | छालाको प्रकार-१-२ | नवजात शिशु | शिशु | स्याहारसुसार</annotation>
 		<annotation cp="🧑🏻‍🍼" type="tts">शिशुलाई खाना ख्वाइरहेको मान्छे: छालाको प्रकार-१-२</annotation>
-		<annotation cp="🧑🏼‍🍼">छालाको प्रकार-३ | शिशु, खाना ख्वाउँदै, स्याहारसुसार, मान्छे | शिशुलाई खाना ख्वाइरहेको मान्छे</annotation>
+		<annotation cp="🧑🏼‍🍼">अभिभावक | आया | ख्वाउँदै | ख्वाउनु | छालाको प्रकार-३ | नवजात शिशु | शिशु | स्याहारसुसार</annotation>
 		<annotation cp="🧑🏼‍🍼" type="tts">शिशुलाई खाना ख्वाइरहेको मान्छे: छालाको प्रकार-३</annotation>
-		<annotation cp="🧑🏽‍🍼">छालाको प्रकार-४ | शिशु, खाना ख्वाउँदै, स्याहारसुसार, मान्छे | शिशुलाई खाना ख्वाइरहेको मान्छे</annotation>
+		<annotation cp="🧑🏽‍🍼">अभिभावक | आया | ख्वाउँदै | ख्वाउनु | छालाको प्रकार-४ | नवजात शिशु | शिशु | स्याहारसुसार</annotation>
 		<annotation cp="🧑🏽‍🍼" type="tts">शिशुलाई खाना ख्वाइरहेको मान्छे: छालाको प्रकार-४</annotation>
-		<annotation cp="🧑🏾‍🍼">छालाको प्रकार-५ | शिशु, खाना ख्वाउँदै, स्याहारसुसार, मान्छे | शिशुलाई खाना ख्वाइरहेको मान्छे</annotation>
+		<annotation cp="🧑🏾‍🍼">अभिभावक | आया | ख्वाउँदै | ख्वाउनु | छालाको प्रकार-५ | नवजात शिशु | शिशु | स्याहारसुसार</annotation>
 		<annotation cp="🧑🏾‍🍼" type="tts">शिशुलाई खाना ख्वाइरहेको मान्छे: छालाको प्रकार-५</annotation>
-		<annotation cp="🧑🏿‍🍼">छालाको प्रकार-६ | शिशु, खाना ख्वाउँदै, स्याहारसुसार, मान्छे | शिशुलाई खाना ख्वाइरहेको मान्छे</annotation>
+		<annotation cp="🧑🏿‍🍼">अभिभावक | आया | ख्वाउँदै | ख्वाउनु | छालाको प्रकार-६ | नवजात शिशु | शिशु | स्याहारसुसार</annotation>
 		<annotation cp="🧑🏿‍🍼" type="tts">शिशुलाई खाना ख्वाइरहेको मान्छे: छालाको प्रकार-६</annotation>
 		<annotation cp="👼🏻">अनुहार | खेस्रा कल्पना | छालाको प्रकार-१-२ | परी | परीको कथा | बच्चा</annotation>
 		<annotation cp="👼🏻" type="tts">बच्चा परी: छालाको प्रकार-१-२</annotation>
@@ -2206,15 +2377,15 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🤶🏾" type="tts">श्रीमती क्लज: छालाको प्रकार-५</annotation>
 		<annotation cp="🤶🏿">आमा | उत्सव | क्रिस्मस | क्लज | छालाको प्रकार-६ | श्रीमती | श्रीमान्</annotation>
 		<annotation cp="🤶🏿" type="tts">श्रीमती क्लज: छालाको प्रकार-६</annotation>
-		<annotation cp="🧑🏻‍🎄">क्लज, क्रिस्मस | छालाको प्रकार-१-२ | मेक्स क्लज</annotation>
+		<annotation cp="🧑🏻‍🎄">उत्सव | एक्समस | एमएक्स | कल्पना | किंवदन्ती | क्रिस्मस | क्लज | खुसी | छालाको प्रकार-१-२ | परी | बिदाका दिन | सेन्टा</annotation>
 		<annotation cp="🧑🏻‍🎄" type="tts">मेक्स क्लज: छालाको प्रकार-१-२</annotation>
-		<annotation cp="🧑🏼‍🎄">क्लज, क्रिस्मस | छालाको प्रकार-३ | मेक्स क्लज</annotation>
+		<annotation cp="🧑🏼‍🎄">उत्सव | एक्समस | एमएक्स | कल्पना | किंवदन्ती | क्रिस्मस | क्लज | खुसी | छालाको प्रकार-३ | परी | बिदाका दिन | सेन्टा</annotation>
 		<annotation cp="🧑🏼‍🎄" type="tts">मेक्स क्लज: छालाको प्रकार-३</annotation>
-		<annotation cp="🧑🏽‍🎄">क्लज, क्रिस्मस | छालाको प्रकार-४ | मेक्स क्लज</annotation>
+		<annotation cp="🧑🏽‍🎄">उत्सव | एक्समस | एमएक्स | कल्पना | किंवदन्ती | क्रिस्मस | क्लज | खुसी | छालाको प्रकार-४ | परी | बिदाका दिन | सेन्टा</annotation>
 		<annotation cp="🧑🏽‍🎄" type="tts">मेक्स क्लज: छालाको प्रकार-४</annotation>
-		<annotation cp="🧑🏾‍🎄">क्लज, क्रिस्मस | छालाको प्रकार-५ | मेक्स क्लज</annotation>
+		<annotation cp="🧑🏾‍🎄">उत्सव | एक्समस | एमएक्स | कल्पना | किंवदन्ती | क्रिस्मस | क्लज | खुसी | छालाको प्रकार-५ | परी | बिदाका दिन | सेन्टा</annotation>
 		<annotation cp="🧑🏾‍🎄" type="tts">मेक्स क्लज: छालाको प्रकार-५</annotation>
-		<annotation cp="🧑🏿‍🎄">क्लज, क्रिस्मस | छालाको प्रकार-६ | मेक्स क्लज</annotation>
+		<annotation cp="🧑🏿‍🎄">उत्सव | एक्समस | एमएक्स | कल्पना | किंवदन्ती | क्रिस्मस | क्लज | खुसी | छालाको प्रकार-६ | परी | बिदाका दिन | सेन्टा</annotation>
 		<annotation cp="🧑🏿‍🎄" type="tts">मेक्स क्लज: छालाको प्रकार-६</annotation>
 		<annotation cp="🦸🏻">छालाको प्रकार-१-२ | राम्रो | सुपरपावर | सुपरहिरो | हिरो | हिरोइन</annotation>
 		<annotation cp="🦸🏻" type="tts">सुपरहिरो: छालाको प्रकार-१-२</annotation>
@@ -3967,7 +4138,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🇹🇴">झण्डा</annotation>
 		<annotation cp="🇹🇴" type="tts">झण्डा: टोंगा</annotation>
 		<annotation cp="🇹🇷">झण्डा</annotation>
-		<annotation cp="🇹🇷" type="tts">झण्डा: टर्की</annotation>
+		<annotation cp="🇹🇷" type="tts">झण्डा: तुर्किये</annotation>
 		<annotation cp="🇹🇹">झण्डा</annotation>
 		<annotation cp="🇹🇹" type="tts">झण्डा: त्रिनिडाड एण्ड टोबागो</annotation>
 		<annotation cp="🇹🇻">झण्डा</annotation>

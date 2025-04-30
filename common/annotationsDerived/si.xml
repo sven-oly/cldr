@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE ldml SYSTEM "../../common/dtd/ldml.dtd">
-<!-- Copyright © 1991-2020 Unicode, Inc.
+<!-- Copyright © 1991-2024 Unicode, Inc.
 For terms of use, see http://www.unicode.org/copyright.html
-Unicode and the Unicode Logo are registered trademarks of Unicode, Inc. in the U.S. and other countries.
+SPDX-License-Identifier: Unicode-3.0
 CLDR data files are interpreted according to the LDML specification (http://unicode.org/reports/tr35/)
+
+Derived short names and annotations, using GenerateDerivedAnnotations.java. See warnings in /annotations/ file.
 -->
-<!-- Derived short names and annotations, using GenerateDerivedAnnotations.java. See warnings in /annotations/ file. -->
 <ldml>
 	<identity>
 		<version number="$Revision$"/>
@@ -62,6 +63,106 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🖖🏾" type="tts">වල්කන් සැලියුට්: සමෙහි වර්ගය-5</annotation>
 		<annotation cp="🖖🏿">අත | ඇඟිල්ල | වල්කන් | වල්කන් සැලියුට් | සමෙහි වර්ගය-6 | ස්පොක්</annotation>
 		<annotation cp="🖖🏿" type="tts">වල්කන් සැලියුට්: සමෙහි වර්ගය-6</annotation>
+		<annotation cp="🫱🏻">අත | දකුණ | දකුණු පැත්තට | දකුණු පැත්තට අත | සමෙහි වර්ගය-1-2</annotation>
+		<annotation cp="🫱🏻" type="tts">දකුණු පැත්තට අත: සමෙහි වර්ගය-1-2</annotation>
+		<annotation cp="🫱🏼">අත | දකුණ | දකුණු පැත්තට | දකුණු පැත්තට අත | සමෙහි වර්ගය-3</annotation>
+		<annotation cp="🫱🏼" type="tts">දකුණු පැත්තට අත: සමෙහි වර්ගය-3</annotation>
+		<annotation cp="🫱🏽">අත | දකුණ | දකුණු පැත්තට | දකුණු පැත්තට අත | සමෙහි වර්ගය-4</annotation>
+		<annotation cp="🫱🏽" type="tts">දකුණු පැත්තට අත: සමෙහි වර්ගය-4</annotation>
+		<annotation cp="🫱🏾">අත | දකුණ | දකුණු පැත්තට | දකුණු පැත්තට අත | සමෙහි වර්ගය-5</annotation>
+		<annotation cp="🫱🏾" type="tts">දකුණු පැත්තට අත: සමෙහි වර්ගය-5</annotation>
+		<annotation cp="🫱🏿">අත | දකුණ | දකුණු පැත්තට | දකුණු පැත්තට අත | සමෙහි වර්ගය-6</annotation>
+		<annotation cp="🫱🏿" type="tts">දකුණු පැත්තට අත: සමෙහි වර්ගය-6</annotation>
+		<annotation cp="🫱🏻‍🫲🏼">අත | අතට අත දීම | එකඟත්වය | සමෙහි වර්ගය-1-2 | සමෙහි වර්ගය-3 | සෙලවීම | හමුවීම</annotation>
+		<annotation cp="🫱🏻‍🫲🏼" type="tts">අතට අත දීම: සමෙහි වර්ගය-1-2 සහ සමෙහි වර්ගය-3</annotation>
+		<annotation cp="🫱🏻‍🫲🏽">අත | අතට අත දීම | එකඟත්වය | සමෙහි වර්ගය-1-2 | සමෙහි වර්ගය-4 | සෙලවීම | හමුවීම</annotation>
+		<annotation cp="🫱🏻‍🫲🏽" type="tts">අතට අත දීම: සමෙහි වර්ගය-1-2 සහ සමෙහි වර්ගය-4</annotation>
+		<annotation cp="🫱🏻‍🫲🏾">අත | අතට අත දීම | එකඟත්වය | සමෙහි වර්ගය-1-2 | සමෙහි වර්ගය-5 | සෙලවීම | හමුවීම</annotation>
+		<annotation cp="🫱🏻‍🫲🏾" type="tts">අතට අත දීම: සමෙහි වර්ගය-1-2 සහ සමෙහි වර්ගය-5</annotation>
+		<annotation cp="🫱🏻‍🫲🏿">අත | අතට අත දීම | එකඟත්වය | සමෙහි වර්ගය-1-2 | සමෙහි වර්ගය-6 | සෙලවීම | හමුවීම</annotation>
+		<annotation cp="🫱🏻‍🫲🏿" type="tts">අතට අත දීම: සමෙහි වර්ගය-1-2 සහ සමෙහි වර්ගය-6</annotation>
+		<annotation cp="🫱🏼‍🫲🏻">අත | අතට අත දීම | එකඟත්වය | සමෙහි වර්ගය-1-2 | සමෙහි වර්ගය-3 | සෙලවීම | හමුවීම</annotation>
+		<annotation cp="🫱🏼‍🫲🏻" type="tts">අතට අත දීම: සමෙහි වර්ගය-3 සහ සමෙහි වර්ගය-1-2</annotation>
+		<annotation cp="🫱🏼‍🫲🏽">අත | අතට අත දීම | එකඟත්වය | සමෙහි වර්ගය-3 | සමෙහි වර්ගය-4 | සෙලවීම | හමුවීම</annotation>
+		<annotation cp="🫱🏼‍🫲🏽" type="tts">අතට අත දීම: සමෙහි වර්ගය-3 සහ සමෙහි වර්ගය-4</annotation>
+		<annotation cp="🫱🏼‍🫲🏾">අත | අතට අත දීම | එකඟත්වය | සමෙහි වර්ගය-3 | සමෙහි වර්ගය-5 | සෙලවීම | හමුවීම</annotation>
+		<annotation cp="🫱🏼‍🫲🏾" type="tts">අතට අත දීම: සමෙහි වර්ගය-3 සහ සමෙහි වර්ගය-5</annotation>
+		<annotation cp="🫱🏼‍🫲🏿">අත | අතට අත දීම | එකඟත්වය | සමෙහි වර්ගය-3 | සමෙහි වර්ගය-6 | සෙලවීම | හමුවීම</annotation>
+		<annotation cp="🫱🏼‍🫲🏿" type="tts">අතට අත දීම: සමෙහි වර්ගය-3 සහ සමෙහි වර්ගය-6</annotation>
+		<annotation cp="🫱🏽‍🫲🏻">අත | අතට අත දීම | එකඟත්වය | සමෙහි වර්ගය-1-2 | සමෙහි වර්ගය-4 | සෙලවීම | හමුවීම</annotation>
+		<annotation cp="🫱🏽‍🫲🏻" type="tts">අතට අත දීම: සමෙහි වර්ගය-4 සහ සමෙහි වර්ගය-1-2</annotation>
+		<annotation cp="🫱🏽‍🫲🏼">අත | අතට අත දීම | එකඟත්වය | සමෙහි වර්ගය-3 | සමෙහි වර්ගය-4 | සෙලවීම | හමුවීම</annotation>
+		<annotation cp="🫱🏽‍🫲🏼" type="tts">අතට අත දීම: සමෙහි වර්ගය-4 සහ සමෙහි වර්ගය-3</annotation>
+		<annotation cp="🫱🏽‍🫲🏾">අත | අතට අත දීම | එකඟත්වය | සමෙහි වර්ගය-4 | සමෙහි වර්ගය-5 | සෙලවීම | හමුවීම</annotation>
+		<annotation cp="🫱🏽‍🫲🏾" type="tts">අතට අත දීම: සමෙහි වර්ගය-4 සහ සමෙහි වර්ගය-5</annotation>
+		<annotation cp="🫱🏽‍🫲🏿">අත | අතට අත දීම | එකඟත්වය | සමෙහි වර්ගය-4 | සමෙහි වර්ගය-6 | සෙලවීම | හමුවීම</annotation>
+		<annotation cp="🫱🏽‍🫲🏿" type="tts">අතට අත දීම: සමෙහි වර්ගය-4 සහ සමෙහි වර්ගය-6</annotation>
+		<annotation cp="🫱🏾‍🫲🏻">අත | අතට අත දීම | එකඟත්වය | සමෙහි වර්ගය-1-2 | සමෙහි වර්ගය-5 | සෙලවීම | හමුවීම</annotation>
+		<annotation cp="🫱🏾‍🫲🏻" type="tts">අතට අත දීම: සමෙහි වර්ගය-5 සහ සමෙහි වර්ගය-1-2</annotation>
+		<annotation cp="🫱🏾‍🫲🏼">අත | අතට අත දීම | එකඟත්වය | සමෙහි වර්ගය-3 | සමෙහි වර්ගය-5 | සෙලවීම | හමුවීම</annotation>
+		<annotation cp="🫱🏾‍🫲🏼" type="tts">අතට අත දීම: සමෙහි වර්ගය-5 සහ සමෙහි වර්ගය-3</annotation>
+		<annotation cp="🫱🏾‍🫲🏽">අත | අතට අත දීම | එකඟත්වය | සමෙහි වර්ගය-4 | සමෙහි වර්ගය-5 | සෙලවීම | හමුවීම</annotation>
+		<annotation cp="🫱🏾‍🫲🏽" type="tts">අතට අත දීම: සමෙහි වර්ගය-5 සහ සමෙහි වර්ගය-4</annotation>
+		<annotation cp="🫱🏾‍🫲🏿">අත | අතට අත දීම | එකඟත්වය | සමෙහි වර්ගය-5 | සමෙහි වර්ගය-6 | සෙලවීම | හමුවීම</annotation>
+		<annotation cp="🫱🏾‍🫲🏿" type="tts">අතට අත දීම: සමෙහි වර්ගය-5 සහ සමෙහි වර්ගය-6</annotation>
+		<annotation cp="🫱🏿‍🫲🏻">අත | අතට අත දීම | එකඟත්වය | සමෙහි වර්ගය-1-2 | සමෙහි වර්ගය-6 | සෙලවීම | හමුවීම</annotation>
+		<annotation cp="🫱🏿‍🫲🏻" type="tts">අතට අත දීම: සමෙහි වර්ගය-6 සහ සමෙහි වර්ගය-1-2</annotation>
+		<annotation cp="🫱🏿‍🫲🏼">අත | අතට අත දීම | එකඟත්වය | සමෙහි වර්ගය-3 | සමෙහි වර්ගය-6 | සෙලවීම | හමුවීම</annotation>
+		<annotation cp="🫱🏿‍🫲🏼" type="tts">අතට අත දීම: සමෙහි වර්ගය-6 සහ සමෙහි වර්ගය-3</annotation>
+		<annotation cp="🫱🏿‍🫲🏽">අත | අතට අත දීම | එකඟත්වය | සමෙහි වර්ගය-4 | සමෙහි වර්ගය-6 | සෙලවීම | හමුවීම</annotation>
+		<annotation cp="🫱🏿‍🫲🏽" type="tts">අතට අත දීම: සමෙහි වර්ගය-6 සහ සමෙහි වර්ගය-4</annotation>
+		<annotation cp="🫱🏿‍🫲🏾">අත | අතට අත දීම | එකඟත්වය | සමෙහි වර්ගය-5 | සමෙහි වර්ගය-6 | සෙලවීම | හමුවීම</annotation>
+		<annotation cp="🫱🏿‍🫲🏾" type="tts">අතට අත දීම: සමෙහි වර්ගය-6 සහ සමෙහි වර්ගය-5</annotation>
+		<annotation cp="🫲🏻">අත | වම | වම් පැත්තට | වම් පැත්තට අත | සමෙහි වර්ගය-1-2</annotation>
+		<annotation cp="🫲🏻" type="tts">වම් පැත්තට අත: සමෙහි වර්ගය-1-2</annotation>
+		<annotation cp="🫲🏼">අත | වම | වම් පැත්තට | වම් පැත්තට අත | සමෙහි වර්ගය-3</annotation>
+		<annotation cp="🫲🏼" type="tts">වම් පැත්තට අත: සමෙහි වර්ගය-3</annotation>
+		<annotation cp="🫲🏽">අත | වම | වම් පැත්තට | වම් පැත්තට අත | සමෙහි වර්ගය-4</annotation>
+		<annotation cp="🫲🏽" type="tts">වම් පැත්තට අත: සමෙහි වර්ගය-4</annotation>
+		<annotation cp="🫲🏾">අත | වම | වම් පැත්තට | වම් පැත්තට අත | සමෙහි වර්ගය-5</annotation>
+		<annotation cp="🫲🏾" type="tts">වම් පැත්තට අත: සමෙහි වර්ගය-5</annotation>
+		<annotation cp="🫲🏿">අත | වම | වම් පැත්තට | වම් පැත්තට අත | සමෙහි වර්ගය-6</annotation>
+		<annotation cp="🫲🏿" type="tts">වම් පැත්තට අත: සමෙහි වර්ගය-6</annotation>
+		<annotation cp="🫳🏻">අත්අරිනවා | අත්ල පහළට අත | ඉවත් කරන්න | සමෙහි වර්ගය-1-2</annotation>
+		<annotation cp="🫳🏻" type="tts">අත්ල පහළට අත: සමෙහි වර්ගය-1-2</annotation>
+		<annotation cp="🫳🏼">අත්අරිනවා | අත්ල පහළට අත | ඉවත් කරන්න | සමෙහි වර්ගය-3</annotation>
+		<annotation cp="🫳🏼" type="tts">අත්ල පහළට අත: සමෙහි වර්ගය-3</annotation>
+		<annotation cp="🫳🏽">අත්අරිනවා | අත්ල පහළට අත | ඉවත් කරන්න | සමෙහි වර්ගය-4</annotation>
+		<annotation cp="🫳🏽" type="tts">අත්ල පහළට අත: සමෙහි වර්ගය-4</annotation>
+		<annotation cp="🫳🏾">අත්අරිනවා | අත්ල පහළට අත | ඉවත් කරන්න | සමෙහි වර්ගය-5</annotation>
+		<annotation cp="🫳🏾" type="tts">අත්ල පහළට අත: සමෙහි වර්ගය-5</annotation>
+		<annotation cp="🫳🏿">අත්අරිනවා | අත්ල පහළට අත | ඉවත් කරන්න | සමෙහි වර්ගය-6</annotation>
+		<annotation cp="🫳🏿" type="tts">අත්ල පහළට අත: සමෙහි වර්ගය-6</annotation>
+		<annotation cp="🫴🏻">අත්ල ඉහළට අත | ඇල්ලීම | එන්න | පිරිනැමීම | සමෙහි වර්ගය-1-2</annotation>
+		<annotation cp="🫴🏻" type="tts">අත්ල ඉහළට අත: සමෙහි වර්ගය-1-2</annotation>
+		<annotation cp="🫴🏼">අත්ල ඉහළට අත | ඇල්ලීම | එන්න | පිරිනැමීම | සමෙහි වර්ගය-3</annotation>
+		<annotation cp="🫴🏼" type="tts">අත්ල ඉහළට අත: සමෙහි වර්ගය-3</annotation>
+		<annotation cp="🫴🏽">අත්ල ඉහළට අත | ඇල්ලීම | එන්න | පිරිනැමීම | සමෙහි වර්ගය-4</annotation>
+		<annotation cp="🫴🏽" type="tts">අත්ල ඉහළට අත: සමෙහි වර්ගය-4</annotation>
+		<annotation cp="🫴🏾">අත්ල ඉහළට අත | ඇල්ලීම | එන්න | පිරිනැමීම | සමෙහි වර්ගය-5</annotation>
+		<annotation cp="🫴🏾" type="tts">අත්ල ඉහළට අත: සමෙහි වර්ගය-5</annotation>
+		<annotation cp="🫴🏿">අත්ල ඉහළට අත | ඇල්ලීම | එන්න | පිරිනැමීම | සමෙහි වර්ගය-6</annotation>
+		<annotation cp="🫴🏿" type="tts">අත්ල ඉහළට අත: සමෙහි වර්ගය-6</annotation>
+		<annotation cp="🫷🏻">ඉන්න | ඉහළ පහ | තල්ලු කරනවා | නවත්වන්න | ප්‍රතික්ෂේප කරනවා | වමට | වමට තල්ලු කරන අත | සමෙහි වර්ගය-1-2</annotation>
+		<annotation cp="🫷🏻" type="tts">වමට තල්ලු කරන අත: සමෙහි වර්ගය-1-2</annotation>
+		<annotation cp="🫷🏼">ඉන්න | ඉහළ පහ | තල්ලු කරනවා | නවත්වන්න | ප්‍රතික්ෂේප කරනවා | වමට | වමට තල්ලු කරන අත | සමෙහි වර්ගය-3</annotation>
+		<annotation cp="🫷🏼" type="tts">වමට තල්ලු කරන අත: සමෙහි වර්ගය-3</annotation>
+		<annotation cp="🫷🏽">ඉන්න | ඉහළ පහ | තල්ලු කරනවා | නවත්වන්න | ප්‍රතික්ෂේප කරනවා | වමට | වමට තල්ලු කරන අත | සමෙහි වර්ගය-4</annotation>
+		<annotation cp="🫷🏽" type="tts">වමට තල්ලු කරන අත: සමෙහි වර්ගය-4</annotation>
+		<annotation cp="🫷🏾">ඉන්න | ඉහළ පහ | තල්ලු කරනවා | නවත්වන්න | ප්‍රතික්ෂේප කරනවා | වමට | වමට තල්ලු කරන අත | සමෙහි වර්ගය-5</annotation>
+		<annotation cp="🫷🏾" type="tts">වමට තල්ලු කරන අත: සමෙහි වර්ගය-5</annotation>
+		<annotation cp="🫷🏿">ඉන්න | ඉහළ පහ | තල්ලු කරනවා | නවත්වන්න | ප්‍රතික්ෂේප කරනවා | වමට | වමට තල්ලු කරන අත | සමෙහි වර්ගය-6</annotation>
+		<annotation cp="🫷🏿" type="tts">වමට තල්ලු කරන අත: සමෙහි වර්ගය-6</annotation>
+		<annotation cp="🫸🏻">ඉන්න | ඉහළ පහ | තල්ලු කරනවා | දකුණට | දකුණට තල්ලු කරන අත | නවත්වන්න | ප්‍රතික්ෂේප කරනවා | සමෙහි වර්ගය-1-2</annotation>
+		<annotation cp="🫸🏻" type="tts">දකුණට තල්ලු කරන අත: සමෙහි වර්ගය-1-2</annotation>
+		<annotation cp="🫸🏼">ඉන්න | ඉහළ පහ | තල්ලු කරනවා | දකුණට | දකුණට තල්ලු කරන අත | නවත්වන්න | ප්‍රතික්ෂේප කරනවා | සමෙහි වර්ගය-3</annotation>
+		<annotation cp="🫸🏼" type="tts">දකුණට තල්ලු කරන අත: සමෙහි වර්ගය-3</annotation>
+		<annotation cp="🫸🏽">ඉන්න | ඉහළ පහ | තල්ලු කරනවා | දකුණට | දකුණට තල්ලු කරන අත | නවත්වන්න | ප්‍රතික්ෂේප කරනවා | සමෙහි වර්ගය-4</annotation>
+		<annotation cp="🫸🏽" type="tts">දකුණට තල්ලු කරන අත: සමෙහි වර්ගය-4</annotation>
+		<annotation cp="🫸🏾">ඉන්න | ඉහළ පහ | තල්ලු කරනවා | දකුණට | දකුණට තල්ලු කරන අත | නවත්වන්න | ප්‍රතික්ෂේප කරනවා | සමෙහි වර්ගය-5</annotation>
+		<annotation cp="🫸🏾" type="tts">දකුණට තල්ලු කරන අත: සමෙහි වර්ගය-5</annotation>
+		<annotation cp="🫸🏿">ඉන්න | ඉහළ පහ | තල්ලු කරනවා | දකුණට | දකුණට තල්ලු කරන අත | නවත්වන්න | ප්‍රතික්ෂේප කරනවා | සමෙහි වර්ගය-6</annotation>
+		<annotation cp="🫸🏿" type="tts">දකුණට තල්ලු කරන අත: සමෙහි වර්ගය-6</annotation>
 		<annotation cp="👌🏻">අත | සමෙහි වර්ගය-1-2 | හරි | හරිි යන්න දක්වන අත</annotation>
 		<annotation cp="👌🏻" type="tts">හරිි යන්න දක්වන අත: සමෙහි වර්ගය-1-2</annotation>
 		<annotation cp="👌🏼">අත | සමෙහි වර්ගය-3 | හරි | හරිි යන්න දක්වන අත</annotation>
@@ -112,6 +213,16 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🤞🏾" type="tts">හරස් කළ ඇඟිලි: සමෙහි වර්ගය-5</annotation>
 		<annotation cp="🤞🏿">අත | ඇඟිල්ල | වාසනාව | සමෙහි වර්ගය-6 | හරස් | හරස් කළ ඇඟිලි</annotation>
 		<annotation cp="🤞🏿" type="tts">හරස් කළ ඇඟිලි: සමෙහි වර්ගය-6</annotation>
+		<annotation cp="🫰🏻">ආදරය | දබරැඟිල්ල සහ මාපට ඇඟිල්ල කතිර කළ අත | මිල අධික | මුදල් | සමෙහි වර්ගය-1-2 | සැණෙකින් | හදවත</annotation>
+		<annotation cp="🫰🏻" type="tts">දබරැඟිල්ල සහ මාපට ඇඟිල්ල කතිර කළ අත: සමෙහි වර්ගය-1-2</annotation>
+		<annotation cp="🫰🏼">ආදරය | දබරැඟිල්ල සහ මාපට ඇඟිල්ල කතිර කළ අත | මිල අධික | මුදල් | සමෙහි වර්ගය-3 | සැණෙකින් | හදවත</annotation>
+		<annotation cp="🫰🏼" type="tts">දබරැඟිල්ල සහ මාපට ඇඟිල්ල කතිර කළ අත: සමෙහි වර්ගය-3</annotation>
+		<annotation cp="🫰🏽">ආදරය | දබරැඟිල්ල සහ මාපට ඇඟිල්ල කතිර කළ අත | මිල අධික | මුදල් | සමෙහි වර්ගය-4 | සැණෙකින් | හදවත</annotation>
+		<annotation cp="🫰🏽" type="tts">දබරැඟිල්ල සහ මාපට ඇඟිල්ල කතිර කළ අත: සමෙහි වර්ගය-4</annotation>
+		<annotation cp="🫰🏾">ආදරය | දබරැඟිල්ල සහ මාපට ඇඟිල්ල කතිර කළ අත | මිල අධික | මුදල් | සමෙහි වර්ගය-5 | සැණෙකින් | හදවත</annotation>
+		<annotation cp="🫰🏾" type="tts">දබරැඟිල්ල සහ මාපට ඇඟිල්ල කතිර කළ අත: සමෙහි වර්ගය-5</annotation>
+		<annotation cp="🫰🏿">ආදරය | දබරැඟිල්ල සහ මාපට ඇඟිල්ල කතිර කළ අත | මිල අධික | මුදල් | සමෙහි වර්ගය-6 | සැණෙකින් | හදවත</annotation>
+		<annotation cp="🫰🏿" type="tts">දබරැඟිල්ල සහ මාපට ඇඟිල්ල කතිර කළ අත: සමෙහි වර්ගය-6</annotation>
 		<annotation cp="🤟🏻">අත | ඔආඉ | ඔබට ආදරෙයි ඉඟිය | සමෙහි වර්ගය-1-2</annotation>
 		<annotation cp="🤟🏻" type="tts">ඔබට ආදරෙයි ඉඟිය: සමෙහි වර්ගය-1-2</annotation>
 		<annotation cp="🤟🏼">අත | ඔආඉ | ඔබට ආදරෙයි ඉඟිය | සමෙහි වර්ගය-3</annotation>
@@ -202,6 +313,16 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="☝🏾" type="tts">ඉහළට යොමු වූ දබරැඟිල්ල: සමෙහි වර්ගය-5</annotation>
 		<annotation cp="☝🏿">අත | ඇඟිල්ල | ඉහළට | ඉහළට යොමු වූ දබරැඟිල්ල | ලක්ෂ්‍ය | සමෙහි වර්ගය-6</annotation>
 		<annotation cp="☝🏿" type="tts">ඉහළට යොමු වූ දබරැඟිල්ල: සමෙහි වර්ගය-6</annotation>
+		<annotation cp="🫵🏻">ඉලක්ක කළ | ඔබ | නරඹන්නා දෙසට යොමු කළ දබරැඟිල්ල | සමෙහි වර්ගය-1-2</annotation>
+		<annotation cp="🫵🏻" type="tts">නරඹන්නා දෙසට යොමු කළ දබරැඟිල්ල: සමෙහි වර්ගය-1-2</annotation>
+		<annotation cp="🫵🏼">ඉලක්ක කළ | ඔබ | නරඹන්නා දෙසට යොමු කළ දබරැඟිල්ල | සමෙහි වර්ගය-3</annotation>
+		<annotation cp="🫵🏼" type="tts">නරඹන්නා දෙසට යොමු කළ දබරැඟිල්ල: සමෙහි වර්ගය-3</annotation>
+		<annotation cp="🫵🏽">ඉලක්ක කළ | ඔබ | නරඹන්නා දෙසට යොමු කළ දබරැඟිල්ල | සමෙහි වර්ගය-4</annotation>
+		<annotation cp="🫵🏽" type="tts">නරඹන්නා දෙසට යොමු කළ දබරැඟිල්ල: සමෙහි වර්ගය-4</annotation>
+		<annotation cp="🫵🏾">ඉලක්ක කළ | ඔබ | නරඹන්නා දෙසට යොමු කළ දබරැඟිල්ල | සමෙහි වර්ගය-5</annotation>
+		<annotation cp="🫵🏾" type="tts">නරඹන්නා දෙසට යොමු කළ දබරැඟිල්ල: සමෙහි වර්ගය-5</annotation>
+		<annotation cp="🫵🏿">ඉලක්ක කළ | ඔබ | නරඹන්නා දෙසට යොමු කළ දබරැඟිල්ල | සමෙහි වර්ගය-6</annotation>
+		<annotation cp="🫵🏿" type="tts">නරඹන්නා දෙසට යොමු කළ දබරැඟිල්ල: සමෙහි වර්ගය-6</annotation>
 		<annotation cp="👍🏻">1 | අත | ඉහළට. | මහපටැඟිල්ල | මහපටැඟිල්ල ඉහළට | සමෙහි වර්ගය-1-2</annotation>
 		<annotation cp="👍🏻" type="tts">මහපටැඟිල්ල ඉහළට: සමෙහි වර්ගය-1-2</annotation>
 		<annotation cp="👍🏼">1 | අත | ඉහළට. | මහපටැඟිල්ල | මහපටැඟිල්ල ඉහළට | සමෙහි වර්ගය-3</annotation>
@@ -282,6 +403,16 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🙌🏾" type="tts">අත් ඔසවන පුද්ගලයා: සමෙහි වර්ගය-5</annotation>
 		<annotation cp="🙌🏿">අත | අත් ඔසවන පුද්ගලයා | උත්සවය | උස්සන ලද | ඔල්වරසන් දීම | සමෙහි වර්ගය-6</annotation>
 		<annotation cp="🙌🏿" type="tts">අත් ඔසවන පුද්ගලයා: සමෙහි වර්ගය-6</annotation>
+		<annotation cp="🫶🏻">ආදරය | සමෙහි වර්ගය-1-2 | හදවත අත්</annotation>
+		<annotation cp="🫶🏻" type="tts">හදවත අත්: සමෙහි වර්ගය-1-2</annotation>
+		<annotation cp="🫶🏼">ආදරය | සමෙහි වර්ගය-3 | හදවත අත්</annotation>
+		<annotation cp="🫶🏼" type="tts">හදවත අත්: සමෙහි වර්ගය-3</annotation>
+		<annotation cp="🫶🏽">ආදරය | සමෙහි වර්ගය-4 | හදවත අත්</annotation>
+		<annotation cp="🫶🏽" type="tts">හදවත අත්: සමෙහි වර්ගය-4</annotation>
+		<annotation cp="🫶🏾">ආදරය | සමෙහි වර්ගය-5 | හදවත අත්</annotation>
+		<annotation cp="🫶🏾" type="tts">හදවත අත්: සමෙහි වර්ගය-5</annotation>
+		<annotation cp="🫶🏿">ආදරය | සමෙහි වර්ගය-6 | හදවත අත්</annotation>
+		<annotation cp="🫶🏿" type="tts">හදවත අත්: සමෙහි වර්ගය-6</annotation>
 		<annotation cp="👐🏻">අත | විවෘත | විවෘත අත් | ශරීරය | සමෙහි වර්ගය-1-2</annotation>
 		<annotation cp="👐🏻" type="tts">විවෘත අත්: සමෙහි වර්ගය-1-2</annotation>
 		<annotation cp="👐🏼">අත | විවෘත | විවෘත අත් | ශරීරය | සමෙහි වර්ගය-3</annotation>
@@ -302,6 +433,16 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🤲🏾" type="tts">අත්ලවල් එකට ඉහළ ඔසවා: සමෙහි වර්ගය-5</annotation>
 		<annotation cp="🤲🏿">අත්ලවල් එකට ඉහළ ඔසවා | යාච්ඤා කරනවා | සමෙහි වර්ගය-6</annotation>
 		<annotation cp="🤲🏿" type="tts">අත්ලවල් එකට ඉහළ ඔසවා: සමෙහි වර්ගය-6</annotation>
+		<annotation cp="🤝🏻">අත | අතට අත දීම | එකඟත්වය | සමෙහි වර්ගය-1-2 | සෙලවීම | හමුවීම</annotation>
+		<annotation cp="🤝🏻" type="tts">අතට අත දීම: සමෙහි වර්ගය-1-2</annotation>
+		<annotation cp="🤝🏼">අත | අතට අත දීම | එකඟත්වය | සමෙහි වර්ගය-3 | සෙලවීම | හමුවීම</annotation>
+		<annotation cp="🤝🏼" type="tts">අතට අත දීම: සමෙහි වර්ගය-3</annotation>
+		<annotation cp="🤝🏽">අත | අතට අත දීම | එකඟත්වය | සමෙහි වර්ගය-4 | සෙලවීම | හමුවීම</annotation>
+		<annotation cp="🤝🏽" type="tts">අතට අත දීම: සමෙහි වර්ගය-4</annotation>
+		<annotation cp="🤝🏾">අත | අතට අත දීම | එකඟත්වය | සමෙහි වර්ගය-5 | සෙලවීම | හමුවීම</annotation>
+		<annotation cp="🤝🏾" type="tts">අතට අත දීම: සමෙහි වර්ගය-5</annotation>
+		<annotation cp="🤝🏿">අත | අතට අත දීම | එකඟත්වය | සමෙහි වර්ගය-6 | සෙලවීම | හමුවීම</annotation>
+		<annotation cp="🤝🏿" type="tts">අතට අත දීම: සමෙහි වර්ගය-6</annotation>
 		<annotation cp="🙏🏻">අත | ආචාර කිරීම | එක් කළ දෙඅත් | කරුණාකර | යාච්ඥා කිරීම | සමෙහි වර්ගය-1-2 | ස්තූතිය පළ කිරීම</annotation>
 		<annotation cp="🙏🏻" type="tts">එක් කළ දෙඅත්: සමෙහි වර්ගය-1-2</annotation>
 		<annotation cp="🙏🏼">අත | ආචාර කිරීම | එක් කළ දෙඅත් | කරුණාකර | යාච්ඥා කිරීම | සමෙහි වර්ගය-3 | ස්තූතිය පළ කිරීම</annotation>
@@ -1996,6 +2137,16 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👷🏾‍♀" type="tts">ගැහැණු ඉදිකිරීම් කම්කරුවා: සමෙහි වර්ගය-5</annotation>
 		<annotation cp="👷🏿‍♀">ඉදිකිරිම | කම්කරු | කාන්තාව | ගැහැණු ඉදිකිරීම් කම්කරුවා | සමෙහි වර්ගය-6 | ස්ත්‍රිය</annotation>
 		<annotation cp="👷🏿‍♀" type="tts">ගැහැණු ඉදිකිරීම් කම්කරුවා: සමෙහි වර්ගය-6</annotation>
+		<annotation cp="🫅🏻">උතුම් | ඔටුන්න සහිත පුද්ගලයා | රාජකීය | රාජකීයත්වය | රාජාණ්ඩුව | සමෙහි වර්ගය-1-2</annotation>
+		<annotation cp="🫅🏻" type="tts">ඔටුන්න සහිත පුද්ගලයා: සමෙහි වර්ගය-1-2</annotation>
+		<annotation cp="🫅🏼">උතුම් | ඔටුන්න සහිත පුද්ගලයා | රාජකීය | රාජකීයත්වය | රාජාණ්ඩුව | සමෙහි වර්ගය-3</annotation>
+		<annotation cp="🫅🏼" type="tts">ඔටුන්න සහිත පුද්ගලයා: සමෙහි වර්ගය-3</annotation>
+		<annotation cp="🫅🏽">උතුම් | ඔටුන්න සහිත පුද්ගලයා | රාජකීය | රාජකීයත්වය | රාජාණ්ඩුව | සමෙහි වර්ගය-4</annotation>
+		<annotation cp="🫅🏽" type="tts">ඔටුන්න සහිත පුද්ගලයා: සමෙහි වර්ගය-4</annotation>
+		<annotation cp="🫅🏾">උතුම් | ඔටුන්න සහිත පුද්ගලයා | රාජකීය | රාජකීයත්වය | රාජාණ්ඩුව | සමෙහි වර්ගය-5</annotation>
+		<annotation cp="🫅🏾" type="tts">ඔටුන්න සහිත පුද්ගලයා: සමෙහි වර්ගය-5</annotation>
+		<annotation cp="🫅🏿">උතුම් | ඔටුන්න සහිත පුද්ගලයා | රාජකීය | රාජකීයත්වය | රාජාණ්ඩුව | සමෙහි වර්ගය-6</annotation>
+		<annotation cp="🫅🏿" type="tts">ඔටුන්න සහිත පුද්ගලයා: සමෙහි වර්ගය-6</annotation>
 		<annotation cp="🤴🏻">කුමාරයා | සමෙහි වර්ගය-1-2</annotation>
 		<annotation cp="🤴🏻" type="tts">කුමාරයා: සමෙහි වර්ගය-1-2</annotation>
 		<annotation cp="🤴🏼">කුමාරයා | සමෙහි වර්ගය-3</annotation>
@@ -2136,6 +2287,26 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🤰🏾" type="tts">ගැබිණිය: සමෙහි වර්ගය-5</annotation>
 		<annotation cp="🤰🏿">ගැබිණිය | ගැහැණිය | සමෙහි වර්ගය-6</annotation>
 		<annotation cp="🤰🏿" type="tts">ගැබිණිය: සමෙහි වර්ගය-6</annotation>
+		<annotation cp="🫃🏻">ඉදිමී | ගර්භනී | ගර්භනී මිනිසා | බඩ | සමෙහි වර්ගය-1-2 | සම්පූර්ණ</annotation>
+		<annotation cp="🫃🏻" type="tts">ගර්භනී මිනිසා: සමෙහි වර්ගය-1-2</annotation>
+		<annotation cp="🫃🏼">ඉදිමී | ගර්භනී | ගර්භනී මිනිසා | බඩ | සමෙහි වර්ගය-3 | සම්පූර්ණ</annotation>
+		<annotation cp="🫃🏼" type="tts">ගර්භනී මිනිසා: සමෙහි වර්ගය-3</annotation>
+		<annotation cp="🫃🏽">ඉදිමී | ගර්භනී | ගර්භනී මිනිසා | බඩ | සමෙහි වර්ගය-4 | සම්පූර්ණ</annotation>
+		<annotation cp="🫃🏽" type="tts">ගර්භනී මිනිසා: සමෙහි වර්ගය-4</annotation>
+		<annotation cp="🫃🏾">ඉදිමී | ගර්භනී | ගර්භනී මිනිසා | බඩ | සමෙහි වර්ගය-5 | සම්පූර්ණ</annotation>
+		<annotation cp="🫃🏾" type="tts">ගර්භනී මිනිසා: සමෙහි වර්ගය-5</annotation>
+		<annotation cp="🫃🏿">ඉදිමී | ගර්භනී | ගර්භනී මිනිසා | බඩ | සමෙහි වර්ගය-6 | සම්පූර්ණ</annotation>
+		<annotation cp="🫃🏿" type="tts">ගර්භනී මිනිසා: සමෙහි වර්ගය-6</annotation>
+		<annotation cp="🫄🏻">ඉදිමී | ගර්භනී | ගර්භනී පුද්ගලයා | බඩ | සමෙහි වර්ගය-1-2 | සම්පූර්ණ</annotation>
+		<annotation cp="🫄🏻" type="tts">ගර්භනී පුද්ගලයා: සමෙහි වර්ගය-1-2</annotation>
+		<annotation cp="🫄🏼">ඉදිමී | ගර්භනී | ගර්භනී පුද්ගලයා | බඩ | සමෙහි වර්ගය-3 | සම්පූර්ණ</annotation>
+		<annotation cp="🫄🏼" type="tts">ගර්භනී පුද්ගලයා: සමෙහි වර්ගය-3</annotation>
+		<annotation cp="🫄🏽">ඉදිමී | ගර්භනී | ගර්භනී පුද්ගලයා | බඩ | සමෙහි වර්ගය-4 | සම්පූර්ණ</annotation>
+		<annotation cp="🫄🏽" type="tts">ගර්භනී පුද්ගලයා: සමෙහි වර්ගය-4</annotation>
+		<annotation cp="🫄🏾">ඉදිමී | ගර්භනී | ගර්භනී පුද්ගලයා | බඩ | සමෙහි වර්ගය-5 | සම්පූර්ණ</annotation>
+		<annotation cp="🫄🏾" type="tts">ගර්භනී පුද්ගලයා: සමෙහි වර්ගය-5</annotation>
+		<annotation cp="🫄🏿">ඉදිමී | ගර්භනී | ගර්භනී පුද්ගලයා | බඩ | සමෙහි වර්ගය-6 | සම්පූර්ණ</annotation>
+		<annotation cp="🫄🏿" type="tts">ගර්භනී පුද්ගලයා: සමෙහි වර්ගය-6</annotation>
 		<annotation cp="🤱🏻">කිරි දීම | දරුවා | පියයුරු | සමෙහි වර්ගය-1-2</annotation>
 		<annotation cp="🤱🏻" type="tts">කිරි දීම: සමෙහි වර්ගය-1-2</annotation>
 		<annotation cp="🤱🏼">කිරි දීම | දරුවා | පියයුරු | සමෙහි වර්ගය-3</annotation>
@@ -2206,15 +2377,15 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🤶🏾" type="tts">නතල් ආච්චි: සමෙහි වර්ගය-5</annotation>
 		<annotation cp="🤶🏿">අම්මා | නතල් ආච්චි | නත්තල | සමෙහි වර්ගය-6</annotation>
 		<annotation cp="🤶🏿" type="tts">නතල් ආච්චි: සමෙහි වර්ගය-6</annotation>
-		<annotation cp="🧑🏻‍🎄">නත්තල් සීය | නත්තල් සීයා | සමෙහි වර්ගය-1-2 | සීයා, නත්තල</annotation>
+		<annotation cp="🧑🏻‍🎄">Mx | කතාව | නත්තල් | නත්තල් සීයා | නිවාඩු | වගන්ති | සතුටුයි | සමෙහි වර්ගය-1-2 | සැමරුම | සුරංගනා | ෆැන්ටසි</annotation>
 		<annotation cp="🧑🏻‍🎄" type="tts">නත්තල් සීය: සමෙහි වර්ගය-1-2</annotation>
-		<annotation cp="🧑🏼‍🎄">නත්තල් සීය | නත්තල් සීයා | සමෙහි වර්ගය-3 | සීයා, නත්තල</annotation>
+		<annotation cp="🧑🏼‍🎄">Mx | කතාව | නත්තල් | නත්තල් සීයා | නිවාඩු | වගන්ති | සතුටුයි | සමෙහි වර්ගය-3 | සැමරුම | සුරංගනා | ෆැන්ටසි</annotation>
 		<annotation cp="🧑🏼‍🎄" type="tts">නත්තල් සීය: සමෙහි වර්ගය-3</annotation>
-		<annotation cp="🧑🏽‍🎄">නත්තල් සීය | නත්තල් සීයා | සමෙහි වර්ගය-4 | සීයා, නත්තල</annotation>
+		<annotation cp="🧑🏽‍🎄">Mx | කතාව | නත්තල් | නත්තල් සීයා | නිවාඩු | වගන්ති | සතුටුයි | සමෙහි වර්ගය-4 | සැමරුම | සුරංගනා | ෆැන්ටසි</annotation>
 		<annotation cp="🧑🏽‍🎄" type="tts">නත්තල් සීය: සමෙහි වර්ගය-4</annotation>
-		<annotation cp="🧑🏾‍🎄">නත්තල් සීය | නත්තල් සීයා | සමෙහි වර්ගය-5 | සීයා, නත්තල</annotation>
+		<annotation cp="🧑🏾‍🎄">Mx | කතාව | නත්තල් | නත්තල් සීයා | නිවාඩු | වගන්ති | සතුටුයි | සමෙහි වර්ගය-5 | සැමරුම | සුරංගනා | ෆැන්ටසි</annotation>
 		<annotation cp="🧑🏾‍🎄" type="tts">නත්තල් සීය: සමෙහි වර්ගය-5</annotation>
-		<annotation cp="🧑🏿‍🎄">නත්තල් සීය | නත්තල් සීයා | සමෙහි වර්ගය-6 | සීයා, නත්තල</annotation>
+		<annotation cp="🧑🏿‍🎄">Mx | කතාව | නත්තල් | නත්තල් සීයා | නිවාඩු | වගන්ති | සතුටුයි | සමෙහි වර්ගය-6 | සැමරුම | සුරංගනා | ෆැන්ටසි</annotation>
 		<annotation cp="🧑🏿‍🎄" type="tts">නත්තල් සීය: සමෙහි වර්ගය-6</annotation>
 		<annotation cp="🦸🏻">වීරයෙක් | සමෙහි වර්ගය-1-2 | සුපිරි බලයක් | සුපිරි වීරයා | හෙරෝයින් | හොඳයි</annotation>
 		<annotation cp="🦸🏻" type="tts">සුපිරි වීරයා: සමෙහි වර්ගය-1-2</annotation>
@@ -2516,6 +2687,42 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🚶🏾‍♀" type="tts">ඇවිදීන කාන්තාව: සමෙහි වර්ගය-5</annotation>
 		<annotation cp="🚶🏿‍♀">ඇවිදීන කාන්තාව | ඇවිදීම | කාන්තාව | පයින් යාම | සමෙහි වර්ගය-6 | ස්ත්‍රිය</annotation>
 		<annotation cp="🚶🏿‍♀" type="tts">ඇවිදීන කාන්තාව: සමෙහි වර්ගය-6</annotation>
+		<annotation cp="🚶‍➡">ඇවිදිමින් | ඇවිදීම | දකුණට | පදිකයා | පයින් යාම | මුහුණලා</annotation>
+		<annotation cp="🚶‍➡" type="tts">පදිකයා: දකුණට මුහුණලා</annotation>
+		<annotation cp="🚶🏻‍➡">ඇවිදිමින් | ඇවිදීම | දකුණට | පදිකයා | පයින් යාම | මුහුණලා | සමෙහි වර්ගය-1-2</annotation>
+		<annotation cp="🚶🏻‍➡" type="tts">පදිකයා: සමෙහි වර්ගය-1-2 සහ දකුණට මුහුණලා</annotation>
+		<annotation cp="🚶🏼‍➡">ඇවිදිමින් | ඇවිදීම | දකුණට | පදිකයා | පයින් යාම | මුහුණලා | සමෙහි වර්ගය-3</annotation>
+		<annotation cp="🚶🏼‍➡" type="tts">පදිකයා: සමෙහි වර්ගය-3 සහ දකුණට මුහුණලා</annotation>
+		<annotation cp="🚶🏽‍➡">ඇවිදිමින් | ඇවිදීම | දකුණට | පදිකයා | පයින් යාම | මුහුණලා | සමෙහි වර්ගය-4</annotation>
+		<annotation cp="🚶🏽‍➡" type="tts">පදිකයා: සමෙහි වර්ගය-4 සහ දකුණට මුහුණලා</annotation>
+		<annotation cp="🚶🏾‍➡">ඇවිදිමින් | ඇවිදීම | දකුණට | පදිකයා | පයින් යාම | මුහුණලා | සමෙහි වර්ගය-5</annotation>
+		<annotation cp="🚶🏾‍➡" type="tts">පදිකයා: සමෙහි වර්ගය-5 සහ දකුණට මුහුණලා</annotation>
+		<annotation cp="🚶🏿‍➡">ඇවිදිමින් | ඇවිදීම | දකුණට | පදිකයා | පයින් යාම | මුහුණලා | සමෙහි වර්ගය-6</annotation>
+		<annotation cp="🚶🏿‍➡" type="tts">පදිකයා: සමෙහි වර්ගය-6 සහ දකුණට මුහුණලා</annotation>
+		<annotation cp="🚶‍♀‍➡">ඇවිදීන කාන්තාව | ඇවිදීම | කාන්තාව | දකුණට | පයින් යාම | මුහුණලා | ස්ත්‍රිය</annotation>
+		<annotation cp="🚶‍♀‍➡" type="tts">ඇවිදීන කාන්තාව: දකුණට මුහුණලා</annotation>
+		<annotation cp="🚶🏻‍♀‍➡">ඇවිදීන කාන්තාව | ඇවිදීම | කාන්තාව | දකුණට | පයින් යාම | මුහුණලා | සමෙහි වර්ගය-1-2 | ස්ත්‍රිය</annotation>
+		<annotation cp="🚶🏻‍♀‍➡" type="tts">ඇවිදීන කාන්තාව: සමෙහි වර්ගය-1-2 සහ දකුණට මුහුණලා</annotation>
+		<annotation cp="🚶🏼‍♀‍➡">ඇවිදීන කාන්තාව | ඇවිදීම | කාන්තාව | දකුණට | පයින් යාම | මුහුණලා | සමෙහි වර්ගය-3 | ස්ත්‍රිය</annotation>
+		<annotation cp="🚶🏼‍♀‍➡" type="tts">ඇවිදීන කාන්තාව: සමෙහි වර්ගය-3 සහ දකුණට මුහුණලා</annotation>
+		<annotation cp="🚶🏽‍♀‍➡">ඇවිදීන කාන්තාව | ඇවිදීම | කාන්තාව | දකුණට | පයින් යාම | මුහුණලා | සමෙහි වර්ගය-4 | ස්ත්‍රිය</annotation>
+		<annotation cp="🚶🏽‍♀‍➡" type="tts">ඇවිදීන කාන්තාව: සමෙහි වර්ගය-4 සහ දකුණට මුහුණලා</annotation>
+		<annotation cp="🚶🏾‍♀‍➡">ඇවිදීන කාන්තාව | ඇවිදීම | කාන්තාව | දකුණට | පයින් යාම | මුහුණලා | සමෙහි වර්ගය-5 | ස්ත්‍රිය</annotation>
+		<annotation cp="🚶🏾‍♀‍➡" type="tts">ඇවිදීන කාන්තාව: සමෙහි වර්ගය-5 සහ දකුණට මුහුණලා</annotation>
+		<annotation cp="🚶🏿‍♀‍➡">ඇවිදීන කාන්තාව | ඇවිදීම | කාන්තාව | දකුණට | පයින් යාම | මුහුණලා | සමෙහි වර්ගය-6 | ස්ත්‍රිය</annotation>
+		<annotation cp="🚶🏿‍♀‍➡" type="tts">ඇවිදීන කාන්තාව: සමෙහි වර්ගය-6 සහ දකුණට මුහුණලා</annotation>
+		<annotation cp="🚶‍♂‍➡">ඇවිදීන පිරිමියා | ඇවිදීම | දකුණට | පයින් යාම | පිරිමියා | මිනිහා | මුහුණලා</annotation>
+		<annotation cp="🚶‍♂‍➡" type="tts">ඇවිදීන පිරිමියා: දකුණට මුහුණලා</annotation>
+		<annotation cp="🚶🏻‍♂‍➡">ඇවිදීන පිරිමියා | ඇවිදීම | දකුණට | පයින් යාම | පිරිමියා | මිනිහා | මුහුණලා | සමෙහි වර්ගය-1-2</annotation>
+		<annotation cp="🚶🏻‍♂‍➡" type="tts">ඇවිදීන පිරිමියා: සමෙහි වර්ගය-1-2 සහ දකුණට මුහුණලා</annotation>
+		<annotation cp="🚶🏼‍♂‍➡">ඇවිදීන පිරිමියා | ඇවිදීම | දකුණට | පයින් යාම | පිරිමියා | මිනිහා | මුහුණලා | සමෙහි වර්ගය-3</annotation>
+		<annotation cp="🚶🏼‍♂‍➡" type="tts">ඇවිදීන පිරිමියා: සමෙහි වර්ගය-3 සහ දකුණට මුහුණලා</annotation>
+		<annotation cp="🚶🏽‍♂‍➡">ඇවිදීන පිරිමියා | ඇවිදීම | දකුණට | පයින් යාම | පිරිමියා | මිනිහා | මුහුණලා | සමෙහි වර්ගය-4</annotation>
+		<annotation cp="🚶🏽‍♂‍➡" type="tts">ඇවිදීන පිරිමියා: සමෙහි වර්ගය-4 සහ දකුණට මුහුණලා</annotation>
+		<annotation cp="🚶🏾‍♂‍➡">ඇවිදීන පිරිමියා | ඇවිදීම | දකුණට | පයින් යාම | පිරිමියා | මිනිහා | මුහුණලා | සමෙහි වර්ගය-5</annotation>
+		<annotation cp="🚶🏾‍♂‍➡" type="tts">ඇවිදීන පිරිමියා: සමෙහි වර්ගය-5 සහ දකුණට මුහුණලා</annotation>
+		<annotation cp="🚶🏿‍♂‍➡">ඇවිදීන පිරිමියා | ඇවිදීම | දකුණට | පයින් යාම | පිරිමියා | මිනිහා | මුහුණලා | සමෙහි වර්ගය-6</annotation>
+		<annotation cp="🚶🏿‍♂‍➡" type="tts">ඇවිදීන පිරිමියා: සමෙහි වර්ගය-6 සහ දකුණට මුහුණලා</annotation>
 		<annotation cp="🧍🏻">පුද්ගලයා සිටගෙන සිටී | සමෙහි වර්ගය-1-2 | සිටින්න | සිටීම</annotation>
 		<annotation cp="🧍🏻" type="tts">පුද්ගලයා සිටගෙන සිටී: සමෙහි වර්ගය-1-2</annotation>
 		<annotation cp="🧍🏼">පුද්ගලයා සිටගෙන සිටී | සමෙහි වර්ගය-3 | සිටින්න | සිටීම</annotation>
@@ -2576,6 +2783,42 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🧎🏾‍♀" type="tts">කාන්තාව දණ ගසයි: සමෙහි වර්ගය-5</annotation>
 		<annotation cp="🧎🏿‍♀">කාන්තාව | කාන්තාව දණ ගසයි | දණ ගැසීම | සමෙහි වර්ගය-6</annotation>
 		<annotation cp="🧎🏿‍♀" type="tts">කාන්තාව දණ ගසයි: සමෙහි වර්ගය-6</annotation>
+		<annotation cp="🧎‍➡">දකුණට | දණ ගසන පුද්ගලයා | දණ ගසන්න | දණ ගැසීම | මුහුණලා</annotation>
+		<annotation cp="🧎‍➡" type="tts">දණ ගසන පුද්ගලයා: දකුණට මුහුණලා</annotation>
+		<annotation cp="🧎🏻‍➡">දකුණට | දණ ගසන පුද්ගලයා | දණ ගසන්න | දණ ගැසීම | මුහුණලා | සමෙහි වර්ගය-1-2</annotation>
+		<annotation cp="🧎🏻‍➡" type="tts">දණ ගසන පුද්ගලයා: සමෙහි වර්ගය-1-2 සහ දකුණට මුහුණලා</annotation>
+		<annotation cp="🧎🏼‍➡">දකුණට | දණ ගසන පුද්ගලයා | දණ ගසන්න | දණ ගැසීම | මුහුණලා | සමෙහි වර්ගය-3</annotation>
+		<annotation cp="🧎🏼‍➡" type="tts">දණ ගසන පුද්ගලයා: සමෙහි වර්ගය-3 සහ දකුණට මුහුණලා</annotation>
+		<annotation cp="🧎🏽‍➡">දකුණට | දණ ගසන පුද්ගලයා | දණ ගසන්න | දණ ගැසීම | මුහුණලා | සමෙහි වර්ගය-4</annotation>
+		<annotation cp="🧎🏽‍➡" type="tts">දණ ගසන පුද්ගලයා: සමෙහි වර්ගය-4 සහ දකුණට මුහුණලා</annotation>
+		<annotation cp="🧎🏾‍➡">දකුණට | දණ ගසන පුද්ගලයා | දණ ගසන්න | දණ ගැසීම | මුහුණලා | සමෙහි වර්ගය-5</annotation>
+		<annotation cp="🧎🏾‍➡" type="tts">දණ ගසන පුද්ගලයා: සමෙහි වර්ගය-5 සහ දකුණට මුහුණලා</annotation>
+		<annotation cp="🧎🏿‍➡">දකුණට | දණ ගසන පුද්ගලයා | දණ ගසන්න | දණ ගැසීම | මුහුණලා | සමෙහි වර්ගය-6</annotation>
+		<annotation cp="🧎🏿‍➡" type="tts">දණ ගසන පුද්ගලයා: සමෙහි වර්ගය-6 සහ දකුණට මුහුණලා</annotation>
+		<annotation cp="🧎‍♀‍➡">කාන්තාව | කාන්තාව දණ ගසයි | දකුණට | දණ ගැසීම | මුහුණලා</annotation>
+		<annotation cp="🧎‍♀‍➡" type="tts">කාන්තාව දණ ගසයි: දකුණට මුහුණලා</annotation>
+		<annotation cp="🧎🏻‍♀‍➡">කාන්තාව | කාන්තාව දණ ගසයි | දකුණට | දණ ගැසීම | මුහුණලා | සමෙහි වර්ගය-1-2</annotation>
+		<annotation cp="🧎🏻‍♀‍➡" type="tts">කාන්තාව දණ ගසයි: සමෙහි වර්ගය-1-2 සහ දකුණට මුහුණලා</annotation>
+		<annotation cp="🧎🏼‍♀‍➡">කාන්තාව | කාන්තාව දණ ගසයි | දකුණට | දණ ගැසීම | මුහුණලා | සමෙහි වර්ගය-3</annotation>
+		<annotation cp="🧎🏼‍♀‍➡" type="tts">කාන්තාව දණ ගසයි: සමෙහි වර්ගය-3 සහ දකුණට මුහුණලා</annotation>
+		<annotation cp="🧎🏽‍♀‍➡">කාන්තාව | කාන්තාව දණ ගසයි | දකුණට | දණ ගැසීම | මුහුණලා | සමෙහි වර්ගය-4</annotation>
+		<annotation cp="🧎🏽‍♀‍➡" type="tts">කාන්තාව දණ ගසයි: සමෙහි වර්ගය-4 සහ දකුණට මුහුණලා</annotation>
+		<annotation cp="🧎🏾‍♀‍➡">කාන්තාව | කාන්තාව දණ ගසයි | දකුණට | දණ ගැසීම | මුහුණලා | සමෙහි වර්ගය-5</annotation>
+		<annotation cp="🧎🏾‍♀‍➡" type="tts">කාන්තාව දණ ගසයි: සමෙහි වර්ගය-5 සහ දකුණට මුහුණලා</annotation>
+		<annotation cp="🧎🏿‍♀‍➡">කාන්තාව | කාන්තාව දණ ගසයි | දකුණට | දණ ගැසීම | මුහුණලා | සමෙහි වර්ගය-6</annotation>
+		<annotation cp="🧎🏿‍♀‍➡" type="tts">කාන්තාව දණ ගසයි: සමෙහි වර්ගය-6 සහ දකුණට මුහුණලා</annotation>
+		<annotation cp="🧎‍♂‍➡">දකුණට | දණ ගැසීම | මිනිසා | මිනිසා දණ ගසයි | මුහුණලා</annotation>
+		<annotation cp="🧎‍♂‍➡" type="tts">මිනිසා දණ ගසයි: දකුණට මුහුණලා</annotation>
+		<annotation cp="🧎🏻‍♂‍➡">දකුණට | දණ ගැසීම | මිනිසා | මිනිසා දණ ගසයි | මුහුණලා | සමෙහි වර්ගය-1-2</annotation>
+		<annotation cp="🧎🏻‍♂‍➡" type="tts">මිනිසා දණ ගසයි: සමෙහි වර්ගය-1-2 සහ දකුණට මුහුණලා</annotation>
+		<annotation cp="🧎🏼‍♂‍➡">දකුණට | දණ ගැසීම | මිනිසා | මිනිසා දණ ගසයි | මුහුණලා | සමෙහි වර්ගය-3</annotation>
+		<annotation cp="🧎🏼‍♂‍➡" type="tts">මිනිසා දණ ගසයි: සමෙහි වර්ගය-3 සහ දකුණට මුහුණලා</annotation>
+		<annotation cp="🧎🏽‍♂‍➡">දකුණට | දණ ගැසීම | මිනිසා | මිනිසා දණ ගසයි | මුහුණලා | සමෙහි වර්ගය-4</annotation>
+		<annotation cp="🧎🏽‍♂‍➡" type="tts">මිනිසා දණ ගසයි: සමෙහි වර්ගය-4 සහ දකුණට මුහුණලා</annotation>
+		<annotation cp="🧎🏾‍♂‍➡">දකුණට | දණ ගැසීම | මිනිසා | මිනිසා දණ ගසයි | මුහුණලා | සමෙහි වර්ගය-5</annotation>
+		<annotation cp="🧎🏾‍♂‍➡" type="tts">මිනිසා දණ ගසයි: සමෙහි වර්ගය-5 සහ දකුණට මුහුණලා</annotation>
+		<annotation cp="🧎🏿‍♂‍➡">දකුණට | දණ ගැසීම | මිනිසා | මිනිසා දණ ගසයි | මුහුණලා | සමෙහි වර්ගය-6</annotation>
+		<annotation cp="🧎🏿‍♂‍➡" type="tts">මිනිසා දණ ගසයි: සමෙහි වර්ගය-6 සහ දකුණට මුහුණලා</annotation>
 		<annotation cp="🧑🏻‍🦯">අන්ධ | ප්‍රවේශ්‍යතාව | සමෙහි වර්ගය-1-2 | සැරයැටියක් රැගෙන යන පුද්ගලයා</annotation>
 		<annotation cp="🧑🏻‍🦯" type="tts">සැරයැටියක් රැගෙන යන පුද්ගලයා: සමෙහි වර්ගය-1-2</annotation>
 		<annotation cp="🧑🏼‍🦯">අන්ධ | ප්‍රවේශ්‍යතාව | සමෙහි වර්ගය-3 | සැරයැටියක් රැගෙන යන පුද්ගලයා</annotation>
@@ -2586,6 +2829,18 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🧑🏾‍🦯" type="tts">සැරයැටියක් රැගෙන යන පුද්ගලයා: සමෙහි වර්ගය-5</annotation>
 		<annotation cp="🧑🏿‍🦯">අන්ධ | ප්‍රවේශ්‍යතාව | සමෙහි වර්ගය-6 | සැරයැටියක් රැගෙන යන පුද්ගලයා</annotation>
 		<annotation cp="🧑🏿‍🦯" type="tts">සැරයැටියක් රැගෙන යන පුද්ගලයා: සමෙහි වර්ගය-6</annotation>
+		<annotation cp="🧑‍🦯‍➡">අන්ධ | දකුණට | ප්‍රවේශ්‍යතාව | මුහුණලා | සැරයැටියක් රැගෙන යන පුද්ගලයා</annotation>
+		<annotation cp="🧑‍🦯‍➡" type="tts">සැරයැටියක් රැගෙන යන පුද්ගලයා: දකුණට මුහුණලා</annotation>
+		<annotation cp="🧑🏻‍🦯‍➡">අන්ධ | දකුණට | ප්‍රවේශ්‍යතාව | මුහුණලා | සමෙහි වර්ගය-1-2 | සැරයැටියක් රැගෙන යන පුද්ගලයා</annotation>
+		<annotation cp="🧑🏻‍🦯‍➡" type="tts">සැරයැටියක් රැගෙන යන පුද්ගලයා: සමෙහි වර්ගය-1-2 සහ දකුණට මුහුණලා</annotation>
+		<annotation cp="🧑🏼‍🦯‍➡">අන්ධ | දකුණට | ප්‍රවේශ්‍යතාව | මුහුණලා | සමෙහි වර්ගය-3 | සැරයැටියක් රැගෙන යන පුද්ගලයා</annotation>
+		<annotation cp="🧑🏼‍🦯‍➡" type="tts">සැරයැටියක් රැගෙන යන පුද්ගලයා: සමෙහි වර්ගය-3 සහ දකුණට මුහුණලා</annotation>
+		<annotation cp="🧑🏽‍🦯‍➡">අන්ධ | දකුණට | ප්‍රවේශ්‍යතාව | මුහුණලා | සමෙහි වර්ගය-4 | සැරයැටියක් රැගෙන යන පුද්ගලයා</annotation>
+		<annotation cp="🧑🏽‍🦯‍➡" type="tts">සැරයැටියක් රැගෙන යන පුද්ගලයා: සමෙහි වර්ගය-4 සහ දකුණට මුහුණලා</annotation>
+		<annotation cp="🧑🏾‍🦯‍➡">අන්ධ | දකුණට | ප්‍රවේශ්‍යතාව | මුහුණලා | සමෙහි වර්ගය-5 | සැරයැටියක් රැගෙන යන පුද්ගලයා</annotation>
+		<annotation cp="🧑🏾‍🦯‍➡" type="tts">සැරයැටියක් රැගෙන යන පුද්ගලයා: සමෙහි වර්ගය-5 සහ දකුණට මුහුණලා</annotation>
+		<annotation cp="🧑🏿‍🦯‍➡">අන්ධ | දකුණට | ප්‍රවේශ්‍යතාව | මුහුණලා | සමෙහි වර්ගය-6 | සැරයැටියක් රැගෙන යන පුද්ගලයා</annotation>
+		<annotation cp="🧑🏿‍🦯‍➡" type="tts">සැරයැටියක් රැගෙන යන පුද්ගලයා: සමෙහි වර්ගය-6 සහ දකුණට මුහුණලා</annotation>
 		<annotation cp="👨🏻‍🦯">අන්ධ | ඒෂණ දණ්ඩක් සහිත මිනිසා | මිනිසා | සමෙහි වර්ගය-1-2 | ළඟාවිය හැකි බව</annotation>
 		<annotation cp="👨🏻‍🦯" type="tts">ඒෂණ දණ්ඩක් සහිත මිනිසා: සමෙහි වර්ගය-1-2</annotation>
 		<annotation cp="👨🏼‍🦯">අන්ධ | ඒෂණ දණ්ඩක් සහිත මිනිසා | මිනිසා | සමෙහි වර්ගය-3 | ළඟාවිය හැකි බව</annotation>
@@ -2596,6 +2851,18 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👨🏾‍🦯" type="tts">ඒෂණ දණ්ඩක් සහිත මිනිසා: සමෙහි වර්ගය-5</annotation>
 		<annotation cp="👨🏿‍🦯">අන්ධ | ඒෂණ දණ්ඩක් සහිත මිනිසා | මිනිසා | සමෙහි වර්ගය-6 | ළඟාවිය හැකි බව</annotation>
 		<annotation cp="👨🏿‍🦯" type="tts">ඒෂණ දණ්ඩක් සහිත මිනිසා: සමෙහි වර්ගය-6</annotation>
+		<annotation cp="👨‍🦯‍➡">අන්ධ | ඒෂණ දණ්ඩක් සහිත මිනිසා | දකුණට | මිනිසා | මුහුණලා | ළඟාවිය හැකි බව</annotation>
+		<annotation cp="👨‍🦯‍➡" type="tts">ඒෂණ දණ්ඩක් සහිත මිනිසා: දකුණට මුහුණලා</annotation>
+		<annotation cp="👨🏻‍🦯‍➡">අන්ධ | ඒෂණ දණ්ඩක් සහිත මිනිසා | දකුණට | මිනිසා | මුහුණලා | සමෙහි වර්ගය-1-2 | ළඟාවිය හැකි බව</annotation>
+		<annotation cp="👨🏻‍🦯‍➡" type="tts">ඒෂණ දණ්ඩක් සහිත මිනිසා: සමෙහි වර්ගය-1-2 සහ දකුණට මුහුණලා</annotation>
+		<annotation cp="👨🏼‍🦯‍➡">අන්ධ | ඒෂණ දණ්ඩක් සහිත මිනිසා | දකුණට | මිනිසා | මුහුණලා | සමෙහි වර්ගය-3 | ළඟාවිය හැකි බව</annotation>
+		<annotation cp="👨🏼‍🦯‍➡" type="tts">ඒෂණ දණ්ඩක් සහිත මිනිසා: සමෙහි වර්ගය-3 සහ දකුණට මුහුණලා</annotation>
+		<annotation cp="👨🏽‍🦯‍➡">අන්ධ | ඒෂණ දණ්ඩක් සහිත මිනිසා | දකුණට | මිනිසා | මුහුණලා | සමෙහි වර්ගය-4 | ළඟාවිය හැකි බව</annotation>
+		<annotation cp="👨🏽‍🦯‍➡" type="tts">ඒෂණ දණ්ඩක් සහිත මිනිසා: සමෙහි වර්ගය-4 සහ දකුණට මුහුණලා</annotation>
+		<annotation cp="👨🏾‍🦯‍➡">අන්ධ | ඒෂණ දණ්ඩක් සහිත මිනිසා | දකුණට | මිනිසා | මුහුණලා | සමෙහි වර්ගය-5 | ළඟාවිය හැකි බව</annotation>
+		<annotation cp="👨🏾‍🦯‍➡" type="tts">ඒෂණ දණ්ඩක් සහිත මිනිසා: සමෙහි වර්ගය-5 සහ දකුණට මුහුණලා</annotation>
+		<annotation cp="👨🏿‍🦯‍➡">අන්ධ | ඒෂණ දණ්ඩක් සහිත මිනිසා | දකුණට | මිනිසා | මුහුණලා | සමෙහි වර්ගය-6 | ළඟාවිය හැකි බව</annotation>
+		<annotation cp="👨🏿‍🦯‍➡" type="tts">ඒෂණ දණ්ඩක් සහිත මිනිසා: සමෙහි වර්ගය-6 සහ දකුණට මුහුණලා</annotation>
 		<annotation cp="👩🏻‍🦯">අන්ධ | ඒෂණ දණ්ඩක් සහිත කාන්තාව | කාන්තාව | සමෙහි වර්ගය-1-2 | ළඟාවිය හැකි බව</annotation>
 		<annotation cp="👩🏻‍🦯" type="tts">ඒෂණ දණ්ඩක් සහිත කාන්තාව: සමෙහි වර්ගය-1-2</annotation>
 		<annotation cp="👩🏼‍🦯">අන්ධ | ඒෂණ දණ්ඩක් සහිත කාන්තාව | කාන්තාව | සමෙහි වර්ගය-3 | ළඟාවිය හැකි බව</annotation>
@@ -2606,6 +2873,18 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👩🏾‍🦯" type="tts">ඒෂණ දණ්ඩක් සහිත කාන්තාව: සමෙහි වර්ගය-5</annotation>
 		<annotation cp="👩🏿‍🦯">අන්ධ | ඒෂණ දණ්ඩක් සහිත කාන්තාව | කාන්තාව | සමෙහි වර්ගය-6 | ළඟාවිය හැකි බව</annotation>
 		<annotation cp="👩🏿‍🦯" type="tts">ඒෂණ දණ්ඩක් සහිත කාන්තාව: සමෙහි වර්ගය-6</annotation>
+		<annotation cp="👩‍🦯‍➡">අන්ධ | ඒෂණ දණ්ඩක් සහිත කාන්තාව | කාන්තාව | දකුණට | මුහුණලා | ළඟාවිය හැකි බව</annotation>
+		<annotation cp="👩‍🦯‍➡" type="tts">ඒෂණ දණ්ඩක් සහිත කාන්තාව: දකුණට මුහුණලා</annotation>
+		<annotation cp="👩🏻‍🦯‍➡">අන්ධ | ඒෂණ දණ්ඩක් සහිත කාන්තාව | කාන්තාව | දකුණට | මුහුණලා | සමෙහි වර්ගය-1-2 | ළඟාවිය හැකි බව</annotation>
+		<annotation cp="👩🏻‍🦯‍➡" type="tts">ඒෂණ දණ්ඩක් සහිත කාන්තාව: සමෙහි වර්ගය-1-2 සහ දකුණට මුහුණලා</annotation>
+		<annotation cp="👩🏼‍🦯‍➡">අන්ධ | ඒෂණ දණ්ඩක් සහිත කාන්තාව | කාන්තාව | දකුණට | මුහුණලා | සමෙහි වර්ගය-3 | ළඟාවිය හැකි බව</annotation>
+		<annotation cp="👩🏼‍🦯‍➡" type="tts">ඒෂණ දණ්ඩක් සහිත කාන්තාව: සමෙහි වර්ගය-3 සහ දකුණට මුහුණලා</annotation>
+		<annotation cp="👩🏽‍🦯‍➡">අන්ධ | ඒෂණ දණ්ඩක් සහිත කාන්තාව | කාන්තාව | දකුණට | මුහුණලා | සමෙහි වර්ගය-4 | ළඟාවිය හැකි බව</annotation>
+		<annotation cp="👩🏽‍🦯‍➡" type="tts">ඒෂණ දණ්ඩක් සහිත කාන්තාව: සමෙහි වර්ගය-4 සහ දකුණට මුහුණලා</annotation>
+		<annotation cp="👩🏾‍🦯‍➡">අන්ධ | ඒෂණ දණ්ඩක් සහිත කාන්තාව | කාන්තාව | දකුණට | මුහුණලා | සමෙහි වර්ගය-5 | ළඟාවිය හැකි බව</annotation>
+		<annotation cp="👩🏾‍🦯‍➡" type="tts">ඒෂණ දණ්ඩක් සහිත කාන්තාව: සමෙහි වර්ගය-5 සහ දකුණට මුහුණලා</annotation>
+		<annotation cp="👩🏿‍🦯‍➡">අන්ධ | ඒෂණ දණ්ඩක් සහිත කාන්තාව | කාන්තාව | දකුණට | මුහුණලා | සමෙහි වර්ගය-6 | ළඟාවිය හැකි බව</annotation>
+		<annotation cp="👩🏿‍🦯‍➡" type="tts">ඒෂණ දණ්ඩක් සහිත කාන්තාව: සමෙහි වර්ගය-6 සහ දකුණට මුහුණලා</annotation>
 		<annotation cp="🧑🏻‍🦼">ප්‍රවේශ්‍යතාව | මෝටර් රෝද පුටුවේ සිටින පුද්ගලයා | රෝද පුටුව | සමෙහි වර්ගය-1-2</annotation>
 		<annotation cp="🧑🏻‍🦼" type="tts">මෝටර් රෝද පුටුවේ සිටින පුද්ගලයා: සමෙහි වර්ගය-1-2</annotation>
 		<annotation cp="🧑🏼‍🦼">ප්‍රවේශ්‍යතාව | මෝටර් රෝද පුටුවේ සිටින පුද්ගලයා | රෝද පුටුව | සමෙහි වර්ගය-3</annotation>
@@ -2616,6 +2895,18 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🧑🏾‍🦼" type="tts">මෝටර් රෝද පුටුවේ සිටින පුද්ගලයා: සමෙහි වර්ගය-5</annotation>
 		<annotation cp="🧑🏿‍🦼">ප්‍රවේශ්‍යතාව | මෝටර් රෝද පුටුවේ සිටින පුද්ගලයා | රෝද පුටුව | සමෙහි වර්ගය-6</annotation>
 		<annotation cp="🧑🏿‍🦼" type="tts">මෝටර් රෝද පුටුවේ සිටින පුද්ගලයා: සමෙහි වර්ගය-6</annotation>
+		<annotation cp="🧑‍🦼‍➡">දකුණට | ප්‍රවේශ්‍යතාව | මුහුණලා | මෝටර් රෝද පුටුවේ සිටින පුද්ගලයා | රෝද පුටුව</annotation>
+		<annotation cp="🧑‍🦼‍➡" type="tts">මෝටර් රෝද පුටුවේ සිටින පුද්ගලයා: දකුණට මුහුණලා</annotation>
+		<annotation cp="🧑🏻‍🦼‍➡">දකුණට | ප්‍රවේශ්‍යතාව | මුහුණලා | මෝටර් රෝද පුටුවේ සිටින පුද්ගලයා | රෝද පුටුව | සමෙහි වර්ගය-1-2</annotation>
+		<annotation cp="🧑🏻‍🦼‍➡" type="tts">මෝටර් රෝද පුටුවේ සිටින පුද්ගලයා: සමෙහි වර්ගය-1-2 සහ දකුණට මුහුණලා</annotation>
+		<annotation cp="🧑🏼‍🦼‍➡">දකුණට | ප්‍රවේශ්‍යතාව | මුහුණලා | මෝටර් රෝද පුටුවේ සිටින පුද්ගලයා | රෝද පුටුව | සමෙහි වර්ගය-3</annotation>
+		<annotation cp="🧑🏼‍🦼‍➡" type="tts">මෝටර් රෝද පුටුවේ සිටින පුද්ගලයා: සමෙහි වර්ගය-3 සහ දකුණට මුහුණලා</annotation>
+		<annotation cp="🧑🏽‍🦼‍➡">දකුණට | ප්‍රවේශ්‍යතාව | මුහුණලා | මෝටර් රෝද පුටුවේ සිටින පුද්ගලයා | රෝද පුටුව | සමෙහි වර්ගය-4</annotation>
+		<annotation cp="🧑🏽‍🦼‍➡" type="tts">මෝටර් රෝද පුටුවේ සිටින පුද්ගලයා: සමෙහි වර්ගය-4 සහ දකුණට මුහුණලා</annotation>
+		<annotation cp="🧑🏾‍🦼‍➡">දකුණට | ප්‍රවේශ්‍යතාව | මුහුණලා | මෝටර් රෝද පුටුවේ සිටින පුද්ගලයා | රෝද පුටුව | සමෙහි වර්ගය-5</annotation>
+		<annotation cp="🧑🏾‍🦼‍➡" type="tts">මෝටර් රෝද පුටුවේ සිටින පුද්ගලයා: සමෙහි වර්ගය-5 සහ දකුණට මුහුණලා</annotation>
+		<annotation cp="🧑🏿‍🦼‍➡">දකුණට | ප්‍රවේශ්‍යතාව | මුහුණලා | මෝටර් රෝද පුටුවේ සිටින පුද්ගලයා | රෝද පුටුව | සමෙහි වර්ගය-6</annotation>
+		<annotation cp="🧑🏿‍🦼‍➡" type="tts">මෝටර් රෝද පුටුවේ සිටින පුද්ගලයා: සමෙහි වර්ගය-6 සහ දකුණට මුහුණලා</annotation>
 		<annotation cp="👨🏻‍🦼">මිනිසා | මෝටර් රෝද පුටුවක සිටින මිනිසා | රෝද පුටුව | සමෙහි වර්ගය-1-2 | ළඟාවිය හැකි බව</annotation>
 		<annotation cp="👨🏻‍🦼" type="tts">මෝටර් රෝද පුටුවක සිටින මිනිසා: සමෙහි වර්ගය-1-2</annotation>
 		<annotation cp="👨🏼‍🦼">මිනිසා | මෝටර් රෝද පුටුවක සිටින මිනිසා | රෝද පුටුව | සමෙහි වර්ගය-3 | ළඟාවිය හැකි බව</annotation>
@@ -2626,6 +2917,18 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👨🏾‍🦼" type="tts">මෝටර් රෝද පුටුවක සිටින මිනිසා: සමෙහි වර්ගය-5</annotation>
 		<annotation cp="👨🏿‍🦼">මිනිසා | මෝටර් රෝද පුටුවක සිටින මිනිසා | රෝද පුටුව | සමෙහි වර්ගය-6 | ළඟාවිය හැකි බව</annotation>
 		<annotation cp="👨🏿‍🦼" type="tts">මෝටර් රෝද පුටුවක සිටින මිනිසා: සමෙහි වර්ගය-6</annotation>
+		<annotation cp="👨‍🦼‍➡">දකුණට | මිනිසා | මුහුණලා | මෝටර් රෝද පුටුවක සිටින මිනිසා | රෝද පුටුව | ළඟාවිය හැකි බව</annotation>
+		<annotation cp="👨‍🦼‍➡" type="tts">මෝටර් රෝද පුටුවක සිටින මිනිසා: දකුණට මුහුණලා</annotation>
+		<annotation cp="👨🏻‍🦼‍➡">දකුණට | මිනිසා | මුහුණලා | මෝටර් රෝද පුටුවක සිටින මිනිසා | රෝද පුටුව | සමෙහි වර්ගය-1-2 | ළඟාවිය හැකි බව</annotation>
+		<annotation cp="👨🏻‍🦼‍➡" type="tts">මෝටර් රෝද පුටුවක සිටින මිනිසා: සමෙහි වර්ගය-1-2 සහ දකුණට මුහුණලා</annotation>
+		<annotation cp="👨🏼‍🦼‍➡">දකුණට | මිනිසා | මුහුණලා | මෝටර් රෝද පුටුවක සිටින මිනිසා | රෝද පුටුව | සමෙහි වර්ගය-3 | ළඟාවිය හැකි බව</annotation>
+		<annotation cp="👨🏼‍🦼‍➡" type="tts">මෝටර් රෝද පුටුවක සිටින මිනිසා: සමෙහි වර්ගය-3 සහ දකුණට මුහුණලා</annotation>
+		<annotation cp="👨🏽‍🦼‍➡">දකුණට | මිනිසා | මුහුණලා | මෝටර් රෝද පුටුවක සිටින මිනිසා | රෝද පුටුව | සමෙහි වර්ගය-4 | ළඟාවිය හැකි බව</annotation>
+		<annotation cp="👨🏽‍🦼‍➡" type="tts">මෝටර් රෝද පුටුවක සිටින මිනිසා: සමෙහි වර්ගය-4 සහ දකුණට මුහුණලා</annotation>
+		<annotation cp="👨🏾‍🦼‍➡">දකුණට | මිනිසා | මුහුණලා | මෝටර් රෝද පුටුවක සිටින මිනිසා | රෝද පුටුව | සමෙහි වර්ගය-5 | ළඟාවිය හැකි බව</annotation>
+		<annotation cp="👨🏾‍🦼‍➡" type="tts">මෝටර් රෝද පුටුවක සිටින මිනිසා: සමෙහි වර්ගය-5 සහ දකුණට මුහුණලා</annotation>
+		<annotation cp="👨🏿‍🦼‍➡">දකුණට | මිනිසා | මුහුණලා | මෝටර් රෝද පුටුවක සිටින මිනිසා | රෝද පුටුව | සමෙහි වර්ගය-6 | ළඟාවිය හැකි බව</annotation>
+		<annotation cp="👨🏿‍🦼‍➡" type="tts">මෝටර් රෝද පුටුවක සිටින මිනිසා: සමෙහි වර්ගය-6 සහ දකුණට මුහුණලා</annotation>
 		<annotation cp="👩🏻‍🦼">කාන්තාව | මෝටර් රෝද පුටුවක සිටින කාන්තාව | රෝද පුටුව | සමෙහි වර්ගය-1-2 | ළඟාවිය හැකි බව</annotation>
 		<annotation cp="👩🏻‍🦼" type="tts">මෝටර් රෝද පුටුවක සිටින කාන්තාව: සමෙහි වර්ගය-1-2</annotation>
 		<annotation cp="👩🏼‍🦼">කාන්තාව | මෝටර් රෝද පුටුවක සිටින කාන්තාව | රෝද පුටුව | සමෙහි වර්ගය-3 | ළඟාවිය හැකි බව</annotation>
@@ -2636,6 +2939,18 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👩🏾‍🦼" type="tts">මෝටර් රෝද පුටුවක සිටින කාන්තාව: සමෙහි වර්ගය-5</annotation>
 		<annotation cp="👩🏿‍🦼">කාන්තාව | මෝටර් රෝද පුටුවක සිටින කාන්තාව | රෝද පුටුව | සමෙහි වර්ගය-6 | ළඟාවිය හැකි බව</annotation>
 		<annotation cp="👩🏿‍🦼" type="tts">මෝටර් රෝද පුටුවක සිටින කාන්තාව: සමෙහි වර්ගය-6</annotation>
+		<annotation cp="👩‍🦼‍➡">කාන්තාව | දකුණට | මුහුණලා | මෝටර් රෝද පුටුවක සිටින කාන්තාව | රෝද පුටුව | ළඟාවිය හැකි බව</annotation>
+		<annotation cp="👩‍🦼‍➡" type="tts">මෝටර් රෝද පුටුවක සිටින කාන්තාව: දකුණට මුහුණලා</annotation>
+		<annotation cp="👩🏻‍🦼‍➡">කාන්තාව | දකුණට | මුහුණලා | මෝටර් රෝද පුටුවක සිටින කාන්තාව | රෝද පුටුව | සමෙහි වර්ගය-1-2 | ළඟාවිය හැකි බව</annotation>
+		<annotation cp="👩🏻‍🦼‍➡" type="tts">මෝටර් රෝද පුටුවක සිටින කාන්තාව: සමෙහි වර්ගය-1-2 සහ දකුණට මුහුණලා</annotation>
+		<annotation cp="👩🏼‍🦼‍➡">කාන්තාව | දකුණට | මුහුණලා | මෝටර් රෝද පුටුවක සිටින කාන්තාව | රෝද පුටුව | සමෙහි වර්ගය-3 | ළඟාවිය හැකි බව</annotation>
+		<annotation cp="👩🏼‍🦼‍➡" type="tts">මෝටර් රෝද පුටුවක සිටින කාන්තාව: සමෙහි වර්ගය-3 සහ දකුණට මුහුණලා</annotation>
+		<annotation cp="👩🏽‍🦼‍➡">කාන්තාව | දකුණට | මුහුණලා | මෝටර් රෝද පුටුවක සිටින කාන්තාව | රෝද පුටුව | සමෙහි වර්ගය-4 | ළඟාවිය හැකි බව</annotation>
+		<annotation cp="👩🏽‍🦼‍➡" type="tts">මෝටර් රෝද පුටුවක සිටින කාන්තාව: සමෙහි වර්ගය-4 සහ දකුණට මුහුණලා</annotation>
+		<annotation cp="👩🏾‍🦼‍➡">කාන්තාව | දකුණට | මුහුණලා | මෝටර් රෝද පුටුවක සිටින කාන්තාව | රෝද පුටුව | සමෙහි වර්ගය-5 | ළඟාවිය හැකි බව</annotation>
+		<annotation cp="👩🏾‍🦼‍➡" type="tts">මෝටර් රෝද පුටුවක සිටින කාන්තාව: සමෙහි වර්ගය-5 සහ දකුණට මුහුණලා</annotation>
+		<annotation cp="👩🏿‍🦼‍➡">කාන්තාව | දකුණට | මුහුණලා | මෝටර් රෝද පුටුවක සිටින කාන්තාව | රෝද පුටුව | සමෙහි වර්ගය-6 | ළඟාවිය හැකි බව</annotation>
+		<annotation cp="👩🏿‍🦼‍➡" type="tts">මෝටර් රෝද පුටුවක සිටින කාන්තාව: සමෙහි වර්ගය-6 සහ දකුණට මුහුණලා</annotation>
 		<annotation cp="🧑🏻‍🦽">රෝද පුටුවේ සිටින පුද්ගලයා | සමෙහි වර්ගය-1-2</annotation>
 		<annotation cp="🧑🏻‍🦽" type="tts">රෝද පුටුවේ සිටින පුද්ගලයා: සමෙහි වර්ගය-1-2</annotation>
 		<annotation cp="🧑🏼‍🦽">රෝද පුටුවේ සිටින පුද්ගලයා | සමෙහි වර්ගය-3</annotation>
@@ -2646,6 +2961,18 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🧑🏾‍🦽" type="tts">රෝද පුටුවේ සිටින පුද්ගලයා: සමෙහි වර්ගය-5</annotation>
 		<annotation cp="🧑🏿‍🦽">රෝද පුටුවේ සිටින පුද්ගලයා | සමෙහි වර්ගය-6</annotation>
 		<annotation cp="🧑🏿‍🦽" type="tts">රෝද පුටුවේ සිටින පුද්ගලයා: සමෙහි වර්ගය-6</annotation>
+		<annotation cp="🧑‍🦽‍➡">දකුණට | මුහුණලා | රෝද පුටුවේ සිටින පුද්ගලයා</annotation>
+		<annotation cp="🧑‍🦽‍➡" type="tts">රෝද පුටුවේ සිටින පුද්ගලයා: දකුණට මුහුණලා</annotation>
+		<annotation cp="🧑🏻‍🦽‍➡">දකුණට | මුහුණලා | රෝද පුටුවේ සිටින පුද්ගලයා | සමෙහි වර්ගය-1-2</annotation>
+		<annotation cp="🧑🏻‍🦽‍➡" type="tts">රෝද පුටුවේ සිටින පුද්ගලයා: සමෙහි වර්ගය-1-2 සහ දකුණට මුහුණලා</annotation>
+		<annotation cp="🧑🏼‍🦽‍➡">දකුණට | මුහුණලා | රෝද පුටුවේ සිටින පුද්ගලයා | සමෙහි වර්ගය-3</annotation>
+		<annotation cp="🧑🏼‍🦽‍➡" type="tts">රෝද පුටුවේ සිටින පුද්ගලයා: සමෙහි වර්ගය-3 සහ දකුණට මුහුණලා</annotation>
+		<annotation cp="🧑🏽‍🦽‍➡">දකුණට | මුහුණලා | රෝද පුටුවේ සිටින පුද්ගලයා | සමෙහි වර්ගය-4</annotation>
+		<annotation cp="🧑🏽‍🦽‍➡" type="tts">රෝද පුටුවේ සිටින පුද්ගලයා: සමෙහි වර්ගය-4 සහ දකුණට මුහුණලා</annotation>
+		<annotation cp="🧑🏾‍🦽‍➡">දකුණට | මුහුණලා | රෝද පුටුවේ සිටින පුද්ගලයා | සමෙහි වර්ගය-5</annotation>
+		<annotation cp="🧑🏾‍🦽‍➡" type="tts">රෝද පුටුවේ සිටින පුද්ගලයා: සමෙහි වර්ගය-5 සහ දකුණට මුහුණලා</annotation>
+		<annotation cp="🧑🏿‍🦽‍➡">දකුණට | මුහුණලා | රෝද පුටුවේ සිටින පුද්ගලයා | සමෙහි වර්ගය-6</annotation>
+		<annotation cp="🧑🏿‍🦽‍➡" type="tts">රෝද පුටුවේ සිටින පුද්ගලයා: සමෙහි වර්ගය-6 සහ දකුණට මුහුණලා</annotation>
 		<annotation cp="👨🏻‍🦽">අතින් කරකන රෝද පුටුවක සිටින මිනිසා | මිනිසා | රෝද පුටුව | සමෙහි වර්ගය-1-2 | ළඟාවිය හැකි බව</annotation>
 		<annotation cp="👨🏻‍🦽" type="tts">අතින් කරකන රෝද පුටුවක සිටින මිනිසා: සමෙහි වර්ගය-1-2</annotation>
 		<annotation cp="👨🏼‍🦽">අතින් කරකන රෝද පුටුවක සිටින මිනිසා | මිනිසා | රෝද පුටුව | සමෙහි වර්ගය-3 | ළඟාවිය හැකි බව</annotation>
@@ -2656,6 +2983,18 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👨🏾‍🦽" type="tts">අතින් කරකන රෝද පුටුවක සිටින මිනිසා: සමෙහි වර්ගය-5</annotation>
 		<annotation cp="👨🏿‍🦽">අතින් කරකන රෝද පුටුවක සිටින මිනිසා | මිනිසා | රෝද පුටුව | සමෙහි වර්ගය-6 | ළඟාවිය හැකි බව</annotation>
 		<annotation cp="👨🏿‍🦽" type="tts">අතින් කරකන රෝද පුටුවක සිටින මිනිසා: සමෙහි වර්ගය-6</annotation>
+		<annotation cp="👨‍🦽‍➡">අතින් කරකන රෝද පුටුවක සිටින මිනිසා | දකුණට | මිනිසා | මුහුණලා | රෝද පුටුව | ළඟාවිය හැකි බව</annotation>
+		<annotation cp="👨‍🦽‍➡" type="tts">අතින් කරකන රෝද පුටුවක සිටින මිනිසා: දකුණට මුහුණලා</annotation>
+		<annotation cp="👨🏻‍🦽‍➡">අතින් කරකන රෝද පුටුවක සිටින මිනිසා | දකුණට | මිනිසා | මුහුණලා | රෝද පුටුව | සමෙහි වර්ගය-1-2 | ළඟාවිය හැකි බව</annotation>
+		<annotation cp="👨🏻‍🦽‍➡" type="tts">අතින් කරකන රෝද පුටුවක සිටින මිනිසා: සමෙහි වර්ගය-1-2 සහ දකුණට මුහුණලා</annotation>
+		<annotation cp="👨🏼‍🦽‍➡">අතින් කරකන රෝද පුටුවක සිටින මිනිසා | දකුණට | මිනිසා | මුහුණලා | රෝද පුටුව | සමෙහි වර්ගය-3 | ළඟාවිය හැකි බව</annotation>
+		<annotation cp="👨🏼‍🦽‍➡" type="tts">අතින් කරකන රෝද පුටුවක සිටින මිනිසා: සමෙහි වර්ගය-3 සහ දකුණට මුහුණලා</annotation>
+		<annotation cp="👨🏽‍🦽‍➡">අතින් කරකන රෝද පුටුවක සිටින මිනිසා | දකුණට | මිනිසා | මුහුණලා | රෝද පුටුව | සමෙහි වර්ගය-4 | ළඟාවිය හැකි බව</annotation>
+		<annotation cp="👨🏽‍🦽‍➡" type="tts">අතින් කරකන රෝද පුටුවක සිටින මිනිසා: සමෙහි වර්ගය-4 සහ දකුණට මුහුණලා</annotation>
+		<annotation cp="👨🏾‍🦽‍➡">අතින් කරකන රෝද පුටුවක සිටින මිනිසා | දකුණට | මිනිසා | මුහුණලා | රෝද පුටුව | සමෙහි වර්ගය-5 | ළඟාවිය හැකි බව</annotation>
+		<annotation cp="👨🏾‍🦽‍➡" type="tts">අතින් කරකන රෝද පුටුවක සිටින මිනිසා: සමෙහි වර්ගය-5 සහ දකුණට මුහුණලා</annotation>
+		<annotation cp="👨🏿‍🦽‍➡">අතින් කරකන රෝද පුටුවක සිටින මිනිසා | දකුණට | මිනිසා | මුහුණලා | රෝද පුටුව | සමෙහි වර්ගය-6 | ළඟාවිය හැකි බව</annotation>
+		<annotation cp="👨🏿‍🦽‍➡" type="tts">අතින් කරකන රෝද පුටුවක සිටින මිනිසා: සමෙහි වර්ගය-6 සහ දකුණට මුහුණලා</annotation>
 		<annotation cp="👩🏻‍🦽">අතින් කරකන රෝද පුටුවක සිටින කාන්තාව | කාන්තාව | රෝද පුටුව | සමෙහි වර්ගය-1-2 | ළඟාවිය හැකි බව</annotation>
 		<annotation cp="👩🏻‍🦽" type="tts">අතින් කරකන රෝද පුටුවක සිටින කාන්තාව: සමෙහි වර්ගය-1-2</annotation>
 		<annotation cp="👩🏼‍🦽">අතින් කරකන රෝද පුටුවක සිටින කාන්තාව | කාන්තාව | රෝද පුටුව | සමෙහි වර්ගය-3 | ළඟාවිය හැකි බව</annotation>
@@ -2666,6 +3005,18 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👩🏾‍🦽" type="tts">අතින් කරකන රෝද පුටුවක සිටින කාන්තාව: සමෙහි වර්ගය-5</annotation>
 		<annotation cp="👩🏿‍🦽">අතින් කරකන රෝද පුටුවක සිටින කාන්තාව | කාන්තාව | රෝද පුටුව | සමෙහි වර්ගය-6 | ළඟාවිය හැකි බව</annotation>
 		<annotation cp="👩🏿‍🦽" type="tts">අතින් කරකන රෝද පුටුවක සිටින කාන්තාව: සමෙහි වර්ගය-6</annotation>
+		<annotation cp="👩‍🦽‍➡">අතින් කරකන රෝද පුටුවක සිටින කාන්තාව | කාන්තාව | දකුණට | මුහුණලා | රෝද පුටුව | ළඟාවිය හැකි බව</annotation>
+		<annotation cp="👩‍🦽‍➡" type="tts">අතින් කරකන රෝද පුටුවක සිටින කාන්තාව: දකුණට මුහුණලා</annotation>
+		<annotation cp="👩🏻‍🦽‍➡">අතින් කරකන රෝද පුටුවක සිටින කාන්තාව | කාන්තාව | දකුණට | මුහුණලා | රෝද පුටුව | සමෙහි වර්ගය-1-2 | ළඟාවිය හැකි බව</annotation>
+		<annotation cp="👩🏻‍🦽‍➡" type="tts">අතින් කරකන රෝද පුටුවක සිටින කාන්තාව: සමෙහි වර්ගය-1-2 සහ දකුණට මුහුණලා</annotation>
+		<annotation cp="👩🏼‍🦽‍➡">අතින් කරකන රෝද පුටුවක සිටින කාන්තාව | කාන්තාව | දකුණට | මුහුණලා | රෝද පුටුව | සමෙහි වර්ගය-3 | ළඟාවිය හැකි බව</annotation>
+		<annotation cp="👩🏼‍🦽‍➡" type="tts">අතින් කරකන රෝද පුටුවක සිටින කාන්තාව: සමෙහි වර්ගය-3 සහ දකුණට මුහුණලා</annotation>
+		<annotation cp="👩🏽‍🦽‍➡">අතින් කරකන රෝද පුටුවක සිටින කාන්තාව | කාන්තාව | දකුණට | මුහුණලා | රෝද පුටුව | සමෙහි වර්ගය-4 | ළඟාවිය හැකි බව</annotation>
+		<annotation cp="👩🏽‍🦽‍➡" type="tts">අතින් කරකන රෝද පුටුවක සිටින කාන්තාව: සමෙහි වර්ගය-4 සහ දකුණට මුහුණලා</annotation>
+		<annotation cp="👩🏾‍🦽‍➡">අතින් කරකන රෝද පුටුවක සිටින කාන්තාව | කාන්තාව | දකුණට | මුහුණලා | රෝද පුටුව | සමෙහි වර්ගය-5 | ළඟාවිය හැකි බව</annotation>
+		<annotation cp="👩🏾‍🦽‍➡" type="tts">අතින් කරකන රෝද පුටුවක සිටින කාන්තාව: සමෙහි වර්ගය-5 සහ දකුණට මුහුණලා</annotation>
+		<annotation cp="👩🏿‍🦽‍➡">අතින් කරකන රෝද පුටුවක සිටින කාන්තාව | කාන්තාව | දකුණට | මුහුණලා | රෝද පුටුව | සමෙහි වර්ගය-6 | ළඟාවිය හැකි බව</annotation>
+		<annotation cp="👩🏿‍🦽‍➡" type="tts">අතින් කරකන රෝද පුටුවක සිටින කාන්තාව: සමෙහි වර්ගය-6 සහ දකුණට මුහුණලා</annotation>
 		<annotation cp="🏃🏻">දුවන්නා | දුවමින් | මැරතන් | සමෙහි වර්ගය-1-2</annotation>
 		<annotation cp="🏃🏻" type="tts">දුවන්නා: සමෙහි වර්ගය-1-2</annotation>
 		<annotation cp="🏃🏼">දුවන්නා | දුවමින් | මැරතන් | සමෙහි වර්ගය-3</annotation>
@@ -2696,6 +3047,42 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🏃🏾‍♀" type="tts">දුවන කාන්තාව: සමෙහි වර්ගය-5</annotation>
 		<annotation cp="🏃🏿‍♀">කාන්තාව | දිවීම | දුවන කාන්තාව | මැරතන් | සමෙහි වර්ගය-6 | ස්ත්‍රිය</annotation>
 		<annotation cp="🏃🏿‍♀" type="tts">දුවන කාන්තාව: සමෙහි වර්ගය-6</annotation>
+		<annotation cp="🏃‍➡">දකුණට | දුවන්නා | දුවමින් | මැරතන් | මුහුණලා</annotation>
+		<annotation cp="🏃‍➡" type="tts">දුවන්නා: දකුණට මුහුණලා</annotation>
+		<annotation cp="🏃🏻‍➡">දකුණට | දුවන්නා | දුවමින් | මැරතන් | මුහුණලා | සමෙහි වර්ගය-1-2</annotation>
+		<annotation cp="🏃🏻‍➡" type="tts">දුවන්නා: සමෙහි වර්ගය-1-2 සහ දකුණට මුහුණලා</annotation>
+		<annotation cp="🏃🏼‍➡">දකුණට | දුවන්නා | දුවමින් | මැරතන් | මුහුණලා | සමෙහි වර්ගය-3</annotation>
+		<annotation cp="🏃🏼‍➡" type="tts">දුවන්නා: සමෙහි වර්ගය-3 සහ දකුණට මුහුණලා</annotation>
+		<annotation cp="🏃🏽‍➡">දකුණට | දුවන්නා | දුවමින් | මැරතන් | මුහුණලා | සමෙහි වර්ගය-4</annotation>
+		<annotation cp="🏃🏽‍➡" type="tts">දුවන්නා: සමෙහි වර්ගය-4 සහ දකුණට මුහුණලා</annotation>
+		<annotation cp="🏃🏾‍➡">දකුණට | දුවන්නා | දුවමින් | මැරතන් | මුහුණලා | සමෙහි වර්ගය-5</annotation>
+		<annotation cp="🏃🏾‍➡" type="tts">දුවන්නා: සමෙහි වර්ගය-5 සහ දකුණට මුහුණලා</annotation>
+		<annotation cp="🏃🏿‍➡">දකුණට | දුවන්නා | දුවමින් | මැරතන් | මුහුණලා | සමෙහි වර්ගය-6</annotation>
+		<annotation cp="🏃🏿‍➡" type="tts">දුවන්නා: සමෙහි වර්ගය-6 සහ දකුණට මුහුණලා</annotation>
+		<annotation cp="🏃‍♀‍➡">කාන්තාව | දකුණට | දිවීම | දුවන කාන්තාව | මැරතන් | මුහුණලා | ස්ත්‍රිය</annotation>
+		<annotation cp="🏃‍♀‍➡" type="tts">දුවන කාන්තාව: දකුණට මුහුණලා</annotation>
+		<annotation cp="🏃🏻‍♀‍➡">කාන්තාව | දකුණට | දිවීම | දුවන කාන්තාව | මැරතන් | මුහුණලා | සමෙහි වර්ගය-1-2 | ස්ත්‍රිය</annotation>
+		<annotation cp="🏃🏻‍♀‍➡" type="tts">දුවන කාන්තාව: සමෙහි වර්ගය-1-2 සහ දකුණට මුහුණලා</annotation>
+		<annotation cp="🏃🏼‍♀‍➡">කාන්තාව | දකුණට | දිවීම | දුවන කාන්තාව | මැරතන් | මුහුණලා | සමෙහි වර්ගය-3 | ස්ත්‍රිය</annotation>
+		<annotation cp="🏃🏼‍♀‍➡" type="tts">දුවන කාන්තාව: සමෙහි වර්ගය-3 සහ දකුණට මුහුණලා</annotation>
+		<annotation cp="🏃🏽‍♀‍➡">කාන්තාව | දකුණට | දිවීම | දුවන කාන්තාව | මැරතන් | මුහුණලා | සමෙහි වර්ගය-4 | ස්ත්‍රිය</annotation>
+		<annotation cp="🏃🏽‍♀‍➡" type="tts">දුවන කාන්තාව: සමෙහි වර්ගය-4 සහ දකුණට මුහුණලා</annotation>
+		<annotation cp="🏃🏾‍♀‍➡">කාන්තාව | දකුණට | දිවීම | දුවන කාන්තාව | මැරතන් | මුහුණලා | සමෙහි වර්ගය-5 | ස්ත්‍රිය</annotation>
+		<annotation cp="🏃🏾‍♀‍➡" type="tts">දුවන කාන්තාව: සමෙහි වර්ගය-5 සහ දකුණට මුහුණලා</annotation>
+		<annotation cp="🏃🏿‍♀‍➡">කාන්තාව | දකුණට | දිවීම | දුවන කාන්තාව | මැරතන් | මුහුණලා | සමෙහි වර්ගය-6 | ස්ත්‍රිය</annotation>
+		<annotation cp="🏃🏿‍♀‍➡" type="tts">දුවන කාන්තාව: සමෙහි වර්ගය-6 සහ දකුණට මුහුණලා</annotation>
+		<annotation cp="🏃‍♂‍➡">දකුණට | දිවීම | දුවන පිරිමියා | පිරිමියා | මැරතන් | මිනිහා | මුහුණලා</annotation>
+		<annotation cp="🏃‍♂‍➡" type="tts">දුවන පිරිමියා: දකුණට මුහුණලා</annotation>
+		<annotation cp="🏃🏻‍♂‍➡">දකුණට | දිවීම | දුවන පිරිමියා | පිරිමියා | මැරතන් | මිනිහා | මුහුණලා | සමෙහි වර්ගය-1-2</annotation>
+		<annotation cp="🏃🏻‍♂‍➡" type="tts">දුවන පිරිමියා: සමෙහි වර්ගය-1-2 සහ දකුණට මුහුණලා</annotation>
+		<annotation cp="🏃🏼‍♂‍➡">දකුණට | දිවීම | දුවන පිරිමියා | පිරිමියා | මැරතන් | මිනිහා | මුහුණලා | සමෙහි වර්ගය-3</annotation>
+		<annotation cp="🏃🏼‍♂‍➡" type="tts">දුවන පිරිමියා: සමෙහි වර්ගය-3 සහ දකුණට මුහුණලා</annotation>
+		<annotation cp="🏃🏽‍♂‍➡">දකුණට | දිවීම | දුවන පිරිමියා | පිරිමියා | මැරතන් | මිනිහා | මුහුණලා | සමෙහි වර්ගය-4</annotation>
+		<annotation cp="🏃🏽‍♂‍➡" type="tts">දුවන පිරිමියා: සමෙහි වර්ගය-4 සහ දකුණට මුහුණලා</annotation>
+		<annotation cp="🏃🏾‍♂‍➡">දකුණට | දිවීම | දුවන පිරිමියා | පිරිමියා | මැරතන් | මිනිහා | මුහුණලා | සමෙහි වර්ගය-5</annotation>
+		<annotation cp="🏃🏾‍♂‍➡" type="tts">දුවන පිරිමියා: සමෙහි වර්ගය-5 සහ දකුණට මුහුණලා</annotation>
+		<annotation cp="🏃🏿‍♂‍➡">දකුණට | දිවීම | දුවන පිරිමියා | පිරිමියා | මැරතන් | මිනිහා | මුහුණලා | සමෙහි වර්ගය-6</annotation>
+		<annotation cp="🏃🏿‍♂‍➡" type="tts">දුවන පිරිමියා: සමෙහි වර්ගය-6 සහ දකුණට මුහුණලා</annotation>
 		<annotation cp="💃🏻">කාන්තාව | නැටුම් | නැට්ටුක්කාරි | සමෙහි වර්ගය-1-2</annotation>
 		<annotation cp="💃🏻" type="tts">නැට්ටුක්කාරි: සමෙහි වර්ගය-1-2</annotation>
 		<annotation cp="💃🏼">කාන්තාව | නැටුම් | නැට්ටුක්කාරි | සමෙහි වර්ගය-3</annotation>

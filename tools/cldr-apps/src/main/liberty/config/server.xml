@@ -1,6 +1,7 @@
 <server description="cldr-apps Liberty server">
 	<!-- tag::featureManager[] -->
 	<featureManager>
+		<feature>jsonb-1.0</feature>
 		<feature>jaxrs-2.1</feature>
 		<feature>jsp-2.3</feature>
 		<feature>jdbc-4.3</feature>
@@ -9,13 +10,15 @@
 		<feature>mpConfig-1.4</feature>
 		<feature>localConnector-1.0</feature>
 		<feature>concurrent-1.0</feature>
+		<feature>mpMetrics-2.0</feature>
+		<feature>monitor-1.0</feature>
 	</featureManager>
 	<!-- end::featureManager[] -->
 
 	<!-- tag::httpEndpoint[] -->
 	<httpEndpoint httpPort="9080" id="defaultHttpEndpoint"
 		host="*">
-		<samesite id="cldr" strict="*" />
+		<samesite id="cldr" lax="*" />
 	</httpEndpoint>
 	<!-- end::httpEndpoint[] -->
 
@@ -59,4 +62,11 @@
 		maxFileSize="50"
 		maxFiles="10"
 	/>
+
+	<!-- Needed to enable JSPs to be at source level 1.8 (at least) -->
+	<jspEngine jdkSourceLevel="18" />
+
+	<!-- We will be proxying access to the metrics server, so not an issue here -->
+	<mpMetrics authentication="false" />
+
 </server>

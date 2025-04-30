@@ -1,23 +1,23 @@
 package org.unicode.cldr.test;
 
+import com.ibm.icu.impl.Relation;
 import java.io.BufferedReader;
 import java.io.IOException;
-import java.util.Arrays;
 import java.util.Collections;
 import java.util.HashMap;
 import java.util.Iterator;
-import java.util.List;
 import java.util.Map;
 import java.util.Objects;
 import java.util.Set;
 import java.util.TreeMap;
 import java.util.TreeSet;
 import java.util.regex.Matcher;
-
 import org.unicode.cldr.util.CLDRFile;
 import org.unicode.cldr.util.CLDRPaths;
 import org.unicode.cldr.util.CldrUtility;
 import org.unicode.cldr.util.Factory;
+import org.unicode.cldr.util.NameGetter;
+import org.unicode.cldr.util.NameType;
 import org.unicode.cldr.util.Pair;
 import org.unicode.cldr.util.PatternCache;
 import org.unicode.cldr.util.StandardCodes;
@@ -25,9 +25,6 @@ import org.unicode.cldr.util.SupplementalDataInfo;
 import org.unicode.cldr.util.SupplementalDataInfo.BasicLanguageData;
 import org.unicode.cldr.util.SupplementalDataInfo.PluralInfo;
 import org.unicode.cldr.util.SupplementalDataInfo.PluralInfo.Count;
-import org.unicode.cldr.util.XPathParts;
-
-import com.ibm.icu.impl.Relation;
 
 public class TestSupplementalData {
     static CLDRFile english;
@@ -43,7 +40,6 @@ public class TestSupplementalData {
         supplementalData = SupplementalDataInfo.getInstance(CLDRPaths.SUPPLEMENTAL_DIRECTORY);
         sc = StandardCodes.make();
 
-        showMultiZones();
         checkPlurals();
 
         System.out.println("Skipped Elements: " + supplementalData.getSkippedElements());
@@ -53,45 +49,10 @@ public class TestSupplementalData {
         checkTelephoneCodeData();
     }
 
-    private static void showMultiZones() {
-        // reverse the list
-        Relation<String, String> territoryToZones = Relation.<String, String> of(new TreeMap<String, Set<String>>(), TreeSet.class);
-        for (String zone : supplementalData.getCanonicalZones()) {
-            territoryToZones.put(supplementalData.getZone_territory(zone), zone);
-        }
-        // gather the data
-        // this could be slightly simpler using supplementalData.get
-        Set<String> singulars = new TreeSet<>();
-        for (String region : territoryToZones.keySet()) {
-            final Set<String> zones = territoryToZones.getAll(region);
-            if (zones.size() == 1 || region.equals("001")) {
-                singulars.addAll(zones);
-                continue;
-            }
-            System.out.println(region + "\t" + english.getName("territory", region));
-            System.out.println("\t" + zones);
-        }
-        XPathParts xpp = XPathParts.getFrozenInstance(root.getFullXPath("//ldml/dates/timeZoneNames/singleCountries"));
-        List<String> singleCountries = Arrays.asList(xpp.getAttributeValue(-1, "list").split("\\s+"));
-        singulars.addAll(singleCountries);
-        singulars.remove("Etc/Unknown"); // remove special case
-        System.out.println("Excluded Zones (not necessary in Survey tool): " + singulars);
-        Set<String> otherExclusions = root.getExcludedZones();
-        if (!otherExclusions.equals(singulars)) {
-            throw new IllegalArgumentException("problem with excluded zones");
-        }
-        for (Iterator<String> it = english.iterator("//ldml/dates/timeZoneNames/zone"); it.hasNext();) {
-            String distinguishedPath = it.next();
-            if (root.isPathExcludedForSurvey(distinguishedPath)) {
-                System.out.println("EX\t" + distinguishedPath);
-            } else {
-                System.out.println("\t" + distinguishedPath);
-            }
-        }
-    }
-
     private static void checkPlurals() {
-        Relation<PluralInfo, String> pluralsToLocale = Relation.<PluralInfo, String> of(new HashMap<PluralInfo, Set<String>>(), TreeSet.class);
+        Relation<PluralInfo, String> pluralsToLocale =
+                Relation.<PluralInfo, String>of(
+                        new HashMap<PluralInfo, Set<String>>(), TreeSet.class);
         for (String locale : new TreeSet<>(supplementalData.getPluralLocales())) {
             PluralInfo pluralInfo = supplementalData.getPlurals(locale);
             System.out.println(locale + ":\t" + pluralInfo);
@@ -105,11 +66,11 @@ public class TestSupplementalData {
             System.out.println("Locales: \t" + pluralsToLocale.getAll(pluralInfo2));
             final Map<Count, String> typeToExamples = pluralInfo2.getCountToStringExamplesMap();
             for (Count type : typeToExamples.keySet()) {
-                System.out.println("\tPlural Code: \t" + type + " \t=>\t" + typeToExamples.get(type));
+                System.out.println(
+                        "\tPlural Code: \t" + type + " \t=>\t" + typeToExamples.get(type));
             }
             System.out.println();
         }
-
     }
 
     private static void checkTelephoneCodeData() {
@@ -129,7 +90,7 @@ public class TestSupplementalData {
     private static void checkTerritoryMapping() {
         Relation<String, String> alpha3 = supplementalData.getAlpha3TerritoryMapping();
         Set<String> temp = new TreeSet<>(sc.getAvailableCodes("territory"));
-        for (Iterator<String> it = temp.iterator(); it.hasNext();) {
+        for (Iterator<String> it = temp.iterator(); it.hasNext(); ) {
             String code = it.next();
             if (numericTerritory.reset(code).matches()) {
                 it.remove();
@@ -143,14 +104,16 @@ public class TestSupplementalData {
         showAnyDifferences("alpha3", alpha3.keySet(), "sc", temp);
     }
 
-    private static void showAnyDifferences(String title, Set<String> set, String title2, Set<String> set2) {
+    private static void showAnyDifferences(
+            String title, Set<String> set, String title2, Set<String> set2) {
         if (!set.equals(set2)) {
             showFirstMinusSecond("Failure " + title + "-" + title2 + ": ", set, set2);
             showFirstMinusSecond("Failure " + title2 + "-" + title + ": ", set2, set);
         }
     }
 
-    private static void showFirstMinusSecond(String title, Set<String> name, Set<String> availableCodes) {
+    private static void showFirstMinusSecond(
+            String title, Set<String> name, Set<String> availableCodes) {
         Set<String> temp = getFirstMinusSecond(name, availableCodes);
         if (!temp.isEmpty()) {
             System.out.println(title + getFirstMinusSecond(name, availableCodes));
@@ -164,10 +127,13 @@ public class TestSupplementalData {
     }
 
     static void checkAgainstLanguageScript() {
-        Relation<String, String> otherTerritoryToLanguages = Relation.<String, String> of(new TreeMap<String, Set<String>>(), TreeSet.class, null);
+        Relation<String, String> otherTerritoryToLanguages =
+                Relation.<String, String>of(
+                        new TreeMap<String, Set<String>>(), TreeSet.class, null);
         // get other language data
         for (String language : sc.getGoodAvailableCodes("language")) {
-            Set<BasicLanguageData> newLanguageData = supplementalData.getBasicLanguageData(language);
+            Set<BasicLanguageData> newLanguageData =
+                    supplementalData.getBasicLanguageData(language);
             if (newLanguageData != null) {
                 for (BasicLanguageData languageData : newLanguageData) {
                     Set<String> territories = new TreeSet<>(languageData.getTerritories());
@@ -179,7 +145,8 @@ public class TestSupplementalData {
                             otherTerritoryToLanguages.putAll(territories, language);
                         } else {
                             for (String script : scripts) {
-                                otherTerritoryToLanguages.putAll(territories, language + "_" + script);
+                                otherTerritoryToLanguages.putAll(
+                                        territories, language + "_" + script);
                             }
                         }
                     }
@@ -187,6 +154,7 @@ public class TestSupplementalData {
             }
         }
         // compare them, listing differences
+        NameGetter nameGetter = english.nameGetter();
         for (String territory : sc.getGoodAvailableCodes("territory")) {
             Set<String> languages = supplementalData.getTerritoryToLanguages(territory);
             Set<String> otherLanguages = otherTerritoryToLanguages.getAll(territory);
@@ -196,11 +164,13 @@ public class TestSupplementalData {
                 languagesLeftover.removeAll(otherLanguages);
                 Set<String> otherLanguagesLeftover = new TreeSet<>(otherLanguages);
                 otherLanguagesLeftover.removeAll(languages);
-                String territoryString = english.getName(CLDRFile.TERRITORY_NAME, territory);
+                String territoryString =
+                        nameGetter.getNameFromTypeEnumCode(NameType.TERRITORY, territory);
                 if (otherLanguagesLeftover.size() != 0) {
                     for (String other : otherLanguagesLeftover) {
-                        String name = english.getName(other);
-                        System.out.println(territoryString + "\t" + territory + "\t" + name + "\t" + other);
+                        String name = nameGetter.getNameFromIdentifier(other);
+                        System.out.println(
+                                territoryString + "\t" + territory + "\t" + name + "\t" + other);
                     }
                 }
             }
@@ -217,18 +187,14 @@ public class TestSupplementalData {
         Set<Pair> sorted = new TreeSet<>();
         while (true) {
             String line = codes.readLine();
-            if (line == null)
-                break;
+            if (line == null) break;
             line = line.split("#")[0].trim();
-            if (line.length() == 0)
-                continue;
+            if (line.length() == 0) continue;
             String[] sourceValues = line.split("\\s+");
             String[] values = new String[5];
             for (int i = 0; i < values.length; ++i) {
-                if (i >= sourceValues.length || sourceValues[i].equals("-"))
-                    values[i] = null;
-                else
-                    values[i] = sourceValues[i];
+                if (i >= sourceValues.length || sourceValues[i].equals("-")) values[i] = null;
+                else values[i] = sourceValues[i];
             }
             String alpha2 = values[0];
             String numeric = values[1];
@@ -237,10 +203,12 @@ public class TestSupplementalData {
             if (internet != null) {
                 internet = internet.replace("/", " ");
             }
-            if (internet != null)
-                internet = internet.toUpperCase();
+            if (internet != null) internet = internet.toUpperCase();
             String fips10 = values[4];
-            Pair item = new Pair(alpha2, new Pair(numeric, new Pair(alpha3, new Pair(fips10, internet))));
+            Pair item =
+                    new Pair(
+                            alpha2,
+                            new Pair(numeric, new Pair(alpha3, new Pair(fips10, internet))));
             sorted.add(item);
         }
         for (Pair item : sorted) {

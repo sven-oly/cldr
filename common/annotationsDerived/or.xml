@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE ldml SYSTEM "../../common/dtd/ldml.dtd">
-<!-- Copyright © 1991-2020 Unicode, Inc.
+<!-- Copyright © 1991-2024 Unicode, Inc.
 For terms of use, see http://www.unicode.org/copyright.html
-Unicode and the Unicode Logo are registered trademarks of Unicode, Inc. in the U.S. and other countries.
+SPDX-License-Identifier: Unicode-3.0
 CLDR data files are interpreted according to the LDML specification (http://unicode.org/reports/tr35/)
+
+Derived short names and annotations, using GenerateDerivedAnnotations.java. See warnings in /annotations/ file.
 -->
-<!-- Derived short names and annotations, using GenerateDerivedAnnotations.java. See warnings in /annotations/ file. -->
 <ldml>
 	<identity>
 		<version number="$Revision$"/>
@@ -32,15 +33,15 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🤚🏾" type="tts">ଉଠା ଯାଇଥିବା ହାତ ପଛ: ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🤚🏿">ଉଠା ଯାଇଥିବା ହାତ ପଛ | ଉଠାଯାଇଛି | ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ହାତର ପଛ ଭାଗ</annotation>
 		<annotation cp="🤚🏿" type="tts">ଉଠା ଯାଇଥିବା ହାତ ପଛ: ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🖐🏻">ଆଙ୍ଗୁଠି | ଆଙ୍ଗୁଠିଗୁଡ଼ିକ ଖୋଲା କରି ରଖିଥିବା ହାତ | ଫର୍ଚାଇବା | ହାତ | ହାତ ସହିତ ଫର୍ଚା ଯାଇଥିବା ଆଙ୍ଗୁଠି | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🖐🏻">ଆଙ୍ଗୁଠି | ଆଙ୍ଗୁଠି ସହିତ ହାତ ସ୍ପ୍ଲେଡ୍ | ଆଙ୍ଗୁଠିଗୁଡ଼ିକ ଖୋଲା କରି ରଖିଥିବା ହାତ | ସ୍ପ୍ଲେଡ୍ | ହାତ | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🖐🏻" type="tts">ଆଙ୍ଗୁଠିଗୁଡ଼ିକ ଖୋଲା କରି ରଖିଥିବା ହାତ: ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🖐🏼">ଆଙ୍ଗୁଠି | ଆଙ୍ଗୁଠିଗୁଡ଼ିକ ଖୋଲା କରି ରଖିଥିବା ହାତ | ଫର୍ଚାଇବା | ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ | ହାତ | ହାତ ସହିତ ଫର୍ଚା ଯାଇଥିବା ଆଙ୍ଗୁଠି</annotation>
+		<annotation cp="🖐🏼">ଆଙ୍ଗୁଠି | ଆଙ୍ଗୁଠି ସହିତ ହାତ ସ୍ପ୍ଲେଡ୍ | ଆଙ୍ଗୁଠିଗୁଡ଼ିକ ଖୋଲା କରି ରଖିଥିବା ହାତ | ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ | ସ୍ପ୍ଲେଡ୍ | ହାତ</annotation>
 		<annotation cp="🖐🏼" type="tts">ଆଙ୍ଗୁଠିଗୁଡ଼ିକ ଖୋଲା କରି ରଖିଥିବା ହାତ: ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🖐🏽">ଆଙ୍ଗୁଠି | ଆଙ୍ଗୁଠିଗୁଡ଼ିକ ଖୋଲା କରି ରଖିଥିବା ହାତ | ଫର୍ଚାଇବା | ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ | ହାତ | ହାତ ସହିତ ଫର୍ଚା ଯାଇଥିବା ଆଙ୍ଗୁଠି</annotation>
+		<annotation cp="🖐🏽">ଆଙ୍ଗୁଠି | ଆଙ୍ଗୁଠି ସହିତ ହାତ ସ୍ପ୍ଲେଡ୍ | ଆଙ୍ଗୁଠିଗୁଡ଼ିକ ଖୋଲା କରି ରଖିଥିବା ହାତ | ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ | ସ୍ପ୍ଲେଡ୍ | ହାତ</annotation>
 		<annotation cp="🖐🏽" type="tts">ଆଙ୍ଗୁଠିଗୁଡ଼ିକ ଖୋଲା କରି ରଖିଥିବା ହାତ: ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🖐🏾">ଆଙ୍ଗୁଠି | ଆଙ୍ଗୁଠିଗୁଡ଼ିକ ଖୋଲା କରି ରଖିଥିବା ହାତ | ଫର୍ଚାଇବା | ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ହାତ | ହାତ ସହିତ ଫର୍ଚା ଯାଇଥିବା ଆଙ୍ଗୁଠି</annotation>
+		<annotation cp="🖐🏾">ଆଙ୍ଗୁଠି | ଆଙ୍ଗୁଠି ସହିତ ହାତ ସ୍ପ୍ଲେଡ୍ | ଆଙ୍ଗୁଠିଗୁଡ଼ିକ ଖୋଲା କରି ରଖିଥିବା ହାତ | ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ସ୍ପ୍ଲେଡ୍ | ହାତ</annotation>
 		<annotation cp="🖐🏾" type="tts">ଆଙ୍ଗୁଠିଗୁଡ଼ିକ ଖୋଲା କରି ରଖିଥିବା ହାତ: ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🖐🏿">ଆଙ୍ଗୁଠି | ଆଙ୍ଗୁଠିଗୁଡ଼ିକ ଖୋଲା କରି ରଖିଥିବା ହାତ | ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ଫର୍ଚାଇବା | ହାତ | ହାତ ସହିତ ଫର୍ଚା ଯାଇଥିବା ଆଙ୍ଗୁଠି</annotation>
+		<annotation cp="🖐🏿">ଆଙ୍ଗୁଠି | ଆଙ୍ଗୁଠି ସହିତ ହାତ ସ୍ପ୍ଲେଡ୍ | ଆଙ୍ଗୁଠିଗୁଡ଼ିକ ଖୋଲା କରି ରଖିଥିବା ହାତ | ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ସ୍ପ୍ଲେଡ୍ | ହାତ</annotation>
 		<annotation cp="🖐🏿" type="tts">ଆଙ୍ଗୁଠିଗୁଡ଼ିକ ଖୋଲା କରି ରଖିଥିବା ହାତ: ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="✋🏻">ଉଠା ଯାଇଥିବା ହାତ | ହାତ | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="✋🏻" type="tts">ଉଠା ଯାଇଥିବା ହାତ: ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
@@ -62,6 +63,106 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🖖🏾" type="tts">ଭଲକାନ୍‌ ସାଲ୍ୟୁଟ୍‌: ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🖖🏿">ଆଙ୍ଗୁଠି | ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ଭଲକାନ୍‌ | ଭଲକାନ୍‌ ସାଲ୍ୟୁଟ୍‌ | ସ୍ପକ୍‌ | ହାତ</annotation>
 		<annotation cp="🖖🏿" type="tts">ଭଲକାନ୍‌ ସାଲ୍ୟୁଟ୍‌: ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫱🏻">ଡାହାଣ | ଡାହାଣକୁ | ହାତ | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫱🏻" type="tts">ହାତ: ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫱🏼">ଡାହାଣ | ଡାହାଣକୁ | ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ | ହାତ</annotation>
+		<annotation cp="🫱🏼" type="tts">ହାତ: ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫱🏽">ଡାହାଣ | ଡାହାଣକୁ | ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ | ହାତ</annotation>
+		<annotation cp="🫱🏽" type="tts">ହାତ: ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫱🏾">ଡାହାଣ | ଡାହାଣକୁ | ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ହାତ</annotation>
+		<annotation cp="🫱🏾" type="tts">ହାତ: ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫱🏿">ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ଡାହାଣ | ଡାହାଣକୁ | ହାତ</annotation>
+		<annotation cp="🫱🏿" type="tts">ହାତ: ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫱🏻‍🫲🏼">କରମର୍ଦ୍ଦନ | ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ | ସହମତ | ସାକ୍ଷାତ | ହଲାଇବା | ହାଣ୍ଡଶେକ୍ | ହାତ | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫱🏻‍🫲🏼" type="tts">କରମର୍ଦ୍ଦନ: ହାଲକା ଚର୍ମ ରଙ୍ଗ, ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫱🏻‍🫲🏽">କରମର୍ଦ୍ଦନ | ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ | ସହମତ | ସାକ୍ଷାତ | ହଲାଇବା | ହାଣ୍ଡଶେକ୍ | ହାତ | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫱🏻‍🫲🏽" type="tts">କରମର୍ଦ୍ଦନ: ହାଲକା ଚର୍ମ ରଙ୍ଗ, ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫱🏻‍🫲🏾">କରମର୍ଦ୍ଦନ | ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ସହମତ | ସାକ୍ଷାତ | ହଲାଇବା | ହାଣ୍ଡଶେକ୍ | ହାତ | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫱🏻‍🫲🏾" type="tts">କରମର୍ଦ୍ଦନ: ହାଲକା ଚର୍ମ ରଙ୍ଗ, ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫱🏻‍🫲🏿">କରମର୍ଦ୍ଦନ | ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ସହମତ | ସାକ୍ଷାତ | ହଲାଇବା | ହାଣ୍ଡଶେକ୍ | ହାତ | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫱🏻‍🫲🏿" type="tts">କରମର୍ଦ୍ଦନ: ହାଲକା ଚର୍ମ ରଙ୍ଗ, ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫱🏼‍🫲🏻">କରମର୍ଦ୍ଦନ | ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ | ସହମତ | ସାକ୍ଷାତ | ହଲାଇବା | ହାଣ୍ଡଶେକ୍ | ହାତ | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫱🏼‍🫲🏻" type="tts">କରମର୍ଦ୍ଦନ: ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ, ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫱🏼‍🫲🏽">କରମର୍ଦ୍ଦନ | ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ | ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ | ସହମତ | ସାକ୍ଷାତ | ହଲାଇବା | ହାଣ୍ଡଶେକ୍ | ହାତ</annotation>
+		<annotation cp="🫱🏼‍🫲🏽" type="tts">କରମର୍ଦ୍ଦନ: ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ, ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫱🏼‍🫲🏾">କରମର୍ଦ୍ଦନ | ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ | ସହମତ | ସାକ୍ଷାତ | ହଲାଇବା | ହାଣ୍ଡଶେକ୍ | ହାତ</annotation>
+		<annotation cp="🫱🏼‍🫲🏾" type="tts">କରମର୍ଦ୍ଦନ: ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ, ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫱🏼‍🫲🏿">କରମର୍ଦ୍ଦନ | ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ | ସହମତ | ସାକ୍ଷାତ | ହଲାଇବା | ହାଣ୍ଡଶେକ୍ | ହାତ</annotation>
+		<annotation cp="🫱🏼‍🫲🏿" type="tts">କରମର୍ଦ୍ଦନ: ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ, ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫱🏽‍🫲🏻">କରମର୍ଦ୍ଦନ | ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ | ସହମତ | ସାକ୍ଷାତ | ହଲାଇବା | ହାଣ୍ଡଶେକ୍ | ହାତ | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫱🏽‍🫲🏻" type="tts">କରମର୍ଦ୍ଦନ: ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ, ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫱🏽‍🫲🏼">କରମର୍ଦ୍ଦନ | ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ | ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ | ସହମତ | ସାକ୍ଷାତ | ହଲାଇବା | ହାଣ୍ଡଶେକ୍ | ହାତ</annotation>
+		<annotation cp="🫱🏽‍🫲🏼" type="tts">କରମର୍ଦ୍ଦନ: ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ, ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫱🏽‍🫲🏾">କରମର୍ଦ୍ଦନ | ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ | ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ସହମତ | ସାକ୍ଷାତ | ହଲାଇବା | ହାଣ୍ଡଶେକ୍ | ହାତ</annotation>
+		<annotation cp="🫱🏽‍🫲🏾" type="tts">କରମର୍ଦ୍ଦନ: ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ, ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫱🏽‍🫲🏿">କରମର୍ଦ୍ଦନ | ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ | ସହମତ | ସାକ୍ଷାତ | ହଲାଇବା | ହାଣ୍ଡଶେକ୍ | ହାତ</annotation>
+		<annotation cp="🫱🏽‍🫲🏿" type="tts">କରମର୍ଦ୍ଦନ: ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ, ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫱🏾‍🫲🏻">କରମର୍ଦ୍ଦନ | ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ସହମତ | ସାକ୍ଷାତ | ହଲାଇବା | ହାଣ୍ଡଶେକ୍ | ହାତ | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫱🏾‍🫲🏻" type="tts">କରମର୍ଦ୍ଦନ: ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ, ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫱🏾‍🫲🏼">କରମର୍ଦ୍ଦନ | ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ | ସହମତ | ସାକ୍ଷାତ | ହଲାଇବା | ହାଣ୍ଡଶେକ୍ | ହାତ</annotation>
+		<annotation cp="🫱🏾‍🫲🏼" type="tts">କରମର୍ଦ୍ଦନ: ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ, ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫱🏾‍🫲🏽">କରମର୍ଦ୍ଦନ | ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ | ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ସହମତ | ସାକ୍ଷାତ | ହଲାଇବା | ହାଣ୍ଡଶେକ୍ | ହାତ</annotation>
+		<annotation cp="🫱🏾‍🫲🏽" type="tts">କରମର୍ଦ୍ଦନ: ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ, ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫱🏾‍🫲🏿">କରମର୍ଦ୍ଦନ | ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ସହମତ | ସାକ୍ଷାତ | ହଲାଇବା | ହାଣ୍ଡଶେକ୍ | ହାତ</annotation>
+		<annotation cp="🫱🏾‍🫲🏿" type="tts">କରମର୍ଦ୍ଦନ: ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ, ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫱🏿‍🫲🏻">କରମର୍ଦ୍ଦନ | ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ସହମତ | ସାକ୍ଷାତ | ହଲାଇବା | ହାଣ୍ଡଶେକ୍ | ହାତ | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫱🏿‍🫲🏻" type="tts">କରମର୍ଦ୍ଦନ: ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ, ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫱🏿‍🫲🏼">କରମର୍ଦ୍ଦନ | ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ | ସହମତ | ସାକ୍ଷାତ | ହଲାଇବା | ହାଣ୍ଡଶେକ୍ | ହାତ</annotation>
+		<annotation cp="🫱🏿‍🫲🏼" type="tts">କରମର୍ଦ୍ଦନ: ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ, ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫱🏿‍🫲🏽">କରମର୍ଦ୍ଦନ | ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ | ସହମତ | ସାକ୍ଷାତ | ହଲାଇବା | ହାଣ୍ଡଶେକ୍ | ହାତ</annotation>
+		<annotation cp="🫱🏿‍🫲🏽" type="tts">କରମର୍ଦ୍ଦନ: ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ, ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫱🏿‍🫲🏾">କରମର୍ଦ୍ଦନ | ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ସହମତ | ସାକ୍ଷାତ | ହଲାଇବା | ହାଣ୍ଡଶେକ୍ | ହାତ</annotation>
+		<annotation cp="🫱🏿‍🫲🏾" type="tts">କରମର୍ଦ୍ଦନ: ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ, ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫲🏻">ବାମ | ବାମକୁ | ହାତ | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫲🏻" type="tts">ବାମ ହାତ: ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫲🏼">ବାମ | ବାମକୁ | ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ | ହାତ</annotation>
+		<annotation cp="🫲🏼" type="tts">ବାମ ହାତ: ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫲🏽">ବାମ | ବାମକୁ | ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ | ହାତ</annotation>
+		<annotation cp="🫲🏽" type="tts">ବାମ ହାତ: ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫲🏾">ବାମ | ବାମକୁ | ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ହାତ</annotation>
+		<annotation cp="🫲🏾" type="tts">ବାମ ହାତ: ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫲🏿">ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ବାମ | ବାମକୁ | ହାତ</annotation>
+		<annotation cp="🫲🏿" type="tts">ବାମ ହାତ: ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫳🏻">ଡ୍ରପ୍ | ପାପୁଲି ତଳକୁ କରିଥିବା ହାତ | ବରଖାସ୍ତ | ଶୋ | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫳🏻" type="tts">ପାପୁଲି ତଳକୁ କରିଥିବା ହାତ: ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫳🏼">ଡ୍ରପ୍ | ପାପୁଲି ତଳକୁ କରିଥିବା ହାତ | ବରଖାସ୍ତ | ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ | ଶୋ</annotation>
+		<annotation cp="🫳🏼" type="tts">ପାପୁଲି ତଳକୁ କରିଥିବା ହାତ: ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫳🏽">ଡ୍ରପ୍ | ପାପୁଲି ତଳକୁ କରିଥିବା ହାତ | ବରଖାସ୍ତ | ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ | ଶୋ</annotation>
+		<annotation cp="🫳🏽" type="tts">ପାପୁଲି ତଳକୁ କରିଥିବା ହାତ: ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫳🏾">ଡ୍ରପ୍ | ପାପୁଲି ତଳକୁ କରିଥିବା ହାତ | ବରଖାସ୍ତ | ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ଶୋ</annotation>
+		<annotation cp="🫳🏾" type="tts">ପାପୁଲି ତଳକୁ କରିଥିବା ହାତ: ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫳🏿">ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ଡ୍ରପ୍ | ପାପୁଲି ତଳକୁ କରିଥିବା ହାତ | ବରଖାସ୍ତ | ଶୋ</annotation>
+		<annotation cp="🫳🏿" type="tts">ପାପୁଲି ତଳକୁ କରିଥିବା ହାତ: ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫴🏻">ଅଫର୍ | ଆସ | ଧର | ପାପୁଲି ଉପରକୁ କରିଥିବା ହାତ | ବେକନ୍ | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫴🏻" type="tts">ପାପୁଲି ଉପରକୁ କରିଥିବା ହାତ: ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫴🏼">ଅଫର୍ | ଆସ | ଧର | ପାପୁଲି ଉପରକୁ କରିଥିବା ହାତ | ବେକନ୍ | ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫴🏼" type="tts">ପାପୁଲି ଉପରକୁ କରିଥିବା ହାତ: ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫴🏽">ଅଫର୍ | ଆସ | ଧର | ପାପୁଲି ଉପରକୁ କରିଥିବା ହାତ | ବେକନ୍ | ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫴🏽" type="tts">ପାପୁଲି ଉପରକୁ କରିଥିବା ହାତ: ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫴🏾">ଅଫର୍ | ଆସ | ଧର | ପାପୁଲି ଉପରକୁ କରିଥିବା ହାତ | ବେକନ୍ | ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫴🏾" type="tts">ପାପୁଲି ଉପରକୁ କରିଥିବା ହାତ: ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫴🏿">ଅଫର୍ | ଆସ | ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ଧର | ପାପୁଲି ଉପରକୁ କରିଥିବା ହାତ | ବେକନ୍</annotation>
+		<annotation cp="🫴🏿" type="tts">ପାପୁଲି ଉପରକୁ କରିଥିବା ହାତ: ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫷🏻">ଅପେକ୍ଷା କରନ୍ତୁ | ଠେଲିବା | ପ୍ରତ୍ୟାଖ୍ୟାନ କରିବା | ବାମଆଡ଼କୁ | ବାମଆଡ଼କୁ ଠେଲୁଥିବା ହାତ | ରୁହନ୍ତୁ | ହାଇ ଫାଇ | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫷🏻" type="tts">ବାମଆଡ଼କୁ ଠେଲୁଥିବା ହାତ: ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫷🏼">ଅପେକ୍ଷା କରନ୍ତୁ | ଠେଲିବା | ପ୍ରତ୍ୟାଖ୍ୟାନ କରିବା | ବାମଆଡ଼କୁ | ବାମଆଡ଼କୁ ଠେଲୁଥିବା ହାତ | ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ | ରୁହନ୍ତୁ | ହାଇ ଫାଇ</annotation>
+		<annotation cp="🫷🏼" type="tts">ବାମଆଡ଼କୁ ଠେଲୁଥିବା ହାତ: ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫷🏽">ଅପେକ୍ଷା କରନ୍ତୁ | ଠେଲିବା | ପ୍ରତ୍ୟାଖ୍ୟାନ କରିବା | ବାମଆଡ଼କୁ | ବାମଆଡ଼କୁ ଠେଲୁଥିବା ହାତ | ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ | ରୁହନ୍ତୁ | ହାଇ ଫାଇ</annotation>
+		<annotation cp="🫷🏽" type="tts">ବାମଆଡ଼କୁ ଠେଲୁଥିବା ହାତ: ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫷🏾">ଅପେକ୍ଷା କରନ୍ତୁ | ଠେଲିବା | ପ୍ରତ୍ୟାଖ୍ୟାନ କରିବା | ବାମଆଡ଼କୁ | ବାମଆଡ଼କୁ ଠେଲୁଥିବା ହାତ | ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ରୁହନ୍ତୁ | ହାଇ ଫାଇ</annotation>
+		<annotation cp="🫷🏾" type="tts">ବାମଆଡ଼କୁ ଠେଲୁଥିବା ହାତ: ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫷🏿">ଅପେକ୍ଷା କରନ୍ତୁ | ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ଠେଲିବା | ପ୍ରତ୍ୟାଖ୍ୟାନ କରିବା | ବାମଆଡ଼କୁ | ବାମଆଡ଼କୁ ଠେଲୁଥିବା ହାତ | ରୁହନ୍ତୁ | ହାଇ ଫାଇ</annotation>
+		<annotation cp="🫷🏿" type="tts">ବାମଆଡ଼କୁ ଠେଲୁଥିବା ହାତ: ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫸🏻">ଅପେକ୍ଷା କରନ୍ତୁ | ଠେଲିବା | ଡାହାଣଆଡ଼କୁ | ଡାହାଣଆଡ଼କୁ ଠେଲୁଥିବା ହାତ | ପ୍ରତ୍ୟାଖ୍ୟାନ କରିବା | ରୁହନ୍ତୁ | ହାଇ ଫାଇ | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫸🏻" type="tts">ଡାହାଣଆଡ଼କୁ ଠେଲୁଥିବା ହାତ: ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫸🏼">ଅପେକ୍ଷା କରନ୍ତୁ | ଠେଲିବା | ଡାହାଣଆଡ଼କୁ | ଡାହାଣଆଡ଼କୁ ଠେଲୁଥିବା ହାତ | ପ୍ରତ୍ୟାଖ୍ୟାନ କରିବା | ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ | ରୁହନ୍ତୁ | ହାଇ ଫାଇ</annotation>
+		<annotation cp="🫸🏼" type="tts">ଡାହାଣଆଡ଼କୁ ଠେଲୁଥିବା ହାତ: ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫸🏽">ଅପେକ୍ଷା କରନ୍ତୁ | ଠେଲିବା | ଡାହାଣଆଡ଼କୁ | ଡାହାଣଆଡ଼କୁ ଠେଲୁଥିବା ହାତ | ପ୍ରତ୍ୟାଖ୍ୟାନ କରିବା | ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ | ରୁହନ୍ତୁ | ହାଇ ଫାଇ</annotation>
+		<annotation cp="🫸🏽" type="tts">ଡାହାଣଆଡ଼କୁ ଠେଲୁଥିବା ହାତ: ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫸🏾">ଅପେକ୍ଷା କରନ୍ତୁ | ଠେଲିବା | ଡାହାଣଆଡ଼କୁ | ଡାହାଣଆଡ଼କୁ ଠେଲୁଥିବା ହାତ | ପ୍ରତ୍ୟାଖ୍ୟାନ କରିବା | ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ରୁହନ୍ତୁ | ହାଇ ଫାଇ</annotation>
+		<annotation cp="🫸🏾" type="tts">ଡାହାଣଆଡ଼କୁ ଠେଲୁଥିବା ହାତ: ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫸🏿">ଅପେକ୍ଷା କରନ୍ତୁ | ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ଠେଲିବା | ଡାହାଣଆଡ଼କୁ | ଡାହାଣଆଡ଼କୁ ଠେଲୁଥିବା ହାତ | ପ୍ରତ୍ୟାଖ୍ୟାନ କରିବା | ରୁହନ୍ତୁ | ହାଇ ଫାଇ</annotation>
+		<annotation cp="🫸🏿" type="tts">ଡାହାଣଆଡ଼କୁ ଠେଲୁଥିବା ହାତ: ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="👌🏻">ଠିକ୍‌ ଅଛି ଚିହ୍ନ ଥିବା ହାତ | ଠିକ୍‌ ହାତ ଚିହ୍ନ | ହାତ | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="👌🏻" type="tts">ଠିକ୍‌ ହାତ ଚିହ୍ନ: ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="👌🏼">ଠିକ୍‌ ଅଛି ଚିହ୍ନ ଥିବା ହାତ | ଠିକ୍‌ ହାତ ଚିହ୍ନ | ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ | ହାତ</annotation>
@@ -102,16 +203,26 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="✌🏾" type="tts">ଜୟଲାଭ ସୂଚାଉଥିବା ହାତ: ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="✌🏿">ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ଜୟଲାଭ ସୂଚାଉଥିବା ହାତ | ଜିତିବା | ଭି | ହାତ</annotation>
 		<annotation cp="✌🏿" type="tts">ଜୟଲାଭ ସୂଚାଉଥିବା ହାତ: ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🤞🏻">ଛକି । ଆଙ୍ଗୁଠି । ହାତ । ଭାଗ୍ୟ | ଛକିଯୁକ୍ତ ଆଙ୍ଗୁଠିଗୁଡ଼ିକ | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🤞🏻">ଆଙ୍ଗୁଠି | ଛକି | ଛକିଯୁକ୍ତ ଆଙ୍ଗୁଠିଗୁଡ଼ିକ | ଭାଗ୍ୟ | ହାତ | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🤞🏻" type="tts">ଛକିଯୁକ୍ତ ଆଙ୍ଗୁଠିଗୁଡ଼ିକ: ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🤞🏼">ଛକି । ଆଙ୍ଗୁଠି । ହାତ । ଭାଗ୍ୟ | ଛକିଯୁକ୍ତ ଆଙ୍ଗୁଠିଗୁଡ଼ିକ | ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🤞🏼">ଆଙ୍ଗୁଠି | ଛକି | ଛକିଯୁକ୍ତ ଆଙ୍ଗୁଠିଗୁଡ଼ିକ | ଭାଗ୍ୟ | ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ | ହାତ</annotation>
 		<annotation cp="🤞🏼" type="tts">ଛକିଯୁକ୍ତ ଆଙ୍ଗୁଠିଗୁଡ଼ିକ: ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🤞🏽">ଛକି । ଆଙ୍ଗୁଠି । ହାତ । ଭାଗ୍ୟ | ଛକିଯୁକ୍ତ ଆଙ୍ଗୁଠିଗୁଡ଼ିକ | ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🤞🏽">ଆଙ୍ଗୁଠି | ଛକି | ଛକିଯୁକ୍ତ ଆଙ୍ଗୁଠିଗୁଡ଼ିକ | ଭାଗ୍ୟ | ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ | ହାତ</annotation>
 		<annotation cp="🤞🏽" type="tts">ଛକିଯୁକ୍ତ ଆଙ୍ଗୁଠିଗୁଡ଼ିକ: ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🤞🏾">ଛକି । ଆଙ୍ଗୁଠି । ହାତ । ଭାଗ୍ୟ | ଛକିଯୁକ୍ତ ଆଙ୍ଗୁଠିଗୁଡ଼ିକ | ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🤞🏾">ଆଙ୍ଗୁଠି | ଛକି | ଛକିଯୁକ୍ତ ଆଙ୍ଗୁଠିଗୁଡ଼ିକ | ଭାଗ୍ୟ | ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ହାତ</annotation>
 		<annotation cp="🤞🏾" type="tts">ଛକିଯୁକ୍ତ ଆଙ୍ଗୁଠିଗୁଡ଼ିକ: ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🤞🏿">ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ଛକି । ଆଙ୍ଗୁଠି । ହାତ । ଭାଗ୍ୟ | ଛକିଯୁକ୍ତ ଆଙ୍ଗୁଠିଗୁଡ଼ିକ</annotation>
+		<annotation cp="🤞🏿">ଆଙ୍ଗୁଠି | ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ଛକି | ଛକିଯୁକ୍ତ ଆଙ୍ଗୁଠିଗୁଡ଼ିକ | ଭାଗ୍ୟ | ହାତ</annotation>
 		<annotation cp="🤞🏿" type="tts">ଛକିଯୁକ୍ତ ଆଙ୍ଗୁଠିଗୁଡ଼ିକ: ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫰🏻">ଇଣ୍ଡେକ୍ସ ଆଙ୍ଗୁଠି ଏବଂ ଆଙ୍ଗୁଠି ଅତିକ୍ରମ କରି ହାତ | ଟଙ୍କା | ପ୍ରେମ | ମହଙ୍ଗା | ସ୍ନାପ୍ | ହାଲକା ଚର୍ମ ରଙ୍ଗ | ହୃଦୟ</annotation>
+		<annotation cp="🫰🏻" type="tts">ଇଣ୍ଡେକ୍ସ ଆଙ୍ଗୁଠି ଏବଂ ଆଙ୍ଗୁଠି ଅତିକ୍ରମ କରି ହାତ: ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫰🏼">ଇଣ୍ଡେକ୍ସ ଆଙ୍ଗୁଠି ଏବଂ ଆଙ୍ଗୁଠି ଅତିକ୍ରମ କରି ହାତ | ଟଙ୍କା | ପ୍ରେମ | ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ | ମହଙ୍ଗା | ସ୍ନାପ୍ | ହୃଦୟ</annotation>
+		<annotation cp="🫰🏼" type="tts">ଇଣ୍ଡେକ୍ସ ଆଙ୍ଗୁଠି ଏବଂ ଆଙ୍ଗୁଠି ଅତିକ୍ରମ କରି ହାତ: ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫰🏽">ଇଣ୍ଡେକ୍ସ ଆଙ୍ଗୁଠି ଏବଂ ଆଙ୍ଗୁଠି ଅତିକ୍ରମ କରି ହାତ | ଟଙ୍କା | ପ୍ରେମ | ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ | ମହଙ୍ଗା | ସ୍ନାପ୍ | ହୃଦୟ</annotation>
+		<annotation cp="🫰🏽" type="tts">ଇଣ୍ଡେକ୍ସ ଆଙ୍ଗୁଠି ଏବଂ ଆଙ୍ଗୁଠି ଅତିକ୍ରମ କରି ହାତ: ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫰🏾">ଇଣ୍ଡେକ୍ସ ଆଙ୍ଗୁଠି ଏବଂ ଆଙ୍ଗୁଠି ଅତିକ୍ରମ କରି ହାତ | ଟଙ୍କା | ପ୍ରେମ | ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ମହଙ୍ଗା | ସ୍ନାପ୍ | ହୃଦୟ</annotation>
+		<annotation cp="🫰🏾" type="tts">ଇଣ୍ଡେକ୍ସ ଆଙ୍ଗୁଠି ଏବଂ ଆଙ୍ଗୁଠି ଅତିକ୍ରମ କରି ହାତ: ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫰🏿">ଇଣ୍ଡେକ୍ସ ଆଙ୍ଗୁଠି ଏବଂ ଆଙ୍ଗୁଠି ଅତିକ୍ରମ କରି ହାତ | ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ଟଙ୍କା | ପ୍ରେମ | ମହଙ୍ଗା | ସ୍ନାପ୍ | ହୃଦୟ</annotation>
+		<annotation cp="🫰🏿" type="tts">ଇଣ୍ଡେକ୍ସ ଆଙ୍ଗୁଠି ଏବଂ ଆଙ୍ଗୁଠି ଅତିକ୍ରମ କରି ହାତ: ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🤟🏻">ଆଇଏଲୱାଇ | ତୁମକୁ ଭଲପାଏ ଇଙ୍ଗିତ | ତୁମକୁ- ଭଲପାଏ ଇଙ୍ଗିତ | ହାତ | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🤟🏻" type="tts">ତୁମକୁ ଭଲପାଏ ଇଙ୍ଗିତ: ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🤟🏼">ଆଇଏଲୱାଇ | ତୁମକୁ ଭଲପାଏ ଇଙ୍ଗିତ | ତୁମକୁ- ଭଲପାଏ ଇଙ୍ଗିତ | ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ | ହାତ</annotation>
@@ -202,6 +313,16 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="☝🏾" type="tts">ଉପରକୁ ସୂଚାଉଥିବା ତର୍ଜନୀ ଆଙ୍ଗୁଠି: ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="☝🏿">ଆଙ୍ଗୁଠି | ଉପର | ଉପରକୁ ସୂଚାଉଥିବା ତର୍ଜନୀ ଆଙ୍ଗୁଠି | ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ତର୍ଜନୀ ଆଙ୍ଗୁଠି | ସୂଚୀତ କରିବା | ହାତ</annotation>
 		<annotation cp="☝🏿" type="tts">ଉପରକୁ ସୂଚାଉଥିବା ତର୍ଜନୀ ଆଙ୍ଗୁଠି: ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫵🏻">ଆପଣଙ୍କୁ | ଦର୍ଶକଙ୍କୁ ସୂଚାଉଥିବା ସୂଚକାଙ୍କ | ପଏଣ୍ଟ କରୁଥିବା | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫵🏻" type="tts">ଦର୍ଶକଙ୍କୁ ସୂଚାଉଥିବା ସୂଚକାଙ୍କ: ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫵🏼">ଆପଣଙ୍କୁ | ଦର୍ଶକଙ୍କୁ ସୂଚାଉଥିବା ସୂଚକାଙ୍କ | ପଏଣ୍ଟ କରୁଥିବା | ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫵🏼" type="tts">ଦର୍ଶକଙ୍କୁ ସୂଚାଉଥିବା ସୂଚକାଙ୍କ: ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫵🏽">ଆପଣଙ୍କୁ | ଦର୍ଶକଙ୍କୁ ସୂଚାଉଥିବା ସୂଚକାଙ୍କ | ପଏଣ୍ଟ କରୁଥିବା | ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫵🏽" type="tts">ଦର୍ଶକଙ୍କୁ ସୂଚାଉଥିବା ସୂଚକାଙ୍କ: ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫵🏾">ଆପଣଙ୍କୁ | ଦର୍ଶକଙ୍କୁ ସୂଚାଉଥିବା ସୂଚକାଙ୍କ | ପଏଣ୍ଟ କରୁଥିବା | ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫵🏾" type="tts">ଦର୍ଶକଙ୍କୁ ସୂଚାଉଥିବା ସୂଚକାଙ୍କ: ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫵🏿">ଆପଣଙ୍କୁ | ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ଦର୍ଶକଙ୍କୁ ସୂଚାଉଥିବା ସୂଚକାଙ୍କ | ପଏଣ୍ଟ କରୁଥିବା</annotation>
+		<annotation cp="🫵🏿" type="tts">ଦର୍ଶକଙ୍କୁ ସୂଚାଉଥିବା ସୂଚକାଙ୍କ: ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="👍🏻">+1 | ଉପର | ବୁଢ଼ା ଆଙ୍ଗୁଠି | ସଫଳ ହେବା ଚିହ୍ନ | ହାତ | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="👍🏻" type="tts">ସଫଳ ହେବା ଚିହ୍ନ: ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="👍🏼">+1 | ଉପର | ବୁଢ଼ା ଆଙ୍ଗୁଠି | ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ | ସଫଳ ହେବା ଚିହ୍ନ | ହାତ</annotation>
@@ -282,6 +403,16 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🙌🏾" type="tts">ଉଠିଥିବା ହାତଗୁଡ଼ିକ: ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🙌🏿">ଉଠିଥିବା ହାତଗୁଡ଼ିକ | ଉଭୟ ହାତ | ଖୁସୀ | ଖୁସୀରେ ଉଭୟ ହାତ ଉପରକୁ ଉଠାଇବା | ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ହୁରେ</annotation>
 		<annotation cp="🙌🏿" type="tts">ଉଠିଥିବା ହାତଗୁଡ଼ିକ: ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫶🏻">ହାତରେ ଭଲ ପାଇବା ଚିହ୍ନ | ହାଲକା ଚର୍ମ ରଙ୍ଗ | ହୃଦୟ ହାତ</annotation>
+		<annotation cp="🫶🏻" type="tts">ହୃଦୟ ହାତ: ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫶🏼">ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ | ହାତରେ ଭଲ ପାଇବା ଚିହ୍ନ | ହୃଦୟ ହାତ</annotation>
+		<annotation cp="🫶🏼" type="tts">ହୃଦୟ ହାତ: ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫶🏽">ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ | ହାତରେ ଭଲ ପାଇବା ଚିହ୍ନ | ହୃଦୟ ହାତ</annotation>
+		<annotation cp="🫶🏽" type="tts">ହୃଦୟ ହାତ: ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫶🏾">ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ହାତରେ ଭଲ ପାଇବା ଚିହ୍ନ | ହୃଦୟ ହାତ</annotation>
+		<annotation cp="🫶🏾" type="tts">ହୃଦୟ ହାତ: ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫶🏿">ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ହାତରେ ଭଲ ପାଇବା ଚିହ୍ନ | ହୃଦୟ ହାତ</annotation>
+		<annotation cp="🫶🏿" type="tts">ହୃଦୟ ହାତ: ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="👐🏻">ଖୋଲା ହାତ | ଖୋଲା ହାତ ଚିହ୍ନ | ଖୋଲା ହାତଗୁଡ଼ିକ | ଖୋଲିବା | ଚିହ୍ନ | ହାତ | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="👐🏻" type="tts">ଖୋଲା ହାତଗୁଡ଼ିକ: ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="👐🏼">ଖୋଲା ହାତ | ଖୋଲା ହାତ ଚିହ୍ନ | ଖୋଲା ହାତଗୁଡ଼ିକ | ଖୋଲିବା | ଚିହ୍ନ | ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ | ହାତ</annotation>
@@ -302,6 +433,16 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🤲🏾" type="tts">ପାପୁଲି ଏକତ୍ର ଉପରକୁ କରିବା: ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🤲🏿">ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ପାପୁଲି ଏକତ୍ର ଉପରକୁ କରିବା | ପ୍ରାର୍ଥନା</annotation>
 		<annotation cp="🤲🏿" type="tts">ପାପୁଲି ଏକତ୍ର ଉପରକୁ କରିବା: ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🤝🏻">କରମର୍ଦ୍ଦନ | ସହମତ | ସାକ୍ଷାତ | ହଲାଇବା | ହାଣ୍ଡଶେକ୍ | ହାତ | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🤝🏻" type="tts">କରମର୍ଦ୍ଦନ: ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🤝🏼">କରମର୍ଦ୍ଦନ | ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ | ସହମତ | ସାକ୍ଷାତ | ହଲାଇବା | ହାଣ୍ଡଶେକ୍ | ହାତ</annotation>
+		<annotation cp="🤝🏼" type="tts">କରମର୍ଦ୍ଦନ: ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🤝🏽">କରମର୍ଦ୍ଦନ | ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ | ସହମତ | ସାକ୍ଷାତ | ହଲାଇବା | ହାଣ୍ଡଶେକ୍ | ହାତ</annotation>
+		<annotation cp="🤝🏽" type="tts">କରମର୍ଦ୍ଦନ: ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🤝🏾">କରମର୍ଦ୍ଦନ | ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ସହମତ | ସାକ୍ଷାତ | ହଲାଇବା | ହାଣ୍ଡଶେକ୍ | ହାତ</annotation>
+		<annotation cp="🤝🏾" type="tts">କରମର୍ଦ୍ଦନ: ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🤝🏿">କରମର୍ଦ୍ଦନ | ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ସହମତ | ସାକ୍ଷାତ | ହଲାଇବା | ହାଣ୍ଡଶେକ୍ | ହାତ</annotation>
+		<annotation cp="🤝🏿" type="tts">କରମର୍ଦ୍ଦନ: ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🙏🏻">ଦୟାକରି | ଧନ୍ୟବାଦ | ପଚାରିବା | ପ୍ରାର୍ଥନା | ଯୋଡ଼ ହସ୍ତ | ହାତ | ହାତ ଯୋଡ଼ିବା | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🙏🏻" type="tts">ଯୋଡ଼ ହସ୍ତ: ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🙏🏼">ଦୟାକରି | ଧନ୍ୟବାଦ | ପଚାରିବା | ପ୍ରାର୍ଥନା | ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ | ଯୋଡ଼ ହସ୍ତ | ହାତ | ହାତ ଯୋଡ଼ିବା</annotation>
@@ -442,15 +583,15 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👧🏾" type="tts">ବାଳିକା: ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="👧🏿">କନ୍ୟା | ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ବାଳିକା | ଯୁବକ | ରାଶି</annotation>
 		<annotation cp="👧🏿" type="tts">ବାଳିକା: ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🧑🏻">ଅନିର୍ଦ୍ଦିଷ୍ଟ ଲିଙ୍ଗ | ପ୍ରାପ୍ତ ବୟସ୍କ | ବ୍ୟକ୍ତି | ବ୍ୟକ୍ତିତ୍ୱ | ଲିଙ୍ଗ-ନିରପେକ୍ଷ | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🧑🏻">ପ୍ରାପ୍ତ ବୟସ୍କ | ବ୍ୟକ୍ତି | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🧑🏻" type="tts">ବ୍ୟକ୍ତି: ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🧑🏼">ଅନିର୍ଦ୍ଦିଷ୍ଟ ଲିଙ୍ଗ | ପ୍ରାପ୍ତ ବୟସ୍କ | ବ୍ୟକ୍ତି | ବ୍ୟକ୍ତିତ୍ୱ | ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ | ଲିଙ୍ଗ-ନିରପେକ୍ଷ</annotation>
+		<annotation cp="🧑🏼">ପ୍ରାପ୍ତ ବୟସ୍କ | ବ୍ୟକ୍ତି | ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🧑🏼" type="tts">ବ୍ୟକ୍ତି: ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🧑🏽">ଅନିର୍ଦ୍ଦିଷ୍ଟ ଲିଙ୍ଗ | ପ୍ରାପ୍ତ ବୟସ୍କ | ବ୍ୟକ୍ତି | ବ୍ୟକ୍ତିତ୍ୱ | ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ | ଲିଙ୍ଗ-ନିରପେକ୍ଷ</annotation>
+		<annotation cp="🧑🏽">ପ୍ରାପ୍ତ ବୟସ୍କ | ବ୍ୟକ୍ତି | ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🧑🏽" type="tts">ବ୍ୟକ୍ତି: ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🧑🏾">ଅନିର୍ଦ୍ଦିଷ୍ଟ ଲିଙ୍ଗ | ପ୍ରାପ୍ତ ବୟସ୍କ | ବ୍ୟକ୍ତି | ବ୍ୟକ୍ତିତ୍ୱ | ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ଲିଙ୍ଗ-ନିରପେକ୍ଷ</annotation>
+		<annotation cp="🧑🏾">ପ୍ରାପ୍ତ ବୟସ୍କ | ବ୍ୟକ୍ତି | ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🧑🏾" type="tts">ବ୍ୟକ୍ତି: ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🧑🏿">ଅନିର୍ଦ୍ଦିଷ୍ଟ ଲିଙ୍ଗ | ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ପ୍ରାପ୍ତ ବୟସ୍କ | ବ୍ୟକ୍ତି | ବ୍ୟକ୍ତିତ୍ୱ | ଲିଙ୍ଗ-ନିରପେକ୍ଷ</annotation>
+		<annotation cp="🧑🏿">ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ପ୍ରାପ୍ତ ବୟସ୍କ | ବ୍ୟକ୍ତି</annotation>
 		<annotation cp="🧑🏿" type="tts">ବ୍ୟକ୍ତି: ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="👱🏻">କେଶ | ବ୍ୟକ୍ତି: ସୁନେଲି କେଶ | ସୁନେଲି | ସୁନେଲି-କେଶ ଥିବା ବ୍ୟକ୍ତି | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="👱🏻" type="tts">ବ୍ୟକ୍ତି: ହାଲକା ଚର୍ମ ରଙ୍ଗ, ସୁନେଲି କେଶ</annotation>
@@ -542,53 +683,53 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🧑🏿‍❤‍🧑🏽" type="tts">ହୃଦୟ ସହିତ ପ୍ରେମୀ ଯୁଗଳ: ବ୍ୟକ୍ତି, ବ୍ୟକ୍ତି, ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ, ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🧑🏿‍❤‍🧑🏾">ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ପ୍ରେମୀ ଯୁଗଳ | ବ୍ୟକ୍ତି | ଭଲ ପାଇବା | ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ହୃଦୟ ସହିତ ପ୍ରେମୀ ଯୁଗଳ</annotation>
 		<annotation cp="🧑🏿‍❤‍🧑🏾" type="tts">ହୃଦୟ ସହିତ ପ୍ରେମୀ ଯୁଗଳ: ବ୍ୟକ୍ତି, ବ୍ୟକ୍ତି, ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ, ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🧑‍🦰">ଅନିର୍ଦ୍ଦିଷ୍ଟ ଲିଙ୍ଗ | ନାଲି କେଶ | ପ୍ରାପ୍ତ ବୟସ୍କ | ବ୍ୟକ୍ତି | ବ୍ୟକ୍ତିତ୍ୱ | ଲିଙ୍ଗ-ନିରପେକ୍ଷ</annotation>
+		<annotation cp="🧑‍🦰">ନାଲି କେଶ | ପ୍ରାପ୍ତ ବୟସ୍କ | ବ୍ୟକ୍ତି</annotation>
 		<annotation cp="🧑‍🦰" type="tts">ବ୍ୟକ୍ତି: ନାଲି କେଶ</annotation>
-		<annotation cp="🧑🏻‍🦰">ଅନିର୍ଦ୍ଦିଷ୍ଟ ଲିଙ୍ଗ | ନାଲି କେଶ | ପ୍ରାପ୍ତ ବୟସ୍କ | ବ୍ୟକ୍ତି | ବ୍ୟକ୍ତିତ୍ୱ | ଲିଙ୍ଗ-ନିରପେକ୍ଷ | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🧑🏻‍🦰">ନାଲି କେଶ | ପ୍ରାପ୍ତ ବୟସ୍କ | ବ୍ୟକ୍ତି | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🧑🏻‍🦰" type="tts">ବ୍ୟକ୍ତି: ହାଲକା ଚର୍ମ ରଙ୍ଗ, ନାଲି କେଶ</annotation>
-		<annotation cp="🧑🏼‍🦰">ଅନିର୍ଦ୍ଦିଷ୍ଟ ଲିଙ୍ଗ | ନାଲି କେଶ | ପ୍ରାପ୍ତ ବୟସ୍କ | ବ୍ୟକ୍ତି | ବ୍ୟକ୍ତିତ୍ୱ | ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ | ଲିଙ୍ଗ-ନିରପେକ୍ଷ</annotation>
+		<annotation cp="🧑🏼‍🦰">ନାଲି କେଶ | ପ୍ରାପ୍ତ ବୟସ୍କ | ବ୍ୟକ୍ତି | ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🧑🏼‍🦰" type="tts">ବ୍ୟକ୍ତି: ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ, ନାଲି କେଶ</annotation>
-		<annotation cp="🧑🏽‍🦰">ଅନିର୍ଦ୍ଦିଷ୍ଟ ଲିଙ୍ଗ | ନାଲି କେଶ | ପ୍ରାପ୍ତ ବୟସ୍କ | ବ୍ୟକ୍ତି | ବ୍ୟକ୍ତିତ୍ୱ | ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ | ଲିଙ୍ଗ-ନିରପେକ୍ଷ</annotation>
+		<annotation cp="🧑🏽‍🦰">ନାଲି କେଶ | ପ୍ରାପ୍ତ ବୟସ୍କ | ବ୍ୟକ୍ତି | ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🧑🏽‍🦰" type="tts">ବ୍ୟକ୍ତି: ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ, ନାଲି କେଶ</annotation>
-		<annotation cp="🧑🏾‍🦰">ଅନିର୍ଦ୍ଦିଷ୍ଟ ଲିଙ୍ଗ | ନାଲି କେଶ | ପ୍ରାପ୍ତ ବୟସ୍କ | ବ୍ୟକ୍ତି | ବ୍ୟକ୍ତିତ୍ୱ | ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ଲିଙ୍ଗ-ନିରପେକ୍ଷ</annotation>
+		<annotation cp="🧑🏾‍🦰">ନାଲି କେଶ | ପ୍ରାପ୍ତ ବୟସ୍କ | ବ୍ୟକ୍ତି | ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🧑🏾‍🦰" type="tts">ବ୍ୟକ୍ତି: ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ, ନାଲି କେଶ</annotation>
-		<annotation cp="🧑🏿‍🦰">ଅନିର୍ଦ୍ଦିଷ୍ଟ ଲିଙ୍ଗ | ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ନାଲି କେଶ | ପ୍ରାପ୍ତ ବୟସ୍କ | ବ୍ୟକ୍ତି | ବ୍ୟକ୍ତିତ୍ୱ | ଲିଙ୍ଗ-ନିରପେକ୍ଷ</annotation>
+		<annotation cp="🧑🏿‍🦰">ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ନାଲି କେଶ | ପ୍ରାପ୍ତ ବୟସ୍କ | ବ୍ୟକ୍ତି</annotation>
 		<annotation cp="🧑🏿‍🦰" type="tts">ବ୍ୟକ୍ତି: ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ, ନାଲି କେଶ</annotation>
-		<annotation cp="🧑‍🦱">ଅନିର୍ଦ୍ଦିଷ୍ଟ ଲିଙ୍ଗ | କୁଞ୍ଚିତ କେଶ | ପ୍ରାପ୍ତ ବୟସ୍କ | ବ୍ୟକ୍ତି | ବ୍ୟକ୍ତିତ୍ୱ | ଲିଙ୍ଗ-ନିରପେକ୍ଷ</annotation>
+		<annotation cp="🧑‍🦱">କୁଞ୍ଚିତ କେଶ | ପ୍ରାପ୍ତ ବୟସ୍କ | ବ୍ୟକ୍ତି</annotation>
 		<annotation cp="🧑‍🦱" type="tts">ବ୍ୟକ୍ତି: କୁଞ୍ଚିତ କେଶ</annotation>
-		<annotation cp="🧑🏻‍🦱">ଅନିର୍ଦ୍ଦିଷ୍ଟ ଲିଙ୍ଗ | କୁଞ୍ଚିତ କେଶ | ପ୍ରାପ୍ତ ବୟସ୍କ | ବ୍ୟକ୍ତି | ବ୍ୟକ୍ତିତ୍ୱ | ଲିଙ୍ଗ-ନିରପେକ୍ଷ | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🧑🏻‍🦱">କୁଞ୍ଚିତ କେଶ | ପ୍ରାପ୍ତ ବୟସ୍କ | ବ୍ୟକ୍ତି | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🧑🏻‍🦱" type="tts">ବ୍ୟକ୍ତି: ହାଲକା ଚର୍ମ ରଙ୍ଗ, କୁଞ୍ଚିତ କେଶ</annotation>
-		<annotation cp="🧑🏼‍🦱">ଅନିର୍ଦ୍ଦିଷ୍ଟ ଲିଙ୍ଗ | କୁଞ୍ଚିତ କେଶ | ପ୍ରାପ୍ତ ବୟସ୍କ | ବ୍ୟକ୍ତି | ବ୍ୟକ୍ତିତ୍ୱ | ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ | ଲିଙ୍ଗ-ନିରପେକ୍ଷ</annotation>
+		<annotation cp="🧑🏼‍🦱">କୁଞ୍ଚିତ କେଶ | ପ୍ରାପ୍ତ ବୟସ୍କ | ବ୍ୟକ୍ତି | ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🧑🏼‍🦱" type="tts">ବ୍ୟକ୍ତି: ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ, କୁଞ୍ଚିତ କେଶ</annotation>
-		<annotation cp="🧑🏽‍🦱">ଅନିର୍ଦ୍ଦିଷ୍ଟ ଲିଙ୍ଗ | କୁଞ୍ଚିତ କେଶ | ପ୍ରାପ୍ତ ବୟସ୍କ | ବ୍ୟକ୍ତି | ବ୍ୟକ୍ତିତ୍ୱ | ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ | ଲିଙ୍ଗ-ନିରପେକ୍ଷ</annotation>
+		<annotation cp="🧑🏽‍🦱">କୁଞ୍ଚିତ କେଶ | ପ୍ରାପ୍ତ ବୟସ୍କ | ବ୍ୟକ୍ତି | ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🧑🏽‍🦱" type="tts">ବ୍ୟକ୍ତି: ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ, କୁଞ୍ଚିତ କେଶ</annotation>
-		<annotation cp="🧑🏾‍🦱">ଅନିର୍ଦ୍ଦିଷ୍ଟ ଲିଙ୍ଗ | କୁଞ୍ଚିତ କେଶ | ପ୍ରାପ୍ତ ବୟସ୍କ | ବ୍ୟକ୍ତି | ବ୍ୟକ୍ତିତ୍ୱ | ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ଲିଙ୍ଗ-ନିରପେକ୍ଷ</annotation>
+		<annotation cp="🧑🏾‍🦱">କୁଞ୍ଚିତ କେଶ | ପ୍ରାପ୍ତ ବୟସ୍କ | ବ୍ୟକ୍ତି | ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🧑🏾‍🦱" type="tts">ବ୍ୟକ୍ତି: ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ, କୁଞ୍ଚିତ କେଶ</annotation>
-		<annotation cp="🧑🏿‍🦱">ଅନିର୍ଦ୍ଦିଷ୍ଟ ଲିଙ୍ଗ | କୁଞ୍ଚିତ କେଶ | ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ପ୍ରାପ୍ତ ବୟସ୍କ | ବ୍ୟକ୍ତି | ବ୍ୟକ୍ତିତ୍ୱ | ଲିଙ୍ଗ-ନିରପେକ୍ଷ</annotation>
+		<annotation cp="🧑🏿‍🦱">କୁଞ୍ଚିତ କେଶ | ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ପ୍ରାପ୍ତ ବୟସ୍କ | ବ୍ୟକ୍ତି</annotation>
 		<annotation cp="🧑🏿‍🦱" type="tts">ବ୍ୟକ୍ତି: ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ, କୁଞ୍ଚିତ କେଶ</annotation>
-		<annotation cp="🧑‍🦳">ଅନିର୍ଦ୍ଦିଷ୍ଟ ଲିଙ୍ଗ | ଧଳା କେଶ | ପ୍ରାପ୍ତ ବୟସ୍କ | ବ୍ୟକ୍ତି | ବ୍ୟକ୍ତିତ୍ୱ | ଲିଙ୍ଗ-ନିରପେକ୍ଷ</annotation>
+		<annotation cp="🧑‍🦳">ଧଳା କେଶ | ପ୍ରାପ୍ତ ବୟସ୍କ | ବ୍ୟକ୍ତି</annotation>
 		<annotation cp="🧑‍🦳" type="tts">ବ୍ୟକ୍ତି: ଧଳା କେଶ</annotation>
-		<annotation cp="🧑🏻‍🦳">ଅନିର୍ଦ୍ଦିଷ୍ଟ ଲିଙ୍ଗ | ଧଳା କେଶ | ପ୍ରାପ୍ତ ବୟସ୍କ | ବ୍ୟକ୍ତି | ବ୍ୟକ୍ତିତ୍ୱ | ଲିଙ୍ଗ-ନିରପେକ୍ଷ | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🧑🏻‍🦳">ଧଳା କେଶ | ପ୍ରାପ୍ତ ବୟସ୍କ | ବ୍ୟକ୍ତି | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🧑🏻‍🦳" type="tts">ବ୍ୟକ୍ତି: ହାଲକା ଚର୍ମ ରଙ୍ଗ, ଧଳା କେଶ</annotation>
-		<annotation cp="🧑🏼‍🦳">ଅନିର୍ଦ୍ଦିଷ୍ଟ ଲିଙ୍ଗ | ଧଳା କେଶ | ପ୍ରାପ୍ତ ବୟସ୍କ | ବ୍ୟକ୍ତି | ବ୍ୟକ୍ତିତ୍ୱ | ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ | ଲିଙ୍ଗ-ନିରପେକ୍ଷ</annotation>
+		<annotation cp="🧑🏼‍🦳">ଧଳା କେଶ | ପ୍ରାପ୍ତ ବୟସ୍କ | ବ୍ୟକ୍ତି | ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🧑🏼‍🦳" type="tts">ବ୍ୟକ୍ତି: ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ, ଧଳା କେଶ</annotation>
-		<annotation cp="🧑🏽‍🦳">ଅନିର୍ଦ୍ଦିଷ୍ଟ ଲିଙ୍ଗ | ଧଳା କେଶ | ପ୍ରାପ୍ତ ବୟସ୍କ | ବ୍ୟକ୍ତି | ବ୍ୟକ୍ତିତ୍ୱ | ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ | ଲିଙ୍ଗ-ନିରପେକ୍ଷ</annotation>
+		<annotation cp="🧑🏽‍🦳">ଧଳା କେଶ | ପ୍ରାପ୍ତ ବୟସ୍କ | ବ୍ୟକ୍ତି | ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🧑🏽‍🦳" type="tts">ବ୍ୟକ୍ତି: ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ, ଧଳା କେଶ</annotation>
-		<annotation cp="🧑🏾‍🦳">ଅନିର୍ଦ୍ଦିଷ୍ଟ ଲିଙ୍ଗ | ଧଳା କେଶ | ପ୍ରାପ୍ତ ବୟସ୍କ | ବ୍ୟକ୍ତି | ବ୍ୟକ୍ତିତ୍ୱ | ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ଲିଙ୍ଗ-ନିରପେକ୍ଷ</annotation>
+		<annotation cp="🧑🏾‍🦳">ଧଳା କେଶ | ପ୍ରାପ୍ତ ବୟସ୍କ | ବ୍ୟକ୍ତି | ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🧑🏾‍🦳" type="tts">ବ୍ୟକ୍ତି: ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ, ଧଳା କେଶ</annotation>
-		<annotation cp="🧑🏿‍🦳">ଅନିର୍ଦ୍ଦିଷ୍ଟ ଲିଙ୍ଗ | ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ଧଳା କେଶ | ପ୍ରାପ୍ତ ବୟସ୍କ | ବ୍ୟକ୍ତି | ବ୍ୟକ୍ତିତ୍ୱ | ଲିଙ୍ଗ-ନିରପେକ୍ଷ</annotation>
+		<annotation cp="🧑🏿‍🦳">ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ଧଳା କେଶ | ପ୍ରାପ୍ତ ବୟସ୍କ | ବ୍ୟକ୍ତି</annotation>
 		<annotation cp="🧑🏿‍🦳" type="tts">ବ୍ୟକ୍ତି: ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ, ଧଳା କେଶ</annotation>
-		<annotation cp="🧑‍🦲">ଅନିର୍ଦ୍ଦିଷ୍ଟ ଲିଙ୍ଗ | ଚନ୍ଦା | ପ୍ରାପ୍ତ ବୟସ୍କ | ବ୍ୟକ୍ତି | ବ୍ୟକ୍ତିତ୍ୱ | ଲିଙ୍ଗ-ନିରପେକ୍ଷ</annotation>
+		<annotation cp="🧑‍🦲">ଚନ୍ଦା | ପ୍ରାପ୍ତ ବୟସ୍କ | ବ୍ୟକ୍ତି</annotation>
 		<annotation cp="🧑‍🦲" type="tts">ବ୍ୟକ୍ତି: ଚନ୍ଦା</annotation>
-		<annotation cp="🧑🏻‍🦲">ଅନିର୍ଦ୍ଦିଷ୍ଟ ଲିଙ୍ଗ | ଚନ୍ଦା | ପ୍ରାପ୍ତ ବୟସ୍କ | ବ୍ୟକ୍ତି | ବ୍ୟକ୍ତିତ୍ୱ | ଲିଙ୍ଗ-ନିରପେକ୍ଷ | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🧑🏻‍🦲">ଚନ୍ଦା | ପ୍ରାପ୍ତ ବୟସ୍କ | ବ୍ୟକ୍ତି | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🧑🏻‍🦲" type="tts">ବ୍ୟକ୍ତି: ହାଲକା ଚର୍ମ ରଙ୍ଗ, ଚନ୍ଦା</annotation>
-		<annotation cp="🧑🏼‍🦲">ଅନିର୍ଦ୍ଦିଷ୍ଟ ଲିଙ୍ଗ | ଚନ୍ଦା | ପ୍ରାପ୍ତ ବୟସ୍କ | ବ୍ୟକ୍ତି | ବ୍ୟକ୍ତିତ୍ୱ | ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ | ଲିଙ୍ଗ-ନିରପେକ୍ଷ</annotation>
+		<annotation cp="🧑🏼‍🦲">ଚନ୍ଦା | ପ୍ରାପ୍ତ ବୟସ୍କ | ବ୍ୟକ୍ତି | ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🧑🏼‍🦲" type="tts">ବ୍ୟକ୍ତି: ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ, ଚନ୍ଦା</annotation>
-		<annotation cp="🧑🏽‍🦲">ଅନିର୍ଦ୍ଦିଷ୍ଟ ଲିଙ୍ଗ | ଚନ୍ଦା | ପ୍ରାପ୍ତ ବୟସ୍କ | ବ୍ୟକ୍ତି | ବ୍ୟକ୍ତିତ୍ୱ | ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ | ଲିଙ୍ଗ-ନିରପେକ୍ଷ</annotation>
+		<annotation cp="🧑🏽‍🦲">ଚନ୍ଦା | ପ୍ରାପ୍ତ ବୟସ୍କ | ବ୍ୟକ୍ତି | ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🧑🏽‍🦲" type="tts">ବ୍ୟକ୍ତି: ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ, ଚନ୍ଦା</annotation>
-		<annotation cp="🧑🏾‍🦲">ଅନିର୍ଦ୍ଦିଷ୍ଟ ଲିଙ୍ଗ | ଚନ୍ଦା | ପ୍ରାପ୍ତ ବୟସ୍କ | ବ୍ୟକ୍ତି | ବ୍ୟକ୍ତିତ୍ୱ | ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ଲିଙ୍ଗ-ନିରପେକ୍ଷ</annotation>
+		<annotation cp="🧑🏾‍🦲">ଚନ୍ଦା | ପ୍ରାପ୍ତ ବୟସ୍କ | ବ୍ୟକ୍ତି | ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🧑🏾‍🦲" type="tts">ବ୍ୟକ୍ତି: ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ, ଚନ୍ଦା</annotation>
-		<annotation cp="🧑🏿‍🦲">ଅନିର୍ଦ୍ଦିଷ୍ଟ ଲିଙ୍ଗ | ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ଚନ୍ଦା | ପ୍ରାପ୍ତ ବୟସ୍କ | ବ୍ୟକ୍ତି | ବ୍ୟକ୍ତିତ୍ୱ | ଲିଙ୍ଗ-ନିରପେକ୍ଷ</annotation>
+		<annotation cp="🧑🏿‍🦲">ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ଚନ୍ଦା | ପ୍ରାପ୍ତ ବୟସ୍କ | ବ୍ୟକ୍ତି</annotation>
 		<annotation cp="🧑🏿‍🦲" type="tts">ବ୍ୟକ୍ତି: ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ, ଚନ୍ଦା</annotation>
 		<annotation cp="👨🏻">ପୁରୁଷ | ବୟସ୍କ | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="👨🏻" type="tts">ପୁରୁଷ: ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
@@ -600,16 +741,26 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👨🏾" type="tts">ପୁରୁଷ: ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="👨🏿">ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ପୁରୁଷ | ବୟସ୍କ</annotation>
 		<annotation cp="👨🏿" type="tts">ପୁରୁଷ: ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🧔🏻">ଦାଢି | ଦାଢ଼ି | ପୁରୁଷ | ପୁରୁଷ: ଦାଢି | ପୁରୁଷ: ଦାଢ଼ି | ବ୍ୟକ୍ତି | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🧔🏻" type="tts">ପୁରୁଷ: ହାଲକା ଚର୍ମ ରଙ୍ଗ, ଦାଢ଼ି</annotation>
-		<annotation cp="🧔🏼">ଦାଢି | ଦାଢ଼ି | ପୁରୁଷ | ପୁରୁଷ: ଦାଢି | ପୁରୁଷ: ଦାଢ଼ି | ବ୍ୟକ୍ତି | ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🧔🏼" type="tts">ପୁରୁଷ: ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ, ଦାଢ଼ି</annotation>
-		<annotation cp="🧔🏽">ଦାଢି | ଦାଢ଼ି | ପୁରୁଷ | ପୁରୁଷ: ଦାଢି | ପୁରୁଷ: ଦାଢ଼ି | ବ୍ୟକ୍ତି | ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🧔🏽" type="tts">ପୁରୁଷ: ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ, ଦାଢ଼ି</annotation>
-		<annotation cp="🧔🏾">ଦାଢି | ଦାଢ଼ି | ପୁରୁଷ | ପୁରୁଷ: ଦାଢି | ପୁରୁଷ: ଦାଢ଼ି | ବ୍ୟକ୍ତି | ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🧔🏾" type="tts">ପୁରୁଷ: ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ, ଦାଢ଼ି</annotation>
-		<annotation cp="🧔🏿">ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ଦାଢି | ଦାଢ଼ି | ପୁରୁଷ | ପୁରୁଷ: ଦାଢି | ପୁରୁଷ: ଦାଢ଼ି | ବ୍ୟକ୍ତି</annotation>
-		<annotation cp="🧔🏿" type="tts">ପୁରୁଷ: ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ, ଦାଢ଼ି</annotation>
+		<annotation cp="🧔🏻">ଦାଢି | ଦାଢ଼ି | ପୁରୁଷ | ପୁରୁଷ: ଦାଢି | ପୁରୁଷ: ଦାଢ଼ି | ବ୍ୟକ୍ତି | ବ୍ୟକ୍ତି: ଦାଢ଼ି | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🧔🏻" type="tts">ବ୍ୟକ୍ତି: ହାଲକା ଚର୍ମ ରଙ୍ଗ, ଦାଢ଼ି</annotation>
+		<annotation cp="🧔🏼">ଦାଢି | ଦାଢ଼ି | ପୁରୁଷ | ପୁରୁଷ: ଦାଢି | ପୁରୁଷ: ଦାଢ଼ି | ବ୍ୟକ୍ତି | ବ୍ୟକ୍ତି: ଦାଢ଼ି | ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🧔🏼" type="tts">ବ୍ୟକ୍ତି: ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ, ଦାଢ଼ି</annotation>
+		<annotation cp="🧔🏽">ଦାଢି | ଦାଢ଼ି | ପୁରୁଷ | ପୁରୁଷ: ଦାଢି | ପୁରୁଷ: ଦାଢ଼ି | ବ୍ୟକ୍ତି | ବ୍ୟକ୍ତି: ଦାଢ଼ି | ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🧔🏽" type="tts">ବ୍ୟକ୍ତି: ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ, ଦାଢ଼ି</annotation>
+		<annotation cp="🧔🏾">ଦାଢି | ଦାଢ଼ି | ପୁରୁଷ | ପୁରୁଷ: ଦାଢି | ପୁରୁଷ: ଦାଢ଼ି | ବ୍ୟକ୍ତି | ବ୍ୟକ୍ତି: ଦାଢ଼ି | ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🧔🏾" type="tts">ବ୍ୟକ୍ତି: ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ, ଦାଢ଼ି</annotation>
+		<annotation cp="🧔🏿">ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ଦାଢି | ଦାଢ଼ି | ପୁରୁଷ | ପୁରୁଷ: ଦାଢି | ପୁରୁଷ: ଦାଢ଼ି | ବ୍ୟକ୍ତି | ବ୍ୟକ୍ତି: ଦାଢ଼ି</annotation>
+		<annotation cp="🧔🏿" type="tts">ବ୍ୟକ୍ତି: ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ, ଦାଢ଼ି</annotation>
+		<annotation cp="🧔🏻‍♂">ଦାଢ଼ି | ପୁରୁଷ | ପୁରୁଷ: ଦାଢ଼ି | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🧔🏻‍♂" type="tts">ପୁରୁଷ: ହାଲକା ଚର୍ମ ରଙ୍ଗ, ଦାଢ଼ି</annotation>
+		<annotation cp="🧔🏼‍♂">ଦାଢ଼ି | ପୁରୁଷ | ପୁରୁଷ: ଦାଢ଼ି | ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🧔🏼‍♂" type="tts">ପୁରୁଷ: ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ, ଦାଢ଼ି</annotation>
+		<annotation cp="🧔🏽‍♂">ଦାଢ଼ି | ପୁରୁଷ | ପୁରୁଷ: ଦାଢ଼ି | ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🧔🏽‍♂" type="tts">ପୁରୁଷ: ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ, ଦାଢ଼ି</annotation>
+		<annotation cp="🧔🏾‍♂">ଦାଢ଼ି | ପୁରୁଷ | ପୁରୁଷ: ଦାଢ଼ି | ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🧔🏾‍♂" type="tts">ପୁରୁଷ: ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ, ଦାଢ଼ି</annotation>
+		<annotation cp="🧔🏿‍♂">ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ଦାଢ଼ି | ପୁରୁଷ | ପୁରୁଷ: ଦାଢ଼ି</annotation>
+		<annotation cp="🧔🏿‍♂" type="tts">ପୁରୁଷ: ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ, ଦାଢ଼ି</annotation>
 		<annotation cp="👱🏻‍♂">କେଶ | ପୁରୁଷ | ପୁରୁଷ: ସୁନେଲି କେଶ | ସୁନେଲି | ସୁନେଲି-କେଶଥିବା ପୁରୁଷ | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="👱🏻‍♂" type="tts">ପୁରୁଷ: ହାଲକା ଚର୍ମ ରଙ୍ଗ, ସୁନେଲି କେଶ</annotation>
 		<annotation cp="👱🏼‍♂">କେଶ | ପୁରୁଷ | ପୁରୁଷ: ସୁନେଲି କେଶ | ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ | ସୁନେଲି | ସୁନେଲି-କେଶଥିବା ପୁରୁଷ</annotation>
@@ -778,6 +929,16 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👩🏾" type="tts">ମହିଳା: ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="👩🏿">ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ବୟସ୍କ | ମହିଳା</annotation>
 		<annotation cp="👩🏿" type="tts">ମହିଳା: ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🧔🏻‍♀">ଦାଢ଼ି | ମହିଳା | ମହିଳା: ଦାଢ଼ି | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🧔🏻‍♀" type="tts">ମହିଳା: ହାଲକା ଚର୍ମ ରଙ୍ଗ, ଦାଢ଼ି</annotation>
+		<annotation cp="🧔🏼‍♀">ଦାଢ଼ି | ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ | ମହିଳା | ମହିଳା: ଦାଢ଼ି</annotation>
+		<annotation cp="🧔🏼‍♀" type="tts">ମହିଳା: ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ, ଦାଢ଼ି</annotation>
+		<annotation cp="🧔🏽‍♀">ଦାଢ଼ି | ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ | ମହିଳା | ମହିଳା: ଦାଢ଼ି</annotation>
+		<annotation cp="🧔🏽‍♀" type="tts">ମହିଳା: ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ, ଦାଢ଼ି</annotation>
+		<annotation cp="🧔🏾‍♀">ଦାଢ଼ି | ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ମହିଳା | ମହିଳା: ଦାଢ଼ି</annotation>
+		<annotation cp="🧔🏾‍♀" type="tts">ମହିଳା: ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ, ଦାଢ଼ି</annotation>
+		<annotation cp="🧔🏿‍♀">ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ଦାଢ଼ି | ମହିଳା | ମହିଳା: ଦାଢ଼ି</annotation>
+		<annotation cp="🧔🏿‍♀" type="tts">ମହିଳା: ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ, ଦାଢ଼ି</annotation>
 		<annotation cp="👱🏻‍♀">କେଶ | ମହିଳା | ମହିଳା: ସୁନେଲି କେଶ | ସୁନେଲି | ସୁନେଲି-କେଶଥିବା ମହିଳା | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="👱🏻‍♀" type="tts">ମହିଳା: ହାଲକା ଚର୍ମ ରଙ୍ଗ, ସୁନେଲି କେଶ</annotation>
 		<annotation cp="👱🏼‍♀">କେଶ | ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ | ମହିଳା | ମହିଳା: ସୁନେଲି କେଶ | ସୁନେଲି | ସୁନେଲି-କେଶଥିବା ମହିଳା</annotation>
@@ -1976,6 +2137,16 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👷🏾‍♀" type="tts">ମହିଳା ନିର୍ମାଣ ଶ୍ରମିକ: ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="👷🏿‍♀">ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ନିର୍ମାଣ | ମହିଳା | ଶ୍ରମିକ</annotation>
 		<annotation cp="👷🏿‍♀" type="tts">ମହିଳା ନିର୍ମାଣ ଶ୍ରମିକ: ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫅🏻">ମୁକୁଟ ଥିବା ବ୍ୟକ୍ତି | ରୟାଲଟି | ରାଜ | ରିଗାଲ୍ | ସମ୍ଭ୍ରାନ୍ତ | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫅🏻" type="tts">ମୁକୁଟ ଥିବା ବ୍ୟକ୍ତି: ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫅🏼">ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ | ମୁକୁଟ ଥିବା ବ୍ୟକ୍ତି | ରୟାଲଟି | ରାଜ | ରିଗାଲ୍ | ସମ୍ଭ୍ରାନ୍ତ</annotation>
+		<annotation cp="🫅🏼" type="tts">ମୁକୁଟ ଥିବା ବ୍ୟକ୍ତି: ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫅🏽">ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ | ମୁକୁଟ ଥିବା ବ୍ୟକ୍ତି | ରୟାଲଟି | ରାଜ | ରିଗାଲ୍ | ସମ୍ଭ୍ରାନ୍ତ</annotation>
+		<annotation cp="🫅🏽" type="tts">ମୁକୁଟ ଥିବା ବ୍ୟକ୍ତି: ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫅🏾">ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ମୁକୁଟ ଥିବା ବ୍ୟକ୍ତି | ରୟାଲଟି | ରାଜ | ରିଗାଲ୍ | ସମ୍ଭ୍ରାନ୍ତ</annotation>
+		<annotation cp="🫅🏾" type="tts">ମୁକୁଟ ଥିବା ବ୍ୟକ୍ତି: ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫅🏿">ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ମୁକୁଟ ଥିବା ବ୍ୟକ୍ତି | ରୟାଲଟି | ରାଜ | ରିଗାଲ୍ | ସମ୍ଭ୍ରାନ୍ତ</annotation>
+		<annotation cp="🫅🏿" type="tts">ମୁକୁଟ ଥିବା ବ୍ୟକ୍ତି: ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🤴🏻">ରାଜକୁମାର | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🤴🏻" type="tts">ରାଜକୁମାର: ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🤴🏼">ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ | ରାଜକୁମାର</annotation>
@@ -2006,25 +2177,25 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👳🏾" type="tts">ପଗଡ଼ି ପିନ୍ଧିଥିବା ବ୍ୟକ୍ତି: ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="👳🏿">ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ପଗଡ଼ି | ପଗଡ଼ି ପିନ୍ଧିଥିବା ବ୍ୟକ୍ତି</annotation>
 		<annotation cp="👳🏿" type="tts">ପଗଡ଼ି ପିନ୍ଧିଥିବା ବ୍ୟକ୍ତି: ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="👳🏻‍♂">ପଗଡ଼ି ପିନ୍ଧିଥିବା ପୁରୁଷ | ପୁରୁଷ । ପଗଡ଼ି | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="👳🏻‍♂">ପଗଡ଼ି | ପଗଡ଼ି ପିନ୍ଧିଥିବା ପୁରୁଷ | ପୁରୁଷ | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="👳🏻‍♂" type="tts">ପଗଡ଼ି ପିନ୍ଧିଥିବା ପୁରୁଷ: ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="👳🏼‍♂">ପଗଡ଼ି ପିନ୍ଧିଥିବା ପୁରୁଷ | ପୁରୁଷ । ପଗଡ଼ି | ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="👳🏼‍♂">ପଗଡ଼ି | ପଗଡ଼ି ପିନ୍ଧିଥିବା ପୁରୁଷ | ପୁରୁଷ | ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="👳🏼‍♂" type="tts">ପଗଡ଼ି ପିନ୍ଧିଥିବା ପୁରୁଷ: ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="👳🏽‍♂">ପଗଡ଼ି ପିନ୍ଧିଥିବା ପୁରୁଷ | ପୁରୁଷ । ପଗଡ଼ି | ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="👳🏽‍♂">ପଗଡ଼ି | ପଗଡ଼ି ପିନ୍ଧିଥିବା ପୁରୁଷ | ପୁରୁଷ | ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="👳🏽‍♂" type="tts">ପଗଡ଼ି ପିନ୍ଧିଥିବା ପୁରୁଷ: ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="👳🏾‍♂">ପଗଡ଼ି ପିନ୍ଧିଥିବା ପୁରୁଷ | ପୁରୁଷ । ପଗଡ଼ି | ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="👳🏾‍♂">ପଗଡ଼ି | ପଗଡ଼ି ପିନ୍ଧିଥିବା ପୁରୁଷ | ପୁରୁଷ | ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="👳🏾‍♂" type="tts">ପଗଡ଼ି ପିନ୍ଧିଥିବା ପୁରୁଷ: ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="👳🏿‍♂">ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ପଗଡ଼ି ପିନ୍ଧିଥିବା ପୁରୁଷ | ପୁରୁଷ । ପଗଡ଼ି</annotation>
+		<annotation cp="👳🏿‍♂">ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ପଗଡ଼ି | ପଗଡ଼ି ପିନ୍ଧିଥିବା ପୁରୁଷ | ପୁରୁଷ</annotation>
 		<annotation cp="👳🏿‍♂" type="tts">ପଗଡ଼ି ପିନ୍ଧିଥିବା ପୁରୁଷ: ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="👳🏻‍♀">ପଗଡ଼ି । ମହିଳା | ପଗଡ଼ି ପିନ୍ଧିଥିବା ମହିଳା | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="👳🏻‍♀">ପଗଡ଼ି | ପଗଡ଼ି ପିନ୍ଧିଥିବା ମହିଳା | ମହିଳା | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="👳🏻‍♀" type="tts">ପଗଡ଼ି ପିନ୍ଧିଥିବା ମହିଳା: ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="👳🏼‍♀">ପଗଡ଼ି । ମହିଳା | ପଗଡ଼ି ପିନ୍ଧିଥିବା ମହିଳା | ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="👳🏼‍♀">ପଗଡ଼ି | ପଗଡ଼ି ପିନ୍ଧିଥିବା ମହିଳା | ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ | ମହିଳା</annotation>
 		<annotation cp="👳🏼‍♀" type="tts">ପଗଡ଼ି ପିନ୍ଧିଥିବା ମହିଳା: ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="👳🏽‍♀">ପଗଡ଼ି । ମହିଳା | ପଗଡ଼ି ପିନ୍ଧିଥିବା ମହିଳା | ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="👳🏽‍♀">ପଗଡ଼ି | ପଗଡ଼ି ପିନ୍ଧିଥିବା ମହିଳା | ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ | ମହିଳା</annotation>
 		<annotation cp="👳🏽‍♀" type="tts">ପଗଡ଼ି ପିନ୍ଧିଥିବା ମହିଳା: ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="👳🏾‍♀">ପଗଡ଼ି । ମହିଳା | ପଗଡ଼ି ପିନ୍ଧିଥିବା ମହିଳା | ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="👳🏾‍♀">ପଗଡ଼ି | ପଗଡ଼ି ପିନ୍ଧିଥିବା ମହିଳା | ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ମହିଳା</annotation>
 		<annotation cp="👳🏾‍♀" type="tts">ପଗଡ଼ି ପିନ୍ଧିଥିବା ମହିଳା: ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="👳🏿‍♀">ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ପଗଡ଼ି । ମହିଳା | ପଗଡ଼ି ପିନ୍ଧିଥିବା ମହିଳା</annotation>
+		<annotation cp="👳🏿‍♀">ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ପଗଡ଼ି | ପଗଡ଼ି ପିନ୍ଧିଥିବା ମହିଳା | ମହିଳା</annotation>
 		<annotation cp="👳🏿‍♀" type="tts">ପଗଡ଼ି ପିନ୍ଧିଥିବା ମହିଳା: ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="👲🏻">ଗୁଆ ପି ମାଓ | ଚାଇନିଜ୍‌ ଟୋପି ସହିତ ପୁରୁଷ | ଟୋପି | ପୁରୁଷ | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="👲🏻" type="tts">ଚାଇନିଜ୍‌ ଟୋପି ସହିତ ପୁରୁଷ: ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
@@ -2116,15 +2287,35 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🤰🏾" type="tts">ଗର୍ଭବତୀ ମହିଳା: ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🤰🏿">ଗର୍ଭବତୀ | ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ମହିଳା</annotation>
 		<annotation cp="🤰🏿" type="tts">ଗର୍ଭବତୀ ମହିଳା: ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🤱🏻">ସ୍ତନ । ଶିଶୁ । ଲାଳନ ପାଳନ କରିବା | ସ୍ତନ୍ୟପାନ କରାଇବା | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫃🏻">ଗର୍ଭବତୀ | ଗର୍ଭବତୀ ପୁରୁଷ | ପୂର୍ଣ୍ଣ | ପେଟ | ଫୁଲିଲା | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫃🏻" type="tts">ଗର୍ଭବତୀ ପୁରୁଷ: ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫃🏼">ଗର୍ଭବତୀ | ଗର୍ଭବତୀ ପୁରୁଷ | ପୂର୍ଣ୍ଣ | ପେଟ | ଫୁଲିଲା | ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫃🏼" type="tts">ଗର୍ଭବତୀ ପୁରୁଷ: ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫃🏽">ଗର୍ଭବତୀ | ଗର୍ଭବତୀ ପୁରୁଷ | ପୂର୍ଣ୍ଣ | ପେଟ | ଫୁଲିଲା | ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫃🏽" type="tts">ଗର୍ଭବତୀ ପୁରୁଷ: ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫃🏾">ଗର୍ଭବତୀ | ଗର୍ଭବତୀ ପୁରୁଷ | ପୂର୍ଣ୍ଣ | ପେଟ | ଫୁଲିଲା | ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫃🏾" type="tts">ଗର୍ଭବତୀ ପୁରୁଷ: ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫃🏿">ଗର୍ଭବତୀ | ଗର୍ଭବତୀ ପୁରୁଷ | ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ପୂର୍ଣ୍ଣ | ପେଟ | ଫୁଲିଲା</annotation>
+		<annotation cp="🫃🏿" type="tts">ଗର୍ଭବତୀ ପୁରୁଷ: ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫄🏻">ଗର୍ଭବତୀ | ଗର୍ଭବତୀ ବ୍ୟକ୍ତି | ପୂର୍ଣ୍ଣ | ପେଟ | ଫୁଲିଲା | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫄🏻" type="tts">ଗର୍ଭବତୀ ବ୍ୟକ୍ତି: ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫄🏼">ଗର୍ଭବତୀ | ଗର୍ଭବତୀ ବ୍ୟକ୍ତି | ପୂର୍ଣ୍ଣ | ପେଟ | ଫୁଲିଲା | ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫄🏼" type="tts">ଗର୍ଭବତୀ ବ୍ୟକ୍ତି: ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫄🏽">ଗର୍ଭବତୀ | ଗର୍ଭବତୀ ବ୍ୟକ୍ତି | ପୂର୍ଣ୍ଣ | ପେଟ | ଫୁଲିଲା | ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫄🏽" type="tts">ଗର୍ଭବତୀ ବ୍ୟକ୍ତି: ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫄🏾">ଗର୍ଭବତୀ | ଗର୍ଭବତୀ ବ୍ୟକ୍ତି | ପୂର୍ଣ୍ଣ | ପେଟ | ଫୁଲିଲା | ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫄🏾" type="tts">ଗର୍ଭବତୀ ବ୍ୟକ୍ତି: ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🫄🏿">ଗର୍ଭବତୀ | ଗର୍ଭବତୀ ବ୍ୟକ୍ତି | ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ପୂର୍ଣ୍ଣ | ପେଟ | ଫୁଲିଲା</annotation>
+		<annotation cp="🫄🏿" type="tts">ଗର୍ଭବତୀ ବ୍ୟକ୍ତି: ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🤱🏻">ଲାଳନ ପାଳନ କରିବା | ଶିଶୁ | ସ୍ତନ | ସ୍ତନ୍ୟପାନ କରାଇବା | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🤱🏻" type="tts">ସ୍ତନ୍ୟପାନ କରାଇବା: ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🤱🏼">ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ | ସ୍ତନ । ଶିଶୁ । ଲାଳନ ପାଳନ କରିବା | ସ୍ତନ୍ୟପାନ କରାଇବା</annotation>
+		<annotation cp="🤱🏼">ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ | ଲାଳନ ପାଳନ କରିବା | ଶିଶୁ | ସ୍ତନ | ସ୍ତନ୍ୟପାନ କରାଇବା</annotation>
 		<annotation cp="🤱🏼" type="tts">ସ୍ତନ୍ୟପାନ କରାଇବା: ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🤱🏽">ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ | ସ୍ତନ । ଶିଶୁ । ଲାଳନ ପାଳନ କରିବା | ସ୍ତନ୍ୟପାନ କରାଇବା</annotation>
+		<annotation cp="🤱🏽">ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ | ଲାଳନ ପାଳନ କରିବା | ଶିଶୁ | ସ୍ତନ | ସ୍ତନ୍ୟପାନ କରାଇବା</annotation>
 		<annotation cp="🤱🏽" type="tts">ସ୍ତନ୍ୟପାନ କରାଇବା: ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🤱🏾">ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ସ୍ତନ । ଶିଶୁ । ଲାଳନ ପାଳନ କରିବା | ସ୍ତନ୍ୟପାନ କରାଇବା</annotation>
+		<annotation cp="🤱🏾">ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ଲାଳନ ପାଳନ କରିବା | ଶିଶୁ | ସ୍ତନ | ସ୍ତନ୍ୟପାନ କରାଇବା</annotation>
 		<annotation cp="🤱🏾" type="tts">ସ୍ତନ୍ୟପାନ କରାଇବା: ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🤱🏿">ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ସ୍ତନ । ଶିଶୁ । ଲାଳନ ପାଳନ କରିବା | ସ୍ତନ୍ୟପାନ କରାଇବା</annotation>
+		<annotation cp="🤱🏿">ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ଲାଳନ ପାଳନ କରିବା | ଶିଶୁ | ସ୍ତନ | ସ୍ତନ୍ୟପାନ କରାଇବା</annotation>
 		<annotation cp="🤱🏿" type="tts">ସ୍ତନ୍ୟପାନ କରାଇବା: ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="👩🏻‍🍼">ଶିଶୁ କ୍ଷୀର ଦେଉଥିବା ମହିଳା | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="👩🏻‍🍼" type="tts">ଶିଶୁ କ୍ଷୀର ଦେଉଥିବା ମହିଳା: ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
@@ -2146,15 +2337,15 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👨🏾‍🍼" type="tts">ଶିଶୁକୁ ଖାଇବାକୁ ଦେଉଥିବା ପୁରୁଷ: ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="👨🏿‍🍼">ଖାଇବାକୁ ଦେଉଥିବା | ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ନର୍ସିଂ | ପୁରୁଷ | ଶିଶୁକୁ | ଶିଶୁକୁ ଖାଇବାକୁ ଦେଉଥିବା ପୁରୁଷ</annotation>
 		<annotation cp="👨🏿‍🍼" type="tts">ଶିଶୁକୁ ଖାଇବାକୁ ଦେଉଥିବା ପୁରୁଷ: ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🧑🏻‍🍼">ଶିଶୁ, ଖାଇବାକୁ ଦେବା, ନର୍ସିଂ, ବ୍ୟକ୍ତି | ଶିଶୁକୁ ଖାଇବାକୁ ଦେଉଥିବା ବ୍ୟକ୍ତି | ଶିଶୁକୁ ଖାଇବାକୁ ଦେବା ବ୍ୟକ୍ତି | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🧑🏻‍🍼">ଖାଇବାକୁ ଦେବା | ନର୍ସିଂ | ବ୍ୟକ୍ତି | ଶିଶୁ | ଶିଶୁକୁ ଖାଇବାକୁ ଦେଉଥିବା ବ୍ୟକ୍ତି | ଶିଶୁକୁ ଖାଇବାକୁ ଦେବା ବ୍ୟକ୍ତି | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🧑🏻‍🍼" type="tts">ଶିଶୁକୁ ଖାଇବାକୁ ଦେଉଥିବା ବ୍ୟକ୍ତି: ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🧑🏼‍🍼">ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ | ଶିଶୁ, ଖାଇବାକୁ ଦେବା, ନର୍ସିଂ, ବ୍ୟକ୍ତି | ଶିଶୁକୁ ଖାଇବାକୁ ଦେଉଥିବା ବ୍ୟକ୍ତି | ଶିଶୁକୁ ଖାଇବାକୁ ଦେବା ବ୍ୟକ୍ତି</annotation>
+		<annotation cp="🧑🏼‍🍼">ଖାଇବାକୁ ଦେବା | ନର୍ସିଂ | ବ୍ୟକ୍ତି | ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ | ଶିଶୁ | ଶିଶୁକୁ ଖାଇବାକୁ ଦେଉଥିବା ବ୍ୟକ୍ତି | ଶିଶୁକୁ ଖାଇବାକୁ ଦେବା ବ୍ୟକ୍ତି</annotation>
 		<annotation cp="🧑🏼‍🍼" type="tts">ଶିଶୁକୁ ଖାଇବାକୁ ଦେଉଥିବା ବ୍ୟକ୍ତି: ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🧑🏽‍🍼">ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ | ଶିଶୁ, ଖାଇବାକୁ ଦେବା, ନର୍ସିଂ, ବ୍ୟକ୍ତି | ଶିଶୁକୁ ଖାଇବାକୁ ଦେଉଥିବା ବ୍ୟକ୍ତି | ଶିଶୁକୁ ଖାଇବାକୁ ଦେବା ବ୍ୟକ୍ତି</annotation>
+		<annotation cp="🧑🏽‍🍼">ଖାଇବାକୁ ଦେବା | ନର୍ସିଂ | ବ୍ୟକ୍ତି | ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ | ଶିଶୁ | ଶିଶୁକୁ ଖାଇବାକୁ ଦେଉଥିବା ବ୍ୟକ୍ତି | ଶିଶୁକୁ ଖାଇବାକୁ ଦେବା ବ୍ୟକ୍ତି</annotation>
 		<annotation cp="🧑🏽‍🍼" type="tts">ଶିଶୁକୁ ଖାଇବାକୁ ଦେଉଥିବା ବ୍ୟକ୍ତି: ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🧑🏾‍🍼">ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ଶିଶୁ, ଖାଇବାକୁ ଦେବା, ନର୍ସିଂ, ବ୍ୟକ୍ତି | ଶିଶୁକୁ ଖାଇବାକୁ ଦେଉଥିବା ବ୍ୟକ୍ତି | ଶିଶୁକୁ ଖାଇବାକୁ ଦେବା ବ୍ୟକ୍ତି</annotation>
+		<annotation cp="🧑🏾‍🍼">ଖାଇବାକୁ ଦେବା | ନର୍ସିଂ | ବ୍ୟକ୍ତି | ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ଶିଶୁ | ଶିଶୁକୁ ଖାଇବାକୁ ଦେଉଥିବା ବ୍ୟକ୍ତି | ଶିଶୁକୁ ଖାଇବାକୁ ଦେବା ବ୍ୟକ୍ତି</annotation>
 		<annotation cp="🧑🏾‍🍼" type="tts">ଶିଶୁକୁ ଖାଇବାକୁ ଦେଉଥିବା ବ୍ୟକ୍ତି: ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🧑🏿‍🍼">ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ଶିଶୁ, ଖାଇବାକୁ ଦେବା, ନର୍ସିଂ, ବ୍ୟକ୍ତି | ଶିଶୁକୁ ଖାଇବାକୁ ଦେଉଥିବା ବ୍ୟକ୍ତି | ଶିଶୁକୁ ଖାଇବାକୁ ଦେବା ବ୍ୟକ୍ତି</annotation>
+		<annotation cp="🧑🏿‍🍼">ଖାଇବାକୁ ଦେବା | ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ନର୍ସିଂ | ବ୍ୟକ୍ତି | ଶିଶୁ | ଶିଶୁକୁ ଖାଇବାକୁ ଦେଉଥିବା ବ୍ୟକ୍ତି | ଶିଶୁକୁ ଖାଇବାକୁ ଦେବା ବ୍ୟକ୍ତି</annotation>
 		<annotation cp="🧑🏿‍🍼" type="tts">ଶିଶୁକୁ ଖାଇବାକୁ ଦେଉଥିବା ବ୍ୟକ୍ତି: ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="👼🏻">କଳ୍ପନା | ଦେବଦୂତ | ପରୀ କାହାଣୀ | ମୁହଁ | ଶିଶୁ | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="👼🏻" type="tts">ଶିଶୁ ଦେବଦୂତ: ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
@@ -2176,25 +2367,25 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🎅🏾" type="tts">ସାଣ୍ଟା କ୍ଲସ୍‍: ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🎅🏿">ଉତ୍ସବ | କ୍ଲସ୍‍ | ଖ୍ରୀଷ୍ଟମାସ୍ | ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ପିତା | ସାଣ୍ଟା</annotation>
 		<annotation cp="🎅🏿" type="tts">ସାଣ୍ଟା କ୍ଲସ୍‍: ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🤶🏻">ଖ୍ରୀଷ୍ଟମାସ୍ । ଉତ୍ସବ ପାଳନ । ମାଆ । ଶ୍ରୀମତୀ । କ୍ଲସ୍‍ | ଶ୍ରୀମତୀ କ୍ଲସ୍‍ | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🤶🏻">ଉତ୍ସବ ପାଳନ | କ୍ଲସ୍‍ | ଖ୍ରୀଷ୍ଟମାସ୍ | ମାଆ | ଶ୍ରୀମତୀ | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🤶🏻" type="tts">ଶ୍ରୀମତୀ କ୍ଲସ୍‍: ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🤶🏼">ଖ୍ରୀଷ୍ଟମାସ୍ । ଉତ୍ସବ ପାଳନ । ମାଆ । ଶ୍ରୀମତୀ । କ୍ଲସ୍‍ | ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ | ଶ୍ରୀମତୀ କ୍ଲସ୍‍</annotation>
+		<annotation cp="🤶🏼">ଉତ୍ସବ ପାଳନ | କ୍ଲସ୍‍ | ଖ୍ରୀଷ୍ଟମାସ୍ | ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ | ମାଆ | ଶ୍ରୀମତୀ</annotation>
 		<annotation cp="🤶🏼" type="tts">ଶ୍ରୀମତୀ କ୍ଲସ୍‍: ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🤶🏽">ଖ୍ରୀଷ୍ଟମାସ୍ । ଉତ୍ସବ ପାଳନ । ମାଆ । ଶ୍ରୀମତୀ । କ୍ଲସ୍‍ | ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ | ଶ୍ରୀମତୀ କ୍ଲସ୍‍</annotation>
+		<annotation cp="🤶🏽">ଉତ୍ସବ ପାଳନ | କ୍ଲସ୍‍ | ଖ୍ରୀଷ୍ଟମାସ୍ | ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ | ମାଆ | ଶ୍ରୀମତୀ</annotation>
 		<annotation cp="🤶🏽" type="tts">ଶ୍ରୀମତୀ କ୍ଲସ୍‍: ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🤶🏾">ଖ୍ରୀଷ୍ଟମାସ୍ । ଉତ୍ସବ ପାଳନ । ମାଆ । ଶ୍ରୀମତୀ । କ୍ଲସ୍‍ | ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ଶ୍ରୀମତୀ କ୍ଲସ୍‍</annotation>
+		<annotation cp="🤶🏾">ଉତ୍ସବ ପାଳନ | କ୍ଲସ୍‍ | ଖ୍ରୀଷ୍ଟମାସ୍ | ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ମାଆ | ଶ୍ରୀମତୀ</annotation>
 		<annotation cp="🤶🏾" type="tts">ଶ୍ରୀମତୀ କ୍ଲସ୍‍: ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🤶🏿">ଖ୍ରୀଷ୍ଟମାସ୍ । ଉତ୍ସବ ପାଳନ । ମାଆ । ଶ୍ରୀମତୀ । କ୍ଲସ୍‍ | ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ଶ୍ରୀମତୀ କ୍ଲସ୍‍</annotation>
+		<annotation cp="🤶🏿">ଉତ୍ସବ ପାଳନ | କ୍ଲସ୍‍ | ଖ୍ରୀଷ୍ଟମାସ୍ | ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ମାଆ | ଶ୍ରୀମତୀ</annotation>
 		<annotation cp="🤶🏿" type="tts">ଶ୍ରୀମତୀ କ୍ଲସ୍‍: ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🧑🏻‍🎄">କ୍ଲସ୍, ଖ୍ରୀଷ୍ଟମାସ | ମେକ୍ସ କ୍ଲସ୍ | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🧑🏻‍🎄">କ୍ଲସ୍ | ଖ୍ରୀଷ୍ଟମାସ | ମେକ୍ସ କ୍ଲସ୍ | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🧑🏻‍🎄" type="tts">ମେକ୍ସ କ୍ଲସ୍: ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🧑🏼‍🎄">କ୍ଲସ୍, ଖ୍ରୀଷ୍ଟମାସ | ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ | ମେକ୍ସ କ୍ଲସ୍</annotation>
+		<annotation cp="🧑🏼‍🎄">କ୍ଲସ୍ | ଖ୍ରୀଷ୍ଟମାସ | ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ | ମେକ୍ସ କ୍ଲସ୍</annotation>
 		<annotation cp="🧑🏼‍🎄" type="tts">ମେକ୍ସ କ୍ଲସ୍: ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🧑🏽‍🎄">କ୍ଲସ୍, ଖ୍ରୀଷ୍ଟମାସ | ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ | ମେକ୍ସ କ୍ଲସ୍</annotation>
+		<annotation cp="🧑🏽‍🎄">କ୍ଲସ୍ | ଖ୍ରୀଷ୍ଟମାସ | ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ | ମେକ୍ସ କ୍ଲସ୍</annotation>
 		<annotation cp="🧑🏽‍🎄" type="tts">ମେକ୍ସ କ୍ଲସ୍: ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🧑🏾‍🎄">କ୍ଲସ୍, ଖ୍ରୀଷ୍ଟମାସ | ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ମେକ୍ସ କ୍ଲସ୍</annotation>
+		<annotation cp="🧑🏾‍🎄">କ୍ଲସ୍ | ଖ୍ରୀଷ୍ଟମାସ | ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ମେକ୍ସ କ୍ଲସ୍</annotation>
 		<annotation cp="🧑🏾‍🎄" type="tts">ମେକ୍ସ କ୍ଲସ୍: ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🧑🏿‍🎄">କ୍ଲସ୍, ଖ୍ରୀଷ୍ଟମାସ | ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ମେକ୍ସ କ୍ଲସ୍</annotation>
+		<annotation cp="🧑🏿‍🎄">କ୍ଲସ୍ | ଖ୍ରୀଷ୍ଟମାସ | ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ମେକ୍ସ କ୍ଲସ୍</annotation>
 		<annotation cp="🧑🏿‍🎄" type="tts">ମେକ୍ସ କ୍ଲସ୍: ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🦸🏻">ଭଲ | ସୁପର୍‌ ପାୱାର | ସୁପର୍‌ହିରୋ | ହାଲକା ଚର୍ମ ରଙ୍ଗ | ହିରୋ | ହିରୋଇନ୍‌</annotation>
 		<annotation cp="🦸🏻" type="tts">ସୁପର୍‌ହିରୋ: ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
@@ -2256,55 +2447,55 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🦹🏾‍♀" type="tts">ମହିଳା ସୁପର୍‌ ଭିଲିୟାନ: ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🦹🏿‍♀">ଅପରାଧୀ | ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ଦୁଷ୍ଟ | ଭିଲିୟାନ୍‌ | ମହିଳା | ମହିଳା ସୁପର୍‌ ଭିଲିୟାନ | ସୁପର୍‌ ପାୱାର</annotation>
 		<annotation cp="🦹🏿‍♀" type="tts">ମହିଳା ସୁପର୍‌ ଭିଲିୟାନ: ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🧙🏻">ଯାଦୁକର | ଯାଦୁକର । ଡାହାଣୀ । ଯାଦୁକର । ତନ୍ତ୍ରକାରିଣୀ | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🧙🏻">ଡାହାଣୀ | ତନ୍ତ୍ରକାରିଣୀ | ଯାଦୁକର | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🧙🏻" type="tts">ଯାଦୁକର: ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🧙🏼">ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ | ଯାଦୁକର | ଯାଦୁକର । ଡାହାଣୀ । ଯାଦୁକର । ତନ୍ତ୍ରକାରିଣୀ</annotation>
+		<annotation cp="🧙🏼">ଡାହାଣୀ | ତନ୍ତ୍ରକାରିଣୀ | ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ | ଯାଦୁକର</annotation>
 		<annotation cp="🧙🏼" type="tts">ଯାଦୁକର: ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🧙🏽">ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ | ଯାଦୁକର | ଯାଦୁକର । ଡାହାଣୀ । ଯାଦୁକର । ତନ୍ତ୍ରକାରିଣୀ</annotation>
+		<annotation cp="🧙🏽">ଡାହାଣୀ | ତନ୍ତ୍ରକାରିଣୀ | ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ | ଯାଦୁକର</annotation>
 		<annotation cp="🧙🏽" type="tts">ଯାଦୁକର: ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🧙🏾">ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ଯାଦୁକର | ଯାଦୁକର । ଡାହାଣୀ । ଯାଦୁକର । ତନ୍ତ୍ରକାରିଣୀ</annotation>
+		<annotation cp="🧙🏾">ଡାହାଣୀ | ତନ୍ତ୍ରକାରିଣୀ | ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ଯାଦୁକର</annotation>
 		<annotation cp="🧙🏾" type="tts">ଯାଦୁକର: ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🧙🏿">ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ଯାଦୁକର | ଯାଦୁକର । ଡାହାଣୀ । ଯାଦୁକର । ତନ୍ତ୍ରକାରିଣୀ</annotation>
+		<annotation cp="🧙🏿">ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ଡାହାଣୀ | ତନ୍ତ୍ରକାରିଣୀ | ଯାଦୁକର</annotation>
 		<annotation cp="🧙🏿" type="tts">ଯାଦୁକର: ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🧙🏻‍♂">ପୁରୁଷ ଯାଦୁକର | ଯାଦୁକର । ତାନ୍ତ୍ରିକ | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🧙🏻‍♂">ତାନ୍ତ୍ରିକ | ପୁରୁଷ ଯାଦୁକର | ଯାଦୁକର | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🧙🏻‍♂" type="tts">ପୁରୁଷ ଯାଦୁକର: ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🧙🏼‍♂">ପୁରୁଷ ଯାଦୁକର | ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ | ଯାଦୁକର । ତାନ୍ତ୍ରିକ</annotation>
+		<annotation cp="🧙🏼‍♂">ତାନ୍ତ୍ରିକ | ପୁରୁଷ ଯାଦୁକର | ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ | ଯାଦୁକର</annotation>
 		<annotation cp="🧙🏼‍♂" type="tts">ପୁରୁଷ ଯାଦୁକର: ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🧙🏽‍♂">ପୁରୁଷ ଯାଦୁକର | ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ | ଯାଦୁକର । ତାନ୍ତ୍ରିକ</annotation>
+		<annotation cp="🧙🏽‍♂">ତାନ୍ତ୍ରିକ | ପୁରୁଷ ଯାଦୁକର | ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ | ଯାଦୁକର</annotation>
 		<annotation cp="🧙🏽‍♂" type="tts">ପୁରୁଷ ଯାଦୁକର: ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🧙🏾‍♂">ପୁରୁଷ ଯାଦୁକର | ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ଯାଦୁକର । ତାନ୍ତ୍ରିକ</annotation>
+		<annotation cp="🧙🏾‍♂">ତାନ୍ତ୍ରିକ | ପୁରୁଷ ଯାଦୁକର | ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ଯାଦୁକର</annotation>
 		<annotation cp="🧙🏾‍♂" type="tts">ପୁରୁଷ ଯାଦୁକର: ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🧙🏿‍♂">ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ପୁରୁଷ ଯାଦୁକର | ଯାଦୁକର । ତାନ୍ତ୍ରିକ</annotation>
+		<annotation cp="🧙🏿‍♂">ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ତାନ୍ତ୍ରିକ | ପୁରୁଷ ଯାଦୁକର | ଯାଦୁକର</annotation>
 		<annotation cp="🧙🏿‍♂" type="tts">ପୁରୁଷ ଯାଦୁକର: ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🧙🏻‍♀">ଡାହାଣୀ । ତନ୍ତ୍ରକାରିଣୀ | ମହିଳା ଯାଦୁକର | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🧙🏻‍♀">ଡାହାଣୀ | ତନ୍ତ୍ରକାରିଣୀ | ମହିଳା ଯାଦୁକର | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🧙🏻‍♀" type="tts">ମହିଳା ଯାଦୁକର: ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🧙🏼‍♀">ଡାହାଣୀ । ତନ୍ତ୍ରକାରିଣୀ | ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ | ମହିଳା ଯାଦୁକର</annotation>
+		<annotation cp="🧙🏼‍♀">ଡାହାଣୀ | ତନ୍ତ୍ରକାରିଣୀ | ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ | ମହିଳା ଯାଦୁକର</annotation>
 		<annotation cp="🧙🏼‍♀" type="tts">ମହିଳା ଯାଦୁକର: ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🧙🏽‍♀">ଡାହାଣୀ । ତନ୍ତ୍ରକାରିଣୀ | ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ | ମହିଳା ଯାଦୁକର</annotation>
+		<annotation cp="🧙🏽‍♀">ଡାହାଣୀ | ତନ୍ତ୍ରକାରିଣୀ | ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ | ମହିଳା ଯାଦୁକର</annotation>
 		<annotation cp="🧙🏽‍♀" type="tts">ମହିଳା ଯାଦୁକର: ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🧙🏾‍♀">ଡାହାଣୀ । ତନ୍ତ୍ରକାରିଣୀ | ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ମହିଳା ଯାଦୁକର</annotation>
+		<annotation cp="🧙🏾‍♀">ଡାହାଣୀ | ତନ୍ତ୍ରକାରିଣୀ | ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ମହିଳା ଯାଦୁକର</annotation>
 		<annotation cp="🧙🏾‍♀" type="tts">ମହିଳା ଯାଦୁକର: ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🧙🏿‍♀">ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ଡାହାଣୀ । ତନ୍ତ୍ରକାରିଣୀ | ମହିଳା ଯାଦୁକର</annotation>
+		<annotation cp="🧙🏿‍♀">ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ଡାହାଣୀ | ତନ୍ତ୍ରକାରିଣୀ | ମହିଳା ଯାଦୁକର</annotation>
 		<annotation cp="🧙🏿‍♀" type="tts">ମହିଳା ଯାଦୁକର: ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🧚🏻">ତିତାନିଆ । ପୁକ୍‍ । ଓବେରନ୍‍ | ପରୀ | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🧚🏻">ଓବେରନ୍‍ | ତିତାନିଆ | ପରୀ | ପୁକ୍‍ | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🧚🏻" type="tts">ପରୀ: ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🧚🏼">ତିତାନିଆ । ପୁକ୍‍ । ଓବେରନ୍‍ | ପରୀ | ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🧚🏼">ଓବେରନ୍‍ | ତିତାନିଆ | ପରୀ | ପୁକ୍‍ | ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🧚🏼" type="tts">ପରୀ: ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🧚🏽">ତିତାନିଆ । ପୁକ୍‍ । ଓବେରନ୍‍ | ପରୀ | ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🧚🏽">ଓବେରନ୍‍ | ତିତାନିଆ | ପରୀ | ପୁକ୍‍ | ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🧚🏽" type="tts">ପରୀ: ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🧚🏾">ତିତାନିଆ । ପୁକ୍‍ । ଓବେରନ୍‍ | ପରୀ | ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🧚🏾">ଓବେରନ୍‍ | ତିତାନିଆ | ପରୀ | ପୁକ୍‍ | ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🧚🏾" type="tts">ପରୀ: ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🧚🏿">ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ତିତାନିଆ । ପୁକ୍‍ । ଓବେରନ୍‍ | ପରୀ</annotation>
+		<annotation cp="🧚🏿">ଓବେରନ୍‍ | ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ତିତାନିଆ | ପରୀ | ପୁକ୍‍</annotation>
 		<annotation cp="🧚🏿" type="tts">ପରୀ: ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🧚🏻‍♂">ପୁକ୍‍ । ଓବେରନ୍‍ | ପୁରୁଷ ପରୀ | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🧚🏻‍♂">ଓବେରନ୍‍ | ପୁକ୍‍ | ପୁରୁଷ ପରୀ | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🧚🏻‍♂" type="tts">ପୁରୁଷ ପରୀ: ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🧚🏼‍♂">ପୁକ୍‍ । ଓବେରନ୍‍ | ପୁରୁଷ ପରୀ | ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🧚🏼‍♂">ଓବେରନ୍‍ | ପୁକ୍‍ | ପୁରୁଷ ପରୀ | ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🧚🏼‍♂" type="tts">ପୁରୁଷ ପରୀ: ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🧚🏽‍♂">ପୁକ୍‍ । ଓବେରନ୍‍ | ପୁରୁଷ ପରୀ | ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🧚🏽‍♂">ଓବେରନ୍‍ | ପୁକ୍‍ | ପୁରୁଷ ପରୀ | ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🧚🏽‍♂" type="tts">ପୁରୁଷ ପରୀ: ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🧚🏾‍♂">ପୁକ୍‍ । ଓବେରନ୍‍ | ପୁରୁଷ ପରୀ | ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🧚🏾‍♂">ଓବେରନ୍‍ | ପୁକ୍‍ | ପୁରୁଷ ପରୀ | ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🧚🏾‍♂" type="tts">ପୁରୁଷ ପରୀ: ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🧚🏿‍♂">ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ପୁକ୍‍ । ଓବେରନ୍‍ | ପୁରୁଷ ପରୀ</annotation>
+		<annotation cp="🧚🏿‍♂">ଓବେରନ୍‍ | ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ପୁକ୍‍ | ପୁରୁଷ ପରୀ</annotation>
 		<annotation cp="🧚🏿‍♂" type="tts">ପୁରୁଷ ପରୀ: ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🧚🏻‍♀">ତିତାନିଆ | ମହିଳା ପରୀ | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🧚🏻‍♀" type="tts">ମହିଳା ପରୀ: ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
@@ -2316,25 +2507,25 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🧚🏾‍♀" type="tts">ମହିଳା ପରୀ: ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🧚🏿‍♀">ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ତିତାନିଆ | ମହିଳା ପରୀ</annotation>
 		<annotation cp="🧚🏿‍♀" type="tts">ମହିଳା ପରୀ: ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🧛🏻">ଡ୍ରାକୁଲା । ପ୍ରେତାତ୍ମା | ପିଶାଚ | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🧛🏻">ଡ୍ରାକୁଲା | ପିଶାଚ | ପ୍ରେତାତ୍ମା | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🧛🏻" type="tts">ପିଶାଚ: ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🧛🏼">ଡ୍ରାକୁଲା । ପ୍ରେତାତ୍ମା | ପିଶାଚ | ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🧛🏼">ଡ୍ରାକୁଲା | ପିଶାଚ | ପ୍ରେତାତ୍ମା | ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🧛🏼" type="tts">ପିଶାଚ: ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🧛🏽">ଡ୍ରାକୁଲା । ପ୍ରେତାତ୍ମା | ପିଶାଚ | ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🧛🏽">ଡ୍ରାକୁଲା | ପିଶାଚ | ପ୍ରେତାତ୍ମା | ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🧛🏽" type="tts">ପିଶାଚ: ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🧛🏾">ଡ୍ରାକୁଲା । ପ୍ରେତାତ୍ମା | ପିଶାଚ | ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🧛🏾">ଡ୍ରାକୁଲା | ପିଶାଚ | ପ୍ରେତାତ୍ମା | ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🧛🏾" type="tts">ପିଶାଚ: ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🧛🏿">ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ଡ୍ରାକୁଲା । ପ୍ରେତାତ୍ମା | ପିଶାଚ</annotation>
+		<annotation cp="🧛🏿">ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ଡ୍ରାକୁଲା | ପିଶାଚ | ପ୍ରେତାତ୍ମା</annotation>
 		<annotation cp="🧛🏿" type="tts">ପିଶାଚ: ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🧛🏻‍♂">ଡ୍ରାକୁଲା । ପ୍ରେତାତ୍ମା | ପୁରୁଷ ପିଶାଚ | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🧛🏻‍♂">ଡ୍ରାକୁଲା | ପୁରୁଷ ପିଶାଚ | ପ୍ରେତାତ୍ମା | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🧛🏻‍♂" type="tts">ପୁରୁଷ ପିଶାଚ: ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🧛🏼‍♂">ଡ୍ରାକୁଲା । ପ୍ରେତାତ୍ମା | ପୁରୁଷ ପିଶାଚ | ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🧛🏼‍♂">ଡ୍ରାକୁଲା | ପୁରୁଷ ପିଶାଚ | ପ୍ରେତାତ୍ମା | ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🧛🏼‍♂" type="tts">ପୁରୁଷ ପିଶାଚ: ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🧛🏽‍♂">ଡ୍ରାକୁଲା । ପ୍ରେତାତ୍ମା | ପୁରୁଷ ପିଶାଚ | ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🧛🏽‍♂">ଡ୍ରାକୁଲା | ପୁରୁଷ ପିଶାଚ | ପ୍ରେତାତ୍ମା | ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🧛🏽‍♂" type="tts">ପୁରୁଷ ପିଶାଚ: ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🧛🏾‍♂">ଡ୍ରାକୁଲା । ପ୍ରେତାତ୍ମା | ପୁରୁଷ ପିଶାଚ | ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🧛🏾‍♂">ଡ୍ରାକୁଲା | ପୁରୁଷ ପିଶାଚ | ପ୍ରେତାତ୍ମା | ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🧛🏾‍♂" type="tts">ପୁରୁଷ ପିଶାଚ: ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🧛🏿‍♂">ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ଡ୍ରାକୁଲା । ପ୍ରେତାତ୍ମା | ପୁରୁଷ ପିଶାଚ</annotation>
+		<annotation cp="🧛🏿‍♂">ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ଡ୍ରାକୁଲା | ପୁରୁଷ ପିଶାଚ | ପ୍ରେତାତ୍ମା</annotation>
 		<annotation cp="🧛🏿‍♂" type="tts">ପୁରୁଷ ପିଶାଚ: ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🧛🏻‍♀">ପ୍ରେତାତ୍ମା | ମହିଳା ପିଶାଚ | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🧛🏻‍♀" type="tts">ମହିଳା ପିଶାଚ: ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
@@ -2346,15 +2537,15 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🧛🏾‍♀" type="tts">ମହିଳା ପିଶାଚ: ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🧛🏿‍♀">ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ପ୍ରେତାତ୍ମା | ମହିଳା ପିଶାଚ</annotation>
 		<annotation cp="🧛🏿‍♀" type="tts">ମହିଳା ପିଶାଚ: ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🧜🏻">ମତ୍ସାଗଂନା | ମରପର୍ସନ | ମରପର୍ସନ୍ | ମରମ୍ୟାନ୍ । ମରଓମ୍ୟାନ୍ | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🧜🏻">ମତ୍ସାଗଂନା | ମରଓମ୍ୟାନ୍ | ମରପର୍ସନ | ମରପର୍ସନ୍ | ମରମ୍ୟାନ୍ | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🧜🏻" type="tts">ମରପର୍ସନ: ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🧜🏼">ମତ୍ସାଗଂନା | ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ | ମରପର୍ସନ | ମରପର୍ସନ୍ | ମରମ୍ୟାନ୍ । ମରଓମ୍ୟାନ୍</annotation>
+		<annotation cp="🧜🏼">ମତ୍ସାଗଂନା | ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ | ମରଓମ୍ୟାନ୍ | ମରପର୍ସନ | ମରପର୍ସନ୍ | ମରମ୍ୟାନ୍</annotation>
 		<annotation cp="🧜🏼" type="tts">ମରପର୍ସନ: ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🧜🏽">ମତ୍ସାଗଂନା | ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ | ମରପର୍ସନ | ମରପର୍ସନ୍ | ମରମ୍ୟାନ୍ । ମରଓମ୍ୟାନ୍</annotation>
+		<annotation cp="🧜🏽">ମତ୍ସାଗଂନା | ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ | ମରଓମ୍ୟାନ୍ | ମରପର୍ସନ | ମରପର୍ସନ୍ | ମରମ୍ୟାନ୍</annotation>
 		<annotation cp="🧜🏽" type="tts">ମରପର୍ସନ: ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🧜🏾">ମତ୍ସାଗଂନା | ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ମରପର୍ସନ | ମରପର୍ସନ୍ | ମରମ୍ୟାନ୍ । ମରଓମ୍ୟାନ୍</annotation>
+		<annotation cp="🧜🏾">ମତ୍ସାଗଂନା | ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ମରଓମ୍ୟାନ୍ | ମରପର୍ସନ | ମରପର୍ସନ୍ | ମରମ୍ୟାନ୍</annotation>
 		<annotation cp="🧜🏾" type="tts">ମରପର୍ସନ: ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🧜🏿">ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ମତ୍ସାଗଂନା | ମରପର୍ସନ | ମରପର୍ସନ୍ | ମରମ୍ୟାନ୍ । ମରଓମ୍ୟାନ୍</annotation>
+		<annotation cp="🧜🏿">ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ମତ୍ସାଗଂନା | ମରଓମ୍ୟାନ୍ | ମରପର୍ସନ | ମରପର୍ସନ୍ | ମରମ୍ୟାନ୍</annotation>
 		<annotation cp="🧜🏿" type="tts">ମରପର୍ସନ: ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🧜🏻‍♂">ଟ୍ରାଇଟନ୍‍ | ମରମ୍ୟାନ୍ | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🧜🏻‍♂" type="tts">ମରମ୍ୟାନ୍: ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
@@ -2686,15 +2877,15 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="💃🏾" type="tts">ମହିଳା ନାଚୁଛନ୍ତି: ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="💃🏿">ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ନୃତ୍ୟ କରିବା | ମହିଳା | ମହିଳା ନାଚୁଛନ୍ତି</annotation>
 		<annotation cp="💃🏿" type="tts">ମହିଳା ନାଚୁଛନ୍ତି: ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🕺🏻">ନାଚିବା । ପୁରୁଷ | ପୁରୁଷ ନାଚ କରୁଛନ୍ତି | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🕺🏻">ନାଚିବା | ପୁରୁଷ | ପୁରୁଷ ନାଚ କରୁଛନ୍ତି | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🕺🏻" type="tts">ପୁରୁଷ ନାଚ କରୁଛନ୍ତି: ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🕺🏼">ନାଚିବା । ପୁରୁଷ | ପୁରୁଷ ନାଚ କରୁଛନ୍ତି | ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🕺🏼">ନାଚିବା | ପୁରୁଷ | ପୁରୁଷ ନାଚ କରୁଛନ୍ତି | ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🕺🏼" type="tts">ପୁରୁଷ ନାଚ କରୁଛନ୍ତି: ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🕺🏽">ନାଚିବା । ପୁରୁଷ | ପୁରୁଷ ନାଚ କରୁଛନ୍ତି | ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🕺🏽">ନାଚିବା | ପୁରୁଷ | ପୁରୁଷ ନାଚ କରୁଛନ୍ତି | ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🕺🏽" type="tts">ପୁରୁଷ ନାଚ କରୁଛନ୍ତି: ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🕺🏾">ନାଚିବା । ପୁରୁଷ | ପୁରୁଷ ନାଚ କରୁଛନ୍ତି | ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🕺🏾">ନାଚିବା | ପୁରୁଷ | ପୁରୁଷ ନାଚ କରୁଛନ୍ତି | ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🕺🏾" type="tts">ପୁରୁଷ ନାଚ କରୁଛନ୍ତି: ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🕺🏿">ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ନାଚିବା । ପୁରୁଷ | ପୁରୁଷ ନାଚ କରୁଛନ୍ତି</annotation>
+		<annotation cp="🕺🏿">ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ନାଚିବା | ପୁରୁଷ | ପୁରୁଷ ନାଚ କରୁଛନ୍ତି</annotation>
 		<annotation cp="🕺🏿" type="tts">ପୁରୁଷ ନାଚ କରୁଛନ୍ତି: ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🕴🏻">ପୁରୁଷ | ବ୍ୟବସାୟ | ସୁଟ୍‌ | ସୁଟ୍‌ରେ ଥିବା ପୁରୁଷ ଶୂନ୍ୟରେ ଭାସୁଛନ୍ତି | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🕴🏻" type="tts">ସୁଟ୍‌ରେ ଥିବା ପୁରୁଷ ଶୂନ୍ୟରେ ଭାସୁଛନ୍ତି: ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
@@ -2786,25 +2977,25 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🏂🏾" type="tts">ସ୍ନୋବୋର୍ଡର୍‍: ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🏂🏿">ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ବରଫ | ସ୍କି | ସ୍ନୋବୋର୍ଡ | ସ୍ନୋବୋର୍ଡର୍‍</annotation>
 		<annotation cp="🏂🏿" type="tts">ସ୍ନୋବୋର୍ଡର୍‍: ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🏌🏻">ଗଲ୍ଫ ଖେଳୁଥିବା ବ୍ୟକ୍ତି | ବଲ୍‍ । ଗଲ୍ଫ | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🏌🏻">ଗଲ୍ଫ | ଗଲ୍ଫ ଖେଳୁଥିବା ବ୍ୟକ୍ତି | ବଲ୍‍ | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🏌🏻" type="tts">ଗଲ୍ଫ ଖେଳୁଥିବା ବ୍ୟକ୍ତି: ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🏌🏼">ଗଲ୍ଫ ଖେଳୁଥିବା ବ୍ୟକ୍ତି | ବଲ୍‍ । ଗଲ୍ଫ | ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🏌🏼">ଗଲ୍ଫ | ଗଲ୍ଫ ଖେଳୁଥିବା ବ୍ୟକ୍ତି | ବଲ୍‍ | ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🏌🏼" type="tts">ଗଲ୍ଫ ଖେଳୁଥିବା ବ୍ୟକ୍ତି: ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🏌🏽">ଗଲ୍ଫ ଖେଳୁଥିବା ବ୍ୟକ୍ତି | ବଲ୍‍ । ଗଲ୍ଫ | ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🏌🏽">ଗଲ୍ଫ | ଗଲ୍ଫ ଖେଳୁଥିବା ବ୍ୟକ୍ତି | ବଲ୍‍ | ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🏌🏽" type="tts">ଗଲ୍ଫ ଖେଳୁଥିବା ବ୍ୟକ୍ତି: ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🏌🏾">ଗଲ୍ଫ ଖେଳୁଥିବା ବ୍ୟକ୍ତି | ବଲ୍‍ । ଗଲ୍ଫ | ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🏌🏾">ଗଲ୍ଫ | ଗଲ୍ଫ ଖେଳୁଥିବା ବ୍ୟକ୍ତି | ବଲ୍‍ | ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🏌🏾" type="tts">ଗଲ୍ଫ ଖେଳୁଥିବା ବ୍ୟକ୍ତି: ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🏌🏿">ଗଲ୍ଫ ଖେଳୁଥିବା ବ୍ୟକ୍ତି | ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ବଲ୍‍ । ଗଲ୍ଫ</annotation>
+		<annotation cp="🏌🏿">ଗଲ୍ଫ | ଗଲ୍ଫ ଖେଳୁଥିବା ବ୍ୟକ୍ତି | ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ବଲ୍‍</annotation>
 		<annotation cp="🏌🏿" type="tts">ଗଲ୍ଫ ଖେଳୁଥିବା ବ୍ୟକ୍ତି: ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🏌🏻‍♂">ଗଲ୍ଫ । ପୁରୁଷ | ଗଲ୍ଫ ଖେଳୁଥିବା ପୁରୁଷ | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🏌🏻‍♂">ଗଲ୍ଫ | ଗଲ୍ଫ ଖେଳୁଥିବା ପୁରୁଷ | ପୁରୁଷ | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🏌🏻‍♂" type="tts">ଗଲ୍ଫ ଖେଳୁଥିବା ପୁରୁଷ: ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🏌🏼‍♂">ଗଲ୍ଫ । ପୁରୁଷ | ଗଲ୍ଫ ଖେଳୁଥିବା ପୁରୁଷ | ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🏌🏼‍♂">ଗଲ୍ଫ | ଗଲ୍ଫ ଖେଳୁଥିବା ପୁରୁଷ | ପୁରୁଷ | ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🏌🏼‍♂" type="tts">ଗଲ୍ଫ ଖେଳୁଥିବା ପୁରୁଷ: ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🏌🏽‍♂">ଗଲ୍ଫ । ପୁରୁଷ | ଗଲ୍ଫ ଖେଳୁଥିବା ପୁରୁଷ | ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🏌🏽‍♂">ଗଲ୍ଫ | ଗଲ୍ଫ ଖେଳୁଥିବା ପୁରୁଷ | ପୁରୁଷ | ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🏌🏽‍♂" type="tts">ଗଲ୍ଫ ଖେଳୁଥିବା ପୁରୁଷ: ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🏌🏾‍♂">ଗଲ୍ଫ । ପୁରୁଷ | ଗଲ୍ଫ ଖେଳୁଥିବା ପୁରୁଷ | ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🏌🏾‍♂">ଗଲ୍ଫ | ଗଲ୍ଫ ଖେଳୁଥିବା ପୁରୁଷ | ପୁରୁଷ | ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🏌🏾‍♂" type="tts">ଗଲ୍ଫ ଖେଳୁଥିବା ପୁରୁଷ: ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🏌🏿‍♂">ଗଲ୍ଫ । ପୁରୁଷ | ଗଲ୍ଫ ଖେଳୁଥିବା ପୁରୁଷ | ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🏌🏿‍♂">ଗଲ୍ଫ | ଗଲ୍ଫ ଖେଳୁଥିବା ପୁରୁଷ | ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ପୁରୁଷ</annotation>
 		<annotation cp="🏌🏿‍♂" type="tts">ଗଲ୍ଫ ଖେଳୁଥିବା ପୁରୁଷ: ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🏌🏻‍♀">ଗଲ୍ଫ | ଗଲ୍ଫ ଖେଳୁଥିବା ମହିଳା | ମହିଳା | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🏌🏻‍♀" type="tts">ଗଲ୍ଫ ଖେଳୁଥିବା ମହିଳା: ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
@@ -2836,15 +3027,15 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🏄🏾‍♂" type="tts">ସର୍ଫିଂ କରୁଥିବା ପୁରୁଷ: ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🏄🏿‍♂">ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ପୁରୁଷ | ସର୍ଫିଂ | ସର୍ଫିଂ କରୁଥିବା ପୁରୁଷ</annotation>
 		<annotation cp="🏄🏿‍♂" type="tts">ସର୍ଫିଂ କରୁଥିବା ପୁରୁଷ: ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🏄🏻‍♀">ସର୍ଫିଂ । ମହିଳା | ସର୍ଫିଂ କରୁଥିବା ମହିଳା | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🏄🏻‍♀">ମହିଳା | ସର୍ଫିଂ | ସର୍ଫିଂ କରୁଥିବା ମହିଳା | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🏄🏻‍♀" type="tts">ସର୍ଫିଂ କରୁଥିବା ମହିଳା: ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🏄🏼‍♀">ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ | ସର୍ଫିଂ । ମହିଳା | ସର୍ଫିଂ କରୁଥିବା ମହିଳା</annotation>
+		<annotation cp="🏄🏼‍♀">ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ | ମହିଳା | ସର୍ଫିଂ | ସର୍ଫିଂ କରୁଥିବା ମହିଳା</annotation>
 		<annotation cp="🏄🏼‍♀" type="tts">ସର୍ଫିଂ କରୁଥିବା ମହିଳା: ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🏄🏽‍♀">ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ | ସର୍ଫିଂ । ମହିଳା | ସର୍ଫିଂ କରୁଥିବା ମହିଳା</annotation>
+		<annotation cp="🏄🏽‍♀">ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ | ମହିଳା | ସର୍ଫିଂ | ସର୍ଫିଂ କରୁଥିବା ମହିଳା</annotation>
 		<annotation cp="🏄🏽‍♀" type="tts">ସର୍ଫିଂ କରୁଥିବା ମହିଳା: ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🏄🏾‍♀">ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ସର୍ଫିଂ । ମହିଳା | ସର୍ଫିଂ କରୁଥିବା ମହିଳା</annotation>
+		<annotation cp="🏄🏾‍♀">ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ମହିଳା | ସର୍ଫିଂ | ସର୍ଫିଂ କରୁଥିବା ମହିଳା</annotation>
 		<annotation cp="🏄🏾‍♀" type="tts">ସର୍ଫିଂ କରୁଥିବା ମହିଳା: ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🏄🏿‍♀">ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ସର୍ଫିଂ । ମହିଳା | ସର୍ଫିଂ କରୁଥିବା ମହିଳା</annotation>
+		<annotation cp="🏄🏿‍♀">ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ମହିଳା | ସର୍ଫିଂ | ସର୍ଫିଂ କରୁଥିବା ମହିଳା</annotation>
 		<annotation cp="🏄🏿‍♀" type="tts">ସର୍ଫିଂ କରୁଥିବା ମହିଳା: ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🚣🏻">ଡ଼ଙ୍ଗା | ନୌକା | ନୌକା ଚଳାଉଥିବା ବ୍ୟକ୍ତି | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🚣🏻" type="tts">ନୌକା ଚଳାଉଥିବା ବ୍ୟକ୍ତି: ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
@@ -2856,25 +3047,25 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🚣🏾" type="tts">ନୌକା ଚଳାଉଥିବା ବ୍ୟକ୍ତି: ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🚣🏿">ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ଡ଼ଙ୍ଗା | ନୌକା | ନୌକା ଚଳାଉଥିବା ବ୍ୟକ୍ତି</annotation>
 		<annotation cp="🚣🏿" type="tts">ନୌକା ଚଳାଉଥିବା ବ୍ୟକ୍ତି: ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🚣🏻‍♂">ଡ଼ଙ୍ଗା | ନୌକା । ପୁରୁଷ । ନୌକା ଚଳାଉଥିବା ପୁରୁଷ | ନୌକା ଚଳାଉଥିବା ପୁରୁଷ | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🚣🏻‍♂">ଡ଼ଙ୍ଗା | ନୌକା | ନୌକା ଚଳାଉଥିବା ପୁରୁଷ | ପୁରୁଷ | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🚣🏻‍♂" type="tts">ନୌକା ଚଳାଉଥିବା ପୁରୁଷ: ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🚣🏼‍♂">ଡ଼ଙ୍ଗା | ନୌକା । ପୁରୁଷ । ନୌକା ଚଳାଉଥିବା ପୁରୁଷ | ନୌକା ଚଳାଉଥିବା ପୁରୁଷ | ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🚣🏼‍♂">ଡ଼ଙ୍ଗା | ନୌକା | ନୌକା ଚଳାଉଥିବା ପୁରୁଷ | ପୁରୁଷ | ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🚣🏼‍♂" type="tts">ନୌକା ଚଳାଉଥିବା ପୁରୁଷ: ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🚣🏽‍♂">ଡ଼ଙ୍ଗା | ନୌକା । ପୁରୁଷ । ନୌକା ଚଳାଉଥିବା ପୁରୁଷ | ନୌକା ଚଳାଉଥିବା ପୁରୁଷ | ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🚣🏽‍♂">ଡ଼ଙ୍ଗା | ନୌକା | ନୌକା ଚଳାଉଥିବା ପୁରୁଷ | ପୁରୁଷ | ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🚣🏽‍♂" type="tts">ନୌକା ଚଳାଉଥିବା ପୁରୁଷ: ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🚣🏾‍♂">ଡ଼ଙ୍ଗା | ନୌକା । ପୁରୁଷ । ନୌକା ଚଳାଉଥିବା ପୁରୁଷ | ନୌକା ଚଳାଉଥିବା ପୁରୁଷ | ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🚣🏾‍♂">ଡ଼ଙ୍ଗା | ନୌକା | ନୌକା ଚଳାଉଥିବା ପୁରୁଷ | ପୁରୁଷ | ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🚣🏾‍♂" type="tts">ନୌକା ଚଳାଉଥିବା ପୁରୁଷ: ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🚣🏿‍♂">ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ଡ଼ଙ୍ଗା | ନୌକା । ପୁରୁଷ । ନୌକା ଚଳାଉଥିବା ପୁରୁଷ | ନୌକା ଚଳାଉଥିବା ପୁରୁଷ</annotation>
+		<annotation cp="🚣🏿‍♂">ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ଡ଼ଙ୍ଗା | ନୌକା | ନୌକା ଚଳାଉଥିବା ପୁରୁଷ | ପୁରୁଷ</annotation>
 		<annotation cp="🚣🏿‍♂" type="tts">ନୌକା ଚଳାଉଥିବା ପୁରୁଷ: ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🚣🏻‍♀">ନୌକା । ଡ଼ଙ୍ଗା । ମହିଳା | ନୌକା ଚଳାଉଥିବା ମହିଳା | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🚣🏻‍♀">ଡ଼ଙ୍ଗା | ନୌକା | ନୌକା ଚଳାଉଥିବା ମହିଳା | ମହିଳା | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🚣🏻‍♀" type="tts">ନୌକା ଚଳାଉଥିବା ମହିଳା: ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🚣🏼‍♀">ନୌକା । ଡ଼ଙ୍ଗା । ମହିଳା | ନୌକା ଚଳାଉଥିବା ମହିଳା | ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🚣🏼‍♀">ଡ଼ଙ୍ଗା | ନୌକା | ନୌକା ଚଳାଉଥିବା ମହିଳା | ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ | ମହିଳା</annotation>
 		<annotation cp="🚣🏼‍♀" type="tts">ନୌକା ଚଳାଉଥିବା ମହିଳା: ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🚣🏽‍♀">ନୌକା । ଡ଼ଙ୍ଗା । ମହିଳା | ନୌକା ଚଳାଉଥିବା ମହିଳା | ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🚣🏽‍♀">ଡ଼ଙ୍ଗା | ନୌକା | ନୌକା ଚଳାଉଥିବା ମହିଳା | ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ | ମହିଳା</annotation>
 		<annotation cp="🚣🏽‍♀" type="tts">ନୌକା ଚଳାଉଥିବା ମହିଳା: ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🚣🏾‍♀">ନୌକା । ଡ଼ଙ୍ଗା । ମହିଳା | ନୌକା ଚଳାଉଥିବା ମହିଳା | ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🚣🏾‍♀">ଡ଼ଙ୍ଗା | ନୌକା | ନୌକା ଚଳାଉଥିବା ମହିଳା | ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ମହିଳା</annotation>
 		<annotation cp="🚣🏾‍♀" type="tts">ନୌକା ଚଳାଉଥିବା ମହିଳା: ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🚣🏿‍♀">ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ନୌକା । ଡ଼ଙ୍ଗା । ମହିଳା | ନୌକା ଚଳାଉଥିବା ମହିଳା</annotation>
+		<annotation cp="🚣🏿‍♀">ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ଡ଼ଙ୍ଗା | ନୌକା | ନୌକା ଚଳାଉଥିବା ମହିଳା | ମହିଳା</annotation>
 		<annotation cp="🚣🏿‍♀" type="tts">ନୌକା ଚଳାଉଥିବା ମହିଳା: ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🏊🏻">ପହଁରିବା | ପହଁରୁଥିବା ବ୍ୟକ୍ତି | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🏊🏻" type="tts">ପହଁରୁଥିବା ବ୍ୟକ୍ତି: ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
@@ -2916,15 +3107,15 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="⛹🏾" type="tts">ବଲ୍‌କୁ ବାଉନ୍ସ କରାଉଥିବା ବ୍ୟକ୍ତି: ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="⛹🏿">ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ବଲ୍‌ | ବଲ୍‌କୁ ବାଉନ୍ସ କରାଉଥିବା ବ୍ୟକ୍ତି</annotation>
 		<annotation cp="⛹🏿" type="tts">ବଲ୍‌କୁ ବାଉନ୍ସ କରାଉଥିବା ବ୍ୟକ୍ତି: ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="⛹🏻‍♂">ବଲ୍‌ । ପୁରୁଷ | ବଲ୍‌କୁ ବାଉନ୍ସ କରାଉଥିବା ପୁରୁଷ | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="⛹🏻‍♂">ପୁରୁଷ | ବଲ୍‌ | ବଲ୍‌କୁ ବାଉନ୍ସ କରାଉଥିବା ପୁରୁଷ | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="⛹🏻‍♂" type="tts">ବଲ୍‌କୁ ବାଉନ୍ସ କରାଉଥିବା ପୁରୁଷ: ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="⛹🏼‍♂">ବଲ୍‌ । ପୁରୁଷ | ବଲ୍‌କୁ ବାଉନ୍ସ କରାଉଥିବା ପୁରୁଷ | ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="⛹🏼‍♂">ପୁରୁଷ | ବଲ୍‌ | ବଲ୍‌କୁ ବାଉନ୍ସ କରାଉଥିବା ପୁରୁଷ | ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="⛹🏼‍♂" type="tts">ବଲ୍‌କୁ ବାଉନ୍ସ କରାଉଥିବା ପୁରୁଷ: ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="⛹🏽‍♂">ବଲ୍‌ । ପୁରୁଷ | ବଲ୍‌କୁ ବାଉନ୍ସ କରାଉଥିବା ପୁରୁଷ | ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="⛹🏽‍♂">ପୁରୁଷ | ବଲ୍‌ | ବଲ୍‌କୁ ବାଉନ୍ସ କରାଉଥିବା ପୁରୁଷ | ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="⛹🏽‍♂" type="tts">ବଲ୍‌କୁ ବାଉନ୍ସ କରାଉଥିବା ପୁରୁଷ: ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="⛹🏾‍♂">ବଲ୍‌ । ପୁରୁଷ | ବଲ୍‌କୁ ବାଉନ୍ସ କରାଉଥିବା ପୁରୁଷ | ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="⛹🏾‍♂">ପୁରୁଷ | ବଲ୍‌ | ବଲ୍‌କୁ ବାଉନ୍ସ କରାଉଥିବା ପୁରୁଷ | ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="⛹🏾‍♂" type="tts">ବଲ୍‌କୁ ବାଉନ୍ସ କରାଉଥିବା ପୁରୁଷ: ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="⛹🏿‍♂">ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ବଲ୍‌ । ପୁରୁଷ | ବଲ୍‌କୁ ବାଉନ୍ସ କରାଉଥିବା ପୁରୁଷ</annotation>
+		<annotation cp="⛹🏿‍♂">ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ପୁରୁଷ | ବଲ୍‌ | ବଲ୍‌କୁ ବାଉନ୍ସ କରାଉଥିବା ପୁରୁଷ</annotation>
 		<annotation cp="⛹🏿‍♂" type="tts">ବଲ୍‌କୁ ବାଉନ୍ସ କରାଉଥିବା ପୁରୁଷ: ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="⛹🏻‍♀">ବଲ୍‌ | ବଲ୍‌କୁ ବାଉନ୍ସ କରୁଥିବା ମହିଳା | ମହିଳା | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="⛹🏻‍♀" type="tts">ବଲ୍‌କୁ ବାଉନ୍ସ କରୁଥିବା ମହିଳା: ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
@@ -2936,15 +3127,15 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="⛹🏾‍♀" type="tts">ବଲ୍‌କୁ ବାଉନ୍ସ କରୁଥିବା ମହିଳା: ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="⛹🏿‍♀">ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ବଲ୍‌ | ବଲ୍‌କୁ ବାଉନ୍ସ କରୁଥିବା ମହିଳା | ମହିଳା</annotation>
 		<annotation cp="⛹🏿‍♀" type="tts">ବଲ୍‌କୁ ବାଉନ୍ସ କରୁଥିବା ମହିଳା: ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🏋🏻">ଉତ୍ତୋଳନକାରୀ । ଓଜନ | ଭାର ଉଠାଉଥିବା ବ୍ୟକ୍ତି | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🏋🏻">ଉତ୍ତୋଳନକାରୀ | ଓଜନ | ଭାର ଉଠାଉଥିବା ବ୍ୟକ୍ତି | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🏋🏻" type="tts">ଭାର ଉଠାଉଥିବା ବ୍ୟକ୍ତି: ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🏋🏼">ଉତ୍ତୋଳନକାରୀ । ଓଜନ | ଭାର ଉଠାଉଥିବା ବ୍ୟକ୍ତି | ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🏋🏼">ଉତ୍ତୋଳନକାରୀ | ଓଜନ | ଭାର ଉଠାଉଥିବା ବ୍ୟକ୍ତି | ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🏋🏼" type="tts">ଭାର ଉଠାଉଥିବା ବ୍ୟକ୍ତି: ମଧ୍ୟମ-ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🏋🏽">ଉତ୍ତୋଳନକାରୀ । ଓଜନ | ଭାର ଉଠାଉଥିବା ବ୍ୟକ୍ତି | ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🏋🏽">ଉତ୍ତୋଳନକାରୀ | ଓଜନ | ଭାର ଉଠାଉଥିବା ବ୍ୟକ୍ତି | ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🏋🏽" type="tts">ଭାର ଉଠାଉଥିବା ବ୍ୟକ୍ତି: ମଧ୍ୟମ ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🏋🏾">ଉତ୍ତୋଳନକାରୀ । ଓଜନ | ଭାର ଉଠାଉଥିବା ବ୍ୟକ୍ତି | ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
+		<annotation cp="🏋🏾">ଉତ୍ତୋଳନକାରୀ | ଓଜନ | ଭାର ଉଠାଉଥିବା ବ୍ୟକ୍ତି | ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🏋🏾" type="tts">ଭାର ଉଠାଉଥିବା ବ୍ୟକ୍ତି: ମଧ୍ୟମ-ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
-		<annotation cp="🏋🏿">ଉତ୍ତୋଳନକାରୀ । ଓଜନ | ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ଭାର ଉଠାଉଥିବା ବ୍ୟକ୍ତି</annotation>
+		<annotation cp="🏋🏿">ଉତ୍ତୋଳନକାରୀ | ଓଜନ | ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ | ଭାର ଉଠାଉଥିବା ବ୍ୟକ୍ତି</annotation>
 		<annotation cp="🏋🏿" type="tts">ଭାର ଉଠାଉଥିବା ବ୍ୟକ୍ତି: ଗାଢ଼ ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🏋🏻‍♂">ପୁରୁଷ | ଭାର ଉଠାଉଥିବା ପୁରୁଷ | ଭାର ଉତ୍ତଳନକାରୀ | ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
 		<annotation cp="🏋🏻‍♂" type="tts">ଭାର ଉଠାଉଥିବା ପୁରୁଷ: ହାଲକା ଚର୍ମ ରଙ୍ଗ</annotation>
@@ -3543,7 +3734,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🇧🇳">ପତାକା</annotation>
 		<annotation cp="🇧🇳" type="tts">ପତାକା: ବ୍ରୁନେଇ</annotation>
 		<annotation cp="🇧🇴">ପତାକା</annotation>
-		<annotation cp="🇧🇴" type="tts">ପତାକା: ବୋଲଭିଆ</annotation>
+		<annotation cp="🇧🇴" type="tts">ପତାକା: ବୋଲିଭିଆ</annotation>
 		<annotation cp="🇧🇶">ପତାକା</annotation>
 		<annotation cp="🇧🇶" type="tts">ପତାକା: କାରବିୟନ୍‌ ନେଦରଲ୍ୟାଣ୍ଡ</annotation>
 		<annotation cp="🇧🇷">ପତାକା</annotation>
@@ -3577,19 +3768,19 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🇨🇰">ପତାକା</annotation>
 		<annotation cp="🇨🇰" type="tts">ପତାକା: କୁକ୍‌ ଦ୍ୱୀପପୁଞ୍ଜ</annotation>
 		<annotation cp="🇨🇱">ପତାକା</annotation>
-		<annotation cp="🇨🇱" type="tts">ପତାକା: ଚିଲ୍ଲୀ</annotation>
+		<annotation cp="🇨🇱" type="tts">ପତାକା: ଚିଲି</annotation>
 		<annotation cp="🇨🇲">ପତାକା</annotation>
 		<annotation cp="🇨🇲" type="tts">ପତାକା: କାମେରୁନ୍</annotation>
 		<annotation cp="🇨🇳">ପତାକା</annotation>
-		<annotation cp="🇨🇳" type="tts">ପତାକା: ଚିନ୍</annotation>
+		<annotation cp="🇨🇳" type="tts">ପତାକା: ଚୀନ୍‌</annotation>
 		<annotation cp="🇨🇴">ପତାକା</annotation>
-		<annotation cp="🇨🇴" type="tts">ପତାକା: କୋଲମ୍ବିଆ</annotation>
+		<annotation cp="🇨🇴" type="tts">ପତାକା: କଲମ୍ବିଆ</annotation>
 		<annotation cp="🇨🇵">ପତାକା</annotation>
 		<annotation cp="🇨🇵" type="tts">ପତାକା: କ୍ଲିପରଟନ୍‌ ଦ୍ୱୀପ</annotation>
 		<annotation cp="🇨🇷">ପତାକା</annotation>
 		<annotation cp="🇨🇷" type="tts">ପତାକା: କୋଷ୍ଟା ରିକା</annotation>
 		<annotation cp="🇨🇺">ପତାକା</annotation>
-		<annotation cp="🇨🇺" type="tts">ପତାକା: କ୍ୱିବା</annotation>
+		<annotation cp="🇨🇺" type="tts">ପତାକା: କ‍୍ୟୁବା</annotation>
 		<annotation cp="🇨🇻">ପତାକା</annotation>
 		<annotation cp="🇨🇻" type="tts">ପତାକା: କେପ୍ ଭର୍ଦେ</annotation>
 		<annotation cp="🇨🇼">ପତାକା</annotation>
@@ -3617,7 +3808,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🇪🇦">ପତାକା</annotation>
 		<annotation cp="🇪🇦" type="tts">ପତାକା: ସିଉଟା ଏବଂ ମେଲିଲା</annotation>
 		<annotation cp="🇪🇨">ପତାକା</annotation>
-		<annotation cp="🇪🇨" type="tts">ପତାକା: ଇକ୍ୱାଡୋର୍</annotation>
+		<annotation cp="🇪🇨" type="tts">ପତାକା: ଇକ୍ୱେଡର୍‌</annotation>
 		<annotation cp="🇪🇪">ପତାକା</annotation>
 		<annotation cp="🇪🇪" type="tts">ପତାକା: ଏସ୍ତୋନିଆ</annotation>
 		<annotation cp="🇪🇬">ପତାକା</annotation>
@@ -3669,7 +3860,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🇬🇵">ପତାକା</annotation>
 		<annotation cp="🇬🇵" type="tts">ପତାକା: ଗୁଆଡେଲୋପ୍</annotation>
 		<annotation cp="🇬🇶">ପତାକା</annotation>
-		<annotation cp="🇬🇶" type="tts">ପତାକା: ଇକ୍ବାଟେରିଆଲ୍ ଗୁଇନିଆ</annotation>
+		<annotation cp="🇬🇶" type="tts">ପତାକା: ଇକ୍ବାଟୋରିଆଲ୍ ଗୁଇନିଆ</annotation>
 		<annotation cp="🇬🇷">ପତାକା</annotation>
 		<annotation cp="🇬🇷" type="tts">ପତାକା: ଗ୍ରୀସ୍</annotation>
 		<annotation cp="🇬🇸">ପତାକା</annotation>
@@ -3707,7 +3898,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🇮🇳">ପତାକା</annotation>
 		<annotation cp="🇮🇳" type="tts">ପତାକା: ଭାରତ</annotation>
 		<annotation cp="🇮🇴">ପତାକା</annotation>
-		<annotation cp="🇮🇴" type="tts">ପତାକା: ବ୍ରିଟିଶ୍‌ ଭାରତ ମାହାସାଗର କ୍ଷେତ୍ର</annotation>
+		<annotation cp="🇮🇴" type="tts">ପତାକା: ବ୍ରିଟିଶ୍‌ ଭାରତୀୟ ମହାସାଗର କ୍ଷେତ୍ର</annotation>
 		<annotation cp="🇮🇶">ପତାକା</annotation>
 		<annotation cp="🇮🇶" type="tts">ପତାକା: ଇରାକ୍</annotation>
 		<annotation cp="🇮🇷">ପତାକା</annotation>
@@ -3745,7 +3936,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🇰🇾">ପତାକା</annotation>
 		<annotation cp="🇰🇾" type="tts">ପତାକା: କେମ୍ୟାନ୍‌ ଦ୍ୱୀପପୁଞ୍ଜ</annotation>
 		<annotation cp="🇰🇿">ପତାକା</annotation>
-		<annotation cp="🇰🇿" type="tts">ପତାକା: କାଜାକାସ୍ତାନ</annotation>
+		<annotation cp="🇰🇿" type="tts">ପତାକା: କାଜାଖସ୍ତାନ୍‌</annotation>
 		<annotation cp="🇱🇦">ପତାକା</annotation>
 		<annotation cp="🇱🇦" type="tts">ପତାକା: ଲାଓସ୍</annotation>
 		<annotation cp="🇱🇧">ପତାକା</annotation>
@@ -3753,7 +3944,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🇱🇨">ପତାକା</annotation>
 		<annotation cp="🇱🇨" type="tts">ପତାକା: ସେଣ୍ଟ ଲୁସିଆ</annotation>
 		<annotation cp="🇱🇮">ପତାକା</annotation>
-		<annotation cp="🇱🇮" type="tts">ପତାକା: ଲିଚେଟନଷ୍ଟେଇନ୍</annotation>
+		<annotation cp="🇱🇮" type="tts">ପତାକା: ଲିକ୍ଟନ୍‌ଷ୍ଟାଇନ୍‌</annotation>
 		<annotation cp="🇱🇰">ପତାକା</annotation>
 		<annotation cp="🇱🇰" type="tts">ପତାକା: ଶ୍ରୀଲଙ୍କା</annotation>
 		<annotation cp="🇱🇷">ପତାକା</annotation>
@@ -3847,7 +4038,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🇵🇫">ପତାକା</annotation>
 		<annotation cp="🇵🇫" type="tts">ପତାକା: ଫ୍ରେଞ୍ଚ ପଲିନେସିଆ</annotation>
 		<annotation cp="🇵🇬">ପତାକା</annotation>
-		<annotation cp="🇵🇬" type="tts">ପତାକା: ପପୁଆ ନ୍ୟୁ ଗୁଏନିଆ</annotation>
+		<annotation cp="🇵🇬" type="tts">ପତାକା: ପପୁଆ ନ୍ୟୁ ଗିନି</annotation>
 		<annotation cp="🇵🇭">ପତାକା</annotation>
 		<annotation cp="🇵🇭" type="tts">ପତାକା: ଫିଲିପାଇନସ୍</annotation>
 		<annotation cp="🇵🇰">ପତାକା</annotation>
@@ -3889,7 +4080,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🇸🇩">ପତାକା</annotation>
 		<annotation cp="🇸🇩" type="tts">ପତାକା: ସୁଦାନ</annotation>
 		<annotation cp="🇸🇪">ପତାକା</annotation>
-		<annotation cp="🇸🇪" type="tts">ପତାକା: ସ୍ୱେଡେନ୍</annotation>
+		<annotation cp="🇸🇪" type="tts">ପତାକା: ସ୍ୱିଡେନ୍‌</annotation>
 		<annotation cp="🇸🇬">ପତାକା</annotation>
 		<annotation cp="🇸🇬" type="tts">ପତାକା: ସିଙ୍ଗାପୁର୍</annotation>
 		<annotation cp="🇸🇭">ପତାକା</annotation>
@@ -3973,13 +4164,13 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🇻🇦">ପତାକା</annotation>
 		<annotation cp="🇻🇦" type="tts">ପତାକା: ଭାଟିକାନ୍ ସିଟି</annotation>
 		<annotation cp="🇻🇨">ପତାକା</annotation>
-		<annotation cp="🇻🇨" type="tts">ପତାକା: ସେଣ୍ଟ ଭିନସେଣ୍ଟ ଏବଂ ଦି ଗ୍ରେନାଡିସ୍</annotation>
+		<annotation cp="🇻🇨" type="tts">ପତାକା: ସେଣ୍ଟ ଭିନସେଣ୍ଟ ଏବଂ ଗ୍ରେନାଡାଇନ୍ସ</annotation>
 		<annotation cp="🇻🇪">ପତାକା</annotation>
 		<annotation cp="🇻🇪" type="tts">ପତାକା: ଭେନେଜୁଏଲା</annotation>
 		<annotation cp="🇻🇬">ପତାକା</annotation>
 		<annotation cp="🇻🇬" type="tts">ପତାକା: ବ୍ରିଟିଶ୍‌ ଭର୍ଜିନ୍ ଦ୍ୱୀପପୁଞ୍ଜ</annotation>
 		<annotation cp="🇻🇮">ପତାକା</annotation>
-		<annotation cp="🇻🇮" type="tts">ପତାକା: ଯୁକ୍ତରାଷ୍ଟ୍ର ଭିର୍ଜିନ୍ ଦ୍ଵୀପପୁଞ୍ଜ</annotation>
+		<annotation cp="🇻🇮" type="tts">ପତାକା: ଯୁକ୍ତରାଷ୍ଟ୍ର ଭର୍ଜିନ୍ ଦ୍ଵୀପପୁଞ୍ଜ</annotation>
 		<annotation cp="🇻🇳">ପତାକା</annotation>
 		<annotation cp="🇻🇳" type="tts">ପତାକା: ଭିଏତନାମ୍</annotation>
 		<annotation cp="🇻🇺">ପତାକା</annotation>

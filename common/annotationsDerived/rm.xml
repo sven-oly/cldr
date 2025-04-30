@@ -1,17 +1,78 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE ldml SYSTEM "../../common/dtd/ldml.dtd">
-<!-- Copyright © 1991-2020 Unicode, Inc.
+<!-- Copyright © 1991-2024 Unicode, Inc.
 For terms of use, see http://www.unicode.org/copyright.html
-Unicode and the Unicode Logo are registered trademarks of Unicode, Inc. in the U.S. and other countries.
+SPDX-License-Identifier: Unicode-3.0
 CLDR data files are interpreted according to the LDML specification (http://unicode.org/reports/tr35/)
+
+Derived short names and annotations, using GenerateDerivedAnnotations.java. See warnings in /annotations/ file.
 -->
-<!-- Derived short names and annotations, using GenerateDerivedAnnotations.java. See warnings in /annotations/ file. -->
 <ldml>
 	<identity>
 		<version number="$Revision$"/>
 		<language type="rm"/>
 	</identity>
 	<annotations>
+		<annotation cp="🤵🏻">pel clera | persuna | persuna cun smoking | smoking | spus</annotation>
+		<annotation cp="🤵🏻" type="tts">persuna cun smoking: pel clera</annotation>
+		<annotation cp="🤵🏼">pel mez clera | persuna | persuna cun smoking | smoking | spus</annotation>
+		<annotation cp="🤵🏼" type="tts">persuna cun smoking: pel mez clera</annotation>
+		<annotation cp="🤵🏽">pel media | persuna | persuna cun smoking | smoking | spus</annotation>
+		<annotation cp="🤵🏽" type="tts">persuna cun smoking: pel media</annotation>
+		<annotation cp="🤵🏾">pel mez stgira | persuna | persuna cun smoking | smoking | spus</annotation>
+		<annotation cp="🤵🏾" type="tts">persuna cun smoking: pel mez stgira</annotation>
+		<annotation cp="🤵🏿">pel stgira | persuna | persuna cun smoking | smoking | spus</annotation>
+		<annotation cp="🤵🏿" type="tts">persuna cun smoking: pel stgira</annotation>
+		<annotation cp="🤵🏻‍♂">pel clera | smoking | um | um cun smoking</annotation>
+		<annotation cp="🤵🏻‍♂" type="tts">um cun smoking: pel clera</annotation>
+		<annotation cp="🤵🏼‍♂">pel mez clera | smoking | um | um cun smoking</annotation>
+		<annotation cp="🤵🏼‍♂" type="tts">um cun smoking: pel mez clera</annotation>
+		<annotation cp="🤵🏽‍♂">pel media | smoking | um | um cun smoking</annotation>
+		<annotation cp="🤵🏽‍♂" type="tts">um cun smoking: pel media</annotation>
+		<annotation cp="🤵🏾‍♂">pel mez stgira | smoking | um | um cun smoking</annotation>
+		<annotation cp="🤵🏾‍♂" type="tts">um cun smoking: pel mez stgira</annotation>
+		<annotation cp="🤵🏿‍♂">pel stgira | smoking | um | um cun smoking</annotation>
+		<annotation cp="🤵🏿‍♂" type="tts">um cun smoking: pel stgira</annotation>
+		<annotation cp="🤵🏻‍♀">dunna | dunna cun smoking | pel clera | smoking</annotation>
+		<annotation cp="🤵🏻‍♀" type="tts">dunna cun smoking: pel clera</annotation>
+		<annotation cp="🤵🏼‍♀">dunna | dunna cun smoking | pel mez clera | smoking</annotation>
+		<annotation cp="🤵🏼‍♀" type="tts">dunna cun smoking: pel mez clera</annotation>
+		<annotation cp="🤵🏽‍♀">dunna | dunna cun smoking | pel media | smoking</annotation>
+		<annotation cp="🤵🏽‍♀" type="tts">dunna cun smoking: pel media</annotation>
+		<annotation cp="🤵🏾‍♀">dunna | dunna cun smoking | pel mez stgira | smoking</annotation>
+		<annotation cp="🤵🏾‍♀" type="tts">dunna cun smoking: pel mez stgira</annotation>
+		<annotation cp="🤵🏿‍♀">dunna | dunna cun smoking | pel stgira | smoking</annotation>
+		<annotation cp="🤵🏿‍♀" type="tts">dunna cun smoking: pel stgira</annotation>
+		<annotation cp="👰🏻">maridaglia | nozzas | pel clera | persuna | persuna cun vel | spusa | vel</annotation>
+		<annotation cp="👰🏻" type="tts">persuna cun vel: pel clera</annotation>
+		<annotation cp="👰🏼">maridaglia | nozzas | pel mez clera | persuna | persuna cun vel | spusa | vel</annotation>
+		<annotation cp="👰🏼" type="tts">persuna cun vel: pel mez clera</annotation>
+		<annotation cp="👰🏽">maridaglia | nozzas | pel media | persuna | persuna cun vel | spusa | vel</annotation>
+		<annotation cp="👰🏽" type="tts">persuna cun vel: pel media</annotation>
+		<annotation cp="👰🏾">maridaglia | nozzas | pel mez stgira | persuna | persuna cun vel | spusa | vel</annotation>
+		<annotation cp="👰🏾" type="tts">persuna cun vel: pel mez stgira</annotation>
+		<annotation cp="👰🏿">maridaglia | nozzas | pel stgira | persuna | persuna cun vel | spusa | vel</annotation>
+		<annotation cp="👰🏿" type="tts">persuna cun vel: pel stgira</annotation>
+		<annotation cp="👰🏻‍♂">pel clera | um | um cun vel | vel</annotation>
+		<annotation cp="👰🏻‍♂" type="tts">um cun vel: pel clera</annotation>
+		<annotation cp="👰🏼‍♂">pel mez clera | um | um cun vel | vel</annotation>
+		<annotation cp="👰🏼‍♂" type="tts">um cun vel: pel mez clera</annotation>
+		<annotation cp="👰🏽‍♂">pel media | um | um cun vel | vel</annotation>
+		<annotation cp="👰🏽‍♂" type="tts">um cun vel: pel media</annotation>
+		<annotation cp="👰🏾‍♂">pel mez stgira | um | um cun vel | vel</annotation>
+		<annotation cp="👰🏾‍♂" type="tts">um cun vel: pel mez stgira</annotation>
+		<annotation cp="👰🏿‍♂">pel stgira | um | um cun vel | vel</annotation>
+		<annotation cp="👰🏿‍♂" type="tts">um cun vel: pel stgira</annotation>
+		<annotation cp="👰🏻‍♀">dunna | dunna cun vel | pel clera | vel</annotation>
+		<annotation cp="👰🏻‍♀" type="tts">dunna cun vel: pel clera</annotation>
+		<annotation cp="👰🏼‍♀">dunna | dunna cun vel | pel mez clera | vel</annotation>
+		<annotation cp="👰🏼‍♀" type="tts">dunna cun vel: pel mez clera</annotation>
+		<annotation cp="👰🏽‍♀">dunna | dunna cun vel | pel media | vel</annotation>
+		<annotation cp="👰🏽‍♀" type="tts">dunna cun vel: pel media</annotation>
+		<annotation cp="👰🏾‍♀">dunna | dunna cun vel | pel mez stgira | vel</annotation>
+		<annotation cp="👰🏾‍♀" type="tts">dunna cun vel: pel mez stgira</annotation>
+		<annotation cp="👰🏿‍♀">dunna | dunna cun vel | pel stgira | vel</annotation>
+		<annotation cp="👰🏿‍♀" type="tts">dunna cun vel: pel stgira</annotation>
 		<annotation cp="¤" type="tts">valuta nunenconuschenta</annotation>
 		<annotation cp="֏" type="tts">dram armen</annotation>
 		<annotation cp="؋" type="tts">afgani afgan</annotation>
@@ -20,7 +81,6 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="៛" type="tts">riel cambodschan</annotation>
 		<annotation cp="₡" type="tts">colon da la Costa Rica</annotation>
 		<annotation cp="₦" type="tts">naira nigeriana</annotation>
-		<annotation cp="₧" type="tts">peseta spagnola</annotation>
 		<annotation cp="₪" type="tts">nov schekel israelian</annotation>
 		<annotation cp="₫" type="tts">dong vietnamais</annotation>
 		<annotation cp="₭" type="tts">kip laot</annotation>
@@ -32,5 +92,6 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="₺" type="tts">lira tirca</annotation>
 		<annotation cp="₼" type="tts">manat aserbaidschan</annotation>
 		<annotation cp="₾" type="tts">lari georgian</annotation>
+		<annotation cp="₧" type="tts">peseta spagnola</annotation>
 	</annotations>
 </ldml>

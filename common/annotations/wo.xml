@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE ldml SYSTEM "../../common/dtd/ldml.dtd">
-<!-- Copyright © 1991-2020 Unicode, Inc.
+<!-- Copyright © 1991-2024 Unicode, Inc.
 For terms of use, see http://www.unicode.org/copyright.html
-Unicode and the Unicode Logo are registered trademarks of Unicode, Inc. in the U.S. and other countries.
+SPDX-License-Identifier: Unicode-3.0
 CLDR data files are interpreted according to the LDML specification (http://unicode.org/reports/tr35/)
-
-Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/ for derived annotations.
 -->
 <ldml>
 	<identity>
@@ -51,13 +49,17 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🙂" type="tts">kanam gu muuñ tuuti</annotation>
 		<annotation cp="🙃">buñ juutal | kanam | kanam gu dëppu</annotation>
 		<annotation cp="🙃" type="tts">kanam gu dëppu</annotation>
+		<annotation cp="🫠">kanam buñu jaxase | melt | ndoxe | reer | seey</annotation>
+		<annotation cp="🫠" type="tts">kanam buñu jaxase</annotation>
 		<annotation cp="😉">kanam | piis | piis benn bët</annotation>
 		<annotation cp="😉" type="tts">piis benn bët</annotation>
 		<annotation cp="😊">bët | kanam | kanamu mbegte ak bët yuy muuñ | mbegte | muuñ</annotation>
 		<annotation cp="😊" type="tts">kanamu mbegte ak bët yuy muuñ</annotation>
 		<annotation cp="😇">feem | kanam | kanam guy muuñ ak serkal ci kawam | léebu fee | malaaka | muuñ | serkal ci kaw | xamul-dara</annotation>
 		<annotation cp="😇" type="tts">kanam guy muuñ ak serkal ci kawam</annotation>
-		<annotation cp="😍">bët | kanam | mbëggeel | muuñ | muuñ, kanam, xol, bët</annotation>
+		<annotation cp="🥰">bëgg | kanam bu muuñ ak ay xol | nobaatee | xol | yaqq</annotation>
+		<annotation cp="🥰" type="tts">kanam bu muuñ ak ay xol</annotation>
+		<annotation cp="😍">bët | kanam | mbëggeel | muuñ | muuñ, kanam, xol, bët | xol</annotation>
 		<annotation cp="😍" type="tts">muuñ, kanam, xol, bët</annotation>
 		<annotation cp="🤩">bët | biddeew | dóor-biddeew | gaññi | kanam</annotation>
 		<annotation cp="🤩" type="tts">dóor-biddeew</annotation>
@@ -71,7 +73,9 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="😚" type="tts">kanam guy fóon ak bët yu gëmm</annotation>
 		<annotation cp="😙">bët | fóon | kanam | kanam guy fóon ak bëti muuñ | muuñ</annotation>
 		<annotation cp="😙" type="tts">kanam guy fóon ak bëti muuñ</annotation>
-		<annotation cp="😋">bànneexu | kanam | kanam, bànneexu, ñeex, ñam | melaastiku | muuñ | neex | um</annotation>
+		<annotation cp="🥲">beg | buñu laal | fiyeer | kanam buy muuñ ak ragal | kanam buy muuñ ak rongoñ | muuñ | noppalu | rongoñ</annotation>
+		<annotation cp="🥲" type="tts">kanam buy muuñ ak ragal</annotation>
+		<annotation cp="😋">bànneexu | kanam | kanam, bànneexu, ñeex, ñam | melaastiku | muuñ | ñam | neex | ñeex | um</annotation>
 		<annotation cp="😋" type="tts">kanam, bànneexu, ñeex, ñam</annotation>
 		<annotation cp="😛">kanam | kanam bu ànd ak làmmiñ wuñ tàllal | làmmiñ</annotation>
 		<annotation cp="😛" type="tts">kanam bu ànd ak làmmiñ wuñ tàllal</annotation>
@@ -87,10 +91,16 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🤗" type="tts">kanamu kottante</annotation>
 		<annotation cp="🤭">dar-gémmiñ | kanam ak loxo bu dar gémmiñ</annotation>
 		<annotation cp="🤭" type="tts">kanam ak loxo bu dar gémmiñ</annotation>
+		<annotation cp="🫢">awe | jaaxle | kanam bu am ay gët yu ubbeeku ak loxo ci gemmiñ | kanam bu am gët yu ubbeeku ak gemmiñ buñu yaatal | ñakka gëm | ragal | tiit</annotation>
+		<annotation cp="🫢" type="tts">kanam bu am ay gët yu ubbeeku ak loxo ci gemmiñ</annotation>
+		<annotation cp="🫣">buñu teye | gis-gis | kanam bu am ay gët yuy gaawantu | kanam gu am ay gët yuy gaawantu | néeg</annotation>
+		<annotation cp="🫣" type="tts">kanam gu am ay gët yuy gaawantu</annotation>
 		<annotation cp="🤫">kanamu shuut noppil | noppi | shuut</annotation>
 		<annotation cp="🤫" type="tts">kanamu shuut noppil</annotation>
 		<annotation cp="🤔">kanam | kanamu guy xalaat | xalaat</annotation>
 		<annotation cp="🤔" type="tts">kanamu guy xalaat</annotation>
+		<annotation cp="🫡">gurup yi | kanam guy niyoo | naaje | waaw | Waaw-key</annotation>
+		<annotation cp="🫡" type="tts">kanam guy niyoo</annotation>
 		<annotation cp="🤐">fermitiir | gémmiñ | kanam | kanam ak gémiñ guñ fermitiir</annotation>
 		<annotation cp="🤐" type="tts">kanam ak gémiñ guñ fermitiir</annotation>
 		<annotation cp="🤨">kanam ak buñ yëkkati yéen | ñaaw-njortu | ñàkka-wóolu</annotation>
@@ -101,6 +111,10 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="😑" type="tts">kanam gu melul nenn</annotation>
 		<annotation cp="😶">cellaaral | gémmiñ | kanam | kanam gu amul gémmiñ | tekk</annotation>
 		<annotation cp="😶" type="tts">kanam gu amul gémmiñ</annotation>
+		<annotation cp="🫥">dëpp | dofe | kanam buñu def ay tomb | kanam guñu def ay tomb | luñu mënul gis | nëbb | reer</annotation>
+		<annotation cp="🫥" type="tts">kanam buñu def ay tomb</annotation>
+		<annotation cp="😶‍🌫">bopp ci niir yi | distrait | kanam ci brouillard bi | kanam ci niir yi</annotation>
+		<annotation cp="😶‍🌫" type="tts">kanam ci niir yi</annotation>
 		<annotation cp="😏">bëgg-waccu | kanam | kanam gu bëgg-waccu</annotation>
 		<annotation cp="😏" type="tts">kanam gu bëgg-waccu</annotation>
 		<annotation cp="😒">kanam | kanam gu ñàkk xorom | kontaanul | ñàkk-caaxaan</annotation>
@@ -109,8 +123,16 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🙄" type="tts">kanam guy regeju</annotation>
 		<annotation cp="😬">kanam | kanam guy def yëfi golo | yëfi golo</annotation>
 		<annotation cp="😬" type="tts">kanam guy def yëfi golo</annotation>
+		<annotation cp="😮‍💨">defaru | kanam guy nooyi | mbiip | nooyi | sëqqët | waxantu | yuxool</annotation>
+		<annotation cp="😮‍💨" type="tts">kanam guy nooyi</annotation>
 		<annotation cp="🤥">buy fen | kanamu | kanamu fenkat | pinocchio</annotation>
 		<annotation cp="🤥" type="tts">kanamu fenkat</annotation>
+		<annotation cp="🫨">kanam | kanam guy lox | lox | sok | suuf suy yëngu</annotation>
+		<annotation cp="🫨" type="tts">kanam guy lox</annotation>
+		<annotation cp="🙂‍↔">bopp buy yëngu ci anam gu tëdd | Yëngël sa bopp ci anam gu tëdd</annotation>
+		<annotation cp="🙂‍↔" type="tts">bopp buy yëngu ci anam gu tëdd</annotation>
+		<annotation cp="🙂‍↕">waaw | yëngal bopp | yëngal sa bop ci anam gu taxaw | yëngal sa bopp ci anam gu taxaw</annotation>
+		<annotation cp="🙂‍↕" type="tts">yëngal sa bop ci anam gu taxaw</annotation>
 		<annotation cp="😌">kanam | kanam féex | noppalu</annotation>
 		<annotation cp="😌" type="tts">kanam féex</annotation>
 		<annotation cp="😔">bari-xalaat | dejected | kanam | kanamu kuy xalaat</annotation>
@@ -133,12 +155,24 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🤮" type="tts">kanam guy waccu</annotation>
 		<annotation cp="🤧">gu jéggi dayo | kanamu | tissooli</annotation>
 		<annotation cp="🤧" type="tts">kanamu tissooli</annotation>
+		<annotation cp="🥵">ci kanam gu xonq | kanam gu tang | tang | tangoor | yambar | yaqq</annotation>
+		<annotation cp="🥵" type="tts">kanam gu tang</annotation>
+		<annotation cp="🥶">ay galaas | kanam bu bulo | kanam bu sédd | kanam gu sédd | konsélé | sédd | wow</annotation>
+		<annotation cp="🥶" type="tts">kanam gu sédd</annotation>
+		<annotation cp="🥴">gemmiñ bu ondulé | gët yu toloowul | jaxasoo | kanam gu xawa feebar | mandi</annotation>
+		<annotation cp="🥴" type="tts">kanam gu xawa feebar</annotation>
 		<annotation cp="😵">diis | kanam | kanam gu diis</annotation>
 		<annotation cp="😵" type="tts">kanam gu diis</annotation>
+		<annotation cp="😵‍💫">jaaxle | jafe-jafe | jaxasoo | kanam bu am ay gët yu rond | kanam gu am ay gêt yu rod | rond | whoa</annotation>
+		<annotation cp="😵‍💫" type="tts">kanam gu am ay gêt yu rod</annotation>
 		<annotation cp="🤯">bopp buy toj | mbettel</annotation>
 		<annotation cp="🤯" type="tts">bopp buy toj</annotation>
 		<annotation cp="🤠">kaboy | kanam | kanam gu sol mbaxane kaboy | mbaxane | sàmm-bu-jigéen</annotation>
 		<annotation cp="🤠" type="tts">kanam gu sol mbaxane kaboy</annotation>
+		<annotation cp="🥳">feet | feeté | kanam buy feetu | kanamu feet | kuron | mbaxana</annotation>
+		<annotation cp="🥳" type="tts">kanam buy feetu</annotation>
+		<annotation cp="🥸">bakkan | buñu xamul | kanam | kanam gu deguisewu | kanam gu nëbêtu | nëbêtu | weer yi</annotation>
+		<annotation cp="🥸" type="tts">kanam gu deguisewu</annotation>
 		<annotation cp="😎">bët | jant | kanam | lunet | muuñ | muuñ, kanam, nuwaarfime | neex-deret | nuwaarfime | weer | yànj</annotation>
 		<annotation cp="😎" type="tts">muuñ, kanam, nuwaarfime</annotation>
 		<annotation cp="🤓">bëgg-masin | kanam | kanamu bëñu lëk | lëk</annotation>
@@ -147,6 +181,8 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🧐" type="tts">kanam ak lunet-bennbët</annotation>
 		<annotation cp="😕">jaaxasoo | kanam | kanam gu jaaxasoo</annotation>
 		<annotation cp="😕" type="tts">kanam gu jaaxasoo</annotation>
+		<annotation cp="🫤">jaaxle | kanam bi am gemmiñ bu jagonaal | kanam gu am gemmiñ bu jagonaal | meh | wooradi | xamadi</annotation>
+		<annotation cp="🫤" type="tts">kanam bi am gemmiñ bu jagonaal</annotation>
 		<annotation cp="😟">jaaxle | kanam | kanam gu jaaxle</annotation>
 		<annotation cp="😟" type="tts">kanam gu jaaxle</annotation>
 		<annotation cp="🙁">aj-yéen | kanam | kanam gu ànd ak yéen yu xawa lemu</annotation>
@@ -161,6 +197,10 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="😲" type="tts">kanam gu waaru</annotation>
 		<annotation cp="😳">bu am tomb yu xonk | kanam | kanam gu am tomb yu xonk | xel mu deppaar</annotation>
 		<annotation cp="😳" type="tts">kanam gu am tomb yu xonk</annotation>
+		<annotation cp="🥺">bëti xaj | kanam guy ñaan njegal | kanam guy ñaan njeggal | saraxu | yërëmandé</annotation>
+		<annotation cp="🥺" type="tts">kanam guy ñaan njegal</annotation>
+		<annotation cp="🥹">dëgërlu | fiyeer | jooy | kanam gu teye ay rongoñ | Kanam guy teye rongoñ | mer | tiis</annotation>
+		<annotation cp="🥹" type="tts">Kanam guy teye rongoñ</annotation>
 		<annotation cp="😦">aj ay yéen | gémmiñ | kanam | kanam gu ànd ak yéen yu lemu ak gémmiñ gu ubbiku | ubbeeku</annotation>
 		<annotation cp="😦" type="tts">kanam gu ànd ak yéen yu lemu ak gémmiñ gu ubbiku</annotation>
 		<annotation cp="😧">kanam | kanam gu xawa jaaxle | xawa jaaxle</annotation>
@@ -189,6 +229,8 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="😩" type="tts">kanamu coono</annotation>
 		<annotation cp="😫">kanam | kanam gu sonn | sonn</annotation>
 		<annotation cp="😫" type="tts">kanam gu sonn</annotation>
+		<annotation cp="🥱">kanam guy obali | kanam guy obbali | obbali | sónn | weet</annotation>
+		<annotation cp="🥱" type="tts">kanam guy obali</annotation>
 		<annotation cp="😤">gañe | kanam | kanam gu ànd ak saxaaru bakkan | ndam</annotation>
 		<annotation cp="😤" type="tts">kanam gu ànd ak saxaaru bakkan</annotation>
 		<annotation cp="😡">dof | kanam | kanam guy puucatu | mer | puucatu | xonk</annotation>
@@ -245,8 +287,6 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🙉" type="tts">golo budul dégg lu bon</annotation>
 		<annotation cp="🙊">bul | déet | golo | golo budul wax lu bon | kanam | liyaar | lu bon | luñ aaye | luñ tere | wax</annotation>
 		<annotation cp="🙊" type="tts">golo budul wax lu bon</annotation>
-		<annotation cp="💋">fóon | marku fóon | tuñ</annotation>
-		<annotation cp="💋" type="tts">marku fóon</annotation>
 		<annotation cp="💌">bataaxal | bataaxalu mbëggeel | leetar | mbëggeel | xol</annotation>
 		<annotation cp="💌" type="tts">bataaxalu mbëggeel</annotation>
 		<annotation cp="💘">bëgg-xaalis | fett | xol ak fett</annotation>
@@ -269,8 +309,14 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="❣" type="tts">xol esklamaasiyoŋ bu fës</annotation>
 		<annotation cp="💔">damm | dammu | xol bu tasaaroo</annotation>
 		<annotation cp="💔" type="tts">xol bu tasaaroo</annotation>
+		<annotation cp="❤‍🔥">lakk | mbëgeel | neexaay | sacre Coeur | xol | xol buy lakk | xolu safara</annotation>
+		<annotation cp="❤‍🔥" type="tts">xolu safara</annotation>
+		<annotation cp="❤‍🩹">Baax | defar | gëna wer | jelaat | xol buy defar | yeesal</annotation>
+		<annotation cp="❤‍🩹" type="tts">xol buy defar</annotation>
 		<annotation cp="❤">xol | xonk xol</annotation>
 		<annotation cp="❤" type="tts">xonk xol</annotation>
+		<annotation cp="🩷">bëgg | nob | rafet | rose | xol | Xol bu rose</annotation>
+		<annotation cp="🩷" type="tts">Xol bu rose</annotation>
 		<annotation cp="🧡">oraas | xol bu oraas</annotation>
 		<annotation cp="🧡" type="tts">xol bu oraas</annotation>
 		<annotation cp="💛">mboq | xol bu mboq</annotation>
@@ -279,10 +325,20 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="💚" type="tts">xol bu wert</annotation>
 		<annotation cp="💙">baxa | xol bu baxa</annotation>
 		<annotation cp="💙" type="tts">xol bu baxa</annotation>
+		<annotation cp="🩵">bleu clair | cyan | sarcelle | xol | xol bleu clair | xol bu bleu clair</annotation>
+		<annotation cp="🩵" type="tts">xol bu bleu clair</annotation>
 		<annotation cp="💜">xol bu yolet | yolet</annotation>
 		<annotation cp="💜" type="tts">xol bu yolet</annotation>
+		<annotation cp="🤎">sokolaa | xol | Xol bu sokolaa</annotation>
+		<annotation cp="🤎" type="tts">Xol bu sokolaa</annotation>
 		<annotation cp="🖤">iñaan | ñuul | soxor | xol bu ñuul</annotation>
 		<annotation cp="🖤" type="tts">xol bu ñuul</annotation>
+		<annotation cp="🩶">arduwaas | doomu-taal | xaalis | xol | xol bu doomu-taal</annotation>
+		<annotation cp="🩶" type="tts">xol bu doomu-taal</annotation>
+		<annotation cp="🤍">weex | xol | Xol bu weex</annotation>
+		<annotation cp="🤍" type="tts">Xol bu weex</annotation>
+		<annotation cp="💋">fóon | marku fóon | tuñ</annotation>
+		<annotation cp="💋" type="tts">marku fóon</annotation>
 		<annotation cp="💯">100 | eskoor | fees | téemeer | tombi teeméer</annotation>
 		<annotation cp="💯" type="tts">tombi teeméer</annotation>
 		<annotation cp="💢">dof | màndarga ku mer | mer | reelu</annotation>
@@ -297,8 +353,6 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="💨" type="tts">dem sa yoon</annotation>
 		<annotation cp="🕳">pax</annotation>
 		<annotation cp="🕳" type="tts">pax</annotation>
-		<annotation cp="💣">bomb | reelu</annotation>
-		<annotation cp="💣" type="tts">bomb</annotation>
 		<annotation cp="💬">bul | jalog | mànq | rëddu bind kàddu | reelu | wax</annotation>
 		<annotation cp="💬" type="tts">rëddu bind kàddu</annotation>
 		<annotation cp="👁‍🗨">bët | bët ci rëddu-bind-wax | rëddu-bind-wax | seede</annotation>
@@ -323,7 +377,8 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🖖" type="tts">loxo xaajale ñeenti baaraam</annotation>
 		<annotation cp="👌">laxo waaw-kay | loxo | waaw-kay</annotation>
 		<annotation cp="👌" type="tts">laxo waaw-kay</annotation>
-		<annotation cp="✌">loxo | ndam | v</annotation>
+		<annotation cp="🤌" type="tts">dompat baaraam</annotation>
+		<annotation cp="✌">jaam | jaam loxo | ndam | v</annotation>
 		<annotation cp="✌" type="tts">loxo ndam</annotation>
 		<annotation cp="🤞">baaraam | laxasante ñaari baaraam | loxo | wërsëk</annotation>
 		<annotation cp="🤞" type="tts">laxasante ñaari baaraam</annotation>
@@ -400,7 +455,7 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="👧">ndaw | sojak | Wirgo | xale bu jigéen</annotation>
 		<annotation cp="👧" type="tts">xale bu jigéen</annotation>
 		<annotation cp="🧑">du góor du jigéen | mag</annotation>
-		<annotation cp="🧑" type="tts">mag</annotation>
+		<annotation cp="🧑" type="tts">nit</annotation>
 		<annotation cp="👱">karaw gu mboq | nit ku karaw yu weex</annotation>
 		<annotation cp="👱" type="tts">nit ku karaw yu weex</annotation>
 		<annotation cp="👨">góor</annotation>
@@ -585,7 +640,7 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🤱" type="tts">nàppalee ween</annotation>
 		<annotation cp="👼">feem | kanam | léebu fee | liir | liiru malaaka | malaaka</annotation>
 		<annotation cp="👼" type="tts">liiru malaaka</annotation>
-		<annotation cp="🎅">màggal | nowel | papa | pere | Pere nowel</annotation>
+		<annotation cp="🎅">màggal | nowel | papa | pere</annotation>
 		<annotation cp="🎅" type="tts">Pere nowel</annotation>
 		<annotation cp="🤶">màggal | meer | nowel | yaay</annotation>
 		<annotation cp="🤶" type="tts">meer nowel</annotation>
@@ -661,7 +716,7 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🕺" type="tts">góor guy fecc</annotation>
 		<annotation cp="🕴">bisnes | góor | góor ci bisnes kostim lewitasiyoŋ | kostim</annotation>
 		<annotation cp="🕴" type="tts">góor ci bisnes kostim lewitasiyoŋ</annotation>
-		<annotation cp="👯">fecckat | nit ñuy fecc, ak noppi lëk | noppi lëk | suwaare</annotation>
+		<annotation cp="👯">ak noppi lëk | fecckat | nit ñuy fecc | nit ñuy fecc, ak noppi lëk | noppi lëk | suwaare</annotation>
 		<annotation cp="👯" type="tts">nit ñuy fecc, ak noppi lëk</annotation>
 		<annotation cp="👯‍♂">fecckat | góor | góorak noppi lëks suwaare | noppi lëk | suwaare</annotation>
 		<annotation cp="👯‍♂" type="tts">góorak noppi lëks suwaare</annotation>
@@ -785,14 +840,14 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="💏" type="tts">fóon</annotation>
 		<annotation cp="💑">góor ak jigéen | mbëggeel | xol ak ñaar ñu bëggante</annotation>
 		<annotation cp="💑" type="tts">xol ak ñaar ñu bëggante</annotation>
-		<annotation cp="👪">bokk famiy</annotation>
-		<annotation cp="👪" type="tts">bokk famiy</annotation>
 		<annotation cp="🗣">bopp | kanam | takkandeer | wax</annotation>
 		<annotation cp="🗣" type="tts">wax bopp</annotation>
 		<annotation cp="👤">takkandeer | yaram</annotation>
 		<annotation cp="👤" type="tts">yaram takkandeer</annotation>
 		<annotation cp="👥">ay yaram takkandeer | takkandeer | yaram</annotation>
 		<annotation cp="👥" type="tts">ay yaram takkandeer</annotation>
+		<annotation cp="👪">bokk famiy</annotation>
+		<annotation cp="👪" type="tts">bokk famiy</annotation>
 		<annotation cp="👣">emprime | fu tànk teguwoon | màrku-tànk | yéere</annotation>
 		<annotation cp="👣" type="tts">fu tànk teguwoon</annotation>
 		<annotation cp="🐵">golo | kanam | kanamu golo</annotation>
@@ -805,7 +860,7 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🐶" type="tts">boppu xaj</annotation>
 		<annotation cp="🐕">rabu-yar | xaj</annotation>
 		<annotation cp="🐕" type="tts">xaj</annotation>
-		<annotation cp="🐩">kaj bu ndaw, sëq kawar | xaj</annotation>
+		<annotation cp="🐩">kaj bu ndaw | kaj bu ndaw, sëq kawar | sëq kawar | xaj</annotation>
 		<annotation cp="🐩" type="tts">kaj bu ndaw, sëq kawar</annotation>
 		<annotation cp="🐺">kanam | kanamu xaju-tundu | xaju-tund</annotation>
 		<annotation cp="🐺" type="tts">kanamu xaju-tundu</annotation>
@@ -835,7 +890,7 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🦌" type="tts">serf</annotation>
 		<annotation cp="🐮">kanamu | nag</annotation>
 		<annotation cp="🐮" type="tts">kanamu nag</annotation>
-		<annotation cp="🐂">nag | sojak | yékk | Yékk</annotation>
+		<annotation cp="🐂">nag | sojak | Yékk</annotation>
 		<annotation cp="🐂" type="tts">yékk</annotation>
 		<annotation cp="🐃">nag | nagu ndox | ndox</annotation>
 		<annotation cp="🐃" type="tts">nagu ndox</annotation>
@@ -883,7 +938,7 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🦔" type="tts">suñeel</annotation>
 		<annotation cp="🦇">njugub | wàmpiir</annotation>
 		<annotation cp="🦇" type="tts">njugub</annotation>
-		<annotation cp="🐻">Kanam | kanam urs | urs</annotation>
+		<annotation cp="🐻">Kanam | urs</annotation>
 		<annotation cp="🐻" type="tts">kanam urs</annotation>
 		<annotation cp="🐨">koala | urs</annotation>
 		<annotation cp="🐨" type="tts">koala</annotation>
@@ -951,6 +1006,12 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🐙" type="tts">oktopis</annotation>
 		<annotation cp="🐚">espiraal | xor | xoru espiraal</annotation>
 		<annotation cp="🐚" type="tts">xoru espiraal</annotation>
+		<annotation cp="🦀">junqoob | Kànseer | sojak</annotation>
+		<annotation cp="🦀" type="tts">junqoob</annotation>
+		<annotation cp="🦐">krëwet | lekk | meññeefu géej | ndaw</annotation>
+		<annotation cp="🦐" type="tts">krëwet</annotation>
+		<annotation cp="🦑">kalamaar | lekk | yéet</annotation>
+		<annotation cp="🦑" type="tts">kalamaar</annotation>
 		<annotation cp="🐌">eskargoo</annotation>
 		<annotation cp="🐌" type="tts">eskargoo</annotation>
 		<annotation cp="🦋">gunóor | lëppaalëp | rafet</annotation>
@@ -1015,6 +1076,8 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🍂" type="tts">xob yu daanu</annotation>
 		<annotation cp="🍃">ëf | ngelaw | xob | xob wu gelaw yëngal | yëngu</annotation>
 		<annotation cp="🍃" type="tts">xob wu gelaw yëngal</annotation>
+		<annotation cp="🍄">sampiñoŋ | sampiñoŋ weneer</annotation>
+		<annotation cp="🍄" type="tts">sampiñoŋ</annotation>
 		<annotation cp="🍇">meññeef | reeseŋ</annotation>
 		<annotation cp="🍇" type="tts">reeseŋ</annotation>
 		<annotation cp="🍈">mëloŋ | meññeef</annotation>
@@ -1063,15 +1126,13 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🥒" type="tts">komkombar</annotation>
 		<annotation cp="🥦">brokoli | supame</annotation>
 		<annotation cp="🥦" type="tts">brokoli</annotation>
-		<annotation cp="🍄">sampiñoŋ | sampiñoŋ weneer</annotation>
-		<annotation cp="🍄" type="tts">sampiñoŋ</annotation>
 		<annotation cp="🥜">gerte | lekk | lujum | nuwaa</annotation>
 		<annotation cp="🥜" type="tts">gerte</annotation>
 		<annotation cp="🌰">garab | sateñ</annotation>
 		<annotation cp="🌰" type="tts">sateñ</annotation>
 		<annotation cp="🍞">mburu | peŋ</annotation>
 		<annotation cp="🍞" type="tts">mburu</annotation>
-		<annotation cp="🥐">briyoos | kurwaasaŋ | Kurwaasaŋ | lekk | mburu | wu-faraas</annotation>
+		<annotation cp="🥐">briyoos | Kurwaasaŋ | lekk | mburu | wu-faraas</annotation>
 		<annotation cp="🥐" type="tts">Kurwaasaŋ</annotation>
 		<annotation cp="🥖">lekk | mburu | miis | miisu mburu | wu-faraas</annotation>
 		<annotation cp="🥖" type="tts">miisu mburu</annotation>
@@ -1153,12 +1214,6 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🥠" type="tts">mbiskitu musuwaar</annotation>
 		<annotation cp="🥡">boyetu yóbbaale | siwo yoxos</annotation>
 		<annotation cp="🥡" type="tts">boyetu yóbbaale</annotation>
-		<annotation cp="🦀">junqoob | Kànseer | sojak</annotation>
-		<annotation cp="🦀" type="tts">junqoob</annotation>
-		<annotation cp="🦐">krëwet | lekk | meññeefu géej | ndaw</annotation>
-		<annotation cp="🦐" type="tts">krëwet</annotation>
-		<annotation cp="🦑">kalamaar | lekk | yéet</annotation>
-		<annotation cp="🦑" type="tts">kalamaar</annotation>
 		<annotation cp="🍦">deseer | galaas | kreem | kreem galaas bu am suukar | kreem-galaase | nooy | suukër</annotation>
 		<annotation cp="🍦" type="tts">kreem galaas bu am suukar</annotation>
 		<annotation cp="🍧">buñ wat | deseer | galaas | galaas guñ dëbb | suukër</annotation>
@@ -1253,8 +1308,8 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🏜" type="tts">desert</annotation>
 		<annotation cp="🏝">desert | dun</annotation>
 		<annotation cp="🏝" type="tts">desert dun</annotation>
-		<annotation cp="🏞">park | park national</annotation>
-		<annotation cp="🏞" type="tts">park national</annotation>
+		<annotation cp="🏞">park nasyonaal</annotation>
+		<annotation cp="🏞" type="tts">park nasyonaal</annotation>
 		<annotation cp="🏟">estad</annotation>
 		<annotation cp="🏟" type="tts">estad</annotation>
 		<annotation cp="🏛">cosaan | tabaxu cosaan</annotation>
@@ -1565,7 +1620,7 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🌝" type="tts">weer ñumm bu am kanam</annotation>
 		<annotation cp="🌞">jant | jant bu am kanam | kanam | yànj</annotation>
 		<annotation cp="🌞" type="tts">jant bu am kanam</annotation>
-		<annotation cp="⭐">biddeew | biddeew, weexaay bu yam</annotation>
+		<annotation cp="⭐">biddeew | biddeew, weexaay bu yam | weexaay bu yam</annotation>
 		<annotation cp="⭐" type="tts">biddeew, weexaay bu yam</annotation>
 		<annotation cp="🌟">biddeew | leeraay | tàkk | yànj | yànjaay</annotation>
 		<annotation cp="🌟" type="tts">biddeew tàkk</annotation>
@@ -1645,7 +1700,7 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🎋" type="tts">garabu tanabata</annotation>
 		<annotation cp="🎍">bàmbu | màggal | pain | Sapone | taaralukaayu sapeŋ</annotation>
 		<annotation cp="🎍" type="tts">taaralukaayu sapeŋ</annotation>
-		<annotation cp="🎎">fanaal | màggal | pupe | pupe sapone | Sapone</annotation>
+		<annotation cp="🎎">fanaal | màggal | pupe | Sapone</annotation>
 		<annotation cp="🎎" type="tts">pupe sapone</annotation>
 		<annotation cp="🎏">bàndarol | bàndarolu waas | màggal | waas</annotation>
 		<annotation cp="🎏" type="tts">bàndarolu waas</annotation>
@@ -1723,6 +1778,8 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🥌" type="tts">xeeru kërliŋ</annotation>
 		<annotation cp="🎯">bët | bëtu nag | ci digg bi | dóor bu jub | fett | jam | nag | po</annotation>
 		<annotation cp="🎯" type="tts">dóor bu jub</annotation>
+		<annotation cp="🔫">fetal | jumtukaay | ngànnaay | pistole</annotation>
+		<annotation cp="🔫" type="tts">pistole</annotation>
 		<annotation cp="🎱">8 | bal | biyaar | juróom ñatt | po</annotation>
 		<annotation cp="🎱" type="tts">biyaar 8 bal</annotation>
 		<annotation cp="🔮">bul | bulu kristaal | feem | jumtukaay | kristaal | léebu fee | wërsëg</annotation>
@@ -1755,6 +1812,7 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🖼" type="tts">nataal buñ kaadare</annotation>
 		<annotation cp="🎨">art | boolu pentiirukaay | muse | palette | pentiir</annotation>
 		<annotation cp="🎨" type="tts">boolu pentiirukaay</annotation>
+		<annotation cp="🧵" type="tts">woñ</annotation>
 		<annotation cp="👓">bët | bëtweer | linet | lunet | yéere</annotation>
 		<annotation cp="👓" type="tts">linet</annotation>
 		<annotation cp="🕶">bët | lëndëm | lunet | nuwaarfime | weer</annotation>
@@ -1991,7 +2049,7 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="📧" type="tts">bataaxalu net</annotation>
 		<annotation cp="📨">bataaxal | buy ñëw | imeel | jot | mbaru-bataaxal | mbaru-bataaxal biy ñëw</annotation>
 		<annotation cp="📨" type="tts">mbaru-bataaxal biy ñëw</annotation>
-		<annotation cp="📩">bataaxal | fett | génn | imeel | mbaru-bataaxal | mbaru-bataaxal, am fett | suuf | yónnee</annotation>
+		<annotation cp="📩">am fett | bataaxal | fett | génn | imeel | mbaru-bataaxal | mbaru-bataaxal, am fett | suuf | yónnee</annotation>
 		<annotation cp="📩" type="tts">mbaru-bataaxal, am fett</annotation>
 		<annotation cp="📤">bataaxal | boyet | boyetu-yónne bataaxal | génn-boyet | pañe | yónnee</annotation>
 		<annotation cp="📤" type="tts">boyetu-yónne bataaxal</annotation>
@@ -1999,13 +2057,13 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="📥" type="tts">boyetu-jot bataaxal</annotation>
 		<annotation cp="📦">boyet | paket | parsel</annotation>
 		<annotation cp="📦" type="tts">paket</annotation>
-		<annotation cp="📫">bataaxal | boyetu bataaxal | boyetu post | boyetu-bataaxal buñ tëj, am raaya buñ yëkkati | buñ tëj</annotation>
+		<annotation cp="📫">am raaya buñ yëkkati | bataaxal | boyetu bataaxal | boyetu post | boyetu-bataaxal buñ tëj | boyetu-bataaxal buñ tëj, am raaya buñ yëkkati | buñ tëj</annotation>
 		<annotation cp="📫" type="tts">boyetu-bataaxal buñ tëj, am raaya buñ yëkkati</annotation>
-		<annotation cp="📪">bataaxal | boyetu bataaxal | boyetu post | boyetu-bataaxal buñ tëj, am raaya buñ wàcce | buñ tëj | wàcce</annotation>
+		<annotation cp="📪">am raaya buñ wàcce | bataaxal | boyetu bataaxal | boyetu post | boyetu-bataaxal buñ tëj | boyetu-bataaxal buñ tëj, am raaya buñ wàcce | buñ tëj | wàcce</annotation>
 		<annotation cp="📪" type="tts">boyetu-bataaxal buñ tëj, am raaya buñ wàcce</annotation>
-		<annotation cp="📬">bataaxal | boyetu bataaxal | boyetu post | boyetu-bataaxal buñ ubbi, am raaya buñ yëkkati | ubbeeku</annotation>
+		<annotation cp="📬">am raaya buñ yëkkati | bataaxal | boyetu bataaxal | boyetu post | boyetu-bataaxal buñ ubbi | boyetu-bataaxal buñ ubbi, am raaya buñ yëkkati | ubbeeku</annotation>
 		<annotation cp="📬" type="tts">boyetu-bataaxal buñ ubbi, am raaya buñ yëkkati</annotation>
-		<annotation cp="📭">bataaxal | boyetu bataaxal | boyetu post | boyetu-bataaxal buñ ubbi, am raaya buñ wàcce | lowexonk | ubbeeku</annotation>
+		<annotation cp="📭">am raaya buñ wàcce | bataaxal | boyetu bataaxal | boyetu post | boyetu-bataaxal buñ ubbi | boyetu-bataaxal buñ ubbi, am raaya buñ wàcce | lowexonk | ubbeeku</annotation>
 		<annotation cp="📭" type="tts">boyetu-bataaxal buñ ubbi, am raaya buñ wàcce</annotation>
 		<annotation cp="📮">bataaxal | boyetu bataaxal | boyetu-leetar</annotation>
 		<annotation cp="📮" type="tts">boyetu-leetar</annotation>
@@ -2085,6 +2143,7 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🗝" type="tts">caabi ju yàgg</annotation>
 		<annotation cp="🔨">jumtukaay | marto</annotation>
 		<annotation cp="🔨" type="tts">marto</annotation>
+		<annotation cp="🪓" type="tts">séemeñ</annotation>
 		<annotation cp="⛏">jumtukaay | miin | pik</annotation>
 		<annotation cp="⛏" type="tts">pik</annotation>
 		<annotation cp="⚒">jumtukaay | marto | marto ak pik | pik</annotation>
@@ -2095,8 +2154,8 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🗡" type="tts">paaka</annotation>
 		<annotation cp="⚔">bu am kruwaa | bu am kruwaa eppee | eppee | ngànnaay</annotation>
 		<annotation cp="⚔" type="tts">bu am kruwaa eppee</annotation>
-		<annotation cp="🔫">fetal | jumtukaay | ngànnaay | pistole</annotation>
-		<annotation cp="🔫" type="tts">pistole</annotation>
+		<annotation cp="💣">bomb | reelu</annotation>
+		<annotation cp="💣" type="tts">bomb</annotation>
 		<annotation cp="🏹">ark | ark bu ànd ak fett | fett | jumtukaay | ngànnaay | Sagiteer | sojak</annotation>
 		<annotation cp="🏹" type="tts">ark bu ànd ak fett</annotation>
 		<annotation cp="🛡">kiiraay | ngànnaay</annotation>
@@ -2115,6 +2174,7 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🔗" type="tts">lëkkalekaay</annotation>
 		<annotation cp="⛓">ceen</annotation>
 		<annotation cp="⛓" type="tts">ceen</annotation>
+		<annotation cp="🪝" type="tts">lonka</annotation>
 		<annotation cp="⚗">alembik | jumtukaay | simi</annotation>
 		<annotation cp="⚗" type="tts">alembik</annotation>
 		<annotation cp="🔬">jumtukaay | mikroskop | xarala</annotation>
@@ -2129,9 +2189,12 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="💊" type="tts">garab</annotation>
 		<annotation cp="🚪">buntu</annotation>
 		<annotation cp="🚪" type="tts">buntu</annotation>
+		<annotation cp="🛗" type="tts">asansëër</annotation>
+		<annotation cp="🪞" type="tts">seetu</annotation>
+		<annotation cp="🪟" type="tts">palanteer</annotation>
 		<annotation cp="🛏">lal | nelaw | otel</annotation>
 		<annotation cp="🛏" type="tts">lal</annotation>
-		<annotation cp="🛋">kanape | kanape and làmp | làmp | otel</annotation>
+		<annotation cp="🛋">kanape | làmp | otel</annotation>
 		<annotation cp="🛋" type="tts">kanape and làmp</annotation>
 		<annotation cp="🚽">wanag</annotation>
 		<annotation cp="🚽" type="tts">wanag</annotation>
@@ -2139,6 +2202,12 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🚿" type="tts">duus</annotation>
 		<annotation cp="🛁">beñuwaar | sangu</annotation>
 		<annotation cp="🛁" type="tts">beñuwaar</annotation>
+		<annotation cp="🪒" type="tts">raasuwaar</annotation>
+		<annotation cp="🧹" type="tts">bale</annotation>
+		<annotation cp="🧺" type="tts">pañe</annotation>
+		<annotation cp="🧼" type="tts">saabu</annotation>
+		<annotation cp="🫧" type="tts">bax</annotation>
+		<annotation cp="🪥" type="tts">borosada</annotation>
 		<annotation cp="🛒">ndugg | puus-puus | puus-puusu bagaas | sariyoo</annotation>
 		<annotation cp="🛒" type="tts">puus-puusu bagaas</annotation>
 		<annotation cp="🚬">sigaret | tox</annotation>
@@ -2279,7 +2348,7 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="♌" type="tts">Gaynde</annotation>
 		<annotation cp="♍">sojak | Wiyerse</annotation>
 		<annotation cp="♍" type="tts">Wiyerse</annotation>
-		<annotation cp="♎">balaas | Balaas | sojak | yoon</annotation>
+		<annotation cp="♎">Balaas | sojak | yoon</annotation>
 		<annotation cp="♎" type="tts">Balaas</annotation>
 		<annotation cp="♏">Eskorpiyoŋ | jiit | sojak</annotation>
 		<annotation cp="♏" type="tts">Eskorpiyoŋ</annotation>
@@ -2381,7 +2450,7 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🔱" type="tts">xeeju ñatti bopp</annotation>
 		<annotation cp="📛">badsu | tur</annotation>
 		<annotation cp="📛" type="tts">badsu tur</annotation>
-		<annotation cp="🔰">gëm | jumtukaay | màndarga sapone, soog a door | mboq | Sapone | tàmbalikat | wert | xob</annotation>
+		<annotation cp="🔰">gëm | jumtukaay | màndarga sapone | màndarga sapone, soog a door | mboq | Sapone | soog a door | tàmbalikat | wert | xob</annotation>
 		<annotation cp="🔰" type="tts">màndarga sapone, soog a door</annotation>
 		<annotation cp="⭕">o | sarkal bu rëy te diis | serkal</annotation>
 		<annotation cp="⭕" type="tts">sarkal bu rëy te diis</annotation>
@@ -2523,7 +2592,7 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🔸" type="tts">karo ndaw oraas</annotation>
 		<annotation cp="🔹">baxa | karo | karo ndaw baxa | wu-geometri</annotation>
 		<annotation cp="🔹" type="tts">karo ndaw baxa</annotation>
-		<annotation cp="🔺">wu-geometri | xonk | xonk, tri-àngal, buñ defal tomb</annotation>
+		<annotation cp="🔺">buñ defal tomb | tri-àngal | wu-geometri | xonk | xonk, tri-àngal, buñ defal tomb</annotation>
 		<annotation cp="🔺" type="tts">xonk, tri-àngal, buñ defal tomb</annotation>
 		<annotation cp="🔻">suuf | tri-àngal xonk muuse jëm suuf | wu-geometri | xonk</annotation>
 		<annotation cp="🔻" type="tts">tri-àngal xonk muuse jëm suuf</annotation>

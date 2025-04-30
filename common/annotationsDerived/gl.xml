@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE ldml SYSTEM "../../common/dtd/ldml.dtd">
-<!-- Copyright © 1991-2020 Unicode, Inc.
+<!-- Copyright © 1991-2024 Unicode, Inc.
 For terms of use, see http://www.unicode.org/copyright.html
-Unicode and the Unicode Logo are registered trademarks of Unicode, Inc. in the U.S. and other countries.
+SPDX-License-Identifier: Unicode-3.0
 CLDR data files are interpreted according to the LDML specification (http://unicode.org/reports/tr35/)
+
+Derived short names and annotations, using GenerateDerivedAnnotations.java. See warnings in /annotations/ file.
 -->
-<!-- Derived short names and annotations, using GenerateDerivedAnnotations.java. See warnings in /annotations/ file. -->
 <ldml>
 	<identity>
 		<version number="$Revision$"/>
@@ -62,6 +63,106 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🖖🏾" type="tts">saúdo vulcaniano: ton de pel escuro</annotation>
 		<annotation cp="🖖🏿">man | saúdo | saúdo vulcaniano | Spock | Star Trek | ton de pel moi escuro</annotation>
 		<annotation cp="🖖🏿" type="tts">saúdo vulcaniano: ton de pel moi escuro</annotation>
+		<annotation cp="🫱🏻">cara á dereita | dar a man | dereita | ton de pel moi claro</annotation>
+		<annotation cp="🫱🏻" type="tts">man cara á dereita: ton de pel moi claro</annotation>
+		<annotation cp="🫱🏼">cara á dereita | dar a man | dereita | ton de pel claro</annotation>
+		<annotation cp="🫱🏼" type="tts">man cara á dereita: ton de pel claro</annotation>
+		<annotation cp="🫱🏽">cara á dereita | dar a man | dereita | ton de pel medio</annotation>
+		<annotation cp="🫱🏽" type="tts">man cara á dereita: ton de pel medio</annotation>
+		<annotation cp="🫱🏾">cara á dereita | dar a man | dereita | ton de pel escuro</annotation>
+		<annotation cp="🫱🏾" type="tts">man cara á dereita: ton de pel escuro</annotation>
+		<annotation cp="🫱🏿">cara á dereita | dar a man | dereita | ton de pel moi escuro</annotation>
+		<annotation cp="🫱🏿" type="tts">man cara á dereita: ton de pel moi escuro</annotation>
+		<annotation cp="🫱🏻‍🫲🏼">aperta | aperta de mans | mans | ton de pel claro | ton de pel moi claro | trato</annotation>
+		<annotation cp="🫱🏻‍🫲🏼" type="tts">aperta de mans: ton de pel moi claro, ton de pel claro</annotation>
+		<annotation cp="🫱🏻‍🫲🏽">aperta | aperta de mans | mans | ton de pel medio | ton de pel moi claro | trato</annotation>
+		<annotation cp="🫱🏻‍🫲🏽" type="tts">aperta de mans: ton de pel moi claro, ton de pel medio</annotation>
+		<annotation cp="🫱🏻‍🫲🏾">aperta | aperta de mans | mans | ton de pel escuro | ton de pel moi claro | trato</annotation>
+		<annotation cp="🫱🏻‍🫲🏾" type="tts">aperta de mans: ton de pel moi claro, ton de pel escuro</annotation>
+		<annotation cp="🫱🏻‍🫲🏿">aperta | aperta de mans | mans | ton de pel moi claro | ton de pel moi escuro | trato</annotation>
+		<annotation cp="🫱🏻‍🫲🏿" type="tts">aperta de mans: ton de pel moi claro, ton de pel moi escuro</annotation>
+		<annotation cp="🫱🏼‍🫲🏻">aperta | aperta de mans | mans | ton de pel claro | ton de pel moi claro | trato</annotation>
+		<annotation cp="🫱🏼‍🫲🏻" type="tts">aperta de mans: ton de pel claro, ton de pel moi claro</annotation>
+		<annotation cp="🫱🏼‍🫲🏽">aperta | aperta de mans | mans | ton de pel claro | ton de pel medio | trato</annotation>
+		<annotation cp="🫱🏼‍🫲🏽" type="tts">aperta de mans: ton de pel claro, ton de pel medio</annotation>
+		<annotation cp="🫱🏼‍🫲🏾">aperta | aperta de mans | mans | ton de pel claro | ton de pel escuro | trato</annotation>
+		<annotation cp="🫱🏼‍🫲🏾" type="tts">aperta de mans: ton de pel claro, ton de pel escuro</annotation>
+		<annotation cp="🫱🏼‍🫲🏿">aperta | aperta de mans | mans | ton de pel claro | ton de pel moi escuro | trato</annotation>
+		<annotation cp="🫱🏼‍🫲🏿" type="tts">aperta de mans: ton de pel claro, ton de pel moi escuro</annotation>
+		<annotation cp="🫱🏽‍🫲🏻">aperta | aperta de mans | mans | ton de pel medio | ton de pel moi claro | trato</annotation>
+		<annotation cp="🫱🏽‍🫲🏻" type="tts">aperta de mans: ton de pel medio, ton de pel moi claro</annotation>
+		<annotation cp="🫱🏽‍🫲🏼">aperta | aperta de mans | mans | ton de pel claro | ton de pel medio | trato</annotation>
+		<annotation cp="🫱🏽‍🫲🏼" type="tts">aperta de mans: ton de pel medio, ton de pel claro</annotation>
+		<annotation cp="🫱🏽‍🫲🏾">aperta | aperta de mans | mans | ton de pel escuro | ton de pel medio | trato</annotation>
+		<annotation cp="🫱🏽‍🫲🏾" type="tts">aperta de mans: ton de pel medio, ton de pel escuro</annotation>
+		<annotation cp="🫱🏽‍🫲🏿">aperta | aperta de mans | mans | ton de pel medio | ton de pel moi escuro | trato</annotation>
+		<annotation cp="🫱🏽‍🫲🏿" type="tts">aperta de mans: ton de pel medio, ton de pel moi escuro</annotation>
+		<annotation cp="🫱🏾‍🫲🏻">aperta | aperta de mans | mans | ton de pel escuro | ton de pel moi claro | trato</annotation>
+		<annotation cp="🫱🏾‍🫲🏻" type="tts">aperta de mans: ton de pel escuro, ton de pel moi claro</annotation>
+		<annotation cp="🫱🏾‍🫲🏼">aperta | aperta de mans | mans | ton de pel claro | ton de pel escuro | trato</annotation>
+		<annotation cp="🫱🏾‍🫲🏼" type="tts">aperta de mans: ton de pel escuro, ton de pel claro</annotation>
+		<annotation cp="🫱🏾‍🫲🏽">aperta | aperta de mans | mans | ton de pel escuro | ton de pel medio | trato</annotation>
+		<annotation cp="🫱🏾‍🫲🏽" type="tts">aperta de mans: ton de pel escuro, ton de pel medio</annotation>
+		<annotation cp="🫱🏾‍🫲🏿">aperta | aperta de mans | mans | ton de pel escuro | ton de pel moi escuro | trato</annotation>
+		<annotation cp="🫱🏾‍🫲🏿" type="tts">aperta de mans: ton de pel escuro, ton de pel moi escuro</annotation>
+		<annotation cp="🫱🏿‍🫲🏻">aperta | aperta de mans | mans | ton de pel moi claro | ton de pel moi escuro | trato</annotation>
+		<annotation cp="🫱🏿‍🫲🏻" type="tts">aperta de mans: ton de pel moi escuro, ton de pel moi claro</annotation>
+		<annotation cp="🫱🏿‍🫲🏼">aperta | aperta de mans | mans | ton de pel claro | ton de pel moi escuro | trato</annotation>
+		<annotation cp="🫱🏿‍🫲🏼" type="tts">aperta de mans: ton de pel moi escuro, ton de pel claro</annotation>
+		<annotation cp="🫱🏿‍🫲🏽">aperta | aperta de mans | mans | ton de pel medio | ton de pel moi escuro | trato</annotation>
+		<annotation cp="🫱🏿‍🫲🏽" type="tts">aperta de mans: ton de pel moi escuro, ton de pel medio</annotation>
+		<annotation cp="🫱🏿‍🫲🏾">aperta | aperta de mans | mans | ton de pel escuro | ton de pel moi escuro | trato</annotation>
+		<annotation cp="🫱🏿‍🫲🏾" type="tts">aperta de mans: ton de pel moi escuro, ton de pel escuro</annotation>
+		<annotation cp="🫲🏻">cara á esquerda | dar a man | esquerda | ton de pel moi claro</annotation>
+		<annotation cp="🫲🏻" type="tts">man cara á esquerda: ton de pel moi claro</annotation>
+		<annotation cp="🫲🏼">cara á esquerda | dar a man | esquerda | ton de pel claro</annotation>
+		<annotation cp="🫲🏼" type="tts">man cara á esquerda: ton de pel claro</annotation>
+		<annotation cp="🫲🏽">cara á esquerda | dar a man | esquerda | ton de pel medio</annotation>
+		<annotation cp="🫲🏽" type="tts">man cara á esquerda: ton de pel medio</annotation>
+		<annotation cp="🫲🏾">cara á esquerda | dar a man | esquerda | ton de pel escuro</annotation>
+		<annotation cp="🫲🏾" type="tts">man cara á esquerda: ton de pel escuro</annotation>
+		<annotation cp="🫲🏿">cara á esquerda | dar a man | esquerda | ton de pel moi escuro</annotation>
+		<annotation cp="🫲🏿" type="tts">man cara á esquerda: ton de pel moi escuro</annotation>
+		<annotation cp="🫳🏻">deixar caer | facer calar | palma cara abaixo | refugar | ton de pel moi claro</annotation>
+		<annotation cp="🫳🏻" type="tts">man coa palma cara abaixo: ton de pel moi claro</annotation>
+		<annotation cp="🫳🏼">deixar caer | facer calar | palma cara abaixo | refugar | ton de pel claro</annotation>
+		<annotation cp="🫳🏼" type="tts">man coa palma cara abaixo: ton de pel claro</annotation>
+		<annotation cp="🫳🏽">deixar caer | facer calar | palma cara abaixo | refugar | ton de pel medio</annotation>
+		<annotation cp="🫳🏽" type="tts">man coa palma cara abaixo: ton de pel medio</annotation>
+		<annotation cp="🫳🏾">deixar caer | facer calar | palma cara abaixo | refugar | ton de pel escuro</annotation>
+		<annotation cp="🫳🏾" type="tts">man coa palma cara abaixo: ton de pel escuro</annotation>
+		<annotation cp="🫳🏿">deixar caer | facer calar | palma cara abaixo | refugar | ton de pel moi escuro</annotation>
+		<annotation cp="🫳🏿" type="tts">man coa palma cara abaixo: ton de pel moi escuro</annotation>
+		<annotation cp="🫴🏻">atraer | chamar | coller | ofrecer | palma cara arriba | ton de pel moi claro</annotation>
+		<annotation cp="🫴🏻" type="tts">man coa palma cara arriba: ton de pel moi claro</annotation>
+		<annotation cp="🫴🏼">atraer | chamar | coller | ofrecer | palma cara arriba | ton de pel claro</annotation>
+		<annotation cp="🫴🏼" type="tts">man coa palma cara arriba: ton de pel claro</annotation>
+		<annotation cp="🫴🏽">atraer | chamar | coller | ofrecer | palma cara arriba | ton de pel medio</annotation>
+		<annotation cp="🫴🏽" type="tts">man coa palma cara arriba: ton de pel medio</annotation>
+		<annotation cp="🫴🏾">atraer | chamar | coller | ofrecer | palma cara arriba | ton de pel escuro</annotation>
+		<annotation cp="🫴🏾" type="tts">man coa palma cara arriba: ton de pel escuro</annotation>
+		<annotation cp="🫴🏿">atraer | chamar | coller | ofrecer | palma cara arriba | ton de pel moi escuro</annotation>
+		<annotation cp="🫴🏿" type="tts">man coa palma cara arriba: ton de pel moi escuro</annotation>
+		<annotation cp="🫷🏻">chocar | cinco | esperar | esquerda | parar | rexeitar | ton de pel moi claro</annotation>
+		<annotation cp="🫷🏻" type="tts">man empuxando cara á esquerda: ton de pel moi claro</annotation>
+		<annotation cp="🫷🏼">chocar | cinco | esperar | esquerda | parar | rexeitar | ton de pel claro</annotation>
+		<annotation cp="🫷🏼" type="tts">man empuxando cara á esquerda: ton de pel claro</annotation>
+		<annotation cp="🫷🏽">chocar | cinco | esperar | esquerda | parar | rexeitar | ton de pel medio</annotation>
+		<annotation cp="🫷🏽" type="tts">man empuxando cara á esquerda: ton de pel medio</annotation>
+		<annotation cp="🫷🏾">chocar | cinco | esperar | esquerda | parar | rexeitar | ton de pel escuro</annotation>
+		<annotation cp="🫷🏾" type="tts">man empuxando cara á esquerda: ton de pel escuro</annotation>
+		<annotation cp="🫷🏿">chocar | cinco | esperar | esquerda | parar | rexeitar | ton de pel moi escuro</annotation>
+		<annotation cp="🫷🏿" type="tts">man empuxando cara á esquerda: ton de pel moi escuro</annotation>
+		<annotation cp="🫸🏻">chocar | cinco | dereita | empuxar | esperar | parar | rexeitar | ton de pel moi claro</annotation>
+		<annotation cp="🫸🏻" type="tts">man empuxando cara á dereita: ton de pel moi claro</annotation>
+		<annotation cp="🫸🏼">chocar | cinco | dereita | empuxar | esperar | parar | rexeitar | ton de pel claro</annotation>
+		<annotation cp="🫸🏼" type="tts">man empuxando cara á dereita: ton de pel claro</annotation>
+		<annotation cp="🫸🏽">chocar | cinco | dereita | empuxar | esperar | parar | rexeitar | ton de pel medio</annotation>
+		<annotation cp="🫸🏽" type="tts">man empuxando cara á dereita: ton de pel medio</annotation>
+		<annotation cp="🫸🏾">chocar | cinco | dereita | empuxar | esperar | parar | rexeitar | ton de pel escuro</annotation>
+		<annotation cp="🫸🏾" type="tts">man empuxando cara á dereita: ton de pel escuro</annotation>
+		<annotation cp="🫸🏿">chocar | cinco | dereita | empuxar | esperar | parar | rexeitar | ton de pel moi escuro</annotation>
+		<annotation cp="🫸🏿" type="tts">man empuxando cara á dereita: ton de pel moi escuro</annotation>
 		<annotation cp="👌🏻">man | OK | perfecto | ton de pel moi claro | xesto de “OK”</annotation>
 		<annotation cp="👌🏻" type="tts">xesto de “OK”: ton de pel moi claro</annotation>
 		<annotation cp="👌🏼">man | OK | perfecto | ton de pel claro | xesto de “OK”</annotation>
@@ -82,15 +183,15 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🤌🏾" type="tts">xesto de &quot;ateigado&quot;: ton de pel escuro</annotation>
 		<annotation cp="🤌🏿">a tope | ateigado | de bote en bote | petado | ton de pel moi escuro | xesto de &quot;ateigado&quot;</annotation>
 		<annotation cp="🤌🏿" type="tts">xesto de &quot;ateigado&quot;: ton de pel moi escuro</annotation>
-		<annotation cp="🤏🏻">chisco | miga | pouquichiño | pouquiño | ton de pel moi claro | xesto de &quot;un chisco&quot;</annotation>
+		<annotation cp="🤏🏻">chisco | miga | pouquiño | ton de pel moi claro</annotation>
 		<annotation cp="🤏🏻" type="tts">xesto de &quot;un chisco&quot;: ton de pel moi claro</annotation>
-		<annotation cp="🤏🏼">chisco | miga | pouquichiño | pouquiño | ton de pel claro | xesto de &quot;un chisco&quot;</annotation>
+		<annotation cp="🤏🏼">chisco | miga | pouquiño | ton de pel claro</annotation>
 		<annotation cp="🤏🏼" type="tts">xesto de &quot;un chisco&quot;: ton de pel claro</annotation>
-		<annotation cp="🤏🏽">chisco | miga | pouquichiño | pouquiño | ton de pel medio | xesto de &quot;un chisco&quot;</annotation>
+		<annotation cp="🤏🏽">chisco | miga | pouquiño | ton de pel medio</annotation>
 		<annotation cp="🤏🏽" type="tts">xesto de &quot;un chisco&quot;: ton de pel medio</annotation>
-		<annotation cp="🤏🏾">chisco | miga | pouquichiño | pouquiño | ton de pel escuro | xesto de &quot;un chisco&quot;</annotation>
+		<annotation cp="🤏🏾">chisco | miga | pouquiño | ton de pel escuro</annotation>
 		<annotation cp="🤏🏾" type="tts">xesto de &quot;un chisco&quot;: ton de pel escuro</annotation>
-		<annotation cp="🤏🏿">chisco | miga | pouquichiño | pouquiño | ton de pel moi escuro | xesto de &quot;un chisco&quot;</annotation>
+		<annotation cp="🤏🏿">chisco | miga | pouquiño | ton de pel moi escuro</annotation>
 		<annotation cp="🤏🏿" type="tts">xesto de &quot;un chisco&quot;: ton de pel moi escuro</annotation>
 		<annotation cp="✌🏻">man | ton de pel moi claro | triunfo | vitoria | xesto | xesto de vitoria</annotation>
 		<annotation cp="✌🏻" type="tts">xesto de vitoria: ton de pel moi claro</annotation>
@@ -112,6 +213,16 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🤞🏾" type="tts">dedos cruzados: ton de pel escuro</annotation>
 		<annotation cp="🤞🏿">cruzar | dedos | dedos cruzados | man | sorte | ton de pel moi escuro</annotation>
 		<annotation cp="🤞🏿" type="tts">dedos cruzados: ton de pel moi escuro</annotation>
+		<annotation cp="🫰🏻">caro | chascar | corazón | diñeiro | ton de pel moi claro</annotation>
+		<annotation cp="🫰🏻" type="tts">man cos dedos índice e polgar cruzados: ton de pel moi claro</annotation>
+		<annotation cp="🫰🏼">caro | chascar | corazón | diñeiro | ton de pel claro</annotation>
+		<annotation cp="🫰🏼" type="tts">man cos dedos índice e polgar cruzados: ton de pel claro</annotation>
+		<annotation cp="🫰🏽">caro | chascar | corazón | diñeiro | ton de pel medio</annotation>
+		<annotation cp="🫰🏽" type="tts">man cos dedos índice e polgar cruzados: ton de pel medio</annotation>
+		<annotation cp="🫰🏾">caro | chascar | corazón | diñeiro | ton de pel escuro</annotation>
+		<annotation cp="🫰🏾" type="tts">man cos dedos índice e polgar cruzados: ton de pel escuro</annotation>
+		<annotation cp="🫰🏿">caro | chascar | corazón | diñeiro | ton de pel moi escuro</annotation>
+		<annotation cp="🫰🏿" type="tts">man cos dedos índice e polgar cruzados: ton de pel moi escuro</annotation>
 		<annotation cp="🤟🏻">I Love You | ILY | man | ton de pel moi claro | xesto | xesto das iniciais de &quot;I Love You&quot;</annotation>
 		<annotation cp="🤟🏻" type="tts">xesto das iniciais de &quot;I Love You&quot;: ton de pel moi claro</annotation>
 		<annotation cp="🤟🏼">I Love You | ILY | man | ton de pel claro | xesto | xesto das iniciais de &quot;I Love You&quot;</annotation>
@@ -202,25 +313,35 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="☝🏾" type="tts">índice apuntando cara arriba: ton de pel escuro</annotation>
 		<annotation cp="☝🏿">advertencia | arriba | índice | índice apuntando cara arriba | man | ton de pel moi escuro</annotation>
 		<annotation cp="☝🏿" type="tts">índice apuntando cara arriba: ton de pel moi escuro</annotation>
-		<annotation cp="👍🏻">+1 | gústame | man | polgar | polgar cara arriba | ton de pel moi claro</annotation>
+		<annotation cp="🫵🏻">apuntar | índice | sinalar | ti | ton de pel moi claro</annotation>
+		<annotation cp="🫵🏻" type="tts">dedo índice apuntando de fronte: ton de pel moi claro</annotation>
+		<annotation cp="🫵🏼">apuntar | índice | sinalar | ti | ton de pel claro</annotation>
+		<annotation cp="🫵🏼" type="tts">dedo índice apuntando de fronte: ton de pel claro</annotation>
+		<annotation cp="🫵🏽">apuntar | índice | sinalar | ti | ton de pel medio</annotation>
+		<annotation cp="🫵🏽" type="tts">dedo índice apuntando de fronte: ton de pel medio</annotation>
+		<annotation cp="🫵🏾">apuntar | índice | sinalar | ti | ton de pel escuro</annotation>
+		<annotation cp="🫵🏾" type="tts">dedo índice apuntando de fronte: ton de pel escuro</annotation>
+		<annotation cp="🫵🏿">apuntar | índice | sinalar | ti | ton de pel moi escuro</annotation>
+		<annotation cp="🫵🏿" type="tts">dedo índice apuntando de fronte: ton de pel moi escuro</annotation>
+		<annotation cp="👍🏻">+1 | arriba | ben | gústame | man | ton de pel moi claro</annotation>
 		<annotation cp="👍🏻" type="tts">polgar cara arriba: ton de pel moi claro</annotation>
-		<annotation cp="👍🏼">+1 | gústame | man | polgar | polgar cara arriba | ton de pel claro</annotation>
+		<annotation cp="👍🏼">+1 | arriba | ben | gústame | man | ton de pel claro</annotation>
 		<annotation cp="👍🏼" type="tts">polgar cara arriba: ton de pel claro</annotation>
-		<annotation cp="👍🏽">+1 | gústame | man | polgar | polgar cara arriba | ton de pel medio</annotation>
+		<annotation cp="👍🏽">+1 | arriba | ben | gústame | man | ton de pel medio</annotation>
 		<annotation cp="👍🏽" type="tts">polgar cara arriba: ton de pel medio</annotation>
-		<annotation cp="👍🏾">+1 | gústame | man | polgar | polgar cara arriba | ton de pel escuro</annotation>
+		<annotation cp="👍🏾">+1 | arriba | ben | gústame | man | ton de pel escuro</annotation>
 		<annotation cp="👍🏾" type="tts">polgar cara arriba: ton de pel escuro</annotation>
-		<annotation cp="👍🏿">+1 | gústame | man | polgar | polgar cara arriba | ton de pel moi escuro</annotation>
+		<annotation cp="👍🏿">+1 | arriba | ben | gústame | man | ton de pel moi escuro</annotation>
 		<annotation cp="👍🏿" type="tts">polgar cara arriba: ton de pel moi escuro</annotation>
-		<annotation cp="👎🏻">man | non me gusta | polgar cara abaixo | ton de pel moi claro</annotation>
+		<annotation cp="👎🏻">abaixo | mal | man | non me gusta | ton de pel moi claro</annotation>
 		<annotation cp="👎🏻" type="tts">polgar cara abaixo: ton de pel moi claro</annotation>
-		<annotation cp="👎🏼">man | non me gusta | polgar cara abaixo | ton de pel claro</annotation>
+		<annotation cp="👎🏼">abaixo | mal | man | non me gusta | ton de pel claro</annotation>
 		<annotation cp="👎🏼" type="tts">polgar cara abaixo: ton de pel claro</annotation>
-		<annotation cp="👎🏽">man | non me gusta | polgar cara abaixo | ton de pel medio</annotation>
+		<annotation cp="👎🏽">abaixo | mal | man | non me gusta | ton de pel medio</annotation>
 		<annotation cp="👎🏽" type="tts">polgar cara abaixo: ton de pel medio</annotation>
-		<annotation cp="👎🏾">man | non me gusta | polgar cara abaixo | ton de pel escuro</annotation>
+		<annotation cp="👎🏾">abaixo | mal | man | non me gusta | ton de pel escuro</annotation>
 		<annotation cp="👎🏾" type="tts">polgar cara abaixo: ton de pel escuro</annotation>
-		<annotation cp="👎🏿">man | non me gusta | polgar cara abaixo | ton de pel moi escuro</annotation>
+		<annotation cp="👎🏿">abaixo | mal | man | non me gusta | ton de pel moi escuro</annotation>
 		<annotation cp="👎🏿" type="tts">polgar cara abaixo: ton de pel moi escuro</annotation>
 		<annotation cp="✊🏻">arriba | loita | puño | puño en alto | ton de pel moi claro</annotation>
 		<annotation cp="✊🏻" type="tts">puño en alto: ton de pel moi claro</annotation>
@@ -282,6 +403,16 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🙌🏾" type="tts">mans levantadas: ton de pel escuro</annotation>
 		<annotation cp="🙌🏿">celebración | chocar | mans | mans levantadas | ton de pel moi escuro | xesto</annotation>
 		<annotation cp="🙌🏿" type="tts">mans levantadas: ton de pel moi escuro</annotation>
+		<annotation cp="🫶🏻">amor | mans facendo un corazón | ton de pel moi claro</annotation>
+		<annotation cp="🫶🏻" type="tts">mans facendo un corazón: ton de pel moi claro</annotation>
+		<annotation cp="🫶🏼">amor | mans facendo un corazón | ton de pel claro</annotation>
+		<annotation cp="🫶🏼" type="tts">mans facendo un corazón: ton de pel claro</annotation>
+		<annotation cp="🫶🏽">amor | mans facendo un corazón | ton de pel medio</annotation>
+		<annotation cp="🫶🏽" type="tts">mans facendo un corazón: ton de pel medio</annotation>
+		<annotation cp="🫶🏾">amor | mans facendo un corazón | ton de pel escuro</annotation>
+		<annotation cp="🫶🏾" type="tts">mans facendo un corazón: ton de pel escuro</annotation>
+		<annotation cp="🫶🏿">amor | mans facendo un corazón | ton de pel moi escuro</annotation>
+		<annotation cp="🫶🏿" type="tts">mans facendo un corazón: ton de pel moi escuro</annotation>
 		<annotation cp="👐🏻">abertas | mans | ton de pel moi claro</annotation>
 		<annotation cp="👐🏻" type="tts">mans abertas: ton de pel moi claro</annotation>
 		<annotation cp="👐🏼">abertas | mans | ton de pel claro</annotation>
@@ -302,15 +433,25 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🤲🏾" type="tts">palmas xuntas: ton de pel escuro</annotation>
 		<annotation cp="🤲🏿">palmas | ton de pel moi escuro | xuntas</annotation>
 		<annotation cp="🤲🏿" type="tts">palmas xuntas: ton de pel moi escuro</annotation>
-		<annotation cp="🙏🏻">mans | mans en oración | orar | por favor | rezar | ton de pel moi claro</annotation>
+		<annotation cp="🤝🏻">aperta | aperta de mans | mans | ton de pel moi claro | trato</annotation>
+		<annotation cp="🤝🏻" type="tts">aperta de mans: ton de pel moi claro</annotation>
+		<annotation cp="🤝🏼">aperta | aperta de mans | mans | ton de pel claro | trato</annotation>
+		<annotation cp="🤝🏼" type="tts">aperta de mans: ton de pel claro</annotation>
+		<annotation cp="🤝🏽">aperta | aperta de mans | mans | ton de pel medio | trato</annotation>
+		<annotation cp="🤝🏽" type="tts">aperta de mans: ton de pel medio</annotation>
+		<annotation cp="🤝🏾">aperta | aperta de mans | mans | ton de pel escuro | trato</annotation>
+		<annotation cp="🤝🏾" type="tts">aperta de mans: ton de pel escuro</annotation>
+		<annotation cp="🤝🏿">aperta | aperta de mans | mans | ton de pel moi escuro | trato</annotation>
+		<annotation cp="🤝🏿" type="tts">aperta de mans: ton de pel moi escuro</annotation>
+		<annotation cp="🙏🏻">oración | por favor | rezar | ton de pel moi claro</annotation>
 		<annotation cp="🙏🏻" type="tts">mans en oración: ton de pel moi claro</annotation>
-		<annotation cp="🙏🏼">mans | mans en oración | orar | por favor | rezar | ton de pel claro</annotation>
+		<annotation cp="🙏🏼">oración | por favor | rezar | ton de pel claro</annotation>
 		<annotation cp="🙏🏼" type="tts">mans en oración: ton de pel claro</annotation>
-		<annotation cp="🙏🏽">mans | mans en oración | orar | por favor | rezar | ton de pel medio</annotation>
+		<annotation cp="🙏🏽">oración | por favor | rezar | ton de pel medio</annotation>
 		<annotation cp="🙏🏽" type="tts">mans en oración: ton de pel medio</annotation>
-		<annotation cp="🙏🏾">mans | mans en oración | orar | por favor | rezar | ton de pel escuro</annotation>
+		<annotation cp="🙏🏾">oración | por favor | rezar | ton de pel escuro</annotation>
 		<annotation cp="🙏🏾" type="tts">mans en oración: ton de pel escuro</annotation>
-		<annotation cp="🙏🏿">mans | mans en oración | orar | por favor | rezar | ton de pel moi escuro</annotation>
+		<annotation cp="🙏🏿">oración | por favor | rezar | ton de pel moi escuro</annotation>
 		<annotation cp="🙏🏿" type="tts">mans en oración: ton de pel moi escuro</annotation>
 		<annotation cp="✍🏻">bolígrafo | escribir | lapis | man | man escribindo | ton de pel moi claro</annotation>
 		<annotation cp="✍🏻" type="tts">man escribindo: ton de pel moi claro</annotation>
@@ -352,25 +493,25 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="💪🏾" type="tts">bíceps: ton de pel escuro</annotation>
 		<annotation cp="💪🏿">bíceps | forte | forza | músculo | ton de pel moi escuro</annotation>
 		<annotation cp="💪🏿" type="tts">bíceps: ton de pel moi escuro</annotation>
-		<annotation cp="🦵🏻">corpo | extremidade | patada | perna | ton de pel moi claro</annotation>
+		<annotation cp="🦵🏻">corpo | extremidade | flexionada | patada | pé | ton de pel moi claro | xeonllo</annotation>
 		<annotation cp="🦵🏻" type="tts">perna: ton de pel moi claro</annotation>
-		<annotation cp="🦵🏼">corpo | extremidade | patada | perna | ton de pel claro</annotation>
+		<annotation cp="🦵🏼">corpo | extremidade | flexionada | patada | pé | ton de pel claro | xeonllo</annotation>
 		<annotation cp="🦵🏼" type="tts">perna: ton de pel claro</annotation>
-		<annotation cp="🦵🏽">corpo | extremidade | patada | perna | ton de pel medio</annotation>
+		<annotation cp="🦵🏽">corpo | extremidade | flexionada | patada | pé | ton de pel medio | xeonllo</annotation>
 		<annotation cp="🦵🏽" type="tts">perna: ton de pel medio</annotation>
-		<annotation cp="🦵🏾">corpo | extremidade | patada | perna | ton de pel escuro</annotation>
+		<annotation cp="🦵🏾">corpo | extremidade | flexionada | patada | pé | ton de pel escuro | xeonllo</annotation>
 		<annotation cp="🦵🏾" type="tts">perna: ton de pel escuro</annotation>
-		<annotation cp="🦵🏿">corpo | extremidade | patada | perna | ton de pel moi escuro</annotation>
+		<annotation cp="🦵🏿">corpo | extremidade | flexionada | patada | pé | ton de pel moi escuro | xeonllo</annotation>
 		<annotation cp="🦵🏿" type="tts">perna: ton de pel moi escuro</annotation>
-		<annotation cp="🦶🏻">patada | pé | pisada | ton de pel moi claro</annotation>
+		<annotation cp="🦶🏻">nocello | patada | pisar | ton de pel moi claro</annotation>
 		<annotation cp="🦶🏻" type="tts">pé: ton de pel moi claro</annotation>
-		<annotation cp="🦶🏼">patada | pé | pisada | ton de pel claro</annotation>
+		<annotation cp="🦶🏼">nocello | patada | pisar | ton de pel claro</annotation>
 		<annotation cp="🦶🏼" type="tts">pé: ton de pel claro</annotation>
-		<annotation cp="🦶🏽">patada | pé | pisada | ton de pel medio</annotation>
+		<annotation cp="🦶🏽">nocello | patada | pisar | ton de pel medio</annotation>
 		<annotation cp="🦶🏽" type="tts">pé: ton de pel medio</annotation>
-		<annotation cp="🦶🏾">patada | pé | pisada | ton de pel escuro</annotation>
+		<annotation cp="🦶🏾">nocello | patada | pisar | ton de pel escuro</annotation>
 		<annotation cp="🦶🏾" type="tts">pé: ton de pel escuro</annotation>
-		<annotation cp="🦶🏿">patada | pé | pisada | ton de pel moi escuro</annotation>
+		<annotation cp="🦶🏿">nocello | patada | pisar | ton de pel moi escuro</annotation>
 		<annotation cp="🦶🏿" type="tts">pé: ton de pel moi escuro</annotation>
 		<annotation cp="👂🏻">orella | ton de pel moi claro</annotation>
 		<annotation cp="👂🏻" type="tts">orella: ton de pel moi claro</annotation>
@@ -382,15 +523,15 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👂🏾" type="tts">orella: ton de pel escuro</annotation>
 		<annotation cp="👂🏿">orella | ton de pel moi escuro</annotation>
 		<annotation cp="👂🏿" type="tts">orella: ton de pel moi escuro</annotation>
-		<annotation cp="🦻🏻">aparato auditivo | discapacidade | orella con audiófono | ton de pel moi claro | xordo</annotation>
+		<annotation cp="🦻🏻">aparato auditivo | audiófono | discapacidade | ton de pel moi claro | xordo</annotation>
 		<annotation cp="🦻🏻" type="tts">orella con audiófono: ton de pel moi claro</annotation>
-		<annotation cp="🦻🏼">aparato auditivo | discapacidade | orella con audiófono | ton de pel claro | xordo</annotation>
+		<annotation cp="🦻🏼">aparato auditivo | audiófono | discapacidade | ton de pel claro | xordo</annotation>
 		<annotation cp="🦻🏼" type="tts">orella con audiófono: ton de pel claro</annotation>
-		<annotation cp="🦻🏽">aparato auditivo | discapacidade | orella con audiófono | ton de pel medio | xordo</annotation>
+		<annotation cp="🦻🏽">aparato auditivo | audiófono | discapacidade | ton de pel medio | xordo</annotation>
 		<annotation cp="🦻🏽" type="tts">orella con audiófono: ton de pel medio</annotation>
-		<annotation cp="🦻🏾">aparato auditivo | discapacidade | orella con audiófono | ton de pel escuro | xordo</annotation>
+		<annotation cp="🦻🏾">aparato auditivo | audiófono | discapacidade | ton de pel escuro | xordo</annotation>
 		<annotation cp="🦻🏾" type="tts">orella con audiófono: ton de pel escuro</annotation>
-		<annotation cp="🦻🏿">aparato auditivo | discapacidade | orella con audiófono | ton de pel moi escuro | xordo</annotation>
+		<annotation cp="🦻🏿">aparato auditivo | audiófono | discapacidade | ton de pel moi escuro | xordo</annotation>
 		<annotation cp="🦻🏿" type="tts">orella con audiófono: ton de pel moi escuro</annotation>
 		<annotation cp="👃🏻">nariz | ton de pel moi claro</annotation>
 		<annotation cp="👃🏻" type="tts">nariz: ton de pel moi claro</annotation>
@@ -600,25 +741,25 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👨🏾" type="tts">home: ton de pel escuro</annotation>
 		<annotation cp="👨🏿">adulto | home | ton de pel moi escuro</annotation>
 		<annotation cp="👨🏿" type="tts">home: ton de pel moi escuro</annotation>
-		<annotation cp="🧔🏻">barba | barbudo | persoa con barba | ton de pel moi claro</annotation>
+		<annotation cp="🧔🏻">barba | barbudo | ton de pel moi claro</annotation>
 		<annotation cp="🧔🏻" type="tts">persoa con barba: ton de pel moi claro</annotation>
-		<annotation cp="🧔🏼">barba | barbudo | persoa con barba | ton de pel claro</annotation>
+		<annotation cp="🧔🏼">barba | barbudo | ton de pel claro</annotation>
 		<annotation cp="🧔🏼" type="tts">persoa con barba: ton de pel claro</annotation>
-		<annotation cp="🧔🏽">barba | barbudo | persoa con barba | ton de pel medio</annotation>
+		<annotation cp="🧔🏽">barba | barbudo | ton de pel medio</annotation>
 		<annotation cp="🧔🏽" type="tts">persoa con barba: ton de pel medio</annotation>
-		<annotation cp="🧔🏾">barba | barbudo | persoa con barba | ton de pel escuro</annotation>
+		<annotation cp="🧔🏾">barba | barbudo | ton de pel escuro</annotation>
 		<annotation cp="🧔🏾" type="tts">persoa con barba: ton de pel escuro</annotation>
-		<annotation cp="🧔🏿">barba | barbudo | persoa con barba | ton de pel moi escuro</annotation>
+		<annotation cp="🧔🏿">barba | barbudo | ton de pel moi escuro</annotation>
 		<annotation cp="🧔🏿" type="tts">persoa con barba: ton de pel moi escuro</annotation>
-		<annotation cp="🧔🏻‍♂">barba | barbudo | home con barba | ton de pel moi claro</annotation>
+		<annotation cp="🧔🏻‍♂">barba | barbudo | ton de pel moi claro</annotation>
 		<annotation cp="🧔🏻‍♂" type="tts">home con barba: ton de pel moi claro</annotation>
-		<annotation cp="🧔🏼‍♂">barba | barbudo | home con barba | ton de pel claro</annotation>
+		<annotation cp="🧔🏼‍♂">barba | barbudo | ton de pel claro</annotation>
 		<annotation cp="🧔🏼‍♂" type="tts">home con barba: ton de pel claro</annotation>
-		<annotation cp="🧔🏽‍♂">barba | barbudo | home con barba | ton de pel medio</annotation>
+		<annotation cp="🧔🏽‍♂">barba | barbudo | ton de pel medio</annotation>
 		<annotation cp="🧔🏽‍♂" type="tts">home con barba: ton de pel medio</annotation>
-		<annotation cp="🧔🏾‍♂">barba | barbudo | home con barba | ton de pel escuro</annotation>
+		<annotation cp="🧔🏾‍♂">barba | barbudo | ton de pel escuro</annotation>
 		<annotation cp="🧔🏾‍♂" type="tts">home con barba: ton de pel escuro</annotation>
-		<annotation cp="🧔🏿‍♂">barba | barbudo | home con barba | ton de pel moi escuro</annotation>
+		<annotation cp="🧔🏿‍♂">barba | barbudo | ton de pel moi escuro</annotation>
 		<annotation cp="🧔🏿‍♂" type="tts">home con barba: ton de pel moi escuro</annotation>
 		<annotation cp="👱🏻‍♂">home | loiro | louro | ton de pel moi claro</annotation>
 		<annotation cp="👱🏻‍♂" type="tts">home louro: ton de pel moi claro</annotation>
@@ -788,15 +929,15 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👩🏾" type="tts">muller: ton de pel escuro</annotation>
 		<annotation cp="👩🏿">adulta | muller | ton de pel moi escuro</annotation>
 		<annotation cp="👩🏿" type="tts">muller: ton de pel moi escuro</annotation>
-		<annotation cp="🧔🏻‍♀">barba | barbuda | muller con barba | ton de pel moi claro</annotation>
+		<annotation cp="🧔🏻‍♀">barba | barbuda | muller barbuda | ton de pel moi claro</annotation>
 		<annotation cp="🧔🏻‍♀" type="tts">muller con barba: ton de pel moi claro</annotation>
-		<annotation cp="🧔🏼‍♀">barba | barbuda | muller con barba | ton de pel claro</annotation>
+		<annotation cp="🧔🏼‍♀">barba | barbuda | muller barbuda | ton de pel claro</annotation>
 		<annotation cp="🧔🏼‍♀" type="tts">muller con barba: ton de pel claro</annotation>
-		<annotation cp="🧔🏽‍♀">barba | barbuda | muller con barba | ton de pel medio</annotation>
+		<annotation cp="🧔🏽‍♀">barba | barbuda | muller barbuda | ton de pel medio</annotation>
 		<annotation cp="🧔🏽‍♀" type="tts">muller con barba: ton de pel medio</annotation>
-		<annotation cp="🧔🏾‍♀">barba | barbuda | muller con barba | ton de pel escuro</annotation>
+		<annotation cp="🧔🏾‍♀">barba | barbuda | muller barbuda | ton de pel escuro</annotation>
 		<annotation cp="🧔🏾‍♀" type="tts">muller con barba: ton de pel escuro</annotation>
-		<annotation cp="🧔🏿‍♀">barba | barbuda | muller con barba | ton de pel moi escuro</annotation>
+		<annotation cp="🧔🏿‍♀">barba | barbuda | muller barbuda | ton de pel moi escuro</annotation>
 		<annotation cp="🧔🏿‍♀" type="tts">muller con barba: ton de pel moi escuro</annotation>
 		<annotation cp="👱🏻‍♀">loira | loura | muller | ton de pel moi claro</annotation>
 		<annotation cp="👱🏻‍♀" type="tts">muller loura: ton de pel moi claro</annotation>
@@ -1146,15 +1287,15 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🙎🏾‍♀" type="tts">muller furiosa: ton de pel escuro</annotation>
 		<annotation cp="🙎🏿‍♀">furiosa | ira | muller | rabia | ton de pel moi escuro | xesto</annotation>
 		<annotation cp="🙎🏿‍♀" type="tts">muller furiosa: ton de pel moi escuro</annotation>
-		<annotation cp="🙅🏻">prohibición | ton de pel moi claro | xesto | xesto de prohibición</annotation>
+		<annotation cp="🙅🏻">prohibición | ton de pel moi claro</annotation>
 		<annotation cp="🙅🏻" type="tts">xesto de prohibición: ton de pel moi claro</annotation>
-		<annotation cp="🙅🏼">prohibición | ton de pel claro | xesto | xesto de prohibición</annotation>
+		<annotation cp="🙅🏼">prohibición | ton de pel claro</annotation>
 		<annotation cp="🙅🏼" type="tts">xesto de prohibición: ton de pel claro</annotation>
-		<annotation cp="🙅🏽">prohibición | ton de pel medio | xesto | xesto de prohibición</annotation>
+		<annotation cp="🙅🏽">prohibición | ton de pel medio</annotation>
 		<annotation cp="🙅🏽" type="tts">xesto de prohibición: ton de pel medio</annotation>
-		<annotation cp="🙅🏾">prohibición | ton de pel escuro | xesto | xesto de prohibición</annotation>
+		<annotation cp="🙅🏾">prohibición | ton de pel escuro</annotation>
 		<annotation cp="🙅🏾" type="tts">xesto de prohibición: ton de pel escuro</annotation>
-		<annotation cp="🙅🏿">prohibición | ton de pel moi escuro | xesto | xesto de prohibición</annotation>
+		<annotation cp="🙅🏿">prohibición | ton de pel moi escuro</annotation>
 		<annotation cp="🙅🏿" type="tts">xesto de prohibición: ton de pel moi escuro</annotation>
 		<annotation cp="🙅🏻‍♂">home | home facendo xesto de prohibición | prohibición | ton de pel moi claro | xesto</annotation>
 		<annotation cp="🙅🏻‍♂" type="tts">home facendo xesto de prohibición: ton de pel moi claro</annotation>
@@ -1176,65 +1317,65 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🙅🏾‍♀" type="tts">muller facendo xesto de prohibición: ton de pel escuro</annotation>
 		<annotation cp="🙅🏿‍♀">muller | muller facendo xesto de prohibición | prohibición | ton de pel moi escuro | xesto</annotation>
 		<annotation cp="🙅🏿‍♀" type="tts">muller facendo xesto de prohibición: ton de pel moi escuro</annotation>
-		<annotation cp="🙆🏻">aprobación | hurra | mans na cabeza | persoa coas mans na cabeza | ton de pel moi claro | xesto</annotation>
+		<annotation cp="🙆🏻">aprobación | cabeza | hurra | mans na cabeza | ton de pel moi claro | xesto</annotation>
 		<annotation cp="🙆🏻" type="tts">persoa coas mans na cabeza: ton de pel moi claro</annotation>
-		<annotation cp="🙆🏼">aprobación | hurra | mans na cabeza | persoa coas mans na cabeza | ton de pel claro | xesto</annotation>
+		<annotation cp="🙆🏼">aprobación | cabeza | hurra | mans na cabeza | ton de pel claro | xesto</annotation>
 		<annotation cp="🙆🏼" type="tts">persoa coas mans na cabeza: ton de pel claro</annotation>
-		<annotation cp="🙆🏽">aprobación | hurra | mans na cabeza | persoa coas mans na cabeza | ton de pel medio | xesto</annotation>
+		<annotation cp="🙆🏽">aprobación | cabeza | hurra | mans na cabeza | ton de pel medio | xesto</annotation>
 		<annotation cp="🙆🏽" type="tts">persoa coas mans na cabeza: ton de pel medio</annotation>
-		<annotation cp="🙆🏾">aprobación | hurra | mans na cabeza | persoa coas mans na cabeza | ton de pel escuro | xesto</annotation>
+		<annotation cp="🙆🏾">aprobación | cabeza | hurra | mans na cabeza | ton de pel escuro | xesto</annotation>
 		<annotation cp="🙆🏾" type="tts">persoa coas mans na cabeza: ton de pel escuro</annotation>
-		<annotation cp="🙆🏿">aprobación | hurra | mans na cabeza | persoa coas mans na cabeza | ton de pel moi escuro | xesto</annotation>
+		<annotation cp="🙆🏿">aprobación | cabeza | hurra | mans na cabeza | ton de pel moi escuro | xesto</annotation>
 		<annotation cp="🙆🏿" type="tts">persoa coas mans na cabeza: ton de pel moi escuro</annotation>
-		<annotation cp="🙆🏻‍♂">aprobación | home coas mans na cabeza | hurra | mans na cabeza | ton de pel moi claro | xesto</annotation>
+		<annotation cp="🙆🏻‍♂">aprobación | cabeza | hurra | mans na cabeza | ton de pel moi claro | xesto</annotation>
 		<annotation cp="🙆🏻‍♂" type="tts">home coas mans na cabeza: ton de pel moi claro</annotation>
-		<annotation cp="🙆🏼‍♂">aprobación | home coas mans na cabeza | hurra | mans na cabeza | ton de pel claro | xesto</annotation>
+		<annotation cp="🙆🏼‍♂">aprobación | cabeza | hurra | mans na cabeza | ton de pel claro | xesto</annotation>
 		<annotation cp="🙆🏼‍♂" type="tts">home coas mans na cabeza: ton de pel claro</annotation>
-		<annotation cp="🙆🏽‍♂">aprobación | home coas mans na cabeza | hurra | mans na cabeza | ton de pel medio | xesto</annotation>
+		<annotation cp="🙆🏽‍♂">aprobación | cabeza | hurra | mans na cabeza | ton de pel medio | xesto</annotation>
 		<annotation cp="🙆🏽‍♂" type="tts">home coas mans na cabeza: ton de pel medio</annotation>
-		<annotation cp="🙆🏾‍♂">aprobación | home coas mans na cabeza | hurra | mans na cabeza | ton de pel escuro | xesto</annotation>
+		<annotation cp="🙆🏾‍♂">aprobación | cabeza | hurra | mans na cabeza | ton de pel escuro | xesto</annotation>
 		<annotation cp="🙆🏾‍♂" type="tts">home coas mans na cabeza: ton de pel escuro</annotation>
-		<annotation cp="🙆🏿‍♂">aprobación | home coas mans na cabeza | hurra | mans na cabeza | ton de pel moi escuro | xesto</annotation>
+		<annotation cp="🙆🏿‍♂">aprobación | cabeza | hurra | mans na cabeza | ton de pel moi escuro | xesto</annotation>
 		<annotation cp="🙆🏿‍♂" type="tts">home coas mans na cabeza: ton de pel moi escuro</annotation>
-		<annotation cp="🙆🏻‍♀">aprobación | hurra | mans na cabeza | muller coas mans na cabeza | ton de pel moi claro | xesto</annotation>
+		<annotation cp="🙆🏻‍♀">aprobación | cabeza | hurra | mans na cabeza | ton de pel moi claro | xesto</annotation>
 		<annotation cp="🙆🏻‍♀" type="tts">muller coas mans na cabeza: ton de pel moi claro</annotation>
-		<annotation cp="🙆🏼‍♀">aprobación | hurra | mans na cabeza | muller coas mans na cabeza | ton de pel claro | xesto</annotation>
+		<annotation cp="🙆🏼‍♀">aprobación | cabeza | hurra | mans na cabeza | ton de pel claro | xesto</annotation>
 		<annotation cp="🙆🏼‍♀" type="tts">muller coas mans na cabeza: ton de pel claro</annotation>
-		<annotation cp="🙆🏽‍♀">aprobación | hurra | mans na cabeza | muller coas mans na cabeza | ton de pel medio | xesto</annotation>
+		<annotation cp="🙆🏽‍♀">aprobación | cabeza | hurra | mans na cabeza | ton de pel medio | xesto</annotation>
 		<annotation cp="🙆🏽‍♀" type="tts">muller coas mans na cabeza: ton de pel medio</annotation>
-		<annotation cp="🙆🏾‍♀">aprobación | hurra | mans na cabeza | muller coas mans na cabeza | ton de pel escuro | xesto</annotation>
+		<annotation cp="🙆🏾‍♀">aprobación | cabeza | hurra | mans na cabeza | ton de pel escuro | xesto</annotation>
 		<annotation cp="🙆🏾‍♀" type="tts">muller coas mans na cabeza: ton de pel escuro</annotation>
-		<annotation cp="🙆🏿‍♀">aprobación | hurra | mans na cabeza | muller coas mans na cabeza | ton de pel moi escuro | xesto</annotation>
+		<annotation cp="🙆🏿‍♀">aprobación | cabeza | hurra | mans na cabeza | ton de pel moi escuro | xesto</annotation>
 		<annotation cp="🙆🏿‍♀" type="tts">muller coas mans na cabeza: ton de pel moi escuro</annotation>
-		<annotation cp="💁🏻">asistencia | axuda | información | man | medio levantada | persoa coa man medio levantada | ton de pel moi claro</annotation>
+		<annotation cp="💁🏻">asistencia | axuda | información | levantar | man | ton de pel moi claro</annotation>
 		<annotation cp="💁🏻" type="tts">persoa coa man medio levantada: ton de pel moi claro</annotation>
-		<annotation cp="💁🏼">asistencia | axuda | información | man | medio levantada | persoa coa man medio levantada | ton de pel claro</annotation>
+		<annotation cp="💁🏼">asistencia | axuda | información | levantar | man | ton de pel claro</annotation>
 		<annotation cp="💁🏼" type="tts">persoa coa man medio levantada: ton de pel claro</annotation>
-		<annotation cp="💁🏽">asistencia | axuda | información | man | medio levantada | persoa coa man medio levantada | ton de pel medio</annotation>
+		<annotation cp="💁🏽">asistencia | axuda | información | levantar | man | ton de pel medio</annotation>
 		<annotation cp="💁🏽" type="tts">persoa coa man medio levantada: ton de pel medio</annotation>
-		<annotation cp="💁🏾">asistencia | axuda | información | man | medio levantada | persoa coa man medio levantada | ton de pel escuro</annotation>
+		<annotation cp="💁🏾">asistencia | axuda | información | levantar | man | ton de pel escuro</annotation>
 		<annotation cp="💁🏾" type="tts">persoa coa man medio levantada: ton de pel escuro</annotation>
-		<annotation cp="💁🏿">asistencia | axuda | información | man | medio levantada | persoa coa man medio levantada | ton de pel moi escuro</annotation>
+		<annotation cp="💁🏿">asistencia | axuda | información | levantar | man | ton de pel moi escuro</annotation>
 		<annotation cp="💁🏿" type="tts">persoa coa man medio levantada: ton de pel moi escuro</annotation>
-		<annotation cp="💁🏻‍♂">asistencia | axuda levantada | home coa man medio levantada | información | man | medio levantada | ton de pel moi claro</annotation>
+		<annotation cp="💁🏻‍♂">asistencia | axuda | información | levantar | man | ton de pel moi claro</annotation>
 		<annotation cp="💁🏻‍♂" type="tts">home coa man medio levantada: ton de pel moi claro</annotation>
-		<annotation cp="💁🏼‍♂">asistencia | axuda levantada | home coa man medio levantada | información | man | medio levantada | ton de pel claro</annotation>
+		<annotation cp="💁🏼‍♂">asistencia | axuda | información | levantar | man | ton de pel claro</annotation>
 		<annotation cp="💁🏼‍♂" type="tts">home coa man medio levantada: ton de pel claro</annotation>
-		<annotation cp="💁🏽‍♂">asistencia | axuda levantada | home coa man medio levantada | información | man | medio levantada | ton de pel medio</annotation>
+		<annotation cp="💁🏽‍♂">asistencia | axuda | información | levantar | man | ton de pel medio</annotation>
 		<annotation cp="💁🏽‍♂" type="tts">home coa man medio levantada: ton de pel medio</annotation>
-		<annotation cp="💁🏾‍♂">asistencia | axuda levantada | home coa man medio levantada | información | man | medio levantada | ton de pel escuro</annotation>
+		<annotation cp="💁🏾‍♂">asistencia | axuda | información | levantar | man | ton de pel escuro</annotation>
 		<annotation cp="💁🏾‍♂" type="tts">home coa man medio levantada: ton de pel escuro</annotation>
-		<annotation cp="💁🏿‍♂">asistencia | axuda levantada | home coa man medio levantada | información | man | medio levantada | ton de pel moi escuro</annotation>
+		<annotation cp="💁🏿‍♂">asistencia | axuda | información | levantar | man | ton de pel moi escuro</annotation>
 		<annotation cp="💁🏿‍♂" type="tts">home coa man medio levantada: ton de pel moi escuro</annotation>
-		<annotation cp="💁🏻‍♀">asistencia | axuda | información | man | medio levantada | muller coa man medio levantada | ton de pel moi claro</annotation>
+		<annotation cp="💁🏻‍♀">asistencia | axuda | información | levantar | man | ton de pel moi claro</annotation>
 		<annotation cp="💁🏻‍♀" type="tts">muller coa man medio levantada: ton de pel moi claro</annotation>
-		<annotation cp="💁🏼‍♀">asistencia | axuda | información | man | medio levantada | muller coa man medio levantada | ton de pel claro</annotation>
+		<annotation cp="💁🏼‍♀">asistencia | axuda | información | levantar | man | ton de pel claro</annotation>
 		<annotation cp="💁🏼‍♀" type="tts">muller coa man medio levantada: ton de pel claro</annotation>
-		<annotation cp="💁🏽‍♀">asistencia | axuda | información | man | medio levantada | muller coa man medio levantada | ton de pel medio</annotation>
+		<annotation cp="💁🏽‍♀">asistencia | axuda | información | levantar | man | ton de pel medio</annotation>
 		<annotation cp="💁🏽‍♀" type="tts">muller coa man medio levantada: ton de pel medio</annotation>
-		<annotation cp="💁🏾‍♀">asistencia | axuda | información | man | medio levantada | muller coa man medio levantada | ton de pel escuro</annotation>
+		<annotation cp="💁🏾‍♀">asistencia | axuda | información | levantar | man | ton de pel escuro</annotation>
 		<annotation cp="💁🏾‍♀" type="tts">muller coa man medio levantada: ton de pel escuro</annotation>
-		<annotation cp="💁🏿‍♀">asistencia | axuda | información | man | medio levantada | muller coa man medio levantada | ton de pel moi escuro</annotation>
+		<annotation cp="💁🏿‍♀">asistencia | axuda | información | levantar | man | ton de pel moi escuro</annotation>
 		<annotation cp="💁🏿‍♀" type="tts">muller coa man medio levantada: ton de pel moi escuro</annotation>
 		<annotation cp="🙋🏻">levantar a man | man levantada | ton de pel moi claro | xesto</annotation>
 		<annotation cp="🙋🏻" type="tts">levantar a man: ton de pel moi claro</annotation>
@@ -1266,35 +1407,35 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🙋🏾‍♀" type="tts">muller levantando a man: ton de pel escuro</annotation>
 		<annotation cp="🙋🏿‍♀">man levantada | muller | muller levantando a man | ton de pel moi escuro | xesto</annotation>
 		<annotation cp="🙋🏿‍♀" type="tts">muller levantando a man: ton de pel moi escuro</annotation>
-		<annotation cp="🧏🏻">discapacidade | linguaxe de signos | persoa xorda | ton de pel moi claro | xordo</annotation>
+		<annotation cp="🧏🏻">discapacidade | linguaxe de signos | ton de pel moi claro | xordo</annotation>
 		<annotation cp="🧏🏻" type="tts">persoa xorda: ton de pel moi claro</annotation>
-		<annotation cp="🧏🏼">discapacidade | linguaxe de signos | persoa xorda | ton de pel claro | xordo</annotation>
+		<annotation cp="🧏🏼">discapacidade | linguaxe de signos | ton de pel claro | xordo</annotation>
 		<annotation cp="🧏🏼" type="tts">persoa xorda: ton de pel claro</annotation>
-		<annotation cp="🧏🏽">discapacidade | linguaxe de signos | persoa xorda | ton de pel medio | xordo</annotation>
+		<annotation cp="🧏🏽">discapacidade | linguaxe de signos | ton de pel medio | xordo</annotation>
 		<annotation cp="🧏🏽" type="tts">persoa xorda: ton de pel medio</annotation>
-		<annotation cp="🧏🏾">discapacidade | linguaxe de signos | persoa xorda | ton de pel escuro | xordo</annotation>
+		<annotation cp="🧏🏾">discapacidade | linguaxe de signos | ton de pel escuro | xordo</annotation>
 		<annotation cp="🧏🏾" type="tts">persoa xorda: ton de pel escuro</annotation>
-		<annotation cp="🧏🏿">discapacidade | linguaxe de signos | persoa xorda | ton de pel moi escuro | xordo</annotation>
+		<annotation cp="🧏🏿">discapacidade | linguaxe de signos | ton de pel moi escuro | xordo</annotation>
 		<annotation cp="🧏🏿" type="tts">persoa xorda: ton de pel moi escuro</annotation>
-		<annotation cp="🧏🏻‍♂">discapacidade | home xordo | linguaxe de signos | ton de pel moi claro | xordo</annotation>
+		<annotation cp="🧏🏻‍♂">discapacidade | linguaxe de signos | ton de pel moi claro | xordo</annotation>
 		<annotation cp="🧏🏻‍♂" type="tts">home xordo: ton de pel moi claro</annotation>
-		<annotation cp="🧏🏼‍♂">discapacidade | home xordo | linguaxe de signos | ton de pel claro | xordo</annotation>
+		<annotation cp="🧏🏼‍♂">discapacidade | linguaxe de signos | ton de pel claro | xordo</annotation>
 		<annotation cp="🧏🏼‍♂" type="tts">home xordo: ton de pel claro</annotation>
-		<annotation cp="🧏🏽‍♂">discapacidade | home xordo | linguaxe de signos | ton de pel medio | xordo</annotation>
+		<annotation cp="🧏🏽‍♂">discapacidade | linguaxe de signos | ton de pel medio | xordo</annotation>
 		<annotation cp="🧏🏽‍♂" type="tts">home xordo: ton de pel medio</annotation>
-		<annotation cp="🧏🏾‍♂">discapacidade | home xordo | linguaxe de signos | ton de pel escuro | xordo</annotation>
+		<annotation cp="🧏🏾‍♂">discapacidade | linguaxe de signos | ton de pel escuro | xordo</annotation>
 		<annotation cp="🧏🏾‍♂" type="tts">home xordo: ton de pel escuro</annotation>
-		<annotation cp="🧏🏿‍♂">discapacidade | home xordo | linguaxe de signos | ton de pel moi escuro | xordo</annotation>
+		<annotation cp="🧏🏿‍♂">discapacidade | linguaxe de signos | ton de pel moi escuro | xordo</annotation>
 		<annotation cp="🧏🏿‍♂" type="tts">home xordo: ton de pel moi escuro</annotation>
-		<annotation cp="🧏🏻‍♀">discapacidade | linguaxe de signos | muller xorda | ton de pel moi claro | xorda</annotation>
+		<annotation cp="🧏🏻‍♀">discapacidade | linguaxe de signos | ton de pel moi claro | xorda</annotation>
 		<annotation cp="🧏🏻‍♀" type="tts">muller xorda: ton de pel moi claro</annotation>
-		<annotation cp="🧏🏼‍♀">discapacidade | linguaxe de signos | muller xorda | ton de pel claro | xorda</annotation>
+		<annotation cp="🧏🏼‍♀">discapacidade | linguaxe de signos | ton de pel claro | xorda</annotation>
 		<annotation cp="🧏🏼‍♀" type="tts">muller xorda: ton de pel claro</annotation>
-		<annotation cp="🧏🏽‍♀">discapacidade | linguaxe de signos | muller xorda | ton de pel medio | xorda</annotation>
+		<annotation cp="🧏🏽‍♀">discapacidade | linguaxe de signos | ton de pel medio | xorda</annotation>
 		<annotation cp="🧏🏽‍♀" type="tts">muller xorda: ton de pel medio</annotation>
-		<annotation cp="🧏🏾‍♀">discapacidade | linguaxe de signos | muller xorda | ton de pel escuro | xorda</annotation>
+		<annotation cp="🧏🏾‍♀">discapacidade | linguaxe de signos | ton de pel escuro | xorda</annotation>
 		<annotation cp="🧏🏾‍♀" type="tts">muller xorda: ton de pel escuro</annotation>
-		<annotation cp="🧏🏿‍♀">discapacidade | linguaxe de signos | muller xorda | ton de pel moi escuro | xorda</annotation>
+		<annotation cp="🧏🏿‍♀">discapacidade | linguaxe de signos | ton de pel moi escuro | xorda</annotation>
 		<annotation cp="🧏🏿‍♀" type="tts">muller xorda: ton de pel moi escuro</annotation>
 		<annotation cp="🙇🏻">desculpas | reverencia | ton de pel moi claro | xesto</annotation>
 		<annotation cp="🙇🏻" type="tts">reverencia: ton de pel moi claro</annotation>
@@ -1386,15 +1527,15 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🤷🏾‍♀" type="tts">muller facendo xesto de “nin idea”: ton de pel escuro</annotation>
 		<annotation cp="🤷🏿‍♀">dúbida | ignorancia | muller | muller facendo xesto de “nin idea” | ton de pel moi escuro | xesto</annotation>
 		<annotation cp="🤷🏿‍♀" type="tts">muller facendo xesto de “nin idea”: ton de pel moi escuro</annotation>
-		<annotation cp="🧑🏻‍⚕">enfermeiro | home | médico | persoa sanitaria | sanitario | ton de pel moi claro</annotation>
+		<annotation cp="🧑🏻‍⚕">enfermeiro | home | médico | sanitario | ton de pel moi claro</annotation>
 		<annotation cp="🧑🏻‍⚕" type="tts">persoa sanitaria: ton de pel moi claro</annotation>
-		<annotation cp="🧑🏼‍⚕">enfermeiro | home | médico | persoa sanitaria | sanitario | ton de pel claro</annotation>
+		<annotation cp="🧑🏼‍⚕">enfermeiro | home | médico | sanitario | ton de pel claro</annotation>
 		<annotation cp="🧑🏼‍⚕" type="tts">persoa sanitaria: ton de pel claro</annotation>
-		<annotation cp="🧑🏽‍⚕">enfermeiro | home | médico | persoa sanitaria | sanitario | ton de pel medio</annotation>
+		<annotation cp="🧑🏽‍⚕">enfermeiro | home | médico | sanitario | ton de pel medio</annotation>
 		<annotation cp="🧑🏽‍⚕" type="tts">persoa sanitaria: ton de pel medio</annotation>
-		<annotation cp="🧑🏾‍⚕">enfermeiro | home | médico | persoa sanitaria | sanitario | ton de pel escuro</annotation>
+		<annotation cp="🧑🏾‍⚕">enfermeiro | home | médico | sanitario | ton de pel escuro</annotation>
 		<annotation cp="🧑🏾‍⚕" type="tts">persoa sanitaria: ton de pel escuro</annotation>
-		<annotation cp="🧑🏿‍⚕">enfermeiro | home | médico | persoa sanitaria | sanitario | ton de pel moi escuro</annotation>
+		<annotation cp="🧑🏿‍⚕">enfermeiro | home | médico | sanitario | ton de pel moi escuro</annotation>
 		<annotation cp="🧑🏿‍⚕" type="tts">persoa sanitaria: ton de pel moi escuro</annotation>
 		<annotation cp="👨🏻‍⚕">enfermeiro | home | médico | ton de pel moi claro | traballador sanitario</annotation>
 		<annotation cp="👨🏻‍⚕" type="tts">traballador sanitario: ton de pel moi claro</annotation>
@@ -1416,15 +1557,15 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👩🏾‍⚕" type="tts">traballadora sanitaria: ton de pel escuro</annotation>
 		<annotation cp="👩🏿‍⚕">enfermeira | médica | muller | ton de pel moi escuro | traballadora sanitaria</annotation>
 		<annotation cp="👩🏿‍⚕" type="tts">traballadora sanitaria: ton de pel moi escuro</annotation>
-		<annotation cp="🧑🏻‍🎓">estudante | graduado | ton de pel moi claro | universitario</annotation>
+		<annotation cp="🧑🏻‍🎓">graduado | ton de pel moi claro | universitario</annotation>
 		<annotation cp="🧑🏻‍🎓" type="tts">estudante: ton de pel moi claro</annotation>
-		<annotation cp="🧑🏼‍🎓">estudante | graduado | ton de pel claro | universitario</annotation>
+		<annotation cp="🧑🏼‍🎓">graduado | ton de pel claro | universitario</annotation>
 		<annotation cp="🧑🏼‍🎓" type="tts">estudante: ton de pel claro</annotation>
-		<annotation cp="🧑🏽‍🎓">estudante | graduado | ton de pel medio | universitario</annotation>
+		<annotation cp="🧑🏽‍🎓">graduado | ton de pel medio | universitario</annotation>
 		<annotation cp="🧑🏽‍🎓" type="tts">estudante: ton de pel medio</annotation>
-		<annotation cp="🧑🏾‍🎓">estudante | graduado | ton de pel escuro | universitario</annotation>
+		<annotation cp="🧑🏾‍🎓">graduado | ton de pel escuro | universitario</annotation>
 		<annotation cp="🧑🏾‍🎓" type="tts">estudante: ton de pel escuro</annotation>
-		<annotation cp="🧑🏿‍🎓">estudante | graduado | ton de pel moi escuro | universitario</annotation>
+		<annotation cp="🧑🏿‍🎓">graduado | ton de pel moi escuro | universitario</annotation>
 		<annotation cp="🧑🏿‍🎓" type="tts">estudante: ton de pel moi escuro</annotation>
 		<annotation cp="👨🏻‍🎓">estudante | estudante de sexo masculino | graduado | home | ton de pel moi claro | universitario</annotation>
 		<annotation cp="👨🏻‍🎓" type="tts">estudante de sexo masculino: ton de pel moi claro</annotation>
@@ -1446,15 +1587,15 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👩🏾‍🎓" type="tts">estudante de sexo feminino: ton de pel escuro</annotation>
 		<annotation cp="👩🏿‍🎓">estudante | estudante de sexo feminino | graduada | muller | ton de pel moi escuro | universitaria</annotation>
 		<annotation cp="👩🏿‍🎓" type="tts">estudante de sexo feminino: ton de pel moi escuro</annotation>
-		<annotation cp="🧑🏻‍🏫">ensinante | escola | mestre | profesor | ton de pel moi claro</annotation>
+		<annotation cp="🧑🏻‍🏫">escola | mestre | profesor | ton de pel moi claro</annotation>
 		<annotation cp="🧑🏻‍🏫" type="tts">ensinante: ton de pel moi claro</annotation>
-		<annotation cp="🧑🏼‍🏫">ensinante | escola | mestre | profesor | ton de pel claro</annotation>
+		<annotation cp="🧑🏼‍🏫">escola | mestre | profesor | ton de pel claro</annotation>
 		<annotation cp="🧑🏼‍🏫" type="tts">ensinante: ton de pel claro</annotation>
-		<annotation cp="🧑🏽‍🏫">ensinante | escola | mestre | profesor | ton de pel medio</annotation>
+		<annotation cp="🧑🏽‍🏫">escola | mestre | profesor | ton de pel medio</annotation>
 		<annotation cp="🧑🏽‍🏫" type="tts">ensinante: ton de pel medio</annotation>
-		<annotation cp="🧑🏾‍🏫">ensinante | escola | mestre | profesor | ton de pel escuro</annotation>
+		<annotation cp="🧑🏾‍🏫">escola | mestre | profesor | ton de pel escuro</annotation>
 		<annotation cp="🧑🏾‍🏫" type="tts">ensinante: ton de pel escuro</annotation>
-		<annotation cp="🧑🏿‍🏫">ensinante | escola | mestre | profesor | ton de pel moi escuro</annotation>
+		<annotation cp="🧑🏿‍🏫">escola | mestre | profesor | ton de pel moi escuro</annotation>
 		<annotation cp="🧑🏿‍🏫" type="tts">ensinante: ton de pel moi escuro</annotation>
 		<annotation cp="👨🏻‍🏫">escola | home | mestre | profesor | ton de pel moi claro</annotation>
 		<annotation cp="👨🏻‍🏫" type="tts">profesor: ton de pel moi claro</annotation>
@@ -1466,25 +1607,25 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👨🏾‍🏫" type="tts">profesor: ton de pel escuro</annotation>
 		<annotation cp="👨🏿‍🏫">escola | home | mestre | profesor | ton de pel moi escuro</annotation>
 		<annotation cp="👨🏿‍🏫" type="tts">profesor: ton de pel moi escuro</annotation>
-		<annotation cp="👩🏻‍🏫">colexio | escola | mestra | muller | profesora | ton de pel moi claro</annotation>
+		<annotation cp="👩🏻‍🏫">colexio | escola | mestra | muller | ton de pel moi claro</annotation>
 		<annotation cp="👩🏻‍🏫" type="tts">profesora: ton de pel moi claro</annotation>
-		<annotation cp="👩🏼‍🏫">colexio | escola | mestra | muller | profesora | ton de pel claro</annotation>
+		<annotation cp="👩🏼‍🏫">colexio | escola | mestra | muller | ton de pel claro</annotation>
 		<annotation cp="👩🏼‍🏫" type="tts">profesora: ton de pel claro</annotation>
-		<annotation cp="👩🏽‍🏫">colexio | escola | mestra | muller | profesora | ton de pel medio</annotation>
+		<annotation cp="👩🏽‍🏫">colexio | escola | mestra | muller | ton de pel medio</annotation>
 		<annotation cp="👩🏽‍🏫" type="tts">profesora: ton de pel medio</annotation>
-		<annotation cp="👩🏾‍🏫">colexio | escola | mestra | muller | profesora | ton de pel escuro</annotation>
+		<annotation cp="👩🏾‍🏫">colexio | escola | mestra | muller | ton de pel escuro</annotation>
 		<annotation cp="👩🏾‍🏫" type="tts">profesora: ton de pel escuro</annotation>
-		<annotation cp="👩🏿‍🏫">colexio | escola | mestra | muller | profesora | ton de pel moi escuro</annotation>
+		<annotation cp="👩🏿‍🏫">colexio | escola | mestra | muller | ton de pel moi escuro</annotation>
 		<annotation cp="👩🏿‍🏫" type="tts">profesora: ton de pel moi escuro</annotation>
-		<annotation cp="🧑🏻‍⚖">balanza | membro da xudicatura | ton de pel moi claro | xudicatura | xuíz | xustiza</annotation>
+		<annotation cp="🧑🏻‍⚖">balanza | ton de pel moi claro | xudicatura | xuíz | xustiza</annotation>
 		<annotation cp="🧑🏻‍⚖" type="tts">membro da xudicatura: ton de pel moi claro</annotation>
-		<annotation cp="🧑🏼‍⚖">balanza | membro da xudicatura | ton de pel claro | xudicatura | xuíz | xustiza</annotation>
+		<annotation cp="🧑🏼‍⚖">balanza | ton de pel claro | xudicatura | xuíz | xustiza</annotation>
 		<annotation cp="🧑🏼‍⚖" type="tts">membro da xudicatura: ton de pel claro</annotation>
-		<annotation cp="🧑🏽‍⚖">balanza | membro da xudicatura | ton de pel medio | xudicatura | xuíz | xustiza</annotation>
+		<annotation cp="🧑🏽‍⚖">balanza | ton de pel medio | xudicatura | xuíz | xustiza</annotation>
 		<annotation cp="🧑🏽‍⚖" type="tts">membro da xudicatura: ton de pel medio</annotation>
-		<annotation cp="🧑🏾‍⚖">balanza | membro da xudicatura | ton de pel escuro | xudicatura | xuíz | xustiza</annotation>
+		<annotation cp="🧑🏾‍⚖">balanza | ton de pel escuro | xudicatura | xuíz | xustiza</annotation>
 		<annotation cp="🧑🏾‍⚖" type="tts">membro da xudicatura: ton de pel escuro</annotation>
-		<annotation cp="🧑🏿‍⚖">balanza | membro da xudicatura | ton de pel moi escuro | xudicatura | xuíz | xustiza</annotation>
+		<annotation cp="🧑🏿‍⚖">balanza | ton de pel moi escuro | xudicatura | xuíz | xustiza</annotation>
 		<annotation cp="🧑🏿‍⚖" type="tts">membro da xudicatura: ton de pel moi escuro</annotation>
 		<annotation cp="👨🏻‍⚖">balanza | home | ton de pel moi claro | xuíz | xustiza</annotation>
 		<annotation cp="👨🏻‍⚖" type="tts">xuíz: ton de pel moi claro</annotation>
@@ -1506,15 +1647,15 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👩🏾‍⚖" type="tts">xuíza: ton de pel escuro</annotation>
 		<annotation cp="👩🏿‍⚖">balanza | muller | ton de pel moi escuro | xuíza | xustiza</annotation>
 		<annotation cp="👩🏿‍⚖" type="tts">xuíza: ton de pel moi escuro</annotation>
-		<annotation cp="🧑🏻‍🌾">agricultor | cultivo | gando | granxeiro | persoa dedicada á agricultura | ton de pel moi claro</annotation>
+		<annotation cp="🧑🏻‍🌾">agricultor | cultivo | gando | granxeiro | ton de pel moi claro</annotation>
 		<annotation cp="🧑🏻‍🌾" type="tts">persoa dedicada á agricultura: ton de pel moi claro</annotation>
-		<annotation cp="🧑🏼‍🌾">agricultor | cultivo | gando | granxeiro | persoa dedicada á agricultura | ton de pel claro</annotation>
+		<annotation cp="🧑🏼‍🌾">agricultor | cultivo | gando | granxeiro | ton de pel claro</annotation>
 		<annotation cp="🧑🏼‍🌾" type="tts">persoa dedicada á agricultura: ton de pel claro</annotation>
-		<annotation cp="🧑🏽‍🌾">agricultor | cultivo | gando | granxeiro | persoa dedicada á agricultura | ton de pel medio</annotation>
+		<annotation cp="🧑🏽‍🌾">agricultor | cultivo | gando | granxeiro | ton de pel medio</annotation>
 		<annotation cp="🧑🏽‍🌾" type="tts">persoa dedicada á agricultura: ton de pel medio</annotation>
-		<annotation cp="🧑🏾‍🌾">agricultor | cultivo | gando | granxeiro | persoa dedicada á agricultura | ton de pel escuro</annotation>
+		<annotation cp="🧑🏾‍🌾">agricultor | cultivo | gando | granxeiro | ton de pel escuro</annotation>
 		<annotation cp="🧑🏾‍🌾" type="tts">persoa dedicada á agricultura: ton de pel escuro</annotation>
-		<annotation cp="🧑🏿‍🌾">agricultor | cultivo | gando | granxeiro | persoa dedicada á agricultura | ton de pel moi escuro</annotation>
+		<annotation cp="🧑🏿‍🌾">agricultor | cultivo | gando | granxeiro | ton de pel moi escuro</annotation>
 		<annotation cp="🧑🏿‍🌾" type="tts">persoa dedicada á agricultura: ton de pel moi escuro</annotation>
 		<annotation cp="👨🏻‍🌾">agricultor | cultivo | gando | granxeiro | home | ton de pel moi claro</annotation>
 		<annotation cp="👨🏻‍🌾" type="tts">agricultor: ton de pel moi claro</annotation>
@@ -1536,15 +1677,15 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👩🏾‍🌾" type="tts">agricultora: ton de pel escuro</annotation>
 		<annotation cp="👩🏿‍🌾">agricultora | cultivo | gando | granxeira | muller | ton de pel moi escuro</annotation>
 		<annotation cp="👩🏿‍🌾" type="tts">agricultora: ton de pel moi escuro</annotation>
-		<annotation cp="🧑🏻‍🍳">cociña | profesional da cociña | ton de pel moi claro | xefe de cociña</annotation>
+		<annotation cp="🧑🏻‍🍳">cociña | ton de pel moi claro | xefe de cociña</annotation>
 		<annotation cp="🧑🏻‍🍳" type="tts">profesional da cociña: ton de pel moi claro</annotation>
-		<annotation cp="🧑🏼‍🍳">cociña | profesional da cociña | ton de pel claro | xefe de cociña</annotation>
+		<annotation cp="🧑🏼‍🍳">cociña | ton de pel claro | xefe de cociña</annotation>
 		<annotation cp="🧑🏼‍🍳" type="tts">profesional da cociña: ton de pel claro</annotation>
-		<annotation cp="🧑🏽‍🍳">cociña | profesional da cociña | ton de pel medio | xefe de cociña</annotation>
+		<annotation cp="🧑🏽‍🍳">cociña | ton de pel medio | xefe de cociña</annotation>
 		<annotation cp="🧑🏽‍🍳" type="tts">profesional da cociña: ton de pel medio</annotation>
-		<annotation cp="🧑🏾‍🍳">cociña | profesional da cociña | ton de pel escuro | xefe de cociña</annotation>
+		<annotation cp="🧑🏾‍🍳">cociña | ton de pel escuro | xefe de cociña</annotation>
 		<annotation cp="🧑🏾‍🍳" type="tts">profesional da cociña: ton de pel escuro</annotation>
-		<annotation cp="🧑🏿‍🍳">cociña | profesional da cociña | ton de pel moi escuro | xefe de cociña</annotation>
+		<annotation cp="🧑🏿‍🍳">cociña | ton de pel moi escuro | xefe de cociña</annotation>
 		<annotation cp="🧑🏿‍🍳" type="tts">profesional da cociña: ton de pel moi escuro</annotation>
 		<annotation cp="👨🏻‍🍳">cociñar | cociñeiro | home | ton de pel moi claro | xefe de cociña</annotation>
 		<annotation cp="👨🏻‍🍳" type="tts">cociñeiro: ton de pel moi claro</annotation>
@@ -1566,15 +1707,15 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👩🏾‍🍳" type="tts">cociñeira: ton de pel escuro</annotation>
 		<annotation cp="👩🏿‍🍳">cociñar | cociñeira | muller | ton de pel moi escuro | xefa de cociña</annotation>
 		<annotation cp="👩🏿‍🍳" type="tts">cociñeira: ton de pel moi escuro</annotation>
-		<annotation cp="🧑🏻‍🔧">electricidade | fontaneiría | mecánica | profesional da mecánica | ton de pel moi claro</annotation>
+		<annotation cp="🧑🏻‍🔧">electricidade | fontaneiría | mecánica | ton de pel moi claro</annotation>
 		<annotation cp="🧑🏻‍🔧" type="tts">profesional da mecánica: ton de pel moi claro</annotation>
-		<annotation cp="🧑🏼‍🔧">electricidade | fontaneiría | mecánica | profesional da mecánica | ton de pel claro</annotation>
+		<annotation cp="🧑🏼‍🔧">electricidade | fontaneiría | mecánica | ton de pel claro</annotation>
 		<annotation cp="🧑🏼‍🔧" type="tts">profesional da mecánica: ton de pel claro</annotation>
-		<annotation cp="🧑🏽‍🔧">electricidade | fontaneiría | mecánica | profesional da mecánica | ton de pel medio</annotation>
+		<annotation cp="🧑🏽‍🔧">electricidade | fontaneiría | mecánica | ton de pel medio</annotation>
 		<annotation cp="🧑🏽‍🔧" type="tts">profesional da mecánica: ton de pel medio</annotation>
-		<annotation cp="🧑🏾‍🔧">electricidade | fontaneiría | mecánica | profesional da mecánica | ton de pel escuro</annotation>
+		<annotation cp="🧑🏾‍🔧">electricidade | fontaneiría | mecánica | ton de pel escuro</annotation>
 		<annotation cp="🧑🏾‍🔧" type="tts">profesional da mecánica: ton de pel escuro</annotation>
-		<annotation cp="🧑🏿‍🔧">electricidade | fontaneiría | mecánica | profesional da mecánica | ton de pel moi escuro</annotation>
+		<annotation cp="🧑🏿‍🔧">electricidade | fontaneiría | mecánica | ton de pel moi escuro</annotation>
 		<annotation cp="🧑🏿‍🔧" type="tts">profesional da mecánica: ton de pel moi escuro</annotation>
 		<annotation cp="👨🏻‍🔧">electricista | fontaneiro | home | mecánico | ton de pel moi claro</annotation>
 		<annotation cp="👨🏻‍🔧" type="tts">mecánico: ton de pel moi claro</annotation>
@@ -1596,15 +1737,15 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👩🏾‍🔧" type="tts">mecánica: ton de pel escuro</annotation>
 		<annotation cp="👩🏿‍🔧">electricista | fontaneira | mecánica | muller | ton de pel moi escuro</annotation>
 		<annotation cp="👩🏿‍🔧" type="tts">mecánica: ton de pel moi escuro</annotation>
-		<annotation cp="🧑🏻‍🏭">fábrica | obreiro | operario | ton de pel moi claro | traballador | traballador de fábrica</annotation>
+		<annotation cp="🧑🏻‍🏭">fábrica | obreiro | operario | ton de pel moi claro | traballador</annotation>
 		<annotation cp="🧑🏻‍🏭" type="tts">traballador de fábrica: ton de pel moi claro</annotation>
-		<annotation cp="🧑🏼‍🏭">fábrica | obreiro | operario | ton de pel claro | traballador | traballador de fábrica</annotation>
+		<annotation cp="🧑🏼‍🏭">fábrica | obreiro | operario | ton de pel claro | traballador</annotation>
 		<annotation cp="🧑🏼‍🏭" type="tts">traballador de fábrica: ton de pel claro</annotation>
-		<annotation cp="🧑🏽‍🏭">fábrica | obreiro | operario | ton de pel medio | traballador | traballador de fábrica</annotation>
+		<annotation cp="🧑🏽‍🏭">fábrica | obreiro | operario | ton de pel medio | traballador</annotation>
 		<annotation cp="🧑🏽‍🏭" type="tts">traballador de fábrica: ton de pel medio</annotation>
-		<annotation cp="🧑🏾‍🏭">fábrica | obreiro | operario | ton de pel escuro | traballador | traballador de fábrica</annotation>
+		<annotation cp="🧑🏾‍🏭">fábrica | obreiro | operario | ton de pel escuro | traballador</annotation>
 		<annotation cp="🧑🏾‍🏭" type="tts">traballador de fábrica: ton de pel escuro</annotation>
-		<annotation cp="🧑🏿‍🏭">fábrica | obreiro | operario | ton de pel moi escuro | traballador | traballador de fábrica</annotation>
+		<annotation cp="🧑🏿‍🏭">fábrica | obreiro | operario | ton de pel moi escuro | traballador</annotation>
 		<annotation cp="🧑🏿‍🏭" type="tts">traballador de fábrica: ton de pel moi escuro</annotation>
 		<annotation cp="👨🏻‍🏭">fábrica | home | obreiro | operario | ton de pel moi claro | traballador</annotation>
 		<annotation cp="👨🏻‍🏭" type="tts">operario: ton de pel moi claro</annotation>
@@ -1626,15 +1767,15 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👩🏾‍🏭" type="tts">operaria: ton de pel escuro</annotation>
 		<annotation cp="👩🏿‍🏭">fábrica | muller | obreira | operaria | ton de pel moi escuro | traballadora</annotation>
 		<annotation cp="👩🏿‍🏭" type="tts">operaria: ton de pel moi escuro</annotation>
-		<annotation cp="🧑🏻‍💼">administrativo | empregado | oficinista | ton de pel moi claro</annotation>
+		<annotation cp="🧑🏻‍💼">administrativo | empregado | ton de pel moi claro</annotation>
 		<annotation cp="🧑🏻‍💼" type="tts">oficinista: ton de pel moi claro</annotation>
-		<annotation cp="🧑🏼‍💼">administrativo | empregado | oficinista | ton de pel claro</annotation>
+		<annotation cp="🧑🏼‍💼">administrativo | empregado | ton de pel claro</annotation>
 		<annotation cp="🧑🏼‍💼" type="tts">oficinista: ton de pel claro</annotation>
-		<annotation cp="🧑🏽‍💼">administrativo | empregado | oficinista | ton de pel medio</annotation>
+		<annotation cp="🧑🏽‍💼">administrativo | empregado | ton de pel medio</annotation>
 		<annotation cp="🧑🏽‍💼" type="tts">oficinista: ton de pel medio</annotation>
-		<annotation cp="🧑🏾‍💼">administrativo | empregado | oficinista | ton de pel escuro</annotation>
+		<annotation cp="🧑🏾‍💼">administrativo | empregado | ton de pel escuro</annotation>
 		<annotation cp="🧑🏾‍💼" type="tts">oficinista: ton de pel escuro</annotation>
-		<annotation cp="🧑🏿‍💼">administrativo | empregado | oficinista | ton de pel moi escuro</annotation>
+		<annotation cp="🧑🏿‍💼">administrativo | empregado | ton de pel moi escuro</annotation>
 		<annotation cp="🧑🏿‍💼" type="tts">oficinista: ton de pel moi escuro</annotation>
 		<annotation cp="👨🏻‍💼">administrativo | empregado | home | oficinista | ton de pel moi claro</annotation>
 		<annotation cp="👨🏻‍💼" type="tts">administrativo: ton de pel moi claro</annotation>
@@ -1656,15 +1797,15 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👩🏾‍💼" type="tts">administrativa: ton de pel escuro</annotation>
 		<annotation cp="👩🏿‍💼">administrativa | empregada | muller | oficinista | ton de pel moi escuro</annotation>
 		<annotation cp="👩🏿‍💼" type="tts">administrativa: ton de pel moi escuro</annotation>
-		<annotation cp="🧑🏻‍🔬">biólogo | científico | especialista en ciencia | químico | ton de pel moi claro</annotation>
+		<annotation cp="🧑🏻‍🔬">biólogo | ciencia | científico | químico | ton de pel moi claro</annotation>
 		<annotation cp="🧑🏻‍🔬" type="tts">especialista en ciencia: ton de pel moi claro</annotation>
-		<annotation cp="🧑🏼‍🔬">biólogo | científico | especialista en ciencia | químico | ton de pel claro</annotation>
+		<annotation cp="🧑🏼‍🔬">biólogo | ciencia | científico | químico | ton de pel claro</annotation>
 		<annotation cp="🧑🏼‍🔬" type="tts">especialista en ciencia: ton de pel claro</annotation>
-		<annotation cp="🧑🏽‍🔬">biólogo | científico | especialista en ciencia | químico | ton de pel medio</annotation>
+		<annotation cp="🧑🏽‍🔬">biólogo | ciencia | científico | químico | ton de pel medio</annotation>
 		<annotation cp="🧑🏽‍🔬" type="tts">especialista en ciencia: ton de pel medio</annotation>
-		<annotation cp="🧑🏾‍🔬">biólogo | científico | especialista en ciencia | químico | ton de pel escuro</annotation>
+		<annotation cp="🧑🏾‍🔬">biólogo | ciencia | científico | químico | ton de pel escuro</annotation>
 		<annotation cp="🧑🏾‍🔬" type="tts">especialista en ciencia: ton de pel escuro</annotation>
-		<annotation cp="🧑🏿‍🔬">biólogo | científico | especialista en ciencia | químico | ton de pel moi escuro</annotation>
+		<annotation cp="🧑🏿‍🔬">biólogo | ciencia | científico | químico | ton de pel moi escuro</annotation>
 		<annotation cp="🧑🏿‍🔬" type="tts">especialista en ciencia: ton de pel moi escuro</annotation>
 		<annotation cp="👨🏻‍🔬">biólogo | científico | home | químico | ton de pel moi claro</annotation>
 		<annotation cp="👨🏻‍🔬" type="tts">científico: ton de pel moi claro</annotation>
@@ -1716,15 +1857,15 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👩🏾‍💻" type="tts">informática: ton de pel escuro</annotation>
 		<annotation cp="👩🏿‍💻">informática | muller | programadora | software | ton de pel moi escuro</annotation>
 		<annotation cp="👩🏿‍💻" type="tts">informática: ton de pel moi escuro</annotation>
-		<annotation cp="🧑🏻‍🎤">cantante | estrela | presentador | rock | ton de pel moi claro</annotation>
+		<annotation cp="🧑🏻‍🎤">estrela | presentador | rock | ton de pel moi claro</annotation>
 		<annotation cp="🧑🏻‍🎤" type="tts">cantante: ton de pel moi claro</annotation>
-		<annotation cp="🧑🏼‍🎤">cantante | estrela | presentador | rock | ton de pel claro</annotation>
+		<annotation cp="🧑🏼‍🎤">estrela | presentador | rock | ton de pel claro</annotation>
 		<annotation cp="🧑🏼‍🎤" type="tts">cantante: ton de pel claro</annotation>
-		<annotation cp="🧑🏽‍🎤">cantante | estrela | presentador | rock | ton de pel medio</annotation>
+		<annotation cp="🧑🏽‍🎤">estrela | presentador | rock | ton de pel medio</annotation>
 		<annotation cp="🧑🏽‍🎤" type="tts">cantante: ton de pel medio</annotation>
-		<annotation cp="🧑🏾‍🎤">cantante | estrela | presentador | rock | ton de pel escuro</annotation>
+		<annotation cp="🧑🏾‍🎤">estrela | presentador | rock | ton de pel escuro</annotation>
 		<annotation cp="🧑🏾‍🎤" type="tts">cantante: ton de pel escuro</annotation>
-		<annotation cp="🧑🏿‍🎤">cantante | estrela | presentador | rock | ton de pel moi escuro</annotation>
+		<annotation cp="🧑🏿‍🎤">estrela | presentador | rock | ton de pel moi escuro</annotation>
 		<annotation cp="🧑🏿‍🎤" type="tts">cantante: ton de pel moi escuro</annotation>
 		<annotation cp="👨🏻‍🎤">actor | cantante | cantante de sexo masculino | home | rock | ton de pel moi claro</annotation>
 		<annotation cp="👨🏻‍🎤" type="tts">cantante de sexo masculino: ton de pel moi claro</annotation>
@@ -1746,15 +1887,15 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👩🏾‍🎤" type="tts">cantante de sexo feminino: ton de pel escuro</annotation>
 		<annotation cp="👩🏿‍🎤">actriz | cantante | cantante de sexo feminino | muller | rock | ton de pel moi escuro</annotation>
 		<annotation cp="👩🏿‍🎤" type="tts">cantante de sexo feminino: ton de pel moi escuro</annotation>
-		<annotation cp="🧑🏻‍🎨">artista | paleta | pintor | ton de pel moi claro</annotation>
+		<annotation cp="🧑🏻‍🎨">paleta | pintor | ton de pel moi claro</annotation>
 		<annotation cp="🧑🏻‍🎨" type="tts">artista: ton de pel moi claro</annotation>
-		<annotation cp="🧑🏼‍🎨">artista | paleta | pintor | ton de pel claro</annotation>
+		<annotation cp="🧑🏼‍🎨">paleta | pintor | ton de pel claro</annotation>
 		<annotation cp="🧑🏼‍🎨" type="tts">artista: ton de pel claro</annotation>
-		<annotation cp="🧑🏽‍🎨">artista | paleta | pintor | ton de pel medio</annotation>
+		<annotation cp="🧑🏽‍🎨">paleta | pintor | ton de pel medio</annotation>
 		<annotation cp="🧑🏽‍🎨" type="tts">artista: ton de pel medio</annotation>
-		<annotation cp="🧑🏾‍🎨">artista | paleta | pintor | ton de pel escuro</annotation>
+		<annotation cp="🧑🏾‍🎨">paleta | pintor | ton de pel escuro</annotation>
 		<annotation cp="🧑🏾‍🎨" type="tts">artista: ton de pel escuro</annotation>
-		<annotation cp="🧑🏿‍🎨">artista | paleta | pintor | ton de pel moi escuro</annotation>
+		<annotation cp="🧑🏿‍🎨">paleta | pintor | ton de pel moi escuro</annotation>
 		<annotation cp="🧑🏿‍🎨" type="tts">artista: ton de pel moi escuro</annotation>
 		<annotation cp="👨🏻‍🎨">artista | home | paleta | pintor | ton de pel moi claro</annotation>
 		<annotation cp="👨🏻‍🎨" type="tts">pintor: ton de pel moi claro</annotation>
@@ -1776,15 +1917,15 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👩🏾‍🎨" type="tts">pintora: ton de pel escuro</annotation>
 		<annotation cp="👩🏿‍🎨">artista | muller | paleta | pintora | ton de pel moi escuro</annotation>
 		<annotation cp="👩🏿‍🎨" type="tts">pintora: ton de pel moi escuro</annotation>
-		<annotation cp="🧑🏻‍✈">avión | piloto | ton de pel moi claro</annotation>
+		<annotation cp="🧑🏻‍✈">avión | ton de pel moi claro</annotation>
 		<annotation cp="🧑🏻‍✈" type="tts">piloto: ton de pel moi claro</annotation>
-		<annotation cp="🧑🏼‍✈">avión | piloto | ton de pel claro</annotation>
+		<annotation cp="🧑🏼‍✈">avión | ton de pel claro</annotation>
 		<annotation cp="🧑🏼‍✈" type="tts">piloto: ton de pel claro</annotation>
-		<annotation cp="🧑🏽‍✈">avión | piloto | ton de pel medio</annotation>
+		<annotation cp="🧑🏽‍✈">avión | ton de pel medio</annotation>
 		<annotation cp="🧑🏽‍✈" type="tts">piloto: ton de pel medio</annotation>
-		<annotation cp="🧑🏾‍✈">avión | piloto | ton de pel escuro</annotation>
+		<annotation cp="🧑🏾‍✈">avión | ton de pel escuro</annotation>
 		<annotation cp="🧑🏾‍✈" type="tts">piloto: ton de pel escuro</annotation>
-		<annotation cp="🧑🏿‍✈">avión | piloto | ton de pel moi escuro</annotation>
+		<annotation cp="🧑🏿‍✈">avión | ton de pel moi escuro</annotation>
 		<annotation cp="🧑🏿‍✈" type="tts">piloto: ton de pel moi escuro</annotation>
 		<annotation cp="👨🏻‍✈">avión | home | piloto | piloto de sexo masculino | ton de pel moi claro</annotation>
 		<annotation cp="👨🏻‍✈" type="tts">piloto de sexo masculino: ton de pel moi claro</annotation>
@@ -1806,15 +1947,15 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👩🏾‍✈" type="tts">piloto de sexo feminino: ton de pel escuro</annotation>
 		<annotation cp="👩🏿‍✈">avión | muller | piloto | piloto de sexo feminino | ton de pel moi escuro</annotation>
 		<annotation cp="👩🏿‍✈" type="tts">piloto de sexo feminino: ton de pel moi escuro</annotation>
-		<annotation cp="🧑🏻‍🚀">astronauta | espazo | foguete | ton de pel moi claro</annotation>
+		<annotation cp="🧑🏻‍🚀">espazo | foguete | ton de pel moi claro</annotation>
 		<annotation cp="🧑🏻‍🚀" type="tts">astronauta: ton de pel moi claro</annotation>
-		<annotation cp="🧑🏼‍🚀">astronauta | espazo | foguete | ton de pel claro</annotation>
+		<annotation cp="🧑🏼‍🚀">espazo | foguete | ton de pel claro</annotation>
 		<annotation cp="🧑🏼‍🚀" type="tts">astronauta: ton de pel claro</annotation>
-		<annotation cp="🧑🏽‍🚀">astronauta | espazo | foguete | ton de pel medio</annotation>
+		<annotation cp="🧑🏽‍🚀">espazo | foguete | ton de pel medio</annotation>
 		<annotation cp="🧑🏽‍🚀" type="tts">astronauta: ton de pel medio</annotation>
-		<annotation cp="🧑🏾‍🚀">astronauta | espazo | foguete | ton de pel escuro</annotation>
+		<annotation cp="🧑🏾‍🚀">espazo | foguete | ton de pel escuro</annotation>
 		<annotation cp="🧑🏾‍🚀" type="tts">astronauta: ton de pel escuro</annotation>
-		<annotation cp="🧑🏿‍🚀">astronauta | espazo | foguete | ton de pel moi escuro</annotation>
+		<annotation cp="🧑🏿‍🚀">espazo | foguete | ton de pel moi escuro</annotation>
 		<annotation cp="🧑🏿‍🚀" type="tts">astronauta: ton de pel moi escuro</annotation>
 		<annotation cp="👨🏻‍🚀">astronauta | astronauta de sexo masculino | espazo | foguete | home | ton de pel moi claro</annotation>
 		<annotation cp="👨🏻‍🚀" type="tts">astronauta de sexo masculino: ton de pel moi claro</annotation>
@@ -1956,15 +2097,15 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="💂🏾‍♀" type="tts">garda real de sexo feminino: ton de pel escuro</annotation>
 		<annotation cp="💂🏿‍♀">garda | garda real de sexo feminino | muller | real | ton de pel moi escuro</annotation>
 		<annotation cp="💂🏿‍♀" type="tts">garda real de sexo feminino: ton de pel moi escuro</annotation>
-		<annotation cp="🥷🏻">combatente | guerreiro | ninja | silandeiro | sixiloso | ton de pel moi claro</annotation>
+		<annotation cp="🥷🏻">combatente | guerreiro | silandeiro | sixiloso | ton de pel moi claro</annotation>
 		<annotation cp="🥷🏻" type="tts">ninja: ton de pel moi claro</annotation>
-		<annotation cp="🥷🏼">combatente | guerreiro | ninja | silandeiro | sixiloso | ton de pel claro</annotation>
+		<annotation cp="🥷🏼">combatente | guerreiro | silandeiro | sixiloso | ton de pel claro</annotation>
 		<annotation cp="🥷🏼" type="tts">ninja: ton de pel claro</annotation>
-		<annotation cp="🥷🏽">combatente | guerreiro | ninja | silandeiro | sixiloso | ton de pel medio</annotation>
+		<annotation cp="🥷🏽">combatente | guerreiro | silandeiro | sixiloso | ton de pel medio</annotation>
 		<annotation cp="🥷🏽" type="tts">ninja: ton de pel medio</annotation>
-		<annotation cp="🥷🏾">combatente | guerreiro | ninja | silandeiro | sixiloso | ton de pel escuro</annotation>
+		<annotation cp="🥷🏾">combatente | guerreiro | silandeiro | sixiloso | ton de pel escuro</annotation>
 		<annotation cp="🥷🏾" type="tts">ninja: ton de pel escuro</annotation>
-		<annotation cp="🥷🏿">combatente | guerreiro | ninja | silandeiro | sixiloso | ton de pel moi escuro</annotation>
+		<annotation cp="🥷🏿">combatente | guerreiro | silandeiro | sixiloso | ton de pel moi escuro</annotation>
 		<annotation cp="🥷🏿" type="tts">ninja: ton de pel moi escuro</annotation>
 		<annotation cp="👷🏻">construción | obreiro | ton de pel moi claro | traballador | traballador da construción</annotation>
 		<annotation cp="👷🏻" type="tts">traballador da construción: ton de pel moi claro</annotation>
@@ -1996,6 +2137,16 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👷🏾‍♀" type="tts">obreira: ton de pel escuro</annotation>
 		<annotation cp="👷🏿‍♀">construción | muller | obreira | ton de pel moi escuro | traballadora</annotation>
 		<annotation cp="👷🏿‍♀" type="tts">obreira: ton de pel moi escuro</annotation>
+		<annotation cp="🫅🏻">maxestoso | monarca | nobre | realeza | ton de pel moi claro</annotation>
+		<annotation cp="🫅🏻" type="tts">persoa con coroa: ton de pel moi claro</annotation>
+		<annotation cp="🫅🏼">maxestoso | monarca | nobre | realeza | ton de pel claro</annotation>
+		<annotation cp="🫅🏼" type="tts">persoa con coroa: ton de pel claro</annotation>
+		<annotation cp="🫅🏽">maxestoso | monarca | nobre | realeza | ton de pel medio</annotation>
+		<annotation cp="🫅🏽" type="tts">persoa con coroa: ton de pel medio</annotation>
+		<annotation cp="🫅🏾">maxestoso | monarca | nobre | realeza | ton de pel escuro</annotation>
+		<annotation cp="🫅🏾" type="tts">persoa con coroa: ton de pel escuro</annotation>
+		<annotation cp="🫅🏿">maxestoso | monarca | nobre | realeza | ton de pel moi escuro</annotation>
+		<annotation cp="🫅🏿" type="tts">persoa con coroa: ton de pel moi escuro</annotation>
 		<annotation cp="🤴🏻">cara | príncipe | ton de pel moi claro</annotation>
 		<annotation cp="🤴🏻" type="tts">príncipe: ton de pel moi claro</annotation>
 		<annotation cp="🤴🏼">cara | príncipe | ton de pel claro</annotation>
@@ -2066,65 +2217,65 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🧕🏾" type="tts">muller con veo islámico: ton de pel escuro</annotation>
 		<annotation cp="🧕🏿">muller | muller con veo islámico | musulmá | ton de pel moi escuro | veo</annotation>
 		<annotation cp="🧕🏿" type="tts">muller con veo islámico: ton de pel moi escuro</annotation>
-		<annotation cp="🤵🏻">elegante | etiqueta | persoa con smóking | smóking | ton de pel moi claro | traxe | voda</annotation>
+		<annotation cp="🤵🏻">elegante | etiqueta | smóking | ton de pel moi claro | traxe | voda</annotation>
 		<annotation cp="🤵🏻" type="tts">persoa con smóking: ton de pel moi claro</annotation>
-		<annotation cp="🤵🏼">elegante | etiqueta | persoa con smóking | smóking | ton de pel claro | traxe | voda</annotation>
+		<annotation cp="🤵🏼">elegante | etiqueta | smóking | ton de pel claro | traxe | voda</annotation>
 		<annotation cp="🤵🏼" type="tts">persoa con smóking: ton de pel claro</annotation>
-		<annotation cp="🤵🏽">elegante | etiqueta | persoa con smóking | smóking | ton de pel medio | traxe | voda</annotation>
+		<annotation cp="🤵🏽">elegante | etiqueta | smóking | ton de pel medio | traxe | voda</annotation>
 		<annotation cp="🤵🏽" type="tts">persoa con smóking: ton de pel medio</annotation>
-		<annotation cp="🤵🏾">elegante | etiqueta | persoa con smóking | smóking | ton de pel escuro | traxe | voda</annotation>
+		<annotation cp="🤵🏾">elegante | etiqueta | smóking | ton de pel escuro | traxe | voda</annotation>
 		<annotation cp="🤵🏾" type="tts">persoa con smóking: ton de pel escuro</annotation>
-		<annotation cp="🤵🏿">elegante | etiqueta | persoa con smóking | smóking | ton de pel moi escuro | traxe | voda</annotation>
+		<annotation cp="🤵🏿">elegante | etiqueta | smóking | ton de pel moi escuro | traxe | voda</annotation>
 		<annotation cp="🤵🏿" type="tts">persoa con smóking: ton de pel moi escuro</annotation>
-		<annotation cp="🤵🏻‍♂">elegante | etiqueta | home con smóking | smóking | ton de pel moi claro | traxe | voda</annotation>
+		<annotation cp="🤵🏻‍♂">elegante | etiqueta | smóking | ton de pel moi claro | traxe | voda</annotation>
 		<annotation cp="🤵🏻‍♂" type="tts">home con smóking: ton de pel moi claro</annotation>
-		<annotation cp="🤵🏼‍♂">elegante | etiqueta | home con smóking | smóking | ton de pel claro | traxe | voda</annotation>
+		<annotation cp="🤵🏼‍♂">elegante | etiqueta | smóking | ton de pel claro | traxe | voda</annotation>
 		<annotation cp="🤵🏼‍♂" type="tts">home con smóking: ton de pel claro</annotation>
-		<annotation cp="🤵🏽‍♂">elegante | etiqueta | home con smóking | smóking | ton de pel medio | traxe | voda</annotation>
+		<annotation cp="🤵🏽‍♂">elegante | etiqueta | smóking | ton de pel medio | traxe | voda</annotation>
 		<annotation cp="🤵🏽‍♂" type="tts">home con smóking: ton de pel medio</annotation>
-		<annotation cp="🤵🏾‍♂">elegante | etiqueta | home con smóking | smóking | ton de pel escuro | traxe | voda</annotation>
+		<annotation cp="🤵🏾‍♂">elegante | etiqueta | smóking | ton de pel escuro | traxe | voda</annotation>
 		<annotation cp="🤵🏾‍♂" type="tts">home con smóking: ton de pel escuro</annotation>
-		<annotation cp="🤵🏿‍♂">elegante | etiqueta | home con smóking | smóking | ton de pel moi escuro | traxe | voda</annotation>
+		<annotation cp="🤵🏿‍♂">elegante | etiqueta | smóking | ton de pel moi escuro | traxe | voda</annotation>
 		<annotation cp="🤵🏿‍♂" type="tts">home con smóking: ton de pel moi escuro</annotation>
-		<annotation cp="🤵🏻‍♀">elegante | etiqueta | muller con smóking | smóking | ton de pel moi claro | traxe | voda</annotation>
+		<annotation cp="🤵🏻‍♀">elegante | etiqueta | smóking | ton de pel moi claro | traxe | voda</annotation>
 		<annotation cp="🤵🏻‍♀" type="tts">muller con smóking: ton de pel moi claro</annotation>
-		<annotation cp="🤵🏼‍♀">elegante | etiqueta | muller con smóking | smóking | ton de pel claro | traxe | voda</annotation>
+		<annotation cp="🤵🏼‍♀">elegante | etiqueta | smóking | ton de pel claro | traxe | voda</annotation>
 		<annotation cp="🤵🏼‍♀" type="tts">muller con smóking: ton de pel claro</annotation>
-		<annotation cp="🤵🏽‍♀">elegante | etiqueta | muller con smóking | smóking | ton de pel medio | traxe | voda</annotation>
+		<annotation cp="🤵🏽‍♀">elegante | etiqueta | smóking | ton de pel medio | traxe | voda</annotation>
 		<annotation cp="🤵🏽‍♀" type="tts">muller con smóking: ton de pel medio</annotation>
-		<annotation cp="🤵🏾‍♀">elegante | etiqueta | muller con smóking | smóking | ton de pel escuro | traxe | voda</annotation>
+		<annotation cp="🤵🏾‍♀">elegante | etiqueta | smóking | ton de pel escuro | traxe | voda</annotation>
 		<annotation cp="🤵🏾‍♀" type="tts">muller con smóking: ton de pel escuro</annotation>
-		<annotation cp="🤵🏿‍♀">elegante | etiqueta | muller con smóking | smóking | ton de pel moi escuro | traxe | voda</annotation>
+		<annotation cp="🤵🏿‍♀">elegante | etiqueta | smóking | ton de pel moi escuro | traxe | voda</annotation>
 		<annotation cp="🤵🏿‍♀" type="tts">muller con smóking: ton de pel moi escuro</annotation>
-		<annotation cp="👰🏻">casamento | persoa con veo | ton de pel moi claro | veo | voda</annotation>
+		<annotation cp="👰🏻">casamento | ton de pel moi claro | veo | voda</annotation>
 		<annotation cp="👰🏻" type="tts">persoa con veo: ton de pel moi claro</annotation>
-		<annotation cp="👰🏼">casamento | persoa con veo | ton de pel claro | veo | voda</annotation>
+		<annotation cp="👰🏼">casamento | ton de pel claro | veo | voda</annotation>
 		<annotation cp="👰🏼" type="tts">persoa con veo: ton de pel claro</annotation>
-		<annotation cp="👰🏽">casamento | persoa con veo | ton de pel medio | veo | voda</annotation>
+		<annotation cp="👰🏽">casamento | ton de pel medio | veo | voda</annotation>
 		<annotation cp="👰🏽" type="tts">persoa con veo: ton de pel medio</annotation>
-		<annotation cp="👰🏾">casamento | persoa con veo | ton de pel escuro | veo | voda</annotation>
+		<annotation cp="👰🏾">casamento | ton de pel escuro | veo | voda</annotation>
 		<annotation cp="👰🏾" type="tts">persoa con veo: ton de pel escuro</annotation>
-		<annotation cp="👰🏿">casamento | persoa con veo | ton de pel moi escuro | veo | voda</annotation>
+		<annotation cp="👰🏿">casamento | ton de pel moi escuro | veo | voda</annotation>
 		<annotation cp="👰🏿" type="tts">persoa con veo: ton de pel moi escuro</annotation>
-		<annotation cp="👰🏻‍♂">casamento | home con veo | noivo | ton de pel moi claro | veo | voda</annotation>
+		<annotation cp="👰🏻‍♂">casamento | noivo | ton de pel moi claro | veo | voda</annotation>
 		<annotation cp="👰🏻‍♂" type="tts">home con veo: ton de pel moi claro</annotation>
-		<annotation cp="👰🏼‍♂">casamento | home con veo | noivo | ton de pel claro | veo | voda</annotation>
+		<annotation cp="👰🏼‍♂">casamento | noivo | ton de pel claro | veo | voda</annotation>
 		<annotation cp="👰🏼‍♂" type="tts">home con veo: ton de pel claro</annotation>
-		<annotation cp="👰🏽‍♂">casamento | home con veo | noivo | ton de pel medio | veo | voda</annotation>
+		<annotation cp="👰🏽‍♂">casamento | noivo | ton de pel medio | veo | voda</annotation>
 		<annotation cp="👰🏽‍♂" type="tts">home con veo: ton de pel medio</annotation>
-		<annotation cp="👰🏾‍♂">casamento | home con veo | noivo | ton de pel escuro | veo | voda</annotation>
+		<annotation cp="👰🏾‍♂">casamento | noivo | ton de pel escuro | veo | voda</annotation>
 		<annotation cp="👰🏾‍♂" type="tts">home con veo: ton de pel escuro</annotation>
-		<annotation cp="👰🏿‍♂">casamento | home con veo | noivo | ton de pel moi escuro | veo | voda</annotation>
+		<annotation cp="👰🏿‍♂">casamento | noivo | ton de pel moi escuro | veo | voda</annotation>
 		<annotation cp="👰🏿‍♂" type="tts">home con veo: ton de pel moi escuro</annotation>
-		<annotation cp="👰🏻‍♀">casamento | muller con veo | noiva | ton de pel moi claro | veo | voda</annotation>
+		<annotation cp="👰🏻‍♀">casamento | noiva | ton de pel moi claro | veo | voda</annotation>
 		<annotation cp="👰🏻‍♀" type="tts">muller con veo: ton de pel moi claro</annotation>
-		<annotation cp="👰🏼‍♀">casamento | muller con veo | noiva | ton de pel claro | veo | voda</annotation>
+		<annotation cp="👰🏼‍♀">casamento | noiva | ton de pel claro | veo | voda</annotation>
 		<annotation cp="👰🏼‍♀" type="tts">muller con veo: ton de pel claro</annotation>
-		<annotation cp="👰🏽‍♀">casamento | muller con veo | noiva | ton de pel medio | veo | voda</annotation>
+		<annotation cp="👰🏽‍♀">casamento | noiva | ton de pel medio | veo | voda</annotation>
 		<annotation cp="👰🏽‍♀" type="tts">muller con veo: ton de pel medio</annotation>
-		<annotation cp="👰🏾‍♀">casamento | muller con veo | noiva | ton de pel escuro | veo | voda</annotation>
+		<annotation cp="👰🏾‍♀">casamento | noiva | ton de pel escuro | veo | voda</annotation>
 		<annotation cp="👰🏾‍♀" type="tts">muller con veo: ton de pel escuro</annotation>
-		<annotation cp="👰🏿‍♀">casamento | muller con veo | noiva | ton de pel moi escuro | veo | voda</annotation>
+		<annotation cp="👰🏿‍♀">casamento | noiva | ton de pel moi escuro | veo | voda</annotation>
 		<annotation cp="👰🏿‍♀" type="tts">muller con veo: ton de pel moi escuro</annotation>
 		<annotation cp="🤰🏻">embarazada | embarazo | muller | ton de pel moi claro</annotation>
 		<annotation cp="🤰🏻" type="tts">muller embarazada: ton de pel moi claro</annotation>
@@ -2136,45 +2287,65 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🤰🏾" type="tts">muller embarazada: ton de pel escuro</annotation>
 		<annotation cp="🤰🏿">embarazada | embarazo | muller | ton de pel moi escuro</annotation>
 		<annotation cp="🤰🏿" type="tts">muller embarazada: ton de pel moi escuro</annotation>
-		<annotation cp="🤱🏻">aleitar | bebé | mamá | muller dando o peito | peito | teta | ton de pel moi claro</annotation>
-		<annotation cp="🤱🏻" type="tts">muller dando o peito: ton de pel moi claro</annotation>
-		<annotation cp="🤱🏼">aleitar | bebé | mamá | muller dando o peito | peito | teta | ton de pel claro</annotation>
-		<annotation cp="🤱🏼" type="tts">muller dando o peito: ton de pel claro</annotation>
-		<annotation cp="🤱🏽">aleitar | bebé | mamá | muller dando o peito | peito | teta | ton de pel medio</annotation>
-		<annotation cp="🤱🏽" type="tts">muller dando o peito: ton de pel medio</annotation>
-		<annotation cp="🤱🏾">aleitar | bebé | mamá | muller dando o peito | peito | teta | ton de pel escuro</annotation>
-		<annotation cp="🤱🏾" type="tts">muller dando o peito: ton de pel escuro</annotation>
-		<annotation cp="🤱🏿">aleitar | bebé | mamá | muller dando o peito | peito | teta | ton de pel moi escuro</annotation>
-		<annotation cp="🤱🏿" type="tts">muller dando o peito: ton de pel moi escuro</annotation>
-		<annotation cp="👩🏻‍🍼">alimentar | bebé | biberón | muller alimentando bebé | ton de pel moi claro</annotation>
+		<annotation cp="🫃🏻">avultado | cheo | embarazo | ton de pel moi claro | ventre</annotation>
+		<annotation cp="🫃🏻" type="tts">home embarazado: ton de pel moi claro</annotation>
+		<annotation cp="🫃🏼">avultado | cheo | embarazo | ton de pel claro | ventre</annotation>
+		<annotation cp="🫃🏼" type="tts">home embarazado: ton de pel claro</annotation>
+		<annotation cp="🫃🏽">avultado | cheo | embarazo | ton de pel medio | ventre</annotation>
+		<annotation cp="🫃🏽" type="tts">home embarazado: ton de pel medio</annotation>
+		<annotation cp="🫃🏾">avultado | cheo | embarazo | ton de pel escuro | ventre</annotation>
+		<annotation cp="🫃🏾" type="tts">home embarazado: ton de pel escuro</annotation>
+		<annotation cp="🫃🏿">avultado | cheo | embarazo | ton de pel moi escuro | ventre</annotation>
+		<annotation cp="🫃🏿" type="tts">home embarazado: ton de pel moi escuro</annotation>
+		<annotation cp="🫄🏻">avultado | cheo | embarazo | ton de pel moi claro | ventre</annotation>
+		<annotation cp="🫄🏻" type="tts">persoa embarazada: ton de pel moi claro</annotation>
+		<annotation cp="🫄🏼">avultado | cheo | embarazo | ton de pel claro | ventre</annotation>
+		<annotation cp="🫄🏼" type="tts">persoa embarazada: ton de pel claro</annotation>
+		<annotation cp="🫄🏽">avultado | cheo | embarazo | ton de pel medio | ventre</annotation>
+		<annotation cp="🫄🏽" type="tts">persoa embarazada: ton de pel medio</annotation>
+		<annotation cp="🫄🏾">avultado | cheo | embarazo | ton de pel escuro | ventre</annotation>
+		<annotation cp="🫄🏾" type="tts">persoa embarazada: ton de pel escuro</annotation>
+		<annotation cp="🫄🏿">avultado | cheo | embarazo | ton de pel moi escuro | ventre</annotation>
+		<annotation cp="🫄🏿" type="tts">persoa embarazada: ton de pel moi escuro</annotation>
+		<annotation cp="🤱🏻">aleitar | bebé | dar o peito | mamá | peito | teta | ton de pel moi claro</annotation>
+		<annotation cp="🤱🏻" type="tts">dar o peito: ton de pel moi claro</annotation>
+		<annotation cp="🤱🏼">aleitar | bebé | dar o peito | mamá | peito | teta | ton de pel claro</annotation>
+		<annotation cp="🤱🏼" type="tts">dar o peito: ton de pel claro</annotation>
+		<annotation cp="🤱🏽">aleitar | bebé | dar o peito | mamá | peito | teta | ton de pel medio</annotation>
+		<annotation cp="🤱🏽" type="tts">dar o peito: ton de pel medio</annotation>
+		<annotation cp="🤱🏾">aleitar | bebé | dar o peito | mamá | peito | teta | ton de pel escuro</annotation>
+		<annotation cp="🤱🏾" type="tts">dar o peito: ton de pel escuro</annotation>
+		<annotation cp="🤱🏿">aleitar | bebé | dar o peito | mamá | peito | teta | ton de pel moi escuro</annotation>
+		<annotation cp="🤱🏿" type="tts">dar o peito: ton de pel moi escuro</annotation>
+		<annotation cp="👩🏻‍🍼">alimentar | bebé | biberón | ton de pel moi claro</annotation>
 		<annotation cp="👩🏻‍🍼" type="tts">muller alimentando bebé: ton de pel moi claro</annotation>
-		<annotation cp="👩🏼‍🍼">alimentar | bebé | biberón | muller alimentando bebé | ton de pel claro</annotation>
+		<annotation cp="👩🏼‍🍼">alimentar | bebé | biberón | ton de pel claro</annotation>
 		<annotation cp="👩🏼‍🍼" type="tts">muller alimentando bebé: ton de pel claro</annotation>
-		<annotation cp="👩🏽‍🍼">alimentar | bebé | biberón | muller alimentando bebé | ton de pel medio</annotation>
+		<annotation cp="👩🏽‍🍼">alimentar | bebé | biberón | ton de pel medio</annotation>
 		<annotation cp="👩🏽‍🍼" type="tts">muller alimentando bebé: ton de pel medio</annotation>
-		<annotation cp="👩🏾‍🍼">alimentar | bebé | biberón | muller alimentando bebé | ton de pel escuro</annotation>
+		<annotation cp="👩🏾‍🍼">alimentar | bebé | biberón | ton de pel escuro</annotation>
 		<annotation cp="👩🏾‍🍼" type="tts">muller alimentando bebé: ton de pel escuro</annotation>
-		<annotation cp="👩🏿‍🍼">alimentar | bebé | biberón | muller alimentando bebé | ton de pel moi escuro</annotation>
+		<annotation cp="👩🏿‍🍼">alimentar | bebé | biberón | ton de pel moi escuro</annotation>
 		<annotation cp="👩🏿‍🍼" type="tts">muller alimentando bebé: ton de pel moi escuro</annotation>
-		<annotation cp="👨🏻‍🍼">alimentar | bebé | biberón | home alimentando bebé | ton de pel moi claro</annotation>
+		<annotation cp="👨🏻‍🍼">alimentar | bebé | biberón | ton de pel moi claro</annotation>
 		<annotation cp="👨🏻‍🍼" type="tts">home alimentando bebé: ton de pel moi claro</annotation>
-		<annotation cp="👨🏼‍🍼">alimentar | bebé | biberón | home alimentando bebé | ton de pel claro</annotation>
+		<annotation cp="👨🏼‍🍼">alimentar | bebé | biberón | ton de pel claro</annotation>
 		<annotation cp="👨🏼‍🍼" type="tts">home alimentando bebé: ton de pel claro</annotation>
-		<annotation cp="👨🏽‍🍼">alimentar | bebé | biberón | home alimentando bebé | ton de pel medio</annotation>
+		<annotation cp="👨🏽‍🍼">alimentar | bebé | biberón | ton de pel medio</annotation>
 		<annotation cp="👨🏽‍🍼" type="tts">home alimentando bebé: ton de pel medio</annotation>
-		<annotation cp="👨🏾‍🍼">alimentar | bebé | biberón | home alimentando bebé | ton de pel escuro</annotation>
+		<annotation cp="👨🏾‍🍼">alimentar | bebé | biberón | ton de pel escuro</annotation>
 		<annotation cp="👨🏾‍🍼" type="tts">home alimentando bebé: ton de pel escuro</annotation>
-		<annotation cp="👨🏿‍🍼">alimentar | bebé | biberón | home alimentando bebé | ton de pel moi escuro</annotation>
+		<annotation cp="👨🏿‍🍼">alimentar | bebé | biberón | ton de pel moi escuro</annotation>
 		<annotation cp="👨🏿‍🍼" type="tts">home alimentando bebé: ton de pel moi escuro</annotation>
-		<annotation cp="🧑🏻‍🍼">alimentar | bebé | biberón | persoa alimentando bebé | ton de pel moi claro</annotation>
+		<annotation cp="🧑🏻‍🍼">alimentar | bebé | biberón | ton de pel moi claro</annotation>
 		<annotation cp="🧑🏻‍🍼" type="tts">persoa alimentando bebé: ton de pel moi claro</annotation>
-		<annotation cp="🧑🏼‍🍼">alimentar | bebé | biberón | persoa alimentando bebé | ton de pel claro</annotation>
+		<annotation cp="🧑🏼‍🍼">alimentar | bebé | biberón | ton de pel claro</annotation>
 		<annotation cp="🧑🏼‍🍼" type="tts">persoa alimentando bebé: ton de pel claro</annotation>
-		<annotation cp="🧑🏽‍🍼">alimentar | bebé | biberón | persoa alimentando bebé | ton de pel medio</annotation>
+		<annotation cp="🧑🏽‍🍼">alimentar | bebé | biberón | ton de pel medio</annotation>
 		<annotation cp="🧑🏽‍🍼" type="tts">persoa alimentando bebé: ton de pel medio</annotation>
-		<annotation cp="🧑🏾‍🍼">alimentar | bebé | biberón | persoa alimentando bebé | ton de pel escuro</annotation>
+		<annotation cp="🧑🏾‍🍼">alimentar | bebé | biberón | ton de pel escuro</annotation>
 		<annotation cp="🧑🏾‍🍼" type="tts">persoa alimentando bebé: ton de pel escuro</annotation>
-		<annotation cp="🧑🏿‍🍼">alimentar | bebé | biberón | persoa alimentando bebé | ton de pel moi escuro</annotation>
+		<annotation cp="🧑🏿‍🍼">alimentar | bebé | biberón | ton de pel moi escuro</annotation>
 		<annotation cp="🧑🏿‍🍼" type="tts">persoa alimentando bebé: ton de pel moi escuro</annotation>
 		<annotation cp="👼🏻">anxiño | anxo | bebé | ton de pel moi claro</annotation>
 		<annotation cp="👼🏻" type="tts">anxiño: ton de pel moi claro</annotation>
@@ -2206,75 +2377,75 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🤶🏾" type="tts">Mamá Noel: ton de pel escuro</annotation>
 		<annotation cp="🤶🏿">mamá | Mamá Noel | Nadal | señora Noel | ton de pel moi escuro</annotation>
 		<annotation cp="🤶🏿" type="tts">Mamá Noel: ton de pel moi escuro</annotation>
-		<annotation cp="🧑🏻‍🎄">Nadal | Noel | señora Noel | ton de pel moi claro</annotation>
+		<annotation cp="🧑🏻‍🎄">Nadal | Noel | ton de pel moi claro</annotation>
 		<annotation cp="🧑🏻‍🎄" type="tts">señora Noel: ton de pel moi claro</annotation>
-		<annotation cp="🧑🏼‍🎄">Nadal | Noel | señora Noel | ton de pel claro</annotation>
+		<annotation cp="🧑🏼‍🎄">Nadal | Noel | ton de pel claro</annotation>
 		<annotation cp="🧑🏼‍🎄" type="tts">señora Noel: ton de pel claro</annotation>
-		<annotation cp="🧑🏽‍🎄">Nadal | Noel | señora Noel | ton de pel medio</annotation>
+		<annotation cp="🧑🏽‍🎄">Nadal | Noel | ton de pel medio</annotation>
 		<annotation cp="🧑🏽‍🎄" type="tts">señora Noel: ton de pel medio</annotation>
-		<annotation cp="🧑🏾‍🎄">Nadal | Noel | señora Noel | ton de pel escuro</annotation>
+		<annotation cp="🧑🏾‍🎄">Nadal | Noel | ton de pel escuro</annotation>
 		<annotation cp="🧑🏾‍🎄" type="tts">señora Noel: ton de pel escuro</annotation>
-		<annotation cp="🧑🏿‍🎄">Nadal | Noel | señora Noel | ton de pel moi escuro</annotation>
+		<annotation cp="🧑🏿‍🎄">Nadal | Noel | ton de pel moi escuro</annotation>
 		<annotation cp="🧑🏿‍🎄" type="tts">señora Noel: ton de pel moi escuro</annotation>
-		<annotation cp="🦸🏻">heroe | superheroe | superheroína | superpoderes | ton de pel moi claro</annotation>
+		<annotation cp="🦸🏻">superheroína | superpoderes | ton de pel moi claro</annotation>
 		<annotation cp="🦸🏻" type="tts">heroe: ton de pel moi claro</annotation>
-		<annotation cp="🦸🏼">heroe | superheroe | superheroína | superpoderes | ton de pel claro</annotation>
+		<annotation cp="🦸🏼">superheroína | superpoderes | ton de pel claro</annotation>
 		<annotation cp="🦸🏼" type="tts">heroe: ton de pel claro</annotation>
-		<annotation cp="🦸🏽">heroe | superheroe | superheroína | superpoderes | ton de pel medio</annotation>
+		<annotation cp="🦸🏽">superheroína | superpoderes | ton de pel medio</annotation>
 		<annotation cp="🦸🏽" type="tts">heroe: ton de pel medio</annotation>
-		<annotation cp="🦸🏾">heroe | superheroe | superheroína | superpoderes | ton de pel escuro</annotation>
+		<annotation cp="🦸🏾">superheroína | superpoderes | ton de pel escuro</annotation>
 		<annotation cp="🦸🏾" type="tts">heroe: ton de pel escuro</annotation>
-		<annotation cp="🦸🏿">heroe | superheroe | superheroína | superpoderes | ton de pel moi escuro</annotation>
+		<annotation cp="🦸🏿">superheroína | superpoderes | ton de pel moi escuro</annotation>
 		<annotation cp="🦸🏿" type="tts">heroe: ton de pel moi escuro</annotation>
-		<annotation cp="🦸🏻‍♂">heroe | home | superheroe | superpoderes | ton de pel moi claro</annotation>
+		<annotation cp="🦸🏻‍♂">heroe | home | superpoderes | ton de pel moi claro</annotation>
 		<annotation cp="🦸🏻‍♂" type="tts">superheroe: ton de pel moi claro</annotation>
-		<annotation cp="🦸🏼‍♂">heroe | home | superheroe | superpoderes | ton de pel claro</annotation>
+		<annotation cp="🦸🏼‍♂">heroe | home | superpoderes | ton de pel claro</annotation>
 		<annotation cp="🦸🏼‍♂" type="tts">superheroe: ton de pel claro</annotation>
-		<annotation cp="🦸🏽‍♂">heroe | home | superheroe | superpoderes | ton de pel medio</annotation>
+		<annotation cp="🦸🏽‍♂">heroe | home | superpoderes | ton de pel medio</annotation>
 		<annotation cp="🦸🏽‍♂" type="tts">superheroe: ton de pel medio</annotation>
-		<annotation cp="🦸🏾‍♂">heroe | home | superheroe | superpoderes | ton de pel escuro</annotation>
+		<annotation cp="🦸🏾‍♂">heroe | home | superpoderes | ton de pel escuro</annotation>
 		<annotation cp="🦸🏾‍♂" type="tts">superheroe: ton de pel escuro</annotation>
-		<annotation cp="🦸🏿‍♂">heroe | home | superheroe | superpoderes | ton de pel moi escuro</annotation>
+		<annotation cp="🦸🏿‍♂">heroe | home | superpoderes | ton de pel moi escuro</annotation>
 		<annotation cp="🦸🏿‍♂" type="tts">superheroe: ton de pel moi escuro</annotation>
-		<annotation cp="🦸🏻‍♀">heroe | heroína | muller | superheroína | supermuller | ton de pel moi claro</annotation>
+		<annotation cp="🦸🏻‍♀">heroe | heroína | muller | supermuller | ton de pel moi claro</annotation>
 		<annotation cp="🦸🏻‍♀" type="tts">superheroína: ton de pel moi claro</annotation>
-		<annotation cp="🦸🏼‍♀">heroe | heroína | muller | superheroína | supermuller | ton de pel claro</annotation>
+		<annotation cp="🦸🏼‍♀">heroe | heroína | muller | supermuller | ton de pel claro</annotation>
 		<annotation cp="🦸🏼‍♀" type="tts">superheroína: ton de pel claro</annotation>
-		<annotation cp="🦸🏽‍♀">heroe | heroína | muller | superheroína | supermuller | ton de pel medio</annotation>
+		<annotation cp="🦸🏽‍♀">heroe | heroína | muller | supermuller | ton de pel medio</annotation>
 		<annotation cp="🦸🏽‍♀" type="tts">superheroína: ton de pel medio</annotation>
-		<annotation cp="🦸🏾‍♀">heroe | heroína | muller | superheroína | supermuller | ton de pel escuro</annotation>
+		<annotation cp="🦸🏾‍♀">heroe | heroína | muller | supermuller | ton de pel escuro</annotation>
 		<annotation cp="🦸🏾‍♀" type="tts">superheroína: ton de pel escuro</annotation>
-		<annotation cp="🦸🏿‍♀">heroe | heroína | muller | superheroína | supermuller | ton de pel moi escuro</annotation>
+		<annotation cp="🦸🏿‍♀">heroe | heroína | muller | supermuller | ton de pel moi escuro</annotation>
 		<annotation cp="🦸🏿‍♀" type="tts">superheroína: ton de pel moi escuro</annotation>
-		<annotation cp="🦹🏻">malo | superpoderes | ton de pel moi claro | vilán</annotation>
+		<annotation cp="🦹🏻">malo | superpoderes | ton de pel moi claro</annotation>
 		<annotation cp="🦹🏻" type="tts">vilán: ton de pel moi claro</annotation>
-		<annotation cp="🦹🏼">malo | superpoderes | ton de pel claro | vilán</annotation>
+		<annotation cp="🦹🏼">malo | superpoderes | ton de pel claro</annotation>
 		<annotation cp="🦹🏼" type="tts">vilán: ton de pel claro</annotation>
-		<annotation cp="🦹🏽">malo | superpoderes | ton de pel medio | vilán</annotation>
+		<annotation cp="🦹🏽">malo | superpoderes | ton de pel medio</annotation>
 		<annotation cp="🦹🏽" type="tts">vilán: ton de pel medio</annotation>
-		<annotation cp="🦹🏾">malo | superpoderes | ton de pel escuro | vilán</annotation>
+		<annotation cp="🦹🏾">malo | superpoderes | ton de pel escuro</annotation>
 		<annotation cp="🦹🏾" type="tts">vilán: ton de pel escuro</annotation>
-		<annotation cp="🦹🏿">malo | superpoderes | ton de pel moi escuro | vilán</annotation>
+		<annotation cp="🦹🏿">malo | superpoderes | ton de pel moi escuro</annotation>
 		<annotation cp="🦹🏿" type="tts">vilán: ton de pel moi escuro</annotation>
-		<annotation cp="🦹🏻‍♂">home | malo | superpoderes | supervil´án | ton de pel moi claro | vilán</annotation>
-		<annotation cp="🦹🏻‍♂" type="tts">supervil´án: ton de pel moi claro</annotation>
-		<annotation cp="🦹🏼‍♂">home | malo | superpoderes | supervil´án | ton de pel claro | vilán</annotation>
-		<annotation cp="🦹🏼‍♂" type="tts">supervil´án: ton de pel claro</annotation>
-		<annotation cp="🦹🏽‍♂">home | malo | superpoderes | supervil´án | ton de pel medio | vilán</annotation>
-		<annotation cp="🦹🏽‍♂" type="tts">supervil´án: ton de pel medio</annotation>
-		<annotation cp="🦹🏾‍♂">home | malo | superpoderes | supervil´án | ton de pel escuro | vilán</annotation>
-		<annotation cp="🦹🏾‍♂" type="tts">supervil´án: ton de pel escuro</annotation>
-		<annotation cp="🦹🏿‍♂">home | malo | superpoderes | supervil´án | ton de pel moi escuro | vilán</annotation>
-		<annotation cp="🦹🏿‍♂" type="tts">supervil´án: ton de pel moi escuro</annotation>
-		<annotation cp="🦹🏻‍♀">mala | muller | superpoderes | supervilá | ton de pel moi claro | vilá</annotation>
+		<annotation cp="🦹🏻‍♂">home | malo | superpoderes | ton de pel moi claro | vilán</annotation>
+		<annotation cp="🦹🏻‍♂" type="tts">supervilán: ton de pel moi claro</annotation>
+		<annotation cp="🦹🏼‍♂">home | malo | superpoderes | ton de pel claro | vilán</annotation>
+		<annotation cp="🦹🏼‍♂" type="tts">supervilán: ton de pel claro</annotation>
+		<annotation cp="🦹🏽‍♂">home | malo | superpoderes | ton de pel medio | vilán</annotation>
+		<annotation cp="🦹🏽‍♂" type="tts">supervilán: ton de pel medio</annotation>
+		<annotation cp="🦹🏾‍♂">home | malo | superpoderes | ton de pel escuro | vilán</annotation>
+		<annotation cp="🦹🏾‍♂" type="tts">supervilán: ton de pel escuro</annotation>
+		<annotation cp="🦹🏿‍♂">home | malo | superpoderes | ton de pel moi escuro | vilán</annotation>
+		<annotation cp="🦹🏿‍♂" type="tts">supervilán: ton de pel moi escuro</annotation>
+		<annotation cp="🦹🏻‍♀">mala | muller | superpoderes | ton de pel moi claro | vilá</annotation>
 		<annotation cp="🦹🏻‍♀" type="tts">supervilá: ton de pel moi claro</annotation>
-		<annotation cp="🦹🏼‍♀">mala | muller | superpoderes | supervilá | ton de pel claro | vilá</annotation>
+		<annotation cp="🦹🏼‍♀">mala | muller | superpoderes | ton de pel claro | vilá</annotation>
 		<annotation cp="🦹🏼‍♀" type="tts">supervilá: ton de pel claro</annotation>
-		<annotation cp="🦹🏽‍♀">mala | muller | superpoderes | supervilá | ton de pel medio | vilá</annotation>
+		<annotation cp="🦹🏽‍♀">mala | muller | superpoderes | ton de pel medio | vilá</annotation>
 		<annotation cp="🦹🏽‍♀" type="tts">supervilá: ton de pel medio</annotation>
-		<annotation cp="🦹🏾‍♀">mala | muller | superpoderes | supervilá | ton de pel escuro | vilá</annotation>
+		<annotation cp="🦹🏾‍♀">mala | muller | superpoderes | ton de pel escuro | vilá</annotation>
 		<annotation cp="🦹🏾‍♀" type="tts">supervilá: ton de pel escuro</annotation>
-		<annotation cp="🦹🏿‍♀">mala | muller | superpoderes | supervilá | ton de pel moi escuro | vilá</annotation>
+		<annotation cp="🦹🏿‍♀">mala | muller | superpoderes | ton de pel moi escuro | vilá</annotation>
 		<annotation cp="🦹🏿‍♀" type="tts">supervilá: ton de pel moi escuro</annotation>
 		<annotation cp="🧙🏻">druída | feiticeiro | meigo | ton de pel moi claro</annotation>
 		<annotation cp="🧙🏻" type="tts">feiticeiro: ton de pel moi claro</annotation>
@@ -2516,156 +2687,336 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🚶🏾‍♀" type="tts">muller andando: ton de pel escuro</annotation>
 		<annotation cp="🚶🏿‍♀">andar | camiñar | muller | muller andando | pasear | ton de pel moi escuro</annotation>
 		<annotation cp="🚶🏿‍♀" type="tts">muller andando: ton de pel moi escuro</annotation>
-		<annotation cp="🧍🏻">de pé | levantada | levantado | levantarse | persoa de pé | ton de pel moi claro</annotation>
+		<annotation cp="🚶‍➡">á | andar | camiñar | cara | dereita | pasear | persoa andando</annotation>
+		<annotation cp="🚶‍➡" type="tts">persoa andando: cara á dereita</annotation>
+		<annotation cp="🚶🏻‍➡">á | andar | camiñar | cara | dereita | pasear | persoa andando | ton de pel moi claro</annotation>
+		<annotation cp="🚶🏻‍➡" type="tts">persoa andando: ton de pel moi claro, cara á dereita</annotation>
+		<annotation cp="🚶🏼‍➡">á | andar | camiñar | cara | dereita | pasear | persoa andando | ton de pel claro</annotation>
+		<annotation cp="🚶🏼‍➡" type="tts">persoa andando: ton de pel claro, cara á dereita</annotation>
+		<annotation cp="🚶🏽‍➡">á | andar | camiñar | cara | dereita | pasear | persoa andando | ton de pel medio</annotation>
+		<annotation cp="🚶🏽‍➡" type="tts">persoa andando: ton de pel medio, cara á dereita</annotation>
+		<annotation cp="🚶🏾‍➡">á | andar | camiñar | cara | dereita | pasear | persoa andando | ton de pel escuro</annotation>
+		<annotation cp="🚶🏾‍➡" type="tts">persoa andando: ton de pel escuro, cara á dereita</annotation>
+		<annotation cp="🚶🏿‍➡">á | andar | camiñar | cara | dereita | pasear | persoa andando | ton de pel moi escuro</annotation>
+		<annotation cp="🚶🏿‍➡" type="tts">persoa andando: ton de pel moi escuro, cara á dereita</annotation>
+		<annotation cp="🚶‍♀‍➡">á | andar | camiñar | cara | dereita | muller | muller andando | pasear</annotation>
+		<annotation cp="🚶‍♀‍➡" type="tts">muller andando: cara á dereita</annotation>
+		<annotation cp="🚶🏻‍♀‍➡">á | andar | camiñar | cara | dereita | muller | muller andando | pasear | ton de pel moi claro</annotation>
+		<annotation cp="🚶🏻‍♀‍➡" type="tts">muller andando: ton de pel moi claro, cara á dereita</annotation>
+		<annotation cp="🚶🏼‍♀‍➡">á | andar | camiñar | cara | dereita | muller | muller andando | pasear | ton de pel claro</annotation>
+		<annotation cp="🚶🏼‍♀‍➡" type="tts">muller andando: ton de pel claro, cara á dereita</annotation>
+		<annotation cp="🚶🏽‍♀‍➡">á | andar | camiñar | cara | dereita | muller | muller andando | pasear | ton de pel medio</annotation>
+		<annotation cp="🚶🏽‍♀‍➡" type="tts">muller andando: ton de pel medio, cara á dereita</annotation>
+		<annotation cp="🚶🏾‍♀‍➡">á | andar | camiñar | cara | dereita | muller | muller andando | pasear | ton de pel escuro</annotation>
+		<annotation cp="🚶🏾‍♀‍➡" type="tts">muller andando: ton de pel escuro, cara á dereita</annotation>
+		<annotation cp="🚶🏿‍♀‍➡">á | andar | camiñar | cara | dereita | muller | muller andando | pasear | ton de pel moi escuro</annotation>
+		<annotation cp="🚶🏿‍♀‍➡" type="tts">muller andando: ton de pel moi escuro, cara á dereita</annotation>
+		<annotation cp="🚶‍♂‍➡">á | andar | camiñar | cara | dereita | home | home andando | pasear</annotation>
+		<annotation cp="🚶‍♂‍➡" type="tts">home andando: cara á dereita</annotation>
+		<annotation cp="🚶🏻‍♂‍➡">á | andar | camiñar | cara | dereita | home | home andando | pasear | ton de pel moi claro</annotation>
+		<annotation cp="🚶🏻‍♂‍➡" type="tts">home andando: ton de pel moi claro, cara á dereita</annotation>
+		<annotation cp="🚶🏼‍♂‍➡">á | andar | camiñar | cara | dereita | home | home andando | pasear | ton de pel claro</annotation>
+		<annotation cp="🚶🏼‍♂‍➡" type="tts">home andando: ton de pel claro, cara á dereita</annotation>
+		<annotation cp="🚶🏽‍♂‍➡">á | andar | camiñar | cara | dereita | home | home andando | pasear | ton de pel medio</annotation>
+		<annotation cp="🚶🏽‍♂‍➡" type="tts">home andando: ton de pel medio, cara á dereita</annotation>
+		<annotation cp="🚶🏾‍♂‍➡">á | andar | camiñar | cara | dereita | home | home andando | pasear | ton de pel escuro</annotation>
+		<annotation cp="🚶🏾‍♂‍➡" type="tts">home andando: ton de pel escuro, cara á dereita</annotation>
+		<annotation cp="🚶🏿‍♂‍➡">á | andar | camiñar | cara | dereita | home | home andando | pasear | ton de pel moi escuro</annotation>
+		<annotation cp="🚶🏿‍♂‍➡" type="tts">home andando: ton de pel moi escuro, cara á dereita</annotation>
+		<annotation cp="🧍🏻">de pé | levantarse | ton de pel moi claro</annotation>
 		<annotation cp="🧍🏻" type="tts">persoa de pé: ton de pel moi claro</annotation>
-		<annotation cp="🧍🏼">de pé | levantada | levantado | levantarse | persoa de pé | ton de pel claro</annotation>
+		<annotation cp="🧍🏼">de pé | levantarse | ton de pel claro</annotation>
 		<annotation cp="🧍🏼" type="tts">persoa de pé: ton de pel claro</annotation>
-		<annotation cp="🧍🏽">de pé | levantada | levantado | levantarse | persoa de pé | ton de pel medio</annotation>
+		<annotation cp="🧍🏽">de pé | levantarse | ton de pel medio</annotation>
 		<annotation cp="🧍🏽" type="tts">persoa de pé: ton de pel medio</annotation>
-		<annotation cp="🧍🏾">de pé | levantada | levantado | levantarse | persoa de pé | ton de pel escuro</annotation>
+		<annotation cp="🧍🏾">de pé | levantarse | ton de pel escuro</annotation>
 		<annotation cp="🧍🏾" type="tts">persoa de pé: ton de pel escuro</annotation>
-		<annotation cp="🧍🏿">de pé | levantada | levantado | levantarse | persoa de pé | ton de pel moi escuro</annotation>
+		<annotation cp="🧍🏿">de pé | levantarse | ton de pel moi escuro</annotation>
 		<annotation cp="🧍🏿" type="tts">persoa de pé: ton de pel moi escuro</annotation>
-		<annotation cp="🧍🏻‍♂">de pé | home de pé | levantado | levantarse | ton de pel moi claro</annotation>
+		<annotation cp="🧍🏻‍♂">de pé | levantado | levantarse | ton de pel moi claro</annotation>
 		<annotation cp="🧍🏻‍♂" type="tts">home de pé: ton de pel moi claro</annotation>
-		<annotation cp="🧍🏼‍♂">de pé | home de pé | levantado | levantarse | ton de pel claro</annotation>
+		<annotation cp="🧍🏼‍♂">de pé | levantado | levantarse | ton de pel claro</annotation>
 		<annotation cp="🧍🏼‍♂" type="tts">home de pé: ton de pel claro</annotation>
-		<annotation cp="🧍🏽‍♂">de pé | home de pé | levantado | levantarse | ton de pel medio</annotation>
+		<annotation cp="🧍🏽‍♂">de pé | levantado | levantarse | ton de pel medio</annotation>
 		<annotation cp="🧍🏽‍♂" type="tts">home de pé: ton de pel medio</annotation>
-		<annotation cp="🧍🏾‍♂">de pé | home de pé | levantado | levantarse | ton de pel escuro</annotation>
+		<annotation cp="🧍🏾‍♂">de pé | levantado | levantarse | ton de pel escuro</annotation>
 		<annotation cp="🧍🏾‍♂" type="tts">home de pé: ton de pel escuro</annotation>
-		<annotation cp="🧍🏿‍♂">de pé | home de pé | levantado | levantarse | ton de pel moi escuro</annotation>
+		<annotation cp="🧍🏿‍♂">de pé | levantado | levantarse | ton de pel moi escuro</annotation>
 		<annotation cp="🧍🏿‍♂" type="tts">home de pé: ton de pel moi escuro</annotation>
-		<annotation cp="🧍🏻‍♀">de pé | levantada | levantarse | muller de pé | ton de pel moi claro</annotation>
+		<annotation cp="🧍🏻‍♀">de pé | levantada | levantarse | ton de pel moi claro</annotation>
 		<annotation cp="🧍🏻‍♀" type="tts">muller de pé: ton de pel moi claro</annotation>
-		<annotation cp="🧍🏼‍♀">de pé | levantada | levantarse | muller de pé | ton de pel claro</annotation>
+		<annotation cp="🧍🏼‍♀">de pé | levantada | levantarse | ton de pel claro</annotation>
 		<annotation cp="🧍🏼‍♀" type="tts">muller de pé: ton de pel claro</annotation>
-		<annotation cp="🧍🏽‍♀">de pé | levantada | levantarse | muller de pé | ton de pel medio</annotation>
+		<annotation cp="🧍🏽‍♀">de pé | levantada | levantarse | ton de pel medio</annotation>
 		<annotation cp="🧍🏽‍♀" type="tts">muller de pé: ton de pel medio</annotation>
-		<annotation cp="🧍🏾‍♀">de pé | levantada | levantarse | muller de pé | ton de pel escuro</annotation>
+		<annotation cp="🧍🏾‍♀">de pé | levantada | levantarse | ton de pel escuro</annotation>
 		<annotation cp="🧍🏾‍♀" type="tts">muller de pé: ton de pel escuro</annotation>
-		<annotation cp="🧍🏿‍♀">de pé | levantada | levantarse | muller de pé | ton de pel moi escuro</annotation>
+		<annotation cp="🧍🏿‍♀">de pé | levantada | levantarse | ton de pel moi escuro</annotation>
 		<annotation cp="🧍🏿‍♀" type="tts">muller de pé: ton de pel moi escuro</annotation>
-		<annotation cp="🧎🏻">axeonllar | persoa axeonllada | ton de pel moi claro | xeonllos</annotation>
+		<annotation cp="🧎🏻">axeonllar | ton de pel moi claro | xeonllos</annotation>
 		<annotation cp="🧎🏻" type="tts">persoa axeonllada: ton de pel moi claro</annotation>
-		<annotation cp="🧎🏼">axeonllar | persoa axeonllada | ton de pel claro | xeonllos</annotation>
+		<annotation cp="🧎🏼">axeonllar | ton de pel claro | xeonllos</annotation>
 		<annotation cp="🧎🏼" type="tts">persoa axeonllada: ton de pel claro</annotation>
-		<annotation cp="🧎🏽">axeonllar | persoa axeonllada | ton de pel medio | xeonllos</annotation>
+		<annotation cp="🧎🏽">axeonllar | ton de pel medio | xeonllos</annotation>
 		<annotation cp="🧎🏽" type="tts">persoa axeonllada: ton de pel medio</annotation>
-		<annotation cp="🧎🏾">axeonllar | persoa axeonllada | ton de pel escuro | xeonllos</annotation>
+		<annotation cp="🧎🏾">axeonllar | ton de pel escuro | xeonllos</annotation>
 		<annotation cp="🧎🏾" type="tts">persoa axeonllada: ton de pel escuro</annotation>
-		<annotation cp="🧎🏿">axeonllar | persoa axeonllada | ton de pel moi escuro | xeonllos</annotation>
+		<annotation cp="🧎🏿">axeonllar | ton de pel moi escuro | xeonllos</annotation>
 		<annotation cp="🧎🏿" type="tts">persoa axeonllada: ton de pel moi escuro</annotation>
-		<annotation cp="🧎🏻‍♂">axeonllar | home axeonllado | ton de pel moi claro | xeonllos</annotation>
+		<annotation cp="🧎🏻‍♂">axeonllar | ton de pel moi claro | xeonllos</annotation>
 		<annotation cp="🧎🏻‍♂" type="tts">home axeonllado: ton de pel moi claro</annotation>
-		<annotation cp="🧎🏼‍♂">axeonllar | home axeonllado | ton de pel claro | xeonllos</annotation>
+		<annotation cp="🧎🏼‍♂">axeonllar | ton de pel claro | xeonllos</annotation>
 		<annotation cp="🧎🏼‍♂" type="tts">home axeonllado: ton de pel claro</annotation>
-		<annotation cp="🧎🏽‍♂">axeonllar | home axeonllado | ton de pel medio | xeonllos</annotation>
+		<annotation cp="🧎🏽‍♂">axeonllar | ton de pel medio | xeonllos</annotation>
 		<annotation cp="🧎🏽‍♂" type="tts">home axeonllado: ton de pel medio</annotation>
-		<annotation cp="🧎🏾‍♂">axeonllar | home axeonllado | ton de pel escuro | xeonllos</annotation>
+		<annotation cp="🧎🏾‍♂">axeonllar | ton de pel escuro | xeonllos</annotation>
 		<annotation cp="🧎🏾‍♂" type="tts">home axeonllado: ton de pel escuro</annotation>
-		<annotation cp="🧎🏿‍♂">axeonllar | home axeonllado | ton de pel moi escuro | xeonllos</annotation>
+		<annotation cp="🧎🏿‍♂">axeonllar | ton de pel moi escuro | xeonllos</annotation>
 		<annotation cp="🧎🏿‍♂" type="tts">home axeonllado: ton de pel moi escuro</annotation>
-		<annotation cp="🧎🏻‍♀">axeonllar | muller axeonllada | ton de pel moi claro | xeonllos</annotation>
+		<annotation cp="🧎🏻‍♀">axeonllar | ton de pel moi claro | xeonllos</annotation>
 		<annotation cp="🧎🏻‍♀" type="tts">muller axeonllada: ton de pel moi claro</annotation>
-		<annotation cp="🧎🏼‍♀">axeonllar | muller axeonllada | ton de pel claro | xeonllos</annotation>
+		<annotation cp="🧎🏼‍♀">axeonllar | ton de pel claro | xeonllos</annotation>
 		<annotation cp="🧎🏼‍♀" type="tts">muller axeonllada: ton de pel claro</annotation>
-		<annotation cp="🧎🏽‍♀">axeonllar | muller axeonllada | ton de pel medio | xeonllos</annotation>
+		<annotation cp="🧎🏽‍♀">axeonllar | ton de pel medio | xeonllos</annotation>
 		<annotation cp="🧎🏽‍♀" type="tts">muller axeonllada: ton de pel medio</annotation>
-		<annotation cp="🧎🏾‍♀">axeonllar | muller axeonllada | ton de pel escuro | xeonllos</annotation>
+		<annotation cp="🧎🏾‍♀">axeonllar | ton de pel escuro | xeonllos</annotation>
 		<annotation cp="🧎🏾‍♀" type="tts">muller axeonllada: ton de pel escuro</annotation>
-		<annotation cp="🧎🏿‍♀">axeonllar | muller axeonllada | ton de pel moi escuro | xeonllos</annotation>
+		<annotation cp="🧎🏿‍♀">axeonllar | ton de pel moi escuro | xeonllos</annotation>
 		<annotation cp="🧎🏿‍♀" type="tts">muller axeonllada: ton de pel moi escuro</annotation>
-		<annotation cp="🧑🏻‍🦯">bastón guía | cego | discapacidade | invidente | persoa cun bastón guía | ton de pel moi claro</annotation>
+		<annotation cp="🧎‍➡">á | axeonllar | cara | dereita | xeonllos</annotation>
+		<annotation cp="🧎‍➡" type="tts">persoa axeonllada: cara á dereita</annotation>
+		<annotation cp="🧎🏻‍➡">á | axeonllar | cara | dereita | ton de pel moi claro | xeonllos</annotation>
+		<annotation cp="🧎🏻‍➡" type="tts">persoa axeonllada: ton de pel moi claro, cara á dereita</annotation>
+		<annotation cp="🧎🏼‍➡">á | axeonllar | cara | dereita | ton de pel claro | xeonllos</annotation>
+		<annotation cp="🧎🏼‍➡" type="tts">persoa axeonllada: ton de pel claro, cara á dereita</annotation>
+		<annotation cp="🧎🏽‍➡">á | axeonllar | cara | dereita | ton de pel medio | xeonllos</annotation>
+		<annotation cp="🧎🏽‍➡" type="tts">persoa axeonllada: ton de pel medio, cara á dereita</annotation>
+		<annotation cp="🧎🏾‍➡">á | axeonllar | cara | dereita | ton de pel escuro | xeonllos</annotation>
+		<annotation cp="🧎🏾‍➡" type="tts">persoa axeonllada: ton de pel escuro, cara á dereita</annotation>
+		<annotation cp="🧎🏿‍➡">á | axeonllar | cara | dereita | ton de pel moi escuro | xeonllos</annotation>
+		<annotation cp="🧎🏿‍➡" type="tts">persoa axeonllada: ton de pel moi escuro, cara á dereita</annotation>
+		<annotation cp="🧎‍♀‍➡">á | axeonllar | cara | dereita | xeonllos</annotation>
+		<annotation cp="🧎‍♀‍➡" type="tts">muller axeonllada: cara á dereita</annotation>
+		<annotation cp="🧎🏻‍♀‍➡">á | axeonllar | cara | dereita | ton de pel moi claro | xeonllos</annotation>
+		<annotation cp="🧎🏻‍♀‍➡" type="tts">muller axeonllada: ton de pel moi claro, cara á dereita</annotation>
+		<annotation cp="🧎🏼‍♀‍➡">á | axeonllar | cara | dereita | ton de pel claro | xeonllos</annotation>
+		<annotation cp="🧎🏼‍♀‍➡" type="tts">muller axeonllada: ton de pel claro, cara á dereita</annotation>
+		<annotation cp="🧎🏽‍♀‍➡">á | axeonllar | cara | dereita | ton de pel medio | xeonllos</annotation>
+		<annotation cp="🧎🏽‍♀‍➡" type="tts">muller axeonllada: ton de pel medio, cara á dereita</annotation>
+		<annotation cp="🧎🏾‍♀‍➡">á | axeonllar | cara | dereita | ton de pel escuro | xeonllos</annotation>
+		<annotation cp="🧎🏾‍♀‍➡" type="tts">muller axeonllada: ton de pel escuro, cara á dereita</annotation>
+		<annotation cp="🧎🏿‍♀‍➡">á | axeonllar | cara | dereita | ton de pel moi escuro | xeonllos</annotation>
+		<annotation cp="🧎🏿‍♀‍➡" type="tts">muller axeonllada: ton de pel moi escuro, cara á dereita</annotation>
+		<annotation cp="🧎‍♂‍➡">á | axeonllar | cara | dereita | xeonllos</annotation>
+		<annotation cp="🧎‍♂‍➡" type="tts">home axeonllado: cara á dereita</annotation>
+		<annotation cp="🧎🏻‍♂‍➡">á | axeonllar | cara | dereita | ton de pel moi claro | xeonllos</annotation>
+		<annotation cp="🧎🏻‍♂‍➡" type="tts">home axeonllado: ton de pel moi claro, cara á dereita</annotation>
+		<annotation cp="🧎🏼‍♂‍➡">á | axeonllar | cara | dereita | ton de pel claro | xeonllos</annotation>
+		<annotation cp="🧎🏼‍♂‍➡" type="tts">home axeonllado: ton de pel claro, cara á dereita</annotation>
+		<annotation cp="🧎🏽‍♂‍➡">á | axeonllar | cara | dereita | ton de pel medio | xeonllos</annotation>
+		<annotation cp="🧎🏽‍♂‍➡" type="tts">home axeonllado: ton de pel medio, cara á dereita</annotation>
+		<annotation cp="🧎🏾‍♂‍➡">á | axeonllar | cara | dereita | ton de pel escuro | xeonllos</annotation>
+		<annotation cp="🧎🏾‍♂‍➡" type="tts">home axeonllado: ton de pel escuro, cara á dereita</annotation>
+		<annotation cp="🧎🏿‍♂‍➡">á | axeonllar | cara | dereita | ton de pel moi escuro | xeonllos</annotation>
+		<annotation cp="🧎🏿‍♂‍➡" type="tts">home axeonllado: ton de pel moi escuro, cara á dereita</annotation>
+		<annotation cp="🧑🏻‍🦯">bastón guía | cego | discapacidade | invidente | ton de pel moi claro</annotation>
 		<annotation cp="🧑🏻‍🦯" type="tts">persoa cun bastón guía: ton de pel moi claro</annotation>
-		<annotation cp="🧑🏼‍🦯">bastón guía | cego | discapacidade | invidente | persoa cun bastón guía | ton de pel claro</annotation>
+		<annotation cp="🧑🏼‍🦯">bastón guía | cego | discapacidade | invidente | ton de pel claro</annotation>
 		<annotation cp="🧑🏼‍🦯" type="tts">persoa cun bastón guía: ton de pel claro</annotation>
-		<annotation cp="🧑🏽‍🦯">bastón guía | cego | discapacidade | invidente | persoa cun bastón guía | ton de pel medio</annotation>
+		<annotation cp="🧑🏽‍🦯">bastón guía | cego | discapacidade | invidente | ton de pel medio</annotation>
 		<annotation cp="🧑🏽‍🦯" type="tts">persoa cun bastón guía: ton de pel medio</annotation>
-		<annotation cp="🧑🏾‍🦯">bastón guía | cego | discapacidade | invidente | persoa cun bastón guía | ton de pel escuro</annotation>
+		<annotation cp="🧑🏾‍🦯">bastón guía | cego | discapacidade | invidente | ton de pel escuro</annotation>
 		<annotation cp="🧑🏾‍🦯" type="tts">persoa cun bastón guía: ton de pel escuro</annotation>
-		<annotation cp="🧑🏿‍🦯">bastón guía | cego | discapacidade | invidente | persoa cun bastón guía | ton de pel moi escuro</annotation>
+		<annotation cp="🧑🏿‍🦯">bastón guía | cego | discapacidade | invidente | ton de pel moi escuro</annotation>
 		<annotation cp="🧑🏿‍🦯" type="tts">persoa cun bastón guía: ton de pel moi escuro</annotation>
-		<annotation cp="👨🏻‍🦯">bastón guía | cego | discapacidade | home cun bastón guía | invidente | ton de pel moi claro</annotation>
+		<annotation cp="🧑‍🦯‍➡">á | bastón guía | cara | cego | dereita | discapacidade | invidente</annotation>
+		<annotation cp="🧑‍🦯‍➡" type="tts">persoa cun bastón guía: cara á dereita</annotation>
+		<annotation cp="🧑🏻‍🦯‍➡">á | bastón guía | cara | cego | dereita | discapacidade | invidente | ton de pel moi claro</annotation>
+		<annotation cp="🧑🏻‍🦯‍➡" type="tts">persoa cun bastón guía: ton de pel moi claro, cara á dereita</annotation>
+		<annotation cp="🧑🏼‍🦯‍➡">á | bastón guía | cara | cego | dereita | discapacidade | invidente | ton de pel claro</annotation>
+		<annotation cp="🧑🏼‍🦯‍➡" type="tts">persoa cun bastón guía: ton de pel claro, cara á dereita</annotation>
+		<annotation cp="🧑🏽‍🦯‍➡">á | bastón guía | cara | cego | dereita | discapacidade | invidente | ton de pel medio</annotation>
+		<annotation cp="🧑🏽‍🦯‍➡" type="tts">persoa cun bastón guía: ton de pel medio, cara á dereita</annotation>
+		<annotation cp="🧑🏾‍🦯‍➡">á | bastón guía | cara | cego | dereita | discapacidade | invidente | ton de pel escuro</annotation>
+		<annotation cp="🧑🏾‍🦯‍➡" type="tts">persoa cun bastón guía: ton de pel escuro, cara á dereita</annotation>
+		<annotation cp="🧑🏿‍🦯‍➡">á | bastón guía | cara | cego | dereita | discapacidade | invidente | ton de pel moi escuro</annotation>
+		<annotation cp="🧑🏿‍🦯‍➡" type="tts">persoa cun bastón guía: ton de pel moi escuro, cara á dereita</annotation>
+		<annotation cp="👨🏻‍🦯">bastón guía | cego | discapacidade | invidente | ton de pel moi claro</annotation>
 		<annotation cp="👨🏻‍🦯" type="tts">home cun bastón guía: ton de pel moi claro</annotation>
-		<annotation cp="👨🏼‍🦯">bastón guía | cego | discapacidade | home cun bastón guía | invidente | ton de pel claro</annotation>
+		<annotation cp="👨🏼‍🦯">bastón guía | cego | discapacidade | invidente | ton de pel claro</annotation>
 		<annotation cp="👨🏼‍🦯" type="tts">home cun bastón guía: ton de pel claro</annotation>
-		<annotation cp="👨🏽‍🦯">bastón guía | cego | discapacidade | home cun bastón guía | invidente | ton de pel medio</annotation>
+		<annotation cp="👨🏽‍🦯">bastón guía | cego | discapacidade | invidente | ton de pel medio</annotation>
 		<annotation cp="👨🏽‍🦯" type="tts">home cun bastón guía: ton de pel medio</annotation>
-		<annotation cp="👨🏾‍🦯">bastón guía | cego | discapacidade | home cun bastón guía | invidente | ton de pel escuro</annotation>
+		<annotation cp="👨🏾‍🦯">bastón guía | cego | discapacidade | invidente | ton de pel escuro</annotation>
 		<annotation cp="👨🏾‍🦯" type="tts">home cun bastón guía: ton de pel escuro</annotation>
-		<annotation cp="👨🏿‍🦯">bastón guía | cego | discapacidade | home cun bastón guía | invidente | ton de pel moi escuro</annotation>
+		<annotation cp="👨🏿‍🦯">bastón guía | cego | discapacidade | invidente | ton de pel moi escuro</annotation>
 		<annotation cp="👨🏿‍🦯" type="tts">home cun bastón guía: ton de pel moi escuro</annotation>
-		<annotation cp="👩🏻‍🦯">bastón guía | cega | discapacidade | invidente | muller cun bastón guía | ton de pel moi claro</annotation>
+		<annotation cp="👨‍🦯‍➡">á | bastón guía | cara | cego | dereita | discapacidade | invidente</annotation>
+		<annotation cp="👨‍🦯‍➡" type="tts">home cun bastón guía: cara á dereita</annotation>
+		<annotation cp="👨🏻‍🦯‍➡">á | bastón guía | cara | cego | dereita | discapacidade | invidente | ton de pel moi claro</annotation>
+		<annotation cp="👨🏻‍🦯‍➡" type="tts">home cun bastón guía: ton de pel moi claro, cara á dereita</annotation>
+		<annotation cp="👨🏼‍🦯‍➡">á | bastón guía | cara | cego | dereita | discapacidade | invidente | ton de pel claro</annotation>
+		<annotation cp="👨🏼‍🦯‍➡" type="tts">home cun bastón guía: ton de pel claro, cara á dereita</annotation>
+		<annotation cp="👨🏽‍🦯‍➡">á | bastón guía | cara | cego | dereita | discapacidade | invidente | ton de pel medio</annotation>
+		<annotation cp="👨🏽‍🦯‍➡" type="tts">home cun bastón guía: ton de pel medio, cara á dereita</annotation>
+		<annotation cp="👨🏾‍🦯‍➡">á | bastón guía | cara | cego | dereita | discapacidade | invidente | ton de pel escuro</annotation>
+		<annotation cp="👨🏾‍🦯‍➡" type="tts">home cun bastón guía: ton de pel escuro, cara á dereita</annotation>
+		<annotation cp="👨🏿‍🦯‍➡">á | bastón guía | cara | cego | dereita | discapacidade | invidente | ton de pel moi escuro</annotation>
+		<annotation cp="👨🏿‍🦯‍➡" type="tts">home cun bastón guía: ton de pel moi escuro, cara á dereita</annotation>
+		<annotation cp="👩🏻‍🦯">bastón guía | cega | discapacidade | invidente | ton de pel moi claro</annotation>
 		<annotation cp="👩🏻‍🦯" type="tts">muller cun bastón guía: ton de pel moi claro</annotation>
-		<annotation cp="👩🏼‍🦯">bastón guía | cega | discapacidade | invidente | muller cun bastón guía | ton de pel claro</annotation>
+		<annotation cp="👩🏼‍🦯">bastón guía | cega | discapacidade | invidente | ton de pel claro</annotation>
 		<annotation cp="👩🏼‍🦯" type="tts">muller cun bastón guía: ton de pel claro</annotation>
-		<annotation cp="👩🏽‍🦯">bastón guía | cega | discapacidade | invidente | muller cun bastón guía | ton de pel medio</annotation>
+		<annotation cp="👩🏽‍🦯">bastón guía | cega | discapacidade | invidente | ton de pel medio</annotation>
 		<annotation cp="👩🏽‍🦯" type="tts">muller cun bastón guía: ton de pel medio</annotation>
-		<annotation cp="👩🏾‍🦯">bastón guía | cega | discapacidade | invidente | muller cun bastón guía | ton de pel escuro</annotation>
+		<annotation cp="👩🏾‍🦯">bastón guía | cega | discapacidade | invidente | ton de pel escuro</annotation>
 		<annotation cp="👩🏾‍🦯" type="tts">muller cun bastón guía: ton de pel escuro</annotation>
-		<annotation cp="👩🏿‍🦯">bastón guía | cega | discapacidade | invidente | muller cun bastón guía | ton de pel moi escuro</annotation>
+		<annotation cp="👩🏿‍🦯">bastón guía | cega | discapacidade | invidente | ton de pel moi escuro</annotation>
 		<annotation cp="👩🏿‍🦯" type="tts">muller cun bastón guía: ton de pel moi escuro</annotation>
-		<annotation cp="🧑🏻‍🦼">cadeira de rodas | cadeira motorizada | discapacidade | persoa en cadeira de rodas motorizada | ton de pel moi claro</annotation>
+		<annotation cp="👩‍🦯‍➡">á | bastón guía | cara | cega | dereita | discapacidade | invidente</annotation>
+		<annotation cp="👩‍🦯‍➡" type="tts">muller cun bastón guía: cara á dereita</annotation>
+		<annotation cp="👩🏻‍🦯‍➡">á | bastón guía | cara | cega | dereita | discapacidade | invidente | ton de pel moi claro</annotation>
+		<annotation cp="👩🏻‍🦯‍➡" type="tts">muller cun bastón guía: ton de pel moi claro, cara á dereita</annotation>
+		<annotation cp="👩🏼‍🦯‍➡">á | bastón guía | cara | cega | dereita | discapacidade | invidente | ton de pel claro</annotation>
+		<annotation cp="👩🏼‍🦯‍➡" type="tts">muller cun bastón guía: ton de pel claro, cara á dereita</annotation>
+		<annotation cp="👩🏽‍🦯‍➡">á | bastón guía | cara | cega | dereita | discapacidade | invidente | ton de pel medio</annotation>
+		<annotation cp="👩🏽‍🦯‍➡" type="tts">muller cun bastón guía: ton de pel medio, cara á dereita</annotation>
+		<annotation cp="👩🏾‍🦯‍➡">á | bastón guía | cara | cega | dereita | discapacidade | invidente | ton de pel escuro</annotation>
+		<annotation cp="👩🏾‍🦯‍➡" type="tts">muller cun bastón guía: ton de pel escuro, cara á dereita</annotation>
+		<annotation cp="👩🏿‍🦯‍➡">á | bastón guía | cara | cega | dereita | discapacidade | invidente | ton de pel moi escuro</annotation>
+		<annotation cp="👩🏿‍🦯‍➡" type="tts">muller cun bastón guía: ton de pel moi escuro, cara á dereita</annotation>
+		<annotation cp="🧑🏻‍🦼">cadeira de rodas | cadeira motorizada | discapacidade | ton de pel moi claro</annotation>
 		<annotation cp="🧑🏻‍🦼" type="tts">persoa en cadeira de rodas motorizada: ton de pel moi claro</annotation>
-		<annotation cp="🧑🏼‍🦼">cadeira de rodas | cadeira motorizada | discapacidade | persoa en cadeira de rodas motorizada | ton de pel claro</annotation>
+		<annotation cp="🧑🏼‍🦼">cadeira de rodas | cadeira motorizada | discapacidade | ton de pel claro</annotation>
 		<annotation cp="🧑🏼‍🦼" type="tts">persoa en cadeira de rodas motorizada: ton de pel claro</annotation>
-		<annotation cp="🧑🏽‍🦼">cadeira de rodas | cadeira motorizada | discapacidade | persoa en cadeira de rodas motorizada | ton de pel medio</annotation>
+		<annotation cp="🧑🏽‍🦼">cadeira de rodas | cadeira motorizada | discapacidade | ton de pel medio</annotation>
 		<annotation cp="🧑🏽‍🦼" type="tts">persoa en cadeira de rodas motorizada: ton de pel medio</annotation>
-		<annotation cp="🧑🏾‍🦼">cadeira de rodas | cadeira motorizada | discapacidade | persoa en cadeira de rodas motorizada | ton de pel escuro</annotation>
+		<annotation cp="🧑🏾‍🦼">cadeira de rodas | cadeira motorizada | discapacidade | ton de pel escuro</annotation>
 		<annotation cp="🧑🏾‍🦼" type="tts">persoa en cadeira de rodas motorizada: ton de pel escuro</annotation>
-		<annotation cp="🧑🏿‍🦼">cadeira de rodas | cadeira motorizada | discapacidade | persoa en cadeira de rodas motorizada | ton de pel moi escuro</annotation>
+		<annotation cp="🧑🏿‍🦼">cadeira de rodas | cadeira motorizada | discapacidade | ton de pel moi escuro</annotation>
 		<annotation cp="🧑🏿‍🦼" type="tts">persoa en cadeira de rodas motorizada: ton de pel moi escuro</annotation>
-		<annotation cp="👨🏻‍🦼">cadeira de rodas | cadeira motorizada | discapacidade | home en cadeira de rodas motorizada | ton de pel moi claro</annotation>
+		<annotation cp="🧑‍🦼‍➡">á | cadeira de rodas | cadeira motorizada | cara | dereita | discapacidade</annotation>
+		<annotation cp="🧑‍🦼‍➡" type="tts">persoa en cadeira de rodas motorizada: cara á dereita</annotation>
+		<annotation cp="🧑🏻‍🦼‍➡">á | cadeira de rodas | cadeira motorizada | cara | dereita | discapacidade | ton de pel moi claro</annotation>
+		<annotation cp="🧑🏻‍🦼‍➡" type="tts">persoa en cadeira de rodas motorizada: ton de pel moi claro, cara á dereita</annotation>
+		<annotation cp="🧑🏼‍🦼‍➡">á | cadeira de rodas | cadeira motorizada | cara | dereita | discapacidade | ton de pel claro</annotation>
+		<annotation cp="🧑🏼‍🦼‍➡" type="tts">persoa en cadeira de rodas motorizada: ton de pel claro, cara á dereita</annotation>
+		<annotation cp="🧑🏽‍🦼‍➡">á | cadeira de rodas | cadeira motorizada | cara | dereita | discapacidade | ton de pel medio</annotation>
+		<annotation cp="🧑🏽‍🦼‍➡" type="tts">persoa en cadeira de rodas motorizada: ton de pel medio, cara á dereita</annotation>
+		<annotation cp="🧑🏾‍🦼‍➡">á | cadeira de rodas | cadeira motorizada | cara | dereita | discapacidade | ton de pel escuro</annotation>
+		<annotation cp="🧑🏾‍🦼‍➡" type="tts">persoa en cadeira de rodas motorizada: ton de pel escuro, cara á dereita</annotation>
+		<annotation cp="🧑🏿‍🦼‍➡">á | cadeira de rodas | cadeira motorizada | cara | dereita | discapacidade | ton de pel moi escuro</annotation>
+		<annotation cp="🧑🏿‍🦼‍➡" type="tts">persoa en cadeira de rodas motorizada: ton de pel moi escuro, cara á dereita</annotation>
+		<annotation cp="👨🏻‍🦼">cadeira de rodas | cadeira motorizada | discapacidade | ton de pel moi claro</annotation>
 		<annotation cp="👨🏻‍🦼" type="tts">home en cadeira de rodas motorizada: ton de pel moi claro</annotation>
-		<annotation cp="👨🏼‍🦼">cadeira de rodas | cadeira motorizada | discapacidade | home en cadeira de rodas motorizada | ton de pel claro</annotation>
+		<annotation cp="👨🏼‍🦼">cadeira de rodas | cadeira motorizada | discapacidade | ton de pel claro</annotation>
 		<annotation cp="👨🏼‍🦼" type="tts">home en cadeira de rodas motorizada: ton de pel claro</annotation>
-		<annotation cp="👨🏽‍🦼">cadeira de rodas | cadeira motorizada | discapacidade | home en cadeira de rodas motorizada | ton de pel medio</annotation>
+		<annotation cp="👨🏽‍🦼">cadeira de rodas | cadeira motorizada | discapacidade | ton de pel medio</annotation>
 		<annotation cp="👨🏽‍🦼" type="tts">home en cadeira de rodas motorizada: ton de pel medio</annotation>
-		<annotation cp="👨🏾‍🦼">cadeira de rodas | cadeira motorizada | discapacidade | home en cadeira de rodas motorizada | ton de pel escuro</annotation>
+		<annotation cp="👨🏾‍🦼">cadeira de rodas | cadeira motorizada | discapacidade | ton de pel escuro</annotation>
 		<annotation cp="👨🏾‍🦼" type="tts">home en cadeira de rodas motorizada: ton de pel escuro</annotation>
-		<annotation cp="👨🏿‍🦼">cadeira de rodas | cadeira motorizada | discapacidade | home en cadeira de rodas motorizada | ton de pel moi escuro</annotation>
+		<annotation cp="👨🏿‍🦼">cadeira de rodas | cadeira motorizada | discapacidade | ton de pel moi escuro</annotation>
 		<annotation cp="👨🏿‍🦼" type="tts">home en cadeira de rodas motorizada: ton de pel moi escuro</annotation>
-		<annotation cp="👩🏻‍🦼">cadeira de rodas | cadeira motorizada | discapacidade | muller en cadeira de rodas motorizada | ton de pel moi claro</annotation>
+		<annotation cp="👨‍🦼‍➡">á | cadeira de rodas | cadeira motorizada | cara | dereita | discapacidade</annotation>
+		<annotation cp="👨‍🦼‍➡" type="tts">home en cadeira de rodas motorizada: cara á dereita</annotation>
+		<annotation cp="👨🏻‍🦼‍➡">á | cadeira de rodas | cadeira motorizada | cara | dereita | discapacidade | ton de pel moi claro</annotation>
+		<annotation cp="👨🏻‍🦼‍➡" type="tts">home en cadeira de rodas motorizada: ton de pel moi claro, cara á dereita</annotation>
+		<annotation cp="👨🏼‍🦼‍➡">á | cadeira de rodas | cadeira motorizada | cara | dereita | discapacidade | ton de pel claro</annotation>
+		<annotation cp="👨🏼‍🦼‍➡" type="tts">home en cadeira de rodas motorizada: ton de pel claro, cara á dereita</annotation>
+		<annotation cp="👨🏽‍🦼‍➡">á | cadeira de rodas | cadeira motorizada | cara | dereita | discapacidade | ton de pel medio</annotation>
+		<annotation cp="👨🏽‍🦼‍➡" type="tts">home en cadeira de rodas motorizada: ton de pel medio, cara á dereita</annotation>
+		<annotation cp="👨🏾‍🦼‍➡">á | cadeira de rodas | cadeira motorizada | cara | dereita | discapacidade | ton de pel escuro</annotation>
+		<annotation cp="👨🏾‍🦼‍➡" type="tts">home en cadeira de rodas motorizada: ton de pel escuro, cara á dereita</annotation>
+		<annotation cp="👨🏿‍🦼‍➡">á | cadeira de rodas | cadeira motorizada | cara | dereita | discapacidade | ton de pel moi escuro</annotation>
+		<annotation cp="👨🏿‍🦼‍➡" type="tts">home en cadeira de rodas motorizada: ton de pel moi escuro, cara á dereita</annotation>
+		<annotation cp="👩🏻‍🦼">cadeira de rodas | cadeira motorizada | discapacidade | ton de pel moi claro</annotation>
 		<annotation cp="👩🏻‍🦼" type="tts">muller en cadeira de rodas motorizada: ton de pel moi claro</annotation>
-		<annotation cp="👩🏼‍🦼">cadeira de rodas | cadeira motorizada | discapacidade | muller en cadeira de rodas motorizada | ton de pel claro</annotation>
+		<annotation cp="👩🏼‍🦼">cadeira de rodas | cadeira motorizada | discapacidade | ton de pel claro</annotation>
 		<annotation cp="👩🏼‍🦼" type="tts">muller en cadeira de rodas motorizada: ton de pel claro</annotation>
-		<annotation cp="👩🏽‍🦼">cadeira de rodas | cadeira motorizada | discapacidade | muller en cadeira de rodas motorizada | ton de pel medio</annotation>
+		<annotation cp="👩🏽‍🦼">cadeira de rodas | cadeira motorizada | discapacidade | ton de pel medio</annotation>
 		<annotation cp="👩🏽‍🦼" type="tts">muller en cadeira de rodas motorizada: ton de pel medio</annotation>
-		<annotation cp="👩🏾‍🦼">cadeira de rodas | cadeira motorizada | discapacidade | muller en cadeira de rodas motorizada | ton de pel escuro</annotation>
+		<annotation cp="👩🏾‍🦼">cadeira de rodas | cadeira motorizada | discapacidade | ton de pel escuro</annotation>
 		<annotation cp="👩🏾‍🦼" type="tts">muller en cadeira de rodas motorizada: ton de pel escuro</annotation>
-		<annotation cp="👩🏿‍🦼">cadeira de rodas | cadeira motorizada | discapacidade | muller en cadeira de rodas motorizada | ton de pel moi escuro</annotation>
+		<annotation cp="👩🏿‍🦼">cadeira de rodas | cadeira motorizada | discapacidade | ton de pel moi escuro</annotation>
 		<annotation cp="👩🏿‍🦼" type="tts">muller en cadeira de rodas motorizada: ton de pel moi escuro</annotation>
-		<annotation cp="🧑🏻‍🦽">cadeira de rodas | discapacidade | persoa en cadeira de rodas | ton de pel moi claro</annotation>
+		<annotation cp="👩‍🦼‍➡">á | cadeira de rodas | cadeira motorizada | cara | dereita | discapacidade</annotation>
+		<annotation cp="👩‍🦼‍➡" type="tts">muller en cadeira de rodas motorizada: cara á dereita</annotation>
+		<annotation cp="👩🏻‍🦼‍➡">á | cadeira de rodas | cadeira motorizada | cara | dereita | discapacidade | ton de pel moi claro</annotation>
+		<annotation cp="👩🏻‍🦼‍➡" type="tts">muller en cadeira de rodas motorizada: ton de pel moi claro, cara á dereita</annotation>
+		<annotation cp="👩🏼‍🦼‍➡">á | cadeira de rodas | cadeira motorizada | cara | dereita | discapacidade | ton de pel claro</annotation>
+		<annotation cp="👩🏼‍🦼‍➡" type="tts">muller en cadeira de rodas motorizada: ton de pel claro, cara á dereita</annotation>
+		<annotation cp="👩🏽‍🦼‍➡">á | cadeira de rodas | cadeira motorizada | cara | dereita | discapacidade | ton de pel medio</annotation>
+		<annotation cp="👩🏽‍🦼‍➡" type="tts">muller en cadeira de rodas motorizada: ton de pel medio, cara á dereita</annotation>
+		<annotation cp="👩🏾‍🦼‍➡">á | cadeira de rodas | cadeira motorizada | cara | dereita | discapacidade | ton de pel escuro</annotation>
+		<annotation cp="👩🏾‍🦼‍➡" type="tts">muller en cadeira de rodas motorizada: ton de pel escuro, cara á dereita</annotation>
+		<annotation cp="👩🏿‍🦼‍➡">á | cadeira de rodas | cadeira motorizada | cara | dereita | discapacidade | ton de pel moi escuro</annotation>
+		<annotation cp="👩🏿‍🦼‍➡" type="tts">muller en cadeira de rodas motorizada: ton de pel moi escuro, cara á dereita</annotation>
+		<annotation cp="🧑🏻‍🦽">cadeira de rodas | discapacidade | ton de pel moi claro</annotation>
 		<annotation cp="🧑🏻‍🦽" type="tts">persoa en cadeira de rodas: ton de pel moi claro</annotation>
-		<annotation cp="🧑🏼‍🦽">cadeira de rodas | discapacidade | persoa en cadeira de rodas | ton de pel claro</annotation>
+		<annotation cp="🧑🏼‍🦽">cadeira de rodas | discapacidade | ton de pel claro</annotation>
 		<annotation cp="🧑🏼‍🦽" type="tts">persoa en cadeira de rodas: ton de pel claro</annotation>
-		<annotation cp="🧑🏽‍🦽">cadeira de rodas | discapacidade | persoa en cadeira de rodas | ton de pel medio</annotation>
+		<annotation cp="🧑🏽‍🦽">cadeira de rodas | discapacidade | ton de pel medio</annotation>
 		<annotation cp="🧑🏽‍🦽" type="tts">persoa en cadeira de rodas: ton de pel medio</annotation>
-		<annotation cp="🧑🏾‍🦽">cadeira de rodas | discapacidade | persoa en cadeira de rodas | ton de pel escuro</annotation>
+		<annotation cp="🧑🏾‍🦽">cadeira de rodas | discapacidade | ton de pel escuro</annotation>
 		<annotation cp="🧑🏾‍🦽" type="tts">persoa en cadeira de rodas: ton de pel escuro</annotation>
-		<annotation cp="🧑🏿‍🦽">cadeira de rodas | discapacidade | persoa en cadeira de rodas | ton de pel moi escuro</annotation>
+		<annotation cp="🧑🏿‍🦽">cadeira de rodas | discapacidade | ton de pel moi escuro</annotation>
 		<annotation cp="🧑🏿‍🦽" type="tts">persoa en cadeira de rodas: ton de pel moi escuro</annotation>
-		<annotation cp="👨🏻‍🦽">cadeira de rodas | discapacidade | home en cadeira de rodas | ton de pel moi claro</annotation>
+		<annotation cp="🧑‍🦽‍➡">á | cadeira de rodas | cara | dereita | discapacidade</annotation>
+		<annotation cp="🧑‍🦽‍➡" type="tts">persoa en cadeira de rodas: cara á dereita</annotation>
+		<annotation cp="🧑🏻‍🦽‍➡">á | cadeira de rodas | cara | dereita | discapacidade | ton de pel moi claro</annotation>
+		<annotation cp="🧑🏻‍🦽‍➡" type="tts">persoa en cadeira de rodas: ton de pel moi claro, cara á dereita</annotation>
+		<annotation cp="🧑🏼‍🦽‍➡">á | cadeira de rodas | cara | dereita | discapacidade | ton de pel claro</annotation>
+		<annotation cp="🧑🏼‍🦽‍➡" type="tts">persoa en cadeira de rodas: ton de pel claro, cara á dereita</annotation>
+		<annotation cp="🧑🏽‍🦽‍➡">á | cadeira de rodas | cara | dereita | discapacidade | ton de pel medio</annotation>
+		<annotation cp="🧑🏽‍🦽‍➡" type="tts">persoa en cadeira de rodas: ton de pel medio, cara á dereita</annotation>
+		<annotation cp="🧑🏾‍🦽‍➡">á | cadeira de rodas | cara | dereita | discapacidade | ton de pel escuro</annotation>
+		<annotation cp="🧑🏾‍🦽‍➡" type="tts">persoa en cadeira de rodas: ton de pel escuro, cara á dereita</annotation>
+		<annotation cp="🧑🏿‍🦽‍➡">á | cadeira de rodas | cara | dereita | discapacidade | ton de pel moi escuro</annotation>
+		<annotation cp="🧑🏿‍🦽‍➡" type="tts">persoa en cadeira de rodas: ton de pel moi escuro, cara á dereita</annotation>
+		<annotation cp="👨🏻‍🦽">cadeira de rodas | discapacidade | ton de pel moi claro</annotation>
 		<annotation cp="👨🏻‍🦽" type="tts">home en cadeira de rodas: ton de pel moi claro</annotation>
-		<annotation cp="👨🏼‍🦽">cadeira de rodas | discapacidade | home en cadeira de rodas | ton de pel claro</annotation>
+		<annotation cp="👨🏼‍🦽">cadeira de rodas | discapacidade | ton de pel claro</annotation>
 		<annotation cp="👨🏼‍🦽" type="tts">home en cadeira de rodas: ton de pel claro</annotation>
-		<annotation cp="👨🏽‍🦽">cadeira de rodas | discapacidade | home en cadeira de rodas | ton de pel medio</annotation>
+		<annotation cp="👨🏽‍🦽">cadeira de rodas | discapacidade | ton de pel medio</annotation>
 		<annotation cp="👨🏽‍🦽" type="tts">home en cadeira de rodas: ton de pel medio</annotation>
-		<annotation cp="👨🏾‍🦽">cadeira de rodas | discapacidade | home en cadeira de rodas | ton de pel escuro</annotation>
+		<annotation cp="👨🏾‍🦽">cadeira de rodas | discapacidade | ton de pel escuro</annotation>
 		<annotation cp="👨🏾‍🦽" type="tts">home en cadeira de rodas: ton de pel escuro</annotation>
-		<annotation cp="👨🏿‍🦽">cadeira de rodas | discapacidade | home en cadeira de rodas | ton de pel moi escuro</annotation>
+		<annotation cp="👨🏿‍🦽">cadeira de rodas | discapacidade | ton de pel moi escuro</annotation>
 		<annotation cp="👨🏿‍🦽" type="tts">home en cadeira de rodas: ton de pel moi escuro</annotation>
-		<annotation cp="👩🏻‍🦽">cadeira de rodas | discapacidade | muller en cadeira de rodas | ton de pel moi claro</annotation>
+		<annotation cp="👨‍🦽‍➡">á | cadeira de rodas | cara | dereita | discapacidade</annotation>
+		<annotation cp="👨‍🦽‍➡" type="tts">home en cadeira de rodas: cara á dereita</annotation>
+		<annotation cp="👨🏻‍🦽‍➡">á | cadeira de rodas | cara | dereita | discapacidade | ton de pel moi claro</annotation>
+		<annotation cp="👨🏻‍🦽‍➡" type="tts">home en cadeira de rodas: ton de pel moi claro, cara á dereita</annotation>
+		<annotation cp="👨🏼‍🦽‍➡">á | cadeira de rodas | cara | dereita | discapacidade | ton de pel claro</annotation>
+		<annotation cp="👨🏼‍🦽‍➡" type="tts">home en cadeira de rodas: ton de pel claro, cara á dereita</annotation>
+		<annotation cp="👨🏽‍🦽‍➡">á | cadeira de rodas | cara | dereita | discapacidade | ton de pel medio</annotation>
+		<annotation cp="👨🏽‍🦽‍➡" type="tts">home en cadeira de rodas: ton de pel medio, cara á dereita</annotation>
+		<annotation cp="👨🏾‍🦽‍➡">á | cadeira de rodas | cara | dereita | discapacidade | ton de pel escuro</annotation>
+		<annotation cp="👨🏾‍🦽‍➡" type="tts">home en cadeira de rodas: ton de pel escuro, cara á dereita</annotation>
+		<annotation cp="👨🏿‍🦽‍➡">á | cadeira de rodas | cara | dereita | discapacidade | ton de pel moi escuro</annotation>
+		<annotation cp="👨🏿‍🦽‍➡" type="tts">home en cadeira de rodas: ton de pel moi escuro, cara á dereita</annotation>
+		<annotation cp="👩🏻‍🦽">cadeira de rodas | discapacidade | ton de pel moi claro</annotation>
 		<annotation cp="👩🏻‍🦽" type="tts">muller en cadeira de rodas: ton de pel moi claro</annotation>
-		<annotation cp="👩🏼‍🦽">cadeira de rodas | discapacidade | muller en cadeira de rodas | ton de pel claro</annotation>
+		<annotation cp="👩🏼‍🦽">cadeira de rodas | discapacidade | ton de pel claro</annotation>
 		<annotation cp="👩🏼‍🦽" type="tts">muller en cadeira de rodas: ton de pel claro</annotation>
-		<annotation cp="👩🏽‍🦽">cadeira de rodas | discapacidade | muller en cadeira de rodas | ton de pel medio</annotation>
+		<annotation cp="👩🏽‍🦽">cadeira de rodas | discapacidade | ton de pel medio</annotation>
 		<annotation cp="👩🏽‍🦽" type="tts">muller en cadeira de rodas: ton de pel medio</annotation>
-		<annotation cp="👩🏾‍🦽">cadeira de rodas | discapacidade | muller en cadeira de rodas | ton de pel escuro</annotation>
+		<annotation cp="👩🏾‍🦽">cadeira de rodas | discapacidade | ton de pel escuro</annotation>
 		<annotation cp="👩🏾‍🦽" type="tts">muller en cadeira de rodas: ton de pel escuro</annotation>
-		<annotation cp="👩🏿‍🦽">cadeira de rodas | discapacidade | muller en cadeira de rodas | ton de pel moi escuro</annotation>
+		<annotation cp="👩🏿‍🦽">cadeira de rodas | discapacidade | ton de pel moi escuro</annotation>
 		<annotation cp="👩🏿‍🦽" type="tts">muller en cadeira de rodas: ton de pel moi escuro</annotation>
+		<annotation cp="👩‍🦽‍➡">á | cadeira de rodas | cara | dereita | discapacidade</annotation>
+		<annotation cp="👩‍🦽‍➡" type="tts">muller en cadeira de rodas: cara á dereita</annotation>
+		<annotation cp="👩🏻‍🦽‍➡">á | cadeira de rodas | cara | dereita | discapacidade | ton de pel moi claro</annotation>
+		<annotation cp="👩🏻‍🦽‍➡" type="tts">muller en cadeira de rodas: ton de pel moi claro, cara á dereita</annotation>
+		<annotation cp="👩🏼‍🦽‍➡">á | cadeira de rodas | cara | dereita | discapacidade | ton de pel claro</annotation>
+		<annotation cp="👩🏼‍🦽‍➡" type="tts">muller en cadeira de rodas: ton de pel claro, cara á dereita</annotation>
+		<annotation cp="👩🏽‍🦽‍➡">á | cadeira de rodas | cara | dereita | discapacidade | ton de pel medio</annotation>
+		<annotation cp="👩🏽‍🦽‍➡" type="tts">muller en cadeira de rodas: ton de pel medio, cara á dereita</annotation>
+		<annotation cp="👩🏾‍🦽‍➡">á | cadeira de rodas | cara | dereita | discapacidade | ton de pel escuro</annotation>
+		<annotation cp="👩🏾‍🦽‍➡" type="tts">muller en cadeira de rodas: ton de pel escuro, cara á dereita</annotation>
+		<annotation cp="👩🏿‍🦽‍➡">á | cadeira de rodas | cara | dereita | discapacidade | ton de pel moi escuro</annotation>
+		<annotation cp="👩🏿‍🦽‍➡" type="tts">muller en cadeira de rodas: ton de pel moi escuro, cara á dereita</annotation>
 		<annotation cp="🏃🏻">correr | maratón | persoa correndo | ton de pel moi claro</annotation>
 		<annotation cp="🏃🏻" type="tts">persoa correndo: ton de pel moi claro</annotation>
 		<annotation cp="🏃🏼">correr | maratón | persoa correndo | ton de pel claro</annotation>
@@ -2696,6 +3047,42 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🏃🏾‍♀" type="tts">muller correndo: ton de pel escuro</annotation>
 		<annotation cp="🏃🏿‍♀">correr | maratón | muller | muller correndo | ton de pel moi escuro</annotation>
 		<annotation cp="🏃🏿‍♀" type="tts">muller correndo: ton de pel moi escuro</annotation>
+		<annotation cp="🏃‍➡">á | cara | correr | dereita | maratón | persoa correndo</annotation>
+		<annotation cp="🏃‍➡" type="tts">persoa correndo: cara á dereita</annotation>
+		<annotation cp="🏃🏻‍➡">á | cara | correr | dereita | maratón | persoa correndo | ton de pel moi claro</annotation>
+		<annotation cp="🏃🏻‍➡" type="tts">persoa correndo: ton de pel moi claro, cara á dereita</annotation>
+		<annotation cp="🏃🏼‍➡">á | cara | correr | dereita | maratón | persoa correndo | ton de pel claro</annotation>
+		<annotation cp="🏃🏼‍➡" type="tts">persoa correndo: ton de pel claro, cara á dereita</annotation>
+		<annotation cp="🏃🏽‍➡">á | cara | correr | dereita | maratón | persoa correndo | ton de pel medio</annotation>
+		<annotation cp="🏃🏽‍➡" type="tts">persoa correndo: ton de pel medio, cara á dereita</annotation>
+		<annotation cp="🏃🏾‍➡">á | cara | correr | dereita | maratón | persoa correndo | ton de pel escuro</annotation>
+		<annotation cp="🏃🏾‍➡" type="tts">persoa correndo: ton de pel escuro, cara á dereita</annotation>
+		<annotation cp="🏃🏿‍➡">á | cara | correr | dereita | maratón | persoa correndo | ton de pel moi escuro</annotation>
+		<annotation cp="🏃🏿‍➡" type="tts">persoa correndo: ton de pel moi escuro, cara á dereita</annotation>
+		<annotation cp="🏃‍♀‍➡">á | cara | correr | dereita | maratón | muller | muller correndo</annotation>
+		<annotation cp="🏃‍♀‍➡" type="tts">muller correndo: cara á dereita</annotation>
+		<annotation cp="🏃🏻‍♀‍➡">á | cara | correr | dereita | maratón | muller | muller correndo | ton de pel moi claro</annotation>
+		<annotation cp="🏃🏻‍♀‍➡" type="tts">muller correndo: ton de pel moi claro, cara á dereita</annotation>
+		<annotation cp="🏃🏼‍♀‍➡">á | cara | correr | dereita | maratón | muller | muller correndo | ton de pel claro</annotation>
+		<annotation cp="🏃🏼‍♀‍➡" type="tts">muller correndo: ton de pel claro, cara á dereita</annotation>
+		<annotation cp="🏃🏽‍♀‍➡">á | cara | correr | dereita | maratón | muller | muller correndo | ton de pel medio</annotation>
+		<annotation cp="🏃🏽‍♀‍➡" type="tts">muller correndo: ton de pel medio, cara á dereita</annotation>
+		<annotation cp="🏃🏾‍♀‍➡">á | cara | correr | dereita | maratón | muller | muller correndo | ton de pel escuro</annotation>
+		<annotation cp="🏃🏾‍♀‍➡" type="tts">muller correndo: ton de pel escuro, cara á dereita</annotation>
+		<annotation cp="🏃🏿‍♀‍➡">á | cara | correr | dereita | maratón | muller | muller correndo | ton de pel moi escuro</annotation>
+		<annotation cp="🏃🏿‍♀‍➡" type="tts">muller correndo: ton de pel moi escuro, cara á dereita</annotation>
+		<annotation cp="🏃‍♂‍➡">á | cara | correr | dereita | home | home correndo | maratón</annotation>
+		<annotation cp="🏃‍♂‍➡" type="tts">home correndo: cara á dereita</annotation>
+		<annotation cp="🏃🏻‍♂‍➡">á | cara | correr | dereita | home | home correndo | maratón | ton de pel moi claro</annotation>
+		<annotation cp="🏃🏻‍♂‍➡" type="tts">home correndo: ton de pel moi claro, cara á dereita</annotation>
+		<annotation cp="🏃🏼‍♂‍➡">á | cara | correr | dereita | home | home correndo | maratón | ton de pel claro</annotation>
+		<annotation cp="🏃🏼‍♂‍➡" type="tts">home correndo: ton de pel claro, cara á dereita</annotation>
+		<annotation cp="🏃🏽‍♂‍➡">á | cara | correr | dereita | home | home correndo | maratón | ton de pel medio</annotation>
+		<annotation cp="🏃🏽‍♂‍➡" type="tts">home correndo: ton de pel medio, cara á dereita</annotation>
+		<annotation cp="🏃🏾‍♂‍➡">á | cara | correr | dereita | home | home correndo | maratón | ton de pel escuro</annotation>
+		<annotation cp="🏃🏾‍♂‍➡" type="tts">home correndo: ton de pel escuro, cara á dereita</annotation>
+		<annotation cp="🏃🏿‍♂‍➡">á | cara | correr | dereita | home | home correndo | maratón | ton de pel moi escuro</annotation>
+		<annotation cp="🏃🏿‍♂‍➡" type="tts">home correndo: ton de pel moi escuro, cara á dereita</annotation>
 		<annotation cp="💃🏻">bailar | bailarina | muller | ton de pel moi claro</annotation>
 		<annotation cp="💃🏻" type="tts">bailarina: ton de pel moi claro</annotation>
 		<annotation cp="💃🏼">bailar | bailarina | muller | ton de pel claro</annotation>
@@ -2936,25 +3323,25 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="⛹🏾" type="tts">persoa botando un balón: ton de pel escuro</annotation>
 		<annotation cp="⛹🏿">balón | baloncesto | persoa botando un balón | ton de pel moi escuro</annotation>
 		<annotation cp="⛹🏿" type="tts">persoa botando un balón: ton de pel moi escuro</annotation>
-		<annotation cp="⛹🏻‍♂">balón | baloncesto | home | ton de pel moi claro | xogador de baloncesto</annotation>
+		<annotation cp="⛹🏻‍♂">balón | baloncesto | home | ton de pel moi claro</annotation>
 		<annotation cp="⛹🏻‍♂" type="tts">xogador de baloncesto: ton de pel moi claro</annotation>
-		<annotation cp="⛹🏼‍♂">balón | baloncesto | home | ton de pel claro | xogador de baloncesto</annotation>
+		<annotation cp="⛹🏼‍♂">balón | baloncesto | home | ton de pel claro</annotation>
 		<annotation cp="⛹🏼‍♂" type="tts">xogador de baloncesto: ton de pel claro</annotation>
-		<annotation cp="⛹🏽‍♂">balón | baloncesto | home | ton de pel medio | xogador de baloncesto</annotation>
+		<annotation cp="⛹🏽‍♂">balón | baloncesto | home | ton de pel medio</annotation>
 		<annotation cp="⛹🏽‍♂" type="tts">xogador de baloncesto: ton de pel medio</annotation>
-		<annotation cp="⛹🏾‍♂">balón | baloncesto | home | ton de pel escuro | xogador de baloncesto</annotation>
+		<annotation cp="⛹🏾‍♂">balón | baloncesto | home | ton de pel escuro</annotation>
 		<annotation cp="⛹🏾‍♂" type="tts">xogador de baloncesto: ton de pel escuro</annotation>
-		<annotation cp="⛹🏿‍♂">balón | baloncesto | home | ton de pel moi escuro | xogador de baloncesto</annotation>
+		<annotation cp="⛹🏿‍♂">balón | baloncesto | home | ton de pel moi escuro</annotation>
 		<annotation cp="⛹🏿‍♂" type="tts">xogador de baloncesto: ton de pel moi escuro</annotation>
-		<annotation cp="⛹🏻‍♀">balón | baloncesto | muller | ton de pel moi claro | xogadora de baloncesto</annotation>
+		<annotation cp="⛹🏻‍♀">balón | baloncesto | muller | ton de pel moi claro</annotation>
 		<annotation cp="⛹🏻‍♀" type="tts">xogadora de baloncesto: ton de pel moi claro</annotation>
-		<annotation cp="⛹🏼‍♀">balón | baloncesto | muller | ton de pel claro | xogadora de baloncesto</annotation>
+		<annotation cp="⛹🏼‍♀">balón | baloncesto | muller | ton de pel claro</annotation>
 		<annotation cp="⛹🏼‍♀" type="tts">xogadora de baloncesto: ton de pel claro</annotation>
-		<annotation cp="⛹🏽‍♀">balón | baloncesto | muller | ton de pel medio | xogadora de baloncesto</annotation>
+		<annotation cp="⛹🏽‍♀">balón | baloncesto | muller | ton de pel medio</annotation>
 		<annotation cp="⛹🏽‍♀" type="tts">xogadora de baloncesto: ton de pel medio</annotation>
-		<annotation cp="⛹🏾‍♀">balón | baloncesto | muller | ton de pel escuro | xogadora de baloncesto</annotation>
+		<annotation cp="⛹🏾‍♀">balón | baloncesto | muller | ton de pel escuro</annotation>
 		<annotation cp="⛹🏾‍♀" type="tts">xogadora de baloncesto: ton de pel escuro</annotation>
-		<annotation cp="⛹🏿‍♀">balón | baloncesto | muller | ton de pel moi escuro | xogadora de baloncesto</annotation>
+		<annotation cp="⛹🏿‍♀">balón | baloncesto | muller | ton de pel moi escuro</annotation>
 		<annotation cp="⛹🏿‍♀" type="tts">xogadora de baloncesto: ton de pel moi escuro</annotation>
 		<annotation cp="🏋🏻">halterofilia | levantar pesos | persoa practicando halterofilia | ton de pel moi claro</annotation>
 		<annotation cp="🏋🏻" type="tts">persoa practicando halterofilia: ton de pel moi claro</annotation>
@@ -3216,55 +3603,55 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🛌🏾" type="tts">persoa durmindo: ton de pel escuro</annotation>
 		<annotation cp="🛌🏿">durmir | hotel | persoa durmindo | ton de pel moi escuro</annotation>
 		<annotation cp="🛌🏿" type="tts">persoa durmindo: ton de pel moi escuro</annotation>
-		<annotation cp="🧑🏻‍🤝‍🧑🏻">acordo | dar a man | mans | parella | persoas dándose a man | ton de pel moi claro</annotation>
+		<annotation cp="🧑🏻‍🤝‍🧑🏻">acordo | dar a man | mans | parella | ton de pel moi claro</annotation>
 		<annotation cp="🧑🏻‍🤝‍🧑🏻" type="tts">persoas dándose a man: ton de pel moi claro</annotation>
-		<annotation cp="🧑🏻‍🤝‍🧑🏼">acordo | dar a man | mans | parella | persoas dándose a man | ton de pel claro | ton de pel moi claro</annotation>
+		<annotation cp="🧑🏻‍🤝‍🧑🏼">acordo | dar a man | mans | parella | ton de pel claro | ton de pel moi claro</annotation>
 		<annotation cp="🧑🏻‍🤝‍🧑🏼" type="tts">persoas dándose a man: ton de pel moi claro, ton de pel claro</annotation>
-		<annotation cp="🧑🏻‍🤝‍🧑🏽">acordo | dar a man | mans | parella | persoas dándose a man | ton de pel medio | ton de pel moi claro</annotation>
+		<annotation cp="🧑🏻‍🤝‍🧑🏽">acordo | dar a man | mans | parella | ton de pel medio | ton de pel moi claro</annotation>
 		<annotation cp="🧑🏻‍🤝‍🧑🏽" type="tts">persoas dándose a man: ton de pel moi claro, ton de pel medio</annotation>
-		<annotation cp="🧑🏻‍🤝‍🧑🏾">acordo | dar a man | mans | parella | persoas dándose a man | ton de pel escuro | ton de pel moi claro</annotation>
+		<annotation cp="🧑🏻‍🤝‍🧑🏾">acordo | dar a man | mans | parella | ton de pel escuro | ton de pel moi claro</annotation>
 		<annotation cp="🧑🏻‍🤝‍🧑🏾" type="tts">persoas dándose a man: ton de pel moi claro, ton de pel escuro</annotation>
-		<annotation cp="🧑🏻‍🤝‍🧑🏿">acordo | dar a man | mans | parella | persoas dándose a man | ton de pel moi claro | ton de pel moi escuro</annotation>
+		<annotation cp="🧑🏻‍🤝‍🧑🏿">acordo | dar a man | mans | parella | ton de pel moi claro | ton de pel moi escuro</annotation>
 		<annotation cp="🧑🏻‍🤝‍🧑🏿" type="tts">persoas dándose a man: ton de pel moi claro, ton de pel moi escuro</annotation>
-		<annotation cp="🧑🏼‍🤝‍🧑🏻">acordo | dar a man | mans | parella | persoas dándose a man | ton de pel claro | ton de pel moi claro</annotation>
+		<annotation cp="🧑🏼‍🤝‍🧑🏻">acordo | dar a man | mans | parella | ton de pel claro | ton de pel moi claro</annotation>
 		<annotation cp="🧑🏼‍🤝‍🧑🏻" type="tts">persoas dándose a man: ton de pel claro, ton de pel moi claro</annotation>
-		<annotation cp="🧑🏼‍🤝‍🧑🏼">acordo | dar a man | mans | parella | persoas dándose a man | ton de pel claro</annotation>
+		<annotation cp="🧑🏼‍🤝‍🧑🏼">acordo | dar a man | mans | parella | ton de pel claro</annotation>
 		<annotation cp="🧑🏼‍🤝‍🧑🏼" type="tts">persoas dándose a man: ton de pel claro</annotation>
-		<annotation cp="🧑🏼‍🤝‍🧑🏽">acordo | dar a man | mans | parella | persoas dándose a man | ton de pel claro | ton de pel medio</annotation>
+		<annotation cp="🧑🏼‍🤝‍🧑🏽">acordo | dar a man | mans | parella | ton de pel claro | ton de pel medio</annotation>
 		<annotation cp="🧑🏼‍🤝‍🧑🏽" type="tts">persoas dándose a man: ton de pel claro, ton de pel medio</annotation>
-		<annotation cp="🧑🏼‍🤝‍🧑🏾">acordo | dar a man | mans | parella | persoas dándose a man | ton de pel claro | ton de pel escuro</annotation>
+		<annotation cp="🧑🏼‍🤝‍🧑🏾">acordo | dar a man | mans | parella | ton de pel claro | ton de pel escuro</annotation>
 		<annotation cp="🧑🏼‍🤝‍🧑🏾" type="tts">persoas dándose a man: ton de pel claro, ton de pel escuro</annotation>
-		<annotation cp="🧑🏼‍🤝‍🧑🏿">acordo | dar a man | mans | parella | persoas dándose a man | ton de pel claro | ton de pel moi escuro</annotation>
+		<annotation cp="🧑🏼‍🤝‍🧑🏿">acordo | dar a man | mans | parella | ton de pel claro | ton de pel moi escuro</annotation>
 		<annotation cp="🧑🏼‍🤝‍🧑🏿" type="tts">persoas dándose a man: ton de pel claro, ton de pel moi escuro</annotation>
-		<annotation cp="🧑🏽‍🤝‍🧑🏻">acordo | dar a man | mans | parella | persoas dándose a man | ton de pel medio | ton de pel moi claro</annotation>
+		<annotation cp="🧑🏽‍🤝‍🧑🏻">acordo | dar a man | mans | parella | ton de pel medio | ton de pel moi claro</annotation>
 		<annotation cp="🧑🏽‍🤝‍🧑🏻" type="tts">persoas dándose a man: ton de pel medio, ton de pel moi claro</annotation>
-		<annotation cp="🧑🏽‍🤝‍🧑🏼">acordo | dar a man | mans | parella | persoas dándose a man | ton de pel claro | ton de pel medio</annotation>
+		<annotation cp="🧑🏽‍🤝‍🧑🏼">acordo | dar a man | mans | parella | ton de pel claro | ton de pel medio</annotation>
 		<annotation cp="🧑🏽‍🤝‍🧑🏼" type="tts">persoas dándose a man: ton de pel medio, ton de pel claro</annotation>
-		<annotation cp="🧑🏽‍🤝‍🧑🏽">acordo | dar a man | mans | parella | persoas dándose a man | ton de pel medio</annotation>
+		<annotation cp="🧑🏽‍🤝‍🧑🏽">acordo | dar a man | mans | parella | ton de pel medio</annotation>
 		<annotation cp="🧑🏽‍🤝‍🧑🏽" type="tts">persoas dándose a man: ton de pel medio</annotation>
-		<annotation cp="🧑🏽‍🤝‍🧑🏾">acordo | dar a man | mans | parella | persoas dándose a man | ton de pel escuro | ton de pel medio</annotation>
+		<annotation cp="🧑🏽‍🤝‍🧑🏾">acordo | dar a man | mans | parella | ton de pel escuro | ton de pel medio</annotation>
 		<annotation cp="🧑🏽‍🤝‍🧑🏾" type="tts">persoas dándose a man: ton de pel medio, ton de pel escuro</annotation>
-		<annotation cp="🧑🏽‍🤝‍🧑🏿">acordo | dar a man | mans | parella | persoas dándose a man | ton de pel medio | ton de pel moi escuro</annotation>
+		<annotation cp="🧑🏽‍🤝‍🧑🏿">acordo | dar a man | mans | parella | ton de pel medio | ton de pel moi escuro</annotation>
 		<annotation cp="🧑🏽‍🤝‍🧑🏿" type="tts">persoas dándose a man: ton de pel medio, ton de pel moi escuro</annotation>
-		<annotation cp="🧑🏾‍🤝‍🧑🏻">acordo | dar a man | mans | parella | persoas dándose a man | ton de pel escuro | ton de pel moi claro</annotation>
+		<annotation cp="🧑🏾‍🤝‍🧑🏻">acordo | dar a man | mans | parella | ton de pel escuro | ton de pel moi claro</annotation>
 		<annotation cp="🧑🏾‍🤝‍🧑🏻" type="tts">persoas dándose a man: ton de pel escuro, ton de pel moi claro</annotation>
-		<annotation cp="🧑🏾‍🤝‍🧑🏼">acordo | dar a man | mans | parella | persoas dándose a man | ton de pel claro | ton de pel escuro</annotation>
+		<annotation cp="🧑🏾‍🤝‍🧑🏼">acordo | dar a man | mans | parella | ton de pel claro | ton de pel escuro</annotation>
 		<annotation cp="🧑🏾‍🤝‍🧑🏼" type="tts">persoas dándose a man: ton de pel escuro, ton de pel claro</annotation>
-		<annotation cp="🧑🏾‍🤝‍🧑🏽">acordo | dar a man | mans | parella | persoas dándose a man | ton de pel escuro | ton de pel medio</annotation>
+		<annotation cp="🧑🏾‍🤝‍🧑🏽">acordo | dar a man | mans | parella | ton de pel escuro | ton de pel medio</annotation>
 		<annotation cp="🧑🏾‍🤝‍🧑🏽" type="tts">persoas dándose a man: ton de pel escuro, ton de pel medio</annotation>
-		<annotation cp="🧑🏾‍🤝‍🧑🏾">acordo | dar a man | mans | parella | persoas dándose a man | ton de pel escuro</annotation>
+		<annotation cp="🧑🏾‍🤝‍🧑🏾">acordo | dar a man | mans | parella | ton de pel escuro</annotation>
 		<annotation cp="🧑🏾‍🤝‍🧑🏾" type="tts">persoas dándose a man: ton de pel escuro</annotation>
-		<annotation cp="🧑🏾‍🤝‍🧑🏿">acordo | dar a man | mans | parella | persoas dándose a man | ton de pel escuro | ton de pel moi escuro</annotation>
+		<annotation cp="🧑🏾‍🤝‍🧑🏿">acordo | dar a man | mans | parella | ton de pel escuro | ton de pel moi escuro</annotation>
 		<annotation cp="🧑🏾‍🤝‍🧑🏿" type="tts">persoas dándose a man: ton de pel escuro, ton de pel moi escuro</annotation>
-		<annotation cp="🧑🏿‍🤝‍🧑🏻">acordo | dar a man | mans | parella | persoas dándose a man | ton de pel moi claro | ton de pel moi escuro</annotation>
+		<annotation cp="🧑🏿‍🤝‍🧑🏻">acordo | dar a man | mans | parella | ton de pel moi claro | ton de pel moi escuro</annotation>
 		<annotation cp="🧑🏿‍🤝‍🧑🏻" type="tts">persoas dándose a man: ton de pel moi escuro, ton de pel moi claro</annotation>
-		<annotation cp="🧑🏿‍🤝‍🧑🏼">acordo | dar a man | mans | parella | persoas dándose a man | ton de pel claro | ton de pel moi escuro</annotation>
+		<annotation cp="🧑🏿‍🤝‍🧑🏼">acordo | dar a man | mans | parella | ton de pel claro | ton de pel moi escuro</annotation>
 		<annotation cp="🧑🏿‍🤝‍🧑🏼" type="tts">persoas dándose a man: ton de pel moi escuro, ton de pel claro</annotation>
-		<annotation cp="🧑🏿‍🤝‍🧑🏽">acordo | dar a man | mans | parella | persoas dándose a man | ton de pel medio | ton de pel moi escuro</annotation>
+		<annotation cp="🧑🏿‍🤝‍🧑🏽">acordo | dar a man | mans | parella | ton de pel medio | ton de pel moi escuro</annotation>
 		<annotation cp="🧑🏿‍🤝‍🧑🏽" type="tts">persoas dándose a man: ton de pel moi escuro, ton de pel medio</annotation>
-		<annotation cp="🧑🏿‍🤝‍🧑🏾">acordo | dar a man | mans | parella | persoas dándose a man | ton de pel escuro | ton de pel moi escuro</annotation>
+		<annotation cp="🧑🏿‍🤝‍🧑🏾">acordo | dar a man | mans | parella | ton de pel escuro | ton de pel moi escuro</annotation>
 		<annotation cp="🧑🏿‍🤝‍🧑🏾" type="tts">persoas dándose a man: ton de pel moi escuro, ton de pel escuro</annotation>
-		<annotation cp="🧑🏿‍🤝‍🧑🏿">acordo | dar a man | mans | parella | persoas dándose a man | ton de pel moi escuro</annotation>
+		<annotation cp="🧑🏿‍🤝‍🧑🏿">acordo | dar a man | mans | parella | ton de pel moi escuro</annotation>
 		<annotation cp="🧑🏿‍🤝‍🧑🏿" type="tts">persoas dándose a man: ton de pel moi escuro</annotation>
 		<annotation cp="👭🏻">dúas mulleres collidas da man | man | mulleres | parella | ton de pel moi claro</annotation>
 		<annotation cp="👭🏻" type="tts">dúas mulleres collidas da man: ton de pel moi claro</annotation>
@@ -3509,7 +3896,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🇦🇩">bandeira</annotation>
 		<annotation cp="🇦🇩" type="tts">bandeira: Andorra</annotation>
 		<annotation cp="🇦🇪">bandeira</annotation>
-		<annotation cp="🇦🇪" type="tts">bandeira: Os Emiratos Árabes Unidos</annotation>
+		<annotation cp="🇦🇪" type="tts">bandeira: Emiratos Árabes Unidos</annotation>
 		<annotation cp="🇦🇫">bandeira</annotation>
 		<annotation cp="🇦🇫" type="tts">bandeira: Afganistán</annotation>
 		<annotation cp="🇦🇬">bandeira</annotation>
@@ -3523,9 +3910,9 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🇦🇴">bandeira</annotation>
 		<annotation cp="🇦🇴" type="tts">bandeira: Angola</annotation>
 		<annotation cp="🇦🇶">bandeira</annotation>
-		<annotation cp="🇦🇶" type="tts">bandeira: A Antártida</annotation>
+		<annotation cp="🇦🇶" type="tts">bandeira: Antártida</annotation>
 		<annotation cp="🇦🇷">bandeira</annotation>
-		<annotation cp="🇦🇷" type="tts">bandeira: A Arxentina</annotation>
+		<annotation cp="🇦🇷" type="tts">bandeira: Arxentina</annotation>
 		<annotation cp="🇦🇸">bandeira</annotation>
 		<annotation cp="🇦🇸" type="tts">bandeira: Samoa Americana</annotation>
 		<annotation cp="🇦🇹">bandeira</annotation>
@@ -3567,7 +3954,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🇧🇶">bandeira</annotation>
 		<annotation cp="🇧🇶" type="tts">bandeira: Caribe Neerlandés</annotation>
 		<annotation cp="🇧🇷">bandeira</annotation>
-		<annotation cp="🇧🇷" type="tts">bandeira: O Brasil</annotation>
+		<annotation cp="🇧🇷" type="tts">bandeira: Brasil</annotation>
 		<annotation cp="🇧🇸">bandeira</annotation>
 		<annotation cp="🇧🇸" type="tts">bandeira: Bahamas</annotation>
 		<annotation cp="🇧🇹">bandeira</annotation>
@@ -3581,7 +3968,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🇧🇿">bandeira</annotation>
 		<annotation cp="🇧🇿" type="tts">bandeira: Belize</annotation>
 		<annotation cp="🇨🇦">bandeira</annotation>
-		<annotation cp="🇨🇦" type="tts">bandeira: O Canadá</annotation>
+		<annotation cp="🇨🇦" type="tts">bandeira: Canadá</annotation>
 		<annotation cp="🇨🇨">bandeira</annotation>
 		<annotation cp="🇨🇨" type="tts">bandeira: Illas Cocos (Keeling)</annotation>
 		<annotation cp="🇨🇩">bandeira</annotation>
@@ -3601,7 +3988,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🇨🇲">bandeira</annotation>
 		<annotation cp="🇨🇲" type="tts">bandeira: Camerún</annotation>
 		<annotation cp="🇨🇳">bandeira</annotation>
-		<annotation cp="🇨🇳" type="tts">bandeira: A China</annotation>
+		<annotation cp="🇨🇳" type="tts">bandeira: China</annotation>
 		<annotation cp="🇨🇴">bandeira</annotation>
 		<annotation cp="🇨🇴" type="tts">bandeira: Colombia</annotation>
 		<annotation cp="🇨🇵">bandeira</annotation>
@@ -3643,7 +4030,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🇪🇬">bandeira</annotation>
 		<annotation cp="🇪🇬" type="tts">bandeira: Exipto</annotation>
 		<annotation cp="🇪🇭">bandeira</annotation>
-		<annotation cp="🇪🇭" type="tts">bandeira: O Sáhara Occidental</annotation>
+		<annotation cp="🇪🇭" type="tts">bandeira: Sáhara Occidental</annotation>
 		<annotation cp="🇪🇷">bandeira</annotation>
 		<annotation cp="🇪🇷" type="tts">bandeira: Eritrea</annotation>
 		<annotation cp="🇪🇸">bandeira</annotation>
@@ -3667,7 +4054,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🇬🇦">bandeira</annotation>
 		<annotation cp="🇬🇦" type="tts">bandeira: Gabón</annotation>
 		<annotation cp="🇬🇧">bandeira</annotation>
-		<annotation cp="🇬🇧" type="tts">bandeira: O Reino Unido</annotation>
+		<annotation cp="🇬🇧" type="tts">bandeira: Reino Unido</annotation>
 		<annotation cp="🇬🇩">bandeira</annotation>
 		<annotation cp="🇬🇩" type="tts">bandeira: Granada</annotation>
 		<annotation cp="🇬🇪">bandeira</annotation>
@@ -3699,7 +4086,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🇬🇺">bandeira</annotation>
 		<annotation cp="🇬🇺" type="tts">bandeira: Guam</annotation>
 		<annotation cp="🇬🇼">bandeira</annotation>
-		<annotation cp="🇬🇼" type="tts">bandeira: A Guinea Bissau</annotation>
+		<annotation cp="🇬🇼" type="tts">bandeira: Guinea Bissau</annotation>
 		<annotation cp="🇬🇾">bandeira</annotation>
 		<annotation cp="🇬🇾" type="tts">bandeira: Güiana</annotation>
 		<annotation cp="🇭🇰">bandeira</annotation>
@@ -3725,7 +4112,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🇮🇲">bandeira</annotation>
 		<annotation cp="🇮🇲" type="tts">bandeira: Illa de Man</annotation>
 		<annotation cp="🇮🇳">bandeira</annotation>
-		<annotation cp="🇮🇳" type="tts">bandeira: A India</annotation>
+		<annotation cp="🇮🇳" type="tts">bandeira: India</annotation>
 		<annotation cp="🇮🇴">bandeira</annotation>
 		<annotation cp="🇮🇴" type="tts">bandeira: Territorio Británico do Océano Índico</annotation>
 		<annotation cp="🇮🇶">bandeira</annotation>
@@ -3743,7 +4130,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🇯🇴">bandeira</annotation>
 		<annotation cp="🇯🇴" type="tts">bandeira: Xordania</annotation>
 		<annotation cp="🇯🇵">bandeira</annotation>
-		<annotation cp="🇯🇵" type="tts">bandeira: O Xapón</annotation>
+		<annotation cp="🇯🇵" type="tts">bandeira: Xapón</annotation>
 		<annotation cp="🇰🇪">bandeira</annotation>
 		<annotation cp="🇰🇪" type="tts">bandeira: Kenya</annotation>
 		<annotation cp="🇰🇬">bandeira</annotation>
@@ -3769,7 +4156,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🇱🇦">bandeira</annotation>
 		<annotation cp="🇱🇦" type="tts">bandeira: Laos</annotation>
 		<annotation cp="🇱🇧">bandeira</annotation>
-		<annotation cp="🇱🇧" type="tts">bandeira: O Líbano</annotation>
+		<annotation cp="🇱🇧" type="tts">bandeira: Líbano</annotation>
 		<annotation cp="🇱🇨">bandeira</annotation>
 		<annotation cp="🇱🇨" type="tts">bandeira: Santa Lucía</annotation>
 		<annotation cp="🇱🇮">bandeira</annotation>
@@ -3793,7 +4180,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🇲🇨">bandeira</annotation>
 		<annotation cp="🇲🇨" type="tts">bandeira: Mónaco</annotation>
 		<annotation cp="🇲🇩">bandeira</annotation>
-		<annotation cp="🇲🇩" type="tts">bandeira: Moldavia</annotation>
+		<annotation cp="🇲🇩" type="tts">bandeira: República Moldova</annotation>
 		<annotation cp="🇲🇪">bandeira</annotation>
 		<annotation cp="🇲🇪" type="tts">bandeira: Montenegro</annotation>
 		<annotation cp="🇲🇫">bandeira</annotation>
@@ -3863,9 +4250,9 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🇵🇦">bandeira</annotation>
 		<annotation cp="🇵🇦" type="tts">bandeira: Panamá</annotation>
 		<annotation cp="🇵🇪">bandeira</annotation>
-		<annotation cp="🇵🇪" type="tts">bandeira: O Perú</annotation>
+		<annotation cp="🇵🇪" type="tts">bandeira: Perú</annotation>
 		<annotation cp="🇵🇫">bandeira</annotation>
-		<annotation cp="🇵🇫" type="tts">bandeira: A Polinesia Francesa</annotation>
+		<annotation cp="🇵🇫" type="tts">bandeira: Polinesia Francesa</annotation>
 		<annotation cp="🇵🇬">bandeira</annotation>
 		<annotation cp="🇵🇬" type="tts">bandeira: Papúa-Nova Guinea</annotation>
 		<annotation cp="🇵🇭">bandeira</annotation>
@@ -3887,7 +4274,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🇵🇼">bandeira</annotation>
 		<annotation cp="🇵🇼" type="tts">bandeira: Palau</annotation>
 		<annotation cp="🇵🇾">bandeira</annotation>
-		<annotation cp="🇵🇾" type="tts">bandeira: O Paraguai</annotation>
+		<annotation cp="🇵🇾" type="tts">bandeira: Paraguai</annotation>
 		<annotation cp="🇶🇦">bandeira</annotation>
 		<annotation cp="🇶🇦" type="tts">bandeira: Qatar</annotation>
 		<annotation cp="🇷🇪">bandeira</annotation>
@@ -3907,7 +4294,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🇸🇨">bandeira</annotation>
 		<annotation cp="🇸🇨" type="tts">bandeira: Seychelles</annotation>
 		<annotation cp="🇸🇩">bandeira</annotation>
-		<annotation cp="🇸🇩" type="tts">bandeira: O Sudán</annotation>
+		<annotation cp="🇸🇩" type="tts">bandeira: Sudán</annotation>
 		<annotation cp="🇸🇪">bandeira</annotation>
 		<annotation cp="🇸🇪" type="tts">bandeira: Suecia</annotation>
 		<annotation cp="🇸🇬">bandeira</annotation>
@@ -3931,7 +4318,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🇸🇷">bandeira</annotation>
 		<annotation cp="🇸🇷" type="tts">bandeira: Suriname</annotation>
 		<annotation cp="🇸🇸">bandeira</annotation>
-		<annotation cp="🇸🇸" type="tts">bandeira: O Sudán do Sur</annotation>
+		<annotation cp="🇸🇸" type="tts">bandeira: Sudán do Sur</annotation>
 		<annotation cp="🇸🇹">bandeira</annotation>
 		<annotation cp="🇸🇹" type="tts">bandeira: San Tomé e Príncipe</annotation>
 		<annotation cp="🇸🇻">bandeira</annotation>
@@ -3985,15 +4372,15 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🇺🇳">bandeira</annotation>
 		<annotation cp="🇺🇳" type="tts">bandeira: Nacións Unidas</annotation>
 		<annotation cp="🇺🇸">bandeira</annotation>
-		<annotation cp="🇺🇸" type="tts">bandeira: Os Estados Unidos</annotation>
+		<annotation cp="🇺🇸" type="tts">bandeira: Estados Unidos</annotation>
 		<annotation cp="🇺🇾">bandeira</annotation>
-		<annotation cp="🇺🇾" type="tts">bandeira: O Uruguai</annotation>
+		<annotation cp="🇺🇾" type="tts">bandeira: Uruguai</annotation>
 		<annotation cp="🇺🇿">bandeira</annotation>
 		<annotation cp="🇺🇿" type="tts">bandeira: Uzbekistán</annotation>
 		<annotation cp="🇻🇦">bandeira</annotation>
 		<annotation cp="🇻🇦" type="tts">bandeira: Cidade do Vaticano</annotation>
 		<annotation cp="🇻🇨">bandeira</annotation>
-		<annotation cp="🇻🇨" type="tts">bandeira: San Vicente e As Granadinas</annotation>
+		<annotation cp="🇻🇨" type="tts">bandeira: San Vicente e as Granadinas</annotation>
 		<annotation cp="🇻🇪">bandeira</annotation>
 		<annotation cp="🇻🇪" type="tts">bandeira: Venezuela</annotation>
 		<annotation cp="🇻🇬">bandeira</annotation>
@@ -4011,7 +4398,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🇽🇰">bandeira</annotation>
 		<annotation cp="🇽🇰" type="tts">bandeira: Kosovo</annotation>
 		<annotation cp="🇾🇪">bandeira</annotation>
-		<annotation cp="🇾🇪" type="tts">bandeira: O Iemen</annotation>
+		<annotation cp="🇾🇪" type="tts">bandeira: Iemen</annotation>
 		<annotation cp="🇾🇹">bandeira</annotation>
 		<annotation cp="🇾🇹" type="tts">bandeira: Mayotte</annotation>
 		<annotation cp="🇿🇦">bandeira</annotation>
@@ -4034,7 +4421,6 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="៛" type="tts">riel camboxano</annotation>
 		<annotation cp="₡" type="tts">colón costarriqueño</annotation>
 		<annotation cp="₦" type="tts">naira nixeriano</annotation>
-		<annotation cp="₧" type="tts">Peseta española</annotation>
 		<annotation cp="₪" type="tts">novo shequel israelí</annotation>
 		<annotation cp="₫" type="tts">dong vietnamita</annotation>
 		<annotation cp="₭" type="tts">kip laosiano</annotation>
@@ -4066,5 +4452,6 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="8⃣" type="tts">tecla: 8</annotation>
 		<annotation cp="9⃣">tecla</annotation>
 		<annotation cp="9⃣" type="tts">tecla: 9</annotation>
+		<annotation cp="₧" type="tts">Peseta española</annotation>
 	</annotations>
 </ldml>

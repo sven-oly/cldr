@@ -1,26 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE ldml SYSTEM "../../common/dtd/ldml.dtd">
-<!-- Copyright © 1991-2020 Unicode, Inc.
+<!-- Copyright © 1991-2024 Unicode, Inc.
 For terms of use, see http://www.unicode.org/copyright.html
-Unicode and the Unicode Logo are registered trademarks of Unicode, Inc. in the U.S. and other countries.
+SPDX-License-Identifier: Unicode-3.0
 CLDR data files are interpreted according to the LDML specification (http://unicode.org/reports/tr35/)
+
+Derived short names and annotations, using GenerateDerivedAnnotations.java. See warnings in /annotations/ file.
 -->
-<!-- Derived short names and annotations, using GenerateDerivedAnnotations.java. See warnings in /annotations/ file. -->
 <ldml>
 	<identity>
 		<version number="$Revision$"/>
 		<language type="mn"/>
 	</identity>
 	<annotations>
-		<annotation cp="👋🏻">гар | даллаж буй гар | даллах | мэндчилж байгаа гар | цайвар</annotation>
+		<annotation cp="👋🏻">гар | даллах | мэндчилж байгаа гар | цайвар</annotation>
 		<annotation cp="👋🏻" type="tts">мэндчилж байгаа гар: цайвар</annotation>
-		<annotation cp="👋🏼">бага зэргийн цайвар | гар | даллаж буй гар | даллах | мэндчилж байгаа гар</annotation>
+		<annotation cp="👋🏼">бага зэргийн цайвар | гар | даллах | мэндчилж байгаа гар</annotation>
 		<annotation cp="👋🏼" type="tts">мэндчилж байгаа гар: бага зэргийн цайвар</annotation>
-		<annotation cp="👋🏽">гар | даллаж буй гар | даллах | дунд зэргийн | мэндчилж байгаа гар</annotation>
+		<annotation cp="👋🏽">гар | даллах | дунд зэргийн | мэндчилж байгаа гар</annotation>
 		<annotation cp="👋🏽" type="tts">мэндчилж байгаа гар: дунд зэргийн</annotation>
-		<annotation cp="👋🏾">бордуу | гар | даллаж буй гар | даллах | мэндчилж байгаа гар</annotation>
+		<annotation cp="👋🏾">бордуу | гар | даллах | мэндчилж байгаа гар</annotation>
 		<annotation cp="👋🏾" type="tts">мэндчилж байгаа гар: бордуу</annotation>
-		<annotation cp="👋🏿">бор | гар | даллаж буй гар | даллах | мэндчилж байгаа гар</annotation>
+		<annotation cp="👋🏿">бор | гар | даллах | мэндчилж байгаа гар</annotation>
 		<annotation cp="👋🏿" type="tts">мэндчилж байгаа гар: бор</annotation>
 		<annotation cp="🤚🏻">гарын ар | өргөсөн | өргөсөн гарын ар | цайвар</annotation>
 		<annotation cp="🤚🏻" type="tts">өргөсөн гарын ар: цайвар</annotation>
@@ -62,6 +63,106 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🖖🏾" type="tts">вулкан мэндчилгээ: бордуу</annotation>
 		<annotation cp="🖖🏿">бор | вулкан | гар | дохио зангаа | мэндчилгээ</annotation>
 		<annotation cp="🖖🏿" type="tts">вулкан мэндчилгээ: бор</annotation>
+		<annotation cp="🫱🏻">баруун | баруун тийш | баруун тийш чиглэсэн гар | гар | цайвар</annotation>
+		<annotation cp="🫱🏻" type="tts">баруун тийш чиглэсэн гар: цайвар</annotation>
+		<annotation cp="🫱🏼">бага зэргийн цайвар | баруун | баруун тийш | баруун тийш чиглэсэн гар | гар</annotation>
+		<annotation cp="🫱🏼" type="tts">баруун тийш чиглэсэн гар: бага зэргийн цайвар</annotation>
+		<annotation cp="🫱🏽">баруун | баруун тийш | баруун тийш чиглэсэн гар | гар | дунд зэргийн</annotation>
+		<annotation cp="🫱🏽" type="tts">баруун тийш чиглэсэн гар: дунд зэргийн</annotation>
+		<annotation cp="🫱🏾">баруун | баруун тийш | баруун тийш чиглэсэн гар | бордуу | гар</annotation>
+		<annotation cp="🫱🏾" type="tts">баруун тийш чиглэсэн гар: бордуу</annotation>
+		<annotation cp="🫱🏿">баруун | баруун тийш | баруун тийш чиглэсэн гар | бор | гар</annotation>
+		<annotation cp="🫱🏿" type="tts">баруун тийш чиглэсэн гар: бор</annotation>
+		<annotation cp="🫱🏻‍🫲🏼">бага зэргийн цайвар | барилт | гар | цайвар</annotation>
+		<annotation cp="🫱🏻‍🫲🏼" type="tts">гар барилт: цайвар бага зэргийн цайвар</annotation>
+		<annotation cp="🫱🏻‍🫲🏽">барилт | гар | дунд зэргийн | цайвар</annotation>
+		<annotation cp="🫱🏻‍🫲🏽" type="tts">гар барилт: цайвар дунд зэргийн</annotation>
+		<annotation cp="🫱🏻‍🫲🏾">барилт | бордуу | гар | цайвар</annotation>
+		<annotation cp="🫱🏻‍🫲🏾" type="tts">гар барилт: цайвар бордуу</annotation>
+		<annotation cp="🫱🏻‍🫲🏿">барилт | бор | гар | цайвар</annotation>
+		<annotation cp="🫱🏻‍🫲🏿" type="tts">гар барилт: цайвар бор</annotation>
+		<annotation cp="🫱🏼‍🫲🏻">бага зэргийн цайвар | барилт | гар | цайвар</annotation>
+		<annotation cp="🫱🏼‍🫲🏻" type="tts">гар барилт: бага зэргийн цайвар цайвар</annotation>
+		<annotation cp="🫱🏼‍🫲🏽">бага зэргийн цайвар | барилт | гар | дунд зэргийн</annotation>
+		<annotation cp="🫱🏼‍🫲🏽" type="tts">гар барилт: бага зэргийн цайвар дунд зэргийн</annotation>
+		<annotation cp="🫱🏼‍🫲🏾">бага зэргийн цайвар | барилт | бордуу | гар</annotation>
+		<annotation cp="🫱🏼‍🫲🏾" type="tts">гар барилт: бага зэргийн цайвар бордуу</annotation>
+		<annotation cp="🫱🏼‍🫲🏿">бага зэргийн цайвар | барилт | бор | гар</annotation>
+		<annotation cp="🫱🏼‍🫲🏿" type="tts">гар барилт: бага зэргийн цайвар бор</annotation>
+		<annotation cp="🫱🏽‍🫲🏻">барилт | гар | дунд зэргийн | цайвар</annotation>
+		<annotation cp="🫱🏽‍🫲🏻" type="tts">гар барилт: дунд зэргийн цайвар</annotation>
+		<annotation cp="🫱🏽‍🫲🏼">бага зэргийн цайвар | барилт | гар | дунд зэргийн</annotation>
+		<annotation cp="🫱🏽‍🫲🏼" type="tts">гар барилт: дунд зэргийн бага зэргийн цайвар</annotation>
+		<annotation cp="🫱🏽‍🫲🏾">барилт | бордуу | гар | дунд зэргийн</annotation>
+		<annotation cp="🫱🏽‍🫲🏾" type="tts">гар барилт: дунд зэргийн бордуу</annotation>
+		<annotation cp="🫱🏽‍🫲🏿">барилт | бор | гар | дунд зэргийн</annotation>
+		<annotation cp="🫱🏽‍🫲🏿" type="tts">гар барилт: дунд зэргийн бор</annotation>
+		<annotation cp="🫱🏾‍🫲🏻">барилт | бордуу | гар | цайвар</annotation>
+		<annotation cp="🫱🏾‍🫲🏻" type="tts">гар барилт: бордуу цайвар</annotation>
+		<annotation cp="🫱🏾‍🫲🏼">бага зэргийн цайвар | барилт | бордуу | гар</annotation>
+		<annotation cp="🫱🏾‍🫲🏼" type="tts">гар барилт: бордуу бага зэргийн цайвар</annotation>
+		<annotation cp="🫱🏾‍🫲🏽">барилт | бордуу | гар | дунд зэргийн</annotation>
+		<annotation cp="🫱🏾‍🫲🏽" type="tts">гар барилт: бордуу дунд зэргийн</annotation>
+		<annotation cp="🫱🏾‍🫲🏿">барилт | бор | бордуу | гар</annotation>
+		<annotation cp="🫱🏾‍🫲🏿" type="tts">гар барилт: бордуу бор</annotation>
+		<annotation cp="🫱🏿‍🫲🏻">барилт | бор | гар | цайвар</annotation>
+		<annotation cp="🫱🏿‍🫲🏻" type="tts">гар барилт: бор цайвар</annotation>
+		<annotation cp="🫱🏿‍🫲🏼">бага зэргийн цайвар | барилт | бор | гар</annotation>
+		<annotation cp="🫱🏿‍🫲🏼" type="tts">гар барилт: бор бага зэргийн цайвар</annotation>
+		<annotation cp="🫱🏿‍🫲🏽">барилт | бор | гар | дунд зэргийн</annotation>
+		<annotation cp="🫱🏿‍🫲🏽" type="tts">гар барилт: бор дунд зэргийн</annotation>
+		<annotation cp="🫱🏿‍🫲🏾">барилт | бор | бордуу | гар</annotation>
+		<annotation cp="🫱🏿‍🫲🏾" type="tts">гар барилт: бор бордуу</annotation>
+		<annotation cp="🫲🏻">гар | зүүн | зүүн тийш | зүүн тийш чиглэсэн гар | цайвар</annotation>
+		<annotation cp="🫲🏻" type="tts">зүүн тийш чиглэсэн гар: цайвар</annotation>
+		<annotation cp="🫲🏼">бага зэргийн цайвар | гар | зүүн | зүүн тийш | зүүн тийш чиглэсэн гар</annotation>
+		<annotation cp="🫲🏼" type="tts">зүүн тийш чиглэсэн гар: бага зэргийн цайвар</annotation>
+		<annotation cp="🫲🏽">гар | дунд зэргийн | зүүн | зүүн тийш | зүүн тийш чиглэсэн гар</annotation>
+		<annotation cp="🫲🏽" type="tts">зүүн тийш чиглэсэн гар: дунд зэргийн</annotation>
+		<annotation cp="🫲🏾">бордуу | гар | зүүн | зүүн тийш | зүүн тийш чиглэсэн гар</annotation>
+		<annotation cp="🫲🏾" type="tts">зүүн тийш чиглэсэн гар: бордуу</annotation>
+		<annotation cp="🫲🏿">бор | гар | зүүн | зүүн тийш | зүүн тийш чиглэсэн гар</annotation>
+		<annotation cp="🫲🏿" type="tts">зүүн тийш чиглэсэн гар: бор</annotation>
+		<annotation cp="🫳🏻">алга нь доошоо харсан гар | орхих | унагах | цайвар | явуулах</annotation>
+		<annotation cp="🫳🏻" type="tts">алга нь доошоо харсан гар: цайвар</annotation>
+		<annotation cp="🫳🏼">алга нь доошоо харсан гар | бага зэргийн цайвар | орхих | унагах | явуулах</annotation>
+		<annotation cp="🫳🏼" type="tts">алга нь доошоо харсан гар: бага зэргийн цайвар</annotation>
+		<annotation cp="🫳🏽">алга нь доошоо харсан гар | дунд зэргийн | орхих | унагах | явуулах</annotation>
+		<annotation cp="🫳🏽" type="tts">алга нь доошоо харсан гар: дунд зэргийн</annotation>
+		<annotation cp="🫳🏾">алга нь доошоо харсан гар | бордуу | орхих | унагах | явуулах</annotation>
+		<annotation cp="🫳🏾" type="tts">алга нь доошоо харсан гар: бордуу</annotation>
+		<annotation cp="🫳🏿">алга нь доошоо харсан гар | бор | орхих | унагах | явуулах</annotation>
+		<annotation cp="🫳🏿" type="tts">алга нь доошоо харсан гар: бор</annotation>
+		<annotation cp="🫴🏻">алга нь дээшээ харсан гар | барих | даллах | дуудах | өгөх | цайвар</annotation>
+		<annotation cp="🫴🏻" type="tts">алга нь дээшээ харсан гар: цайвар</annotation>
+		<annotation cp="🫴🏼">алга нь дээшээ харсан гар | бага зэргийн цайвар | барих | даллах | дуудах | өгөх</annotation>
+		<annotation cp="🫴🏼" type="tts">алга нь дээшээ харсан гар: бага зэргийн цайвар</annotation>
+		<annotation cp="🫴🏽">алга нь дээшээ харсан гар | барих | даллах | дунд зэргийн | дуудах | өгөх</annotation>
+		<annotation cp="🫴🏽" type="tts">алга нь дээшээ харсан гар: дунд зэргийн</annotation>
+		<annotation cp="🫴🏾">алга нь дээшээ харсан гар | барих | бордуу | даллах | дуудах | өгөх</annotation>
+		<annotation cp="🫴🏾" type="tts">алга нь дээшээ харсан гар: бордуу</annotation>
+		<annotation cp="🫴🏿">алга нь дээшээ харсан гар | барих | бор | даллах | дуудах | өгөх</annotation>
+		<annotation cp="🫴🏿" type="tts">алга нь дээшээ харсан гар: бор</annotation>
+		<annotation cp="🫷🏻">алгаа цохих | зогсоох | зүүн тийш | зүүн тийш түлхсэн гар | татгалзах | түлхэх | хүлээх | цайвар</annotation>
+		<annotation cp="🫷🏻" type="tts">зүүн тийш түлхсэн гар: цайвар</annotation>
+		<annotation cp="🫷🏼">алгаа цохих | бага зэргийн цайвар | зогсоох | зүүн тийш | зүүн тийш түлхсэн гар | татгалзах | түлхэх | хүлээх</annotation>
+		<annotation cp="🫷🏼" type="tts">зүүн тийш түлхсэн гар: бага зэргийн цайвар</annotation>
+		<annotation cp="🫷🏽">алгаа цохих | дунд зэргийн | зогсоох | зүүн тийш | зүүн тийш түлхсэн гар | татгалзах | түлхэх | хүлээх</annotation>
+		<annotation cp="🫷🏽" type="tts">зүүн тийш түлхсэн гар: дунд зэргийн</annotation>
+		<annotation cp="🫷🏾">алгаа цохих | бордуу | зогсоох | зүүн тийш | зүүн тийш түлхсэн гар | татгалзах | түлхэх | хүлээх</annotation>
+		<annotation cp="🫷🏾" type="tts">зүүн тийш түлхсэн гар: бордуу</annotation>
+		<annotation cp="🫷🏿">алгаа цохих | бор | зогсоох | зүүн тийш | зүүн тийш түлхсэн гар | татгалзах | түлхэх | хүлээх</annotation>
+		<annotation cp="🫷🏿" type="tts">зүүн тийш түлхсэн гар: бор</annotation>
+		<annotation cp="🫸🏻">алгаа цохих | баруун тийш | баруун тийш түлхсэн гар | зогсоох | татгалзах | түлхэх | хүлээх | цайвар</annotation>
+		<annotation cp="🫸🏻" type="tts">баруун тийш түлхсэн гар: цайвар</annotation>
+		<annotation cp="🫸🏼">алгаа цохих | бага зэргийн цайвар | баруун тийш | баруун тийш түлхсэн гар | зогсоох | татгалзах | түлхэх | хүлээх</annotation>
+		<annotation cp="🫸🏼" type="tts">баруун тийш түлхсэн гар: бага зэргийн цайвар</annotation>
+		<annotation cp="🫸🏽">алгаа цохих | баруун тийш | баруун тийш түлхсэн гар | дунд зэргийн | зогсоох | татгалзах | түлхэх | хүлээх</annotation>
+		<annotation cp="🫸🏽" type="tts">баруун тийш түлхсэн гар: дунд зэргийн</annotation>
+		<annotation cp="🫸🏾">алгаа цохих | баруун тийш | баруун тийш түлхсэн гар | бордуу | зогсоох | татгалзах | түлхэх | хүлээх</annotation>
+		<annotation cp="🫸🏾" type="tts">баруун тийш түлхсэн гар: бордуу</annotation>
+		<annotation cp="🫸🏿">алгаа цохих | баруун тийш | баруун тийш түлхсэн гар | бор | зогсоох | татгалзах | түлхэх | хүлээх</annotation>
+		<annotation cp="🫸🏿" type="tts">баруун тийш түлхсэн гар: бор</annotation>
 		<annotation cp="👌🏻">гар | дохио зангаа | ок | цайвар</annotation>
 		<annotation cp="👌🏻" type="tts">ок: цайвар</annotation>
 		<annotation cp="👌🏼">бага зэргийн цайвар | гар | дохио зангаа | ок</annotation>
@@ -112,6 +213,16 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🤞🏾" type="tts">солбисон хуруу: бордуу</annotation>
 		<annotation cp="🤞🏿">бор | солбисон | хуруу</annotation>
 		<annotation cp="🤞🏿" type="tts">солбисон хуруу: бор</annotation>
+		<annotation cp="🫰🏻">долоовор хуруу | долоовор хуруу, эрхий хуруугаа зөрүүлж барьсан гар | зүрх | мөнгө | үнэтэй | хайр | цайвар | эрхий хуруугаа зөрүүлж барьсан гар</annotation>
+		<annotation cp="🫰🏻" type="tts">долоовор хуруу, эрхий хуруугаа зөрүүлж барьсан гар: цайвар</annotation>
+		<annotation cp="🫰🏼">бага зэргийн цайвар | долоовор хуруу | долоовор хуруу, эрхий хуруугаа зөрүүлж барьсан гар | зүрх | мөнгө | үнэтэй | хайр | эрхий хуруугаа зөрүүлж барьсан гар</annotation>
+		<annotation cp="🫰🏼" type="tts">долоовор хуруу, эрхий хуруугаа зөрүүлж барьсан гар: бага зэргийн цайвар</annotation>
+		<annotation cp="🫰🏽">долоовор хуруу | долоовор хуруу, эрхий хуруугаа зөрүүлж барьсан гар | дунд зэргийн | зүрх | мөнгө | үнэтэй | хайр | эрхий хуруугаа зөрүүлж барьсан гар</annotation>
+		<annotation cp="🫰🏽" type="tts">долоовор хуруу, эрхий хуруугаа зөрүүлж барьсан гар: дунд зэргийн</annotation>
+		<annotation cp="🫰🏾">бордуу | долоовор хуруу | долоовор хуруу, эрхий хуруугаа зөрүүлж барьсан гар | зүрх | мөнгө | үнэтэй | хайр | эрхий хуруугаа зөрүүлж барьсан гар</annotation>
+		<annotation cp="🫰🏾" type="tts">долоовор хуруу, эрхий хуруугаа зөрүүлж барьсан гар: бордуу</annotation>
+		<annotation cp="🫰🏿">бор | долоовор хуруу | долоовор хуруу, эрхий хуруугаа зөрүүлж барьсан гар | зүрх | мөнгө | үнэтэй | хайр | эрхий хуруугаа зөрүүлж барьсан гар</annotation>
+		<annotation cp="🫰🏿" type="tts">долоовор хуруу, эрхий хуруугаа зөрүүлж барьсан гар: бор</annotation>
 		<annotation cp="🤟🏻">БЧХ | гар | хайртай гэсэн дохио | цайвар</annotation>
 		<annotation cp="🤟🏻" type="tts">хайртай гэсэн дохио: цайвар</annotation>
 		<annotation cp="🤟🏼">бага зэргийн цайвар | БЧХ | гар | хайртай гэсэн дохио</annotation>
@@ -202,6 +313,16 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="☝🏾" type="tts">дээшээг зааж байгаа: бордуу</annotation>
 		<annotation cp="☝🏿">бор | гар | дээшээ | дээшээг зааж байгаа | заах | хуруу</annotation>
 		<annotation cp="☝🏿" type="tts">дээшээг зааж байгаа: бор</annotation>
+		<annotation cp="🫵🏻">заах | та | үзэгч рүү долоовор хуруугаар заах | цайвар</annotation>
+		<annotation cp="🫵🏻" type="tts">үзэгч рүү долоовор хуруугаар заах: цайвар</annotation>
+		<annotation cp="🫵🏼">бага зэргийн цайвар | заах | та | үзэгч рүү долоовор хуруугаар заах</annotation>
+		<annotation cp="🫵🏼" type="tts">үзэгч рүү долоовор хуруугаар заах: бага зэргийн цайвар</annotation>
+		<annotation cp="🫵🏽">дунд зэргийн | заах | та | үзэгч рүү долоовор хуруугаар заах</annotation>
+		<annotation cp="🫵🏽" type="tts">үзэгч рүү долоовор хуруугаар заах: дунд зэргийн</annotation>
+		<annotation cp="🫵🏾">бордуу | заах | та | үзэгч рүү долоовор хуруугаар заах</annotation>
+		<annotation cp="🫵🏾" type="tts">үзэгч рүү долоовор хуруугаар заах: бордуу</annotation>
+		<annotation cp="🫵🏿">бор | заах | та | үзэгч рүү долоовор хуруугаар заах</annotation>
+		<annotation cp="🫵🏿" type="tts">үзэгч рүү долоовор хуруугаар заах: бор</annotation>
 		<annotation cp="👍🏻">амжилттай | гар | сайн | таалагдсан | хуруу | цайвар</annotation>
 		<annotation cp="👍🏻" type="tts">сайн: цайвар</annotation>
 		<annotation cp="👍🏼">амжилттай | бага зэргийн цайвар | гар | сайн | таалагдсан | хуруу</annotation>
@@ -282,6 +403,16 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🙌🏾" type="tts">гараа өргөж байгаа хүн: бордуу</annotation>
 		<annotation cp="🙌🏿">бор | гар | гараа өргөж байгаа хүн | өргөх | хоёр гар | хүн</annotation>
 		<annotation cp="🙌🏿" type="tts">гараа өргөж байгаа хүн: бор</annotation>
+		<annotation cp="🫶🏻">зүрхэн гар | хайр | цайвар</annotation>
+		<annotation cp="🫶🏻" type="tts">зүрхэн гар: цайвар</annotation>
+		<annotation cp="🫶🏼">бага зэргийн цайвар | зүрхэн гар | хайр</annotation>
+		<annotation cp="🫶🏼" type="tts">зүрхэн гар: бага зэргийн цайвар</annotation>
+		<annotation cp="🫶🏽">дунд зэргийн | зүрхэн гар | хайр</annotation>
+		<annotation cp="🫶🏽" type="tts">зүрхэн гар: дунд зэргийн</annotation>
+		<annotation cp="🫶🏾">бордуу | зүрхэн гар | хайр</annotation>
+		<annotation cp="🫶🏾" type="tts">зүрхэн гар: бордуу</annotation>
+		<annotation cp="🫶🏿">бор | зүрхэн гар | хайр</annotation>
+		<annotation cp="🫶🏿" type="tts">зүрхэн гар: бор</annotation>
 		<annotation cp="👐🏻">алга | гар | дэлгэсэн алга | дэлгээтэй | нээлттэй | цайвар</annotation>
 		<annotation cp="👐🏻" type="tts">дэлгэсэн алга: цайвар</annotation>
 		<annotation cp="👐🏼">алга | бага зэргийн цайвар | гар | дэлгэсэн алга | дэлгээтэй | нээлттэй</annotation>
@@ -302,6 +433,16 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🤲🏾" type="tts">алгаа хавсрах: бордуу</annotation>
 		<annotation cp="🤲🏿">алгаа хавсрах | бор | мөргөлч</annotation>
 		<annotation cp="🤲🏿" type="tts">алгаа хавсрах: бор</annotation>
+		<annotation cp="🤝🏻">барилт | гар | цайвар</annotation>
+		<annotation cp="🤝🏻" type="tts">гар барилт: цайвар</annotation>
+		<annotation cp="🤝🏼">бага зэргийн цайвар | барилт | гар</annotation>
+		<annotation cp="🤝🏼" type="tts">гар барилт: бага зэргийн цайвар</annotation>
+		<annotation cp="🤝🏽">барилт | гар | дунд зэргийн</annotation>
+		<annotation cp="🤝🏽" type="tts">гар барилт: дунд зэргийн</annotation>
+		<annotation cp="🤝🏾">барилт | бордуу | гар</annotation>
+		<annotation cp="🤝🏾" type="tts">гар барилт: бордуу</annotation>
+		<annotation cp="🤝🏿">барилт | бор | гар</annotation>
+		<annotation cp="🤝🏿" type="tts">гар барилт: бор</annotation>
 		<annotation cp="🙏🏻">алга | гар | хавсарсан гарын алга | хавсрах | цайвар</annotation>
 		<annotation cp="🙏🏻" type="tts">хавсарсан гарын алга: цайвар</annotation>
 		<annotation cp="🙏🏼">алга | бага зэргийн цайвар | гар | хавсарсан гарын алга | хавсрах</annotation>
@@ -502,45 +643,45 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🧑🏿‍❤‍💋‍🧑🏽" type="tts">үнсэлт: том хүн том хүн бор дунд зэргийн</annotation>
 		<annotation cp="🧑🏿‍❤‍💋‍🧑🏾">бор | бордуу | том хүн | үнсэлт | хос</annotation>
 		<annotation cp="🧑🏿‍❤‍💋‍🧑🏾" type="tts">үнсэлт: том хүн том хүн бор бордуу</annotation>
-		<annotation cp="🧑🏻‍❤‍🧑🏼">бага зэргийн цайвар | дунд | дундаа зүрхтэй хосууд | зүрх | том хүн | хайр | хос | цайвар</annotation>
+		<annotation cp="🧑🏻‍❤‍🧑🏼">бага зэргийн цайвар | дундаа зүрхтэй хосууд | том хүн | хайр | хос | цайвар</annotation>
 		<annotation cp="🧑🏻‍❤‍🧑🏼" type="tts">дундаа зүрхтэй хосууд: том хүн том хүн цайвар бага зэргийн цайвар</annotation>
-		<annotation cp="🧑🏻‍❤‍🧑🏽">дунд | дунд зэргийн | дундаа зүрхтэй хосууд | зүрх | том хүн | хайр | хос | цайвар</annotation>
+		<annotation cp="🧑🏻‍❤‍🧑🏽">дунд зэргийн | дундаа зүрхтэй хосууд | том хүн | хайр | хос | цайвар</annotation>
 		<annotation cp="🧑🏻‍❤‍🧑🏽" type="tts">дундаа зүрхтэй хосууд: том хүн том хүн цайвар дунд зэргийн</annotation>
-		<annotation cp="🧑🏻‍❤‍🧑🏾">бордуу | дунд | дундаа зүрхтэй хосууд | зүрх | том хүн | хайр | хос | цайвар</annotation>
+		<annotation cp="🧑🏻‍❤‍🧑🏾">бордуу | дундаа зүрхтэй хосууд | том хүн | хайр | хос | цайвар</annotation>
 		<annotation cp="🧑🏻‍❤‍🧑🏾" type="tts">дундаа зүрхтэй хосууд: том хүн том хүн цайвар бордуу</annotation>
-		<annotation cp="🧑🏻‍❤‍🧑🏿">бор | дунд | дундаа зүрхтэй хосууд | зүрх | том хүн | хайр | хос | цайвар</annotation>
+		<annotation cp="🧑🏻‍❤‍🧑🏿">бор | дундаа зүрхтэй хосууд | том хүн | хайр | хос | цайвар</annotation>
 		<annotation cp="🧑🏻‍❤‍🧑🏿" type="tts">дундаа зүрхтэй хосууд: том хүн том хүн цайвар бор</annotation>
-		<annotation cp="🧑🏼‍❤‍🧑🏻">бага зэргийн цайвар | дунд | дундаа зүрхтэй хосууд | зүрх | том хүн | хайр | хос | цайвар</annotation>
+		<annotation cp="🧑🏼‍❤‍🧑🏻">бага зэргийн цайвар | дундаа зүрхтэй хосууд | том хүн | хайр | хос | цайвар</annotation>
 		<annotation cp="🧑🏼‍❤‍🧑🏻" type="tts">дундаа зүрхтэй хосууд: том хүн том хүн бага зэргийн цайвар цайвар</annotation>
-		<annotation cp="🧑🏼‍❤‍🧑🏽">бага зэргийн цайвар | дунд | дунд зэргийн | дундаа зүрхтэй хосууд | зүрх | том хүн | хайр | хос</annotation>
+		<annotation cp="🧑🏼‍❤‍🧑🏽">бага зэргийн цайвар | дунд зэргийн | дундаа зүрхтэй хосууд | том хүн | хайр | хос</annotation>
 		<annotation cp="🧑🏼‍❤‍🧑🏽" type="tts">дундаа зүрхтэй хосууд: том хүн том хүн бага зэргийн цайвар дунд зэргийн</annotation>
-		<annotation cp="🧑🏼‍❤‍🧑🏾">бага зэргийн цайвар | бордуу | дунд | дундаа зүрхтэй хосууд | зүрх | том хүн | хайр | хос</annotation>
+		<annotation cp="🧑🏼‍❤‍🧑🏾">бага зэргийн цайвар | бордуу | дундаа зүрхтэй хосууд | том хүн | хайр | хос</annotation>
 		<annotation cp="🧑🏼‍❤‍🧑🏾" type="tts">дундаа зүрхтэй хосууд: том хүн том хүн бага зэргийн цайвар бордуу</annotation>
-		<annotation cp="🧑🏼‍❤‍🧑🏿">бага зэргийн цайвар | бор | дунд | дундаа зүрхтэй хосууд | зүрх | том хүн | хайр | хос</annotation>
+		<annotation cp="🧑🏼‍❤‍🧑🏿">бага зэргийн цайвар | бор | дундаа зүрхтэй хосууд | том хүн | хайр | хос</annotation>
 		<annotation cp="🧑🏼‍❤‍🧑🏿" type="tts">дундаа зүрхтэй хосууд: том хүн том хүн бага зэргийн цайвар бор</annotation>
-		<annotation cp="🧑🏽‍❤‍🧑🏻">дунд | дунд зэргийн | дундаа зүрхтэй хосууд | зүрх | том хүн | хайр | хос | цайвар</annotation>
+		<annotation cp="🧑🏽‍❤‍🧑🏻">дунд зэргийн | дундаа зүрхтэй хосууд | том хүн | хайр | хос | цайвар</annotation>
 		<annotation cp="🧑🏽‍❤‍🧑🏻" type="tts">дундаа зүрхтэй хосууд: том хүн том хүн дунд зэргийн цайвар</annotation>
-		<annotation cp="🧑🏽‍❤‍🧑🏼">бага зэргийн цайвар | дунд | дунд зэргийн | дундаа зүрхтэй хосууд | зүрх | том хүн | хайр | хос</annotation>
+		<annotation cp="🧑🏽‍❤‍🧑🏼">бага зэргийн цайвар | дунд зэргийн | дундаа зүрхтэй хосууд | том хүн | хайр | хос</annotation>
 		<annotation cp="🧑🏽‍❤‍🧑🏼" type="tts">дундаа зүрхтэй хосууд: том хүн том хүн дунд зэргийн бага зэргийн цайвар</annotation>
-		<annotation cp="🧑🏽‍❤‍🧑🏾">бордуу | дунд | дунд зэргийн | дундаа зүрхтэй хосууд | зүрх | том хүн | хайр | хос</annotation>
+		<annotation cp="🧑🏽‍❤‍🧑🏾">бордуу | дунд зэргийн | дундаа зүрхтэй хосууд | том хүн | хайр | хос</annotation>
 		<annotation cp="🧑🏽‍❤‍🧑🏾" type="tts">дундаа зүрхтэй хосууд: том хүн том хүн дунд зэргийн бордуу</annotation>
-		<annotation cp="🧑🏽‍❤‍🧑🏿">бор | дунд | дунд зэргийн | дундаа зүрхтэй хосууд | зүрх | том хүн | хайр | хос</annotation>
+		<annotation cp="🧑🏽‍❤‍🧑🏿">бор | дунд зэргийн | дундаа зүрхтэй хосууд | том хүн | хайр | хос</annotation>
 		<annotation cp="🧑🏽‍❤‍🧑🏿" type="tts">дундаа зүрхтэй хосууд: том хүн том хүн дунд зэргийн бор</annotation>
-		<annotation cp="🧑🏾‍❤‍🧑🏻">бордуу | дунд | дундаа зүрхтэй хосууд | зүрх | том хүн | хайр | хос | цайвар</annotation>
+		<annotation cp="🧑🏾‍❤‍🧑🏻">бордуу | дундаа зүрхтэй хосууд | том хүн | хайр | хос | цайвар</annotation>
 		<annotation cp="🧑🏾‍❤‍🧑🏻" type="tts">дундаа зүрхтэй хосууд: том хүн том хүн бордуу цайвар</annotation>
-		<annotation cp="🧑🏾‍❤‍🧑🏼">бага зэргийн цайвар | бордуу | дунд | дундаа зүрхтэй хосууд | зүрх | том хүн | хайр | хос</annotation>
+		<annotation cp="🧑🏾‍❤‍🧑🏼">бага зэргийн цайвар | бордуу | дундаа зүрхтэй хосууд | том хүн | хайр | хос</annotation>
 		<annotation cp="🧑🏾‍❤‍🧑🏼" type="tts">дундаа зүрхтэй хосууд: том хүн том хүн бордуу бага зэргийн цайвар</annotation>
-		<annotation cp="🧑🏾‍❤‍🧑🏽">бордуу | дунд | дунд зэргийн | дундаа зүрхтэй хосууд | зүрх | том хүн | хайр | хос</annotation>
+		<annotation cp="🧑🏾‍❤‍🧑🏽">бордуу | дунд зэргийн | дундаа зүрхтэй хосууд | том хүн | хайр | хос</annotation>
 		<annotation cp="🧑🏾‍❤‍🧑🏽" type="tts">дундаа зүрхтэй хосууд: том хүн том хүн бордуу дунд зэргийн</annotation>
-		<annotation cp="🧑🏾‍❤‍🧑🏿">бор | бордуу | дунд | дундаа зүрхтэй хосууд | зүрх | том хүн | хайр | хос</annotation>
+		<annotation cp="🧑🏾‍❤‍🧑🏿">бор | бордуу | дундаа зүрхтэй хосууд | том хүн | хайр | хос</annotation>
 		<annotation cp="🧑🏾‍❤‍🧑🏿" type="tts">дундаа зүрхтэй хосууд: том хүн том хүн бордуу бор</annotation>
-		<annotation cp="🧑🏿‍❤‍🧑🏻">бор | дунд | дундаа зүрхтэй хосууд | зүрх | том хүн | хайр | хос | цайвар</annotation>
+		<annotation cp="🧑🏿‍❤‍🧑🏻">бор | дундаа зүрхтэй хосууд | том хүн | хайр | хос | цайвар</annotation>
 		<annotation cp="🧑🏿‍❤‍🧑🏻" type="tts">дундаа зүрхтэй хосууд: том хүн том хүн бор цайвар</annotation>
-		<annotation cp="🧑🏿‍❤‍🧑🏼">бага зэргийн цайвар | бор | дунд | дундаа зүрхтэй хосууд | зүрх | том хүн | хайр | хос</annotation>
+		<annotation cp="🧑🏿‍❤‍🧑🏼">бага зэргийн цайвар | бор | дундаа зүрхтэй хосууд | том хүн | хайр | хос</annotation>
 		<annotation cp="🧑🏿‍❤‍🧑🏼" type="tts">дундаа зүрхтэй хосууд: том хүн том хүн бор бага зэргийн цайвар</annotation>
-		<annotation cp="🧑🏿‍❤‍🧑🏽">бор | дунд | дунд зэргийн | дундаа зүрхтэй хосууд | зүрх | том хүн | хайр | хос</annotation>
+		<annotation cp="🧑🏿‍❤‍🧑🏽">бор | дунд зэргийн | дундаа зүрхтэй хосууд | том хүн | хайр | хос</annotation>
 		<annotation cp="🧑🏿‍❤‍🧑🏽" type="tts">дундаа зүрхтэй хосууд: том хүн том хүн бор дунд зэргийн</annotation>
-		<annotation cp="🧑🏿‍❤‍🧑🏾">бор | бордуу | дунд | дундаа зүрхтэй хосууд | зүрх | том хүн | хайр | хос</annotation>
+		<annotation cp="🧑🏿‍❤‍🧑🏾">бор | бордуу | дундаа зүрхтэй хосууд | том хүн | хайр | хос</annotation>
 		<annotation cp="🧑🏿‍❤‍🧑🏾" type="tts">дундаа зүрхтэй хосууд: том хүн том хүн бор бордуу</annotation>
 		<annotation cp="🧑‍🦰">жендер-саармаг | том хүн | улаан үс</annotation>
 		<annotation cp="🧑‍🦰" type="tts">том хүн: улаан үс</annotation>
@@ -680,55 +821,55 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👨🏿‍❤‍💋‍👨🏾" type="tts">үнсэлт: эрэгтэй хүн эрэгтэй хүн бор бордуу</annotation>
 		<annotation cp="👨🏿‍❤‍💋‍👨🏿">бор | үнсэлт | хос | эрэгтэй хүн</annotation>
 		<annotation cp="👨🏿‍❤‍💋‍👨🏿" type="tts">үнсэлт: эрэгтэй хүн эрэгтэй хүн бор</annotation>
-		<annotation cp="👨🏻‍❤‍👨🏻">дунд | дундаа зүрхтэй хосууд | зүрх | хайр | хос | цайвар | эрэгтэй хүн</annotation>
+		<annotation cp="👨🏻‍❤‍👨🏻">дундаа зүрхтэй хосууд | хайр | хос | цайвар | эрэгтэй хүн</annotation>
 		<annotation cp="👨🏻‍❤‍👨🏻" type="tts">дундаа зүрхтэй хосууд: эрэгтэй хүн эрэгтэй хүн цайвар</annotation>
-		<annotation cp="👨🏻‍❤‍👨🏼">бага зэргийн цайвар | дунд | дундаа зүрхтэй хосууд | зүрх | хайр | хос | цайвар | эрэгтэй хүн</annotation>
+		<annotation cp="👨🏻‍❤‍👨🏼">бага зэргийн цайвар | дундаа зүрхтэй хосууд | хайр | хос | цайвар | эрэгтэй хүн</annotation>
 		<annotation cp="👨🏻‍❤‍👨🏼" type="tts">дундаа зүрхтэй хосууд: эрэгтэй хүн эрэгтэй хүн цайвар бага зэргийн цайвар</annotation>
-		<annotation cp="👨🏻‍❤‍👨🏽">дунд | дунд зэргийн | дундаа зүрхтэй хосууд | зүрх | хайр | хос | цайвар | эрэгтэй хүн</annotation>
+		<annotation cp="👨🏻‍❤‍👨🏽">дунд зэргийн | дундаа зүрхтэй хосууд | хайр | хос | цайвар | эрэгтэй хүн</annotation>
 		<annotation cp="👨🏻‍❤‍👨🏽" type="tts">дундаа зүрхтэй хосууд: эрэгтэй хүн эрэгтэй хүн цайвар дунд зэргийн</annotation>
-		<annotation cp="👨🏻‍❤‍👨🏾">бордуу | дунд | дундаа зүрхтэй хосууд | зүрх | хайр | хос | цайвар | эрэгтэй хүн</annotation>
+		<annotation cp="👨🏻‍❤‍👨🏾">бордуу | дундаа зүрхтэй хосууд | хайр | хос | цайвар | эрэгтэй хүн</annotation>
 		<annotation cp="👨🏻‍❤‍👨🏾" type="tts">дундаа зүрхтэй хосууд: эрэгтэй хүн эрэгтэй хүн цайвар бордуу</annotation>
-		<annotation cp="👨🏻‍❤‍👨🏿">бор | дунд | дундаа зүрхтэй хосууд | зүрх | хайр | хос | цайвар | эрэгтэй хүн</annotation>
+		<annotation cp="👨🏻‍❤‍👨🏿">бор | дундаа зүрхтэй хосууд | хайр | хос | цайвар | эрэгтэй хүн</annotation>
 		<annotation cp="👨🏻‍❤‍👨🏿" type="tts">дундаа зүрхтэй хосууд: эрэгтэй хүн эрэгтэй хүн цайвар бор</annotation>
-		<annotation cp="👨🏼‍❤‍👨🏻">бага зэргийн цайвар | дунд | дундаа зүрхтэй хосууд | зүрх | хайр | хос | цайвар | эрэгтэй хүн</annotation>
+		<annotation cp="👨🏼‍❤‍👨🏻">бага зэргийн цайвар | дундаа зүрхтэй хосууд | хайр | хос | цайвар | эрэгтэй хүн</annotation>
 		<annotation cp="👨🏼‍❤‍👨🏻" type="tts">дундаа зүрхтэй хосууд: эрэгтэй хүн эрэгтэй хүн бага зэргийн цайвар цайвар</annotation>
-		<annotation cp="👨🏼‍❤‍👨🏼">бага зэргийн цайвар | дунд | дундаа зүрхтэй хосууд | зүрх | хайр | хос | эрэгтэй хүн</annotation>
+		<annotation cp="👨🏼‍❤‍👨🏼">бага зэргийн цайвар | дундаа зүрхтэй хосууд | хайр | хос | эрэгтэй хүн</annotation>
 		<annotation cp="👨🏼‍❤‍👨🏼" type="tts">дундаа зүрхтэй хосууд: эрэгтэй хүн эрэгтэй хүн бага зэргийн цайвар</annotation>
-		<annotation cp="👨🏼‍❤‍👨🏽">бага зэргийн цайвар | дунд | дунд зэргийн | дундаа зүрхтэй хосууд | зүрх | хайр | хос | эрэгтэй хүн</annotation>
+		<annotation cp="👨🏼‍❤‍👨🏽">бага зэргийн цайвар | дунд зэргийн | дундаа зүрхтэй хосууд | хайр | хос | эрэгтэй хүн</annotation>
 		<annotation cp="👨🏼‍❤‍👨🏽" type="tts">дундаа зүрхтэй хосууд: эрэгтэй хүн эрэгтэй хүн бага зэргийн цайвар дунд зэргийн</annotation>
-		<annotation cp="👨🏼‍❤‍👨🏾">бага зэргийн цайвар | бордуу | дунд | дундаа зүрхтэй хосууд | зүрх | хайр | хос | эрэгтэй хүн</annotation>
+		<annotation cp="👨🏼‍❤‍👨🏾">бага зэргийн цайвар | бордуу | дундаа зүрхтэй хосууд | хайр | хос | эрэгтэй хүн</annotation>
 		<annotation cp="👨🏼‍❤‍👨🏾" type="tts">дундаа зүрхтэй хосууд: эрэгтэй хүн эрэгтэй хүн бага зэргийн цайвар бордуу</annotation>
-		<annotation cp="👨🏼‍❤‍👨🏿">бага зэргийн цайвар | бор | дунд | дундаа зүрхтэй хосууд | зүрх | хайр | хос | эрэгтэй хүн</annotation>
+		<annotation cp="👨🏼‍❤‍👨🏿">бага зэргийн цайвар | бор | дундаа зүрхтэй хосууд | хайр | хос | эрэгтэй хүн</annotation>
 		<annotation cp="👨🏼‍❤‍👨🏿" type="tts">дундаа зүрхтэй хосууд: эрэгтэй хүн эрэгтэй хүн бага зэргийн цайвар бор</annotation>
-		<annotation cp="👨🏽‍❤‍👨🏻">дунд | дунд зэргийн | дундаа зүрхтэй хосууд | зүрх | хайр | хос | цайвар | эрэгтэй хүн</annotation>
+		<annotation cp="👨🏽‍❤‍👨🏻">дунд зэргийн | дундаа зүрхтэй хосууд | хайр | хос | цайвар | эрэгтэй хүн</annotation>
 		<annotation cp="👨🏽‍❤‍👨🏻" type="tts">дундаа зүрхтэй хосууд: эрэгтэй хүн эрэгтэй хүн дунд зэргийн цайвар</annotation>
-		<annotation cp="👨🏽‍❤‍👨🏼">бага зэргийн цайвар | дунд | дунд зэргийн | дундаа зүрхтэй хосууд | зүрх | хайр | хос | эрэгтэй хүн</annotation>
+		<annotation cp="👨🏽‍❤‍👨🏼">бага зэргийн цайвар | дунд зэргийн | дундаа зүрхтэй хосууд | хайр | хос | эрэгтэй хүн</annotation>
 		<annotation cp="👨🏽‍❤‍👨🏼" type="tts">дундаа зүрхтэй хосууд: эрэгтэй хүн эрэгтэй хүн дунд зэргийн бага зэргийн цайвар</annotation>
-		<annotation cp="👨🏽‍❤‍👨🏽">дунд | дунд зэргийн | дундаа зүрхтэй хосууд | зүрх | хайр | хос | эрэгтэй хүн</annotation>
+		<annotation cp="👨🏽‍❤‍👨🏽">дунд зэргийн | дундаа зүрхтэй хосууд | хайр | хос | эрэгтэй хүн</annotation>
 		<annotation cp="👨🏽‍❤‍👨🏽" type="tts">дундаа зүрхтэй хосууд: эрэгтэй хүн эрэгтэй хүн дунд зэргийн</annotation>
-		<annotation cp="👨🏽‍❤‍👨🏾">бордуу | дунд | дунд зэргийн | дундаа зүрхтэй хосууд | зүрх | хайр | хос | эрэгтэй хүн</annotation>
+		<annotation cp="👨🏽‍❤‍👨🏾">бордуу | дунд зэргийн | дундаа зүрхтэй хосууд | хайр | хос | эрэгтэй хүн</annotation>
 		<annotation cp="👨🏽‍❤‍👨🏾" type="tts">дундаа зүрхтэй хосууд: эрэгтэй хүн эрэгтэй хүн дунд зэргийн бордуу</annotation>
-		<annotation cp="👨🏽‍❤‍👨🏿">бор | дунд | дунд зэргийн | дундаа зүрхтэй хосууд | зүрх | хайр | хос | эрэгтэй хүн</annotation>
+		<annotation cp="👨🏽‍❤‍👨🏿">бор | дунд зэргийн | дундаа зүрхтэй хосууд | хайр | хос | эрэгтэй хүн</annotation>
 		<annotation cp="👨🏽‍❤‍👨🏿" type="tts">дундаа зүрхтэй хосууд: эрэгтэй хүн эрэгтэй хүн дунд зэргийн бор</annotation>
-		<annotation cp="👨🏾‍❤‍👨🏻">бордуу | дунд | дундаа зүрхтэй хосууд | зүрх | хайр | хос | цайвар | эрэгтэй хүн</annotation>
+		<annotation cp="👨🏾‍❤‍👨🏻">бордуу | дундаа зүрхтэй хосууд | хайр | хос | цайвар | эрэгтэй хүн</annotation>
 		<annotation cp="👨🏾‍❤‍👨🏻" type="tts">дундаа зүрхтэй хосууд: эрэгтэй хүн эрэгтэй хүн бордуу цайвар</annotation>
-		<annotation cp="👨🏾‍❤‍👨🏼">бага зэргийн цайвар | бордуу | дунд | дундаа зүрхтэй хосууд | зүрх | хайр | хос | эрэгтэй хүн</annotation>
+		<annotation cp="👨🏾‍❤‍👨🏼">бага зэргийн цайвар | бордуу | дундаа зүрхтэй хосууд | хайр | хос | эрэгтэй хүн</annotation>
 		<annotation cp="👨🏾‍❤‍👨🏼" type="tts">дундаа зүрхтэй хосууд: эрэгтэй хүн эрэгтэй хүн бордуу бага зэргийн цайвар</annotation>
-		<annotation cp="👨🏾‍❤‍👨🏽">бордуу | дунд | дунд зэргийн | дундаа зүрхтэй хосууд | зүрх | хайр | хос | эрэгтэй хүн</annotation>
+		<annotation cp="👨🏾‍❤‍👨🏽">бордуу | дунд зэргийн | дундаа зүрхтэй хосууд | хайр | хос | эрэгтэй хүн</annotation>
 		<annotation cp="👨🏾‍❤‍👨🏽" type="tts">дундаа зүрхтэй хосууд: эрэгтэй хүн эрэгтэй хүн бордуу дунд зэргийн</annotation>
-		<annotation cp="👨🏾‍❤‍👨🏾">бордуу | дунд | дундаа зүрхтэй хосууд | зүрх | хайр | хос | эрэгтэй хүн</annotation>
+		<annotation cp="👨🏾‍❤‍👨🏾">бордуу | дундаа зүрхтэй хосууд | хайр | хос | эрэгтэй хүн</annotation>
 		<annotation cp="👨🏾‍❤‍👨🏾" type="tts">дундаа зүрхтэй хосууд: эрэгтэй хүн эрэгтэй хүн бордуу</annotation>
-		<annotation cp="👨🏾‍❤‍👨🏿">бор | бордуу | дунд | дундаа зүрхтэй хосууд | зүрх | хайр | хос | эрэгтэй хүн</annotation>
+		<annotation cp="👨🏾‍❤‍👨🏿">бор | бордуу | дундаа зүрхтэй хосууд | хайр | хос | эрэгтэй хүн</annotation>
 		<annotation cp="👨🏾‍❤‍👨🏿" type="tts">дундаа зүрхтэй хосууд: эрэгтэй хүн эрэгтэй хүн бордуу бор</annotation>
-		<annotation cp="👨🏿‍❤‍👨🏻">бор | дунд | дундаа зүрхтэй хосууд | зүрх | хайр | хос | цайвар | эрэгтэй хүн</annotation>
+		<annotation cp="👨🏿‍❤‍👨🏻">бор | дундаа зүрхтэй хосууд | хайр | хос | цайвар | эрэгтэй хүн</annotation>
 		<annotation cp="👨🏿‍❤‍👨🏻" type="tts">дундаа зүрхтэй хосууд: эрэгтэй хүн эрэгтэй хүн бор цайвар</annotation>
-		<annotation cp="👨🏿‍❤‍👨🏼">бага зэргийн цайвар | бор | дунд | дундаа зүрхтэй хосууд | зүрх | хайр | хос | эрэгтэй хүн</annotation>
+		<annotation cp="👨🏿‍❤‍👨🏼">бага зэргийн цайвар | бор | дундаа зүрхтэй хосууд | хайр | хос | эрэгтэй хүн</annotation>
 		<annotation cp="👨🏿‍❤‍👨🏼" type="tts">дундаа зүрхтэй хосууд: эрэгтэй хүн эрэгтэй хүн бор бага зэргийн цайвар</annotation>
-		<annotation cp="👨🏿‍❤‍👨🏽">бор | дунд | дунд зэргийн | дундаа зүрхтэй хосууд | зүрх | хайр | хос | эрэгтэй хүн</annotation>
+		<annotation cp="👨🏿‍❤‍👨🏽">бор | дунд зэргийн | дундаа зүрхтэй хосууд | хайр | хос | эрэгтэй хүн</annotation>
 		<annotation cp="👨🏿‍❤‍👨🏽" type="tts">дундаа зүрхтэй хосууд: эрэгтэй хүн эрэгтэй хүн бор дунд зэргийн</annotation>
-		<annotation cp="👨🏿‍❤‍👨🏾">бор | бордуу | дунд | дундаа зүрхтэй хосууд | зүрх | хайр | хос | эрэгтэй хүн</annotation>
+		<annotation cp="👨🏿‍❤‍👨🏾">бор | бордуу | дундаа зүрхтэй хосууд | хайр | хос | эрэгтэй хүн</annotation>
 		<annotation cp="👨🏿‍❤‍👨🏾" type="tts">дундаа зүрхтэй хосууд: эрэгтэй хүн эрэгтэй хүн бор бордуу</annotation>
-		<annotation cp="👨🏿‍❤‍👨🏿">бор | дунд | дундаа зүрхтэй хосууд | зүрх | хайр | хос | эрэгтэй хүн</annotation>
+		<annotation cp="👨🏿‍❤‍👨🏿">бор | дундаа зүрхтэй хосууд | хайр | хос | эрэгтэй хүн</annotation>
 		<annotation cp="👨🏿‍❤‍👨🏿" type="tts">дундаа зүрхтэй хосууд: эрэгтэй хүн эрэгтэй хүн бор</annotation>
 		<annotation cp="👨‍🦰">улаан үс | хүн | эрэгтэй</annotation>
 		<annotation cp="👨‍🦰" type="tts">эрэгтэй хүн: улаан үс</annotation>
@@ -908,105 +1049,105 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👩🏿‍❤‍💋‍👩🏾" type="tts">үнсэлт: эмэгтэй хүн эмэгтэй хүн бор бордуу</annotation>
 		<annotation cp="👩🏿‍❤‍💋‍👩🏿">бор | үнсэлт | хос | эмэгтэй хүн</annotation>
 		<annotation cp="👩🏿‍❤‍💋‍👩🏿" type="tts">үнсэлт: эмэгтэй хүн эмэгтэй хүн бор</annotation>
-		<annotation cp="👩🏻‍❤‍👨🏻">дунд | дундаа зүрхтэй хосууд | зүрх | хайр | хос | цайвар | эмэгтэй хүн | эрэгтэй хүн</annotation>
+		<annotation cp="👩🏻‍❤‍👨🏻">дундаа зүрхтэй хосууд | хайр | хос | цайвар | эмэгтэй хүн | эрэгтэй хүн</annotation>
 		<annotation cp="👩🏻‍❤‍👨🏻" type="tts">дундаа зүрхтэй хосууд: эмэгтэй хүн эрэгтэй хүн цайвар</annotation>
-		<annotation cp="👩🏻‍❤‍👨🏼">бага зэргийн цайвар | дунд | дундаа зүрхтэй хосууд | зүрх | хайр | хос | цайвар | эмэгтэй хүн | эрэгтэй хүн</annotation>
+		<annotation cp="👩🏻‍❤‍👨🏼">бага зэргийн цайвар | дундаа зүрхтэй хосууд | хайр | хос | цайвар | эмэгтэй хүн | эрэгтэй хүн</annotation>
 		<annotation cp="👩🏻‍❤‍👨🏼" type="tts">дундаа зүрхтэй хосууд: эмэгтэй хүн эрэгтэй хүн цайвар бага зэргийн цайвар</annotation>
-		<annotation cp="👩🏻‍❤‍👨🏽">дунд | дунд зэргийн | дундаа зүрхтэй хосууд | зүрх | хайр | хос | цайвар | эмэгтэй хүн | эрэгтэй хүн</annotation>
+		<annotation cp="👩🏻‍❤‍👨🏽">дунд зэргийн | дундаа зүрхтэй хосууд | хайр | хос | цайвар | эмэгтэй хүн | эрэгтэй хүн</annotation>
 		<annotation cp="👩🏻‍❤‍👨🏽" type="tts">дундаа зүрхтэй хосууд: эмэгтэй хүн эрэгтэй хүн цайвар дунд зэргийн</annotation>
-		<annotation cp="👩🏻‍❤‍👨🏾">бордуу | дунд | дундаа зүрхтэй хосууд | зүрх | хайр | хос | цайвар | эмэгтэй хүн | эрэгтэй хүн</annotation>
+		<annotation cp="👩🏻‍❤‍👨🏾">бордуу | дундаа зүрхтэй хосууд | хайр | хос | цайвар | эмэгтэй хүн | эрэгтэй хүн</annotation>
 		<annotation cp="👩🏻‍❤‍👨🏾" type="tts">дундаа зүрхтэй хосууд: эмэгтэй хүн эрэгтэй хүн цайвар бордуу</annotation>
-		<annotation cp="👩🏻‍❤‍👨🏿">бор | дунд | дундаа зүрхтэй хосууд | зүрх | хайр | хос | цайвар | эмэгтэй хүн | эрэгтэй хүн</annotation>
+		<annotation cp="👩🏻‍❤‍👨🏿">бор | дундаа зүрхтэй хосууд | хайр | хос | цайвар | эмэгтэй хүн | эрэгтэй хүн</annotation>
 		<annotation cp="👩🏻‍❤‍👨🏿" type="tts">дундаа зүрхтэй хосууд: эмэгтэй хүн эрэгтэй хүн цайвар бор</annotation>
-		<annotation cp="👩🏼‍❤‍👨🏻">бага зэргийн цайвар | дунд | дундаа зүрхтэй хосууд | зүрх | хайр | хос | цайвар | эмэгтэй хүн | эрэгтэй хүн</annotation>
+		<annotation cp="👩🏼‍❤‍👨🏻">бага зэргийн цайвар | дундаа зүрхтэй хосууд | хайр | хос | цайвар | эмэгтэй хүн | эрэгтэй хүн</annotation>
 		<annotation cp="👩🏼‍❤‍👨🏻" type="tts">дундаа зүрхтэй хосууд: эмэгтэй хүн эрэгтэй хүн бага зэргийн цайвар цайвар</annotation>
-		<annotation cp="👩🏼‍❤‍👨🏼">бага зэргийн цайвар | дунд | дундаа зүрхтэй хосууд | зүрх | хайр | хос | эмэгтэй хүн | эрэгтэй хүн</annotation>
+		<annotation cp="👩🏼‍❤‍👨🏼">бага зэргийн цайвар | дундаа зүрхтэй хосууд | хайр | хос | эмэгтэй хүн | эрэгтэй хүн</annotation>
 		<annotation cp="👩🏼‍❤‍👨🏼" type="tts">дундаа зүрхтэй хосууд: эмэгтэй хүн эрэгтэй хүн бага зэргийн цайвар</annotation>
-		<annotation cp="👩🏼‍❤‍👨🏽">бага зэргийн цайвар | дунд | дунд зэргийн | дундаа зүрхтэй хосууд | зүрх | хайр | хос | эмэгтэй хүн | эрэгтэй хүн</annotation>
+		<annotation cp="👩🏼‍❤‍👨🏽">бага зэргийн цайвар | дунд зэргийн | дундаа зүрхтэй хосууд | хайр | хос | эмэгтэй хүн | эрэгтэй хүн</annotation>
 		<annotation cp="👩🏼‍❤‍👨🏽" type="tts">дундаа зүрхтэй хосууд: эмэгтэй хүн эрэгтэй хүн бага зэргийн цайвар дунд зэргийн</annotation>
-		<annotation cp="👩🏼‍❤‍👨🏾">бага зэргийн цайвар | бордуу | дунд | дундаа зүрхтэй хосууд | зүрх | хайр | хос | эмэгтэй хүн | эрэгтэй хүн</annotation>
+		<annotation cp="👩🏼‍❤‍👨🏾">бага зэргийн цайвар | бордуу | дундаа зүрхтэй хосууд | хайр | хос | эмэгтэй хүн | эрэгтэй хүн</annotation>
 		<annotation cp="👩🏼‍❤‍👨🏾" type="tts">дундаа зүрхтэй хосууд: эмэгтэй хүн эрэгтэй хүн бага зэргийн цайвар бордуу</annotation>
-		<annotation cp="👩🏼‍❤‍👨🏿">бага зэргийн цайвар | бор | дунд | дундаа зүрхтэй хосууд | зүрх | хайр | хос | эмэгтэй хүн | эрэгтэй хүн</annotation>
+		<annotation cp="👩🏼‍❤‍👨🏿">бага зэргийн цайвар | бор | дундаа зүрхтэй хосууд | хайр | хос | эмэгтэй хүн | эрэгтэй хүн</annotation>
 		<annotation cp="👩🏼‍❤‍👨🏿" type="tts">дундаа зүрхтэй хосууд: эмэгтэй хүн эрэгтэй хүн бага зэргийн цайвар бор</annotation>
-		<annotation cp="👩🏽‍❤‍👨🏻">дунд | дунд зэргийн | дундаа зүрхтэй хосууд | зүрх | хайр | хос | цайвар | эмэгтэй хүн | эрэгтэй хүн</annotation>
+		<annotation cp="👩🏽‍❤‍👨🏻">дунд зэргийн | дундаа зүрхтэй хосууд | хайр | хос | цайвар | эмэгтэй хүн | эрэгтэй хүн</annotation>
 		<annotation cp="👩🏽‍❤‍👨🏻" type="tts">дундаа зүрхтэй хосууд: эмэгтэй хүн эрэгтэй хүн дунд зэргийн цайвар</annotation>
-		<annotation cp="👩🏽‍❤‍👨🏼">бага зэргийн цайвар | дунд | дунд зэргийн | дундаа зүрхтэй хосууд | зүрх | хайр | хос | эмэгтэй хүн | эрэгтэй хүн</annotation>
+		<annotation cp="👩🏽‍❤‍👨🏼">бага зэргийн цайвар | дунд зэргийн | дундаа зүрхтэй хосууд | хайр | хос | эмэгтэй хүн | эрэгтэй хүн</annotation>
 		<annotation cp="👩🏽‍❤‍👨🏼" type="tts">дундаа зүрхтэй хосууд: эмэгтэй хүн эрэгтэй хүн дунд зэргийн бага зэргийн цайвар</annotation>
-		<annotation cp="👩🏽‍❤‍👨🏽">дунд | дунд зэргийн | дундаа зүрхтэй хосууд | зүрх | хайр | хос | эмэгтэй хүн | эрэгтэй хүн</annotation>
+		<annotation cp="👩🏽‍❤‍👨🏽">дунд зэргийн | дундаа зүрхтэй хосууд | хайр | хос | эмэгтэй хүн | эрэгтэй хүн</annotation>
 		<annotation cp="👩🏽‍❤‍👨🏽" type="tts">дундаа зүрхтэй хосууд: эмэгтэй хүн эрэгтэй хүн дунд зэргийн</annotation>
-		<annotation cp="👩🏽‍❤‍👨🏾">бордуу | дунд | дунд зэргийн | дундаа зүрхтэй хосууд | зүрх | хайр | хос | эмэгтэй хүн | эрэгтэй хүн</annotation>
+		<annotation cp="👩🏽‍❤‍👨🏾">бордуу | дунд зэргийн | дундаа зүрхтэй хосууд | хайр | хос | эмэгтэй хүн | эрэгтэй хүн</annotation>
 		<annotation cp="👩🏽‍❤‍👨🏾" type="tts">дундаа зүрхтэй хосууд: эмэгтэй хүн эрэгтэй хүн дунд зэргийн бордуу</annotation>
-		<annotation cp="👩🏽‍❤‍👨🏿">бор | дунд | дунд зэргийн | дундаа зүрхтэй хосууд | зүрх | хайр | хос | эмэгтэй хүн | эрэгтэй хүн</annotation>
+		<annotation cp="👩🏽‍❤‍👨🏿">бор | дунд зэргийн | дундаа зүрхтэй хосууд | хайр | хос | эмэгтэй хүн | эрэгтэй хүн</annotation>
 		<annotation cp="👩🏽‍❤‍👨🏿" type="tts">дундаа зүрхтэй хосууд: эмэгтэй хүн эрэгтэй хүн дунд зэргийн бор</annotation>
-		<annotation cp="👩🏾‍❤‍👨🏻">бордуу | дунд | дундаа зүрхтэй хосууд | зүрх | хайр | хос | цайвар | эмэгтэй хүн | эрэгтэй хүн</annotation>
+		<annotation cp="👩🏾‍❤‍👨🏻">бордуу | дундаа зүрхтэй хосууд | хайр | хос | цайвар | эмэгтэй хүн | эрэгтэй хүн</annotation>
 		<annotation cp="👩🏾‍❤‍👨🏻" type="tts">дундаа зүрхтэй хосууд: эмэгтэй хүн эрэгтэй хүн бордуу цайвар</annotation>
-		<annotation cp="👩🏾‍❤‍👨🏼">бага зэргийн цайвар | бордуу | дунд | дундаа зүрхтэй хосууд | зүрх | хайр | хос | эмэгтэй хүн | эрэгтэй хүн</annotation>
+		<annotation cp="👩🏾‍❤‍👨🏼">бага зэргийн цайвар | бордуу | дундаа зүрхтэй хосууд | хайр | хос | эмэгтэй хүн | эрэгтэй хүн</annotation>
 		<annotation cp="👩🏾‍❤‍👨🏼" type="tts">дундаа зүрхтэй хосууд: эмэгтэй хүн эрэгтэй хүн бордуу бага зэргийн цайвар</annotation>
-		<annotation cp="👩🏾‍❤‍👨🏽">бордуу | дунд | дунд зэргийн | дундаа зүрхтэй хосууд | зүрх | хайр | хос | эмэгтэй хүн | эрэгтэй хүн</annotation>
+		<annotation cp="👩🏾‍❤‍👨🏽">бордуу | дунд зэргийн | дундаа зүрхтэй хосууд | хайр | хос | эмэгтэй хүн | эрэгтэй хүн</annotation>
 		<annotation cp="👩🏾‍❤‍👨🏽" type="tts">дундаа зүрхтэй хосууд: эмэгтэй хүн эрэгтэй хүн бордуу дунд зэргийн</annotation>
-		<annotation cp="👩🏾‍❤‍👨🏾">бордуу | дунд | дундаа зүрхтэй хосууд | зүрх | хайр | хос | эмэгтэй хүн | эрэгтэй хүн</annotation>
+		<annotation cp="👩🏾‍❤‍👨🏾">бордуу | дундаа зүрхтэй хосууд | хайр | хос | эмэгтэй хүн | эрэгтэй хүн</annotation>
 		<annotation cp="👩🏾‍❤‍👨🏾" type="tts">дундаа зүрхтэй хосууд: эмэгтэй хүн эрэгтэй хүн бордуу</annotation>
-		<annotation cp="👩🏾‍❤‍👨🏿">бор | бордуу | дунд | дундаа зүрхтэй хосууд | зүрх | хайр | хос | эмэгтэй хүн | эрэгтэй хүн</annotation>
+		<annotation cp="👩🏾‍❤‍👨🏿">бор | бордуу | дундаа зүрхтэй хосууд | хайр | хос | эмэгтэй хүн | эрэгтэй хүн</annotation>
 		<annotation cp="👩🏾‍❤‍👨🏿" type="tts">дундаа зүрхтэй хосууд: эмэгтэй хүн эрэгтэй хүн бордуу бор</annotation>
-		<annotation cp="👩🏿‍❤‍👨🏻">бор | дунд | дундаа зүрхтэй хосууд | зүрх | хайр | хос | цайвар | эмэгтэй хүн | эрэгтэй хүн</annotation>
+		<annotation cp="👩🏿‍❤‍👨🏻">бор | дундаа зүрхтэй хосууд | хайр | хос | цайвар | эмэгтэй хүн | эрэгтэй хүн</annotation>
 		<annotation cp="👩🏿‍❤‍👨🏻" type="tts">дундаа зүрхтэй хосууд: эмэгтэй хүн эрэгтэй хүн бор цайвар</annotation>
-		<annotation cp="👩🏿‍❤‍👨🏼">бага зэргийн цайвар | бор | дунд | дундаа зүрхтэй хосууд | зүрх | хайр | хос | эмэгтэй хүн | эрэгтэй хүн</annotation>
+		<annotation cp="👩🏿‍❤‍👨🏼">бага зэргийн цайвар | бор | дундаа зүрхтэй хосууд | хайр | хос | эмэгтэй хүн | эрэгтэй хүн</annotation>
 		<annotation cp="👩🏿‍❤‍👨🏼" type="tts">дундаа зүрхтэй хосууд: эмэгтэй хүн эрэгтэй хүн бор бага зэргийн цайвар</annotation>
-		<annotation cp="👩🏿‍❤‍👨🏽">бор | дунд | дунд зэргийн | дундаа зүрхтэй хосууд | зүрх | хайр | хос | эмэгтэй хүн | эрэгтэй хүн</annotation>
+		<annotation cp="👩🏿‍❤‍👨🏽">бор | дунд зэргийн | дундаа зүрхтэй хосууд | хайр | хос | эмэгтэй хүн | эрэгтэй хүн</annotation>
 		<annotation cp="👩🏿‍❤‍👨🏽" type="tts">дундаа зүрхтэй хосууд: эмэгтэй хүн эрэгтэй хүн бор дунд зэргийн</annotation>
-		<annotation cp="👩🏿‍❤‍👨🏾">бор | бордуу | дунд | дундаа зүрхтэй хосууд | зүрх | хайр | хос | эмэгтэй хүн | эрэгтэй хүн</annotation>
+		<annotation cp="👩🏿‍❤‍👨🏾">бор | бордуу | дундаа зүрхтэй хосууд | хайр | хос | эмэгтэй хүн | эрэгтэй хүн</annotation>
 		<annotation cp="👩🏿‍❤‍👨🏾" type="tts">дундаа зүрхтэй хосууд: эмэгтэй хүн эрэгтэй хүн бор бордуу</annotation>
-		<annotation cp="👩🏿‍❤‍👨🏿">бор | дунд | дундаа зүрхтэй хосууд | зүрх | хайр | хос | эмэгтэй хүн | эрэгтэй хүн</annotation>
+		<annotation cp="👩🏿‍❤‍👨🏿">бор | дундаа зүрхтэй хосууд | хайр | хос | эмэгтэй хүн | эрэгтэй хүн</annotation>
 		<annotation cp="👩🏿‍❤‍👨🏿" type="tts">дундаа зүрхтэй хосууд: эмэгтэй хүн эрэгтэй хүн бор</annotation>
-		<annotation cp="👩🏻‍❤‍👩🏻">дунд | дундаа зүрхтэй хосууд | зүрх | хайр | хос | цайвар | эмэгтэй хүн</annotation>
+		<annotation cp="👩🏻‍❤‍👩🏻">дундаа зүрхтэй хосууд | хайр | хос | цайвар | эмэгтэй хүн</annotation>
 		<annotation cp="👩🏻‍❤‍👩🏻" type="tts">дундаа зүрхтэй хосууд: эмэгтэй хүн эмэгтэй хүн цайвар</annotation>
-		<annotation cp="👩🏻‍❤‍👩🏼">бага зэргийн цайвар | дунд | дундаа зүрхтэй хосууд | зүрх | хайр | хос | цайвар | эмэгтэй хүн</annotation>
+		<annotation cp="👩🏻‍❤‍👩🏼">бага зэргийн цайвар | дундаа зүрхтэй хосууд | хайр | хос | цайвар | эмэгтэй хүн</annotation>
 		<annotation cp="👩🏻‍❤‍👩🏼" type="tts">дундаа зүрхтэй хосууд: эмэгтэй хүн эмэгтэй хүн цайвар бага зэргийн цайвар</annotation>
-		<annotation cp="👩🏻‍❤‍👩🏽">дунд | дунд зэргийн | дундаа зүрхтэй хосууд | зүрх | хайр | хос | цайвар | эмэгтэй хүн</annotation>
+		<annotation cp="👩🏻‍❤‍👩🏽">дунд зэргийн | дундаа зүрхтэй хосууд | хайр | хос | цайвар | эмэгтэй хүн</annotation>
 		<annotation cp="👩🏻‍❤‍👩🏽" type="tts">дундаа зүрхтэй хосууд: эмэгтэй хүн эмэгтэй хүн цайвар дунд зэргийн</annotation>
-		<annotation cp="👩🏻‍❤‍👩🏾">бордуу | дунд | дундаа зүрхтэй хосууд | зүрх | хайр | хос | цайвар | эмэгтэй хүн</annotation>
+		<annotation cp="👩🏻‍❤‍👩🏾">бордуу | дундаа зүрхтэй хосууд | хайр | хос | цайвар | эмэгтэй хүн</annotation>
 		<annotation cp="👩🏻‍❤‍👩🏾" type="tts">дундаа зүрхтэй хосууд: эмэгтэй хүн эмэгтэй хүн цайвар бордуу</annotation>
-		<annotation cp="👩🏻‍❤‍👩🏿">бор | дунд | дундаа зүрхтэй хосууд | зүрх | хайр | хос | цайвар | эмэгтэй хүн</annotation>
+		<annotation cp="👩🏻‍❤‍👩🏿">бор | дундаа зүрхтэй хосууд | хайр | хос | цайвар | эмэгтэй хүн</annotation>
 		<annotation cp="👩🏻‍❤‍👩🏿" type="tts">дундаа зүрхтэй хосууд: эмэгтэй хүн эмэгтэй хүн цайвар бор</annotation>
-		<annotation cp="👩🏼‍❤‍👩🏻">бага зэргийн цайвар | дунд | дундаа зүрхтэй хосууд | зүрх | хайр | хос | цайвар | эмэгтэй хүн</annotation>
+		<annotation cp="👩🏼‍❤‍👩🏻">бага зэргийн цайвар | дундаа зүрхтэй хосууд | хайр | хос | цайвар | эмэгтэй хүн</annotation>
 		<annotation cp="👩🏼‍❤‍👩🏻" type="tts">дундаа зүрхтэй хосууд: эмэгтэй хүн эмэгтэй хүн бага зэргийн цайвар цайвар</annotation>
-		<annotation cp="👩🏼‍❤‍👩🏼">бага зэргийн цайвар | дунд | дундаа зүрхтэй хосууд | зүрх | хайр | хос | эмэгтэй хүн</annotation>
+		<annotation cp="👩🏼‍❤‍👩🏼">бага зэргийн цайвар | дундаа зүрхтэй хосууд | хайр | хос | эмэгтэй хүн</annotation>
 		<annotation cp="👩🏼‍❤‍👩🏼" type="tts">дундаа зүрхтэй хосууд: эмэгтэй хүн эмэгтэй хүн бага зэргийн цайвар</annotation>
-		<annotation cp="👩🏼‍❤‍👩🏽">бага зэргийн цайвар | дунд | дунд зэргийн | дундаа зүрхтэй хосууд | зүрх | хайр | хос | эмэгтэй хүн</annotation>
+		<annotation cp="👩🏼‍❤‍👩🏽">бага зэргийн цайвар | дунд зэргийн | дундаа зүрхтэй хосууд | хайр | хос | эмэгтэй хүн</annotation>
 		<annotation cp="👩🏼‍❤‍👩🏽" type="tts">дундаа зүрхтэй хосууд: эмэгтэй хүн эмэгтэй хүн бага зэргийн цайвар дунд зэргийн</annotation>
-		<annotation cp="👩🏼‍❤‍👩🏾">бага зэргийн цайвар | бордуу | дунд | дундаа зүрхтэй хосууд | зүрх | хайр | хос | эмэгтэй хүн</annotation>
+		<annotation cp="👩🏼‍❤‍👩🏾">бага зэргийн цайвар | бордуу | дундаа зүрхтэй хосууд | хайр | хос | эмэгтэй хүн</annotation>
 		<annotation cp="👩🏼‍❤‍👩🏾" type="tts">дундаа зүрхтэй хосууд: эмэгтэй хүн эмэгтэй хүн бага зэргийн цайвар бордуу</annotation>
-		<annotation cp="👩🏼‍❤‍👩🏿">бага зэргийн цайвар | бор | дунд | дундаа зүрхтэй хосууд | зүрх | хайр | хос | эмэгтэй хүн</annotation>
+		<annotation cp="👩🏼‍❤‍👩🏿">бага зэргийн цайвар | бор | дундаа зүрхтэй хосууд | хайр | хос | эмэгтэй хүн</annotation>
 		<annotation cp="👩🏼‍❤‍👩🏿" type="tts">дундаа зүрхтэй хосууд: эмэгтэй хүн эмэгтэй хүн бага зэргийн цайвар бор</annotation>
-		<annotation cp="👩🏽‍❤‍👩🏻">дунд | дунд зэргийн | дундаа зүрхтэй хосууд | зүрх | хайр | хос | цайвар | эмэгтэй хүн</annotation>
+		<annotation cp="👩🏽‍❤‍👩🏻">дунд зэргийн | дундаа зүрхтэй хосууд | хайр | хос | цайвар | эмэгтэй хүн</annotation>
 		<annotation cp="👩🏽‍❤‍👩🏻" type="tts">дундаа зүрхтэй хосууд: эмэгтэй хүн эмэгтэй хүн дунд зэргийн цайвар</annotation>
-		<annotation cp="👩🏽‍❤‍👩🏼">бага зэргийн цайвар | дунд | дунд зэргийн | дундаа зүрхтэй хосууд | зүрх | хайр | хос | эмэгтэй хүн</annotation>
+		<annotation cp="👩🏽‍❤‍👩🏼">бага зэргийн цайвар | дунд зэргийн | дундаа зүрхтэй хосууд | хайр | хос | эмэгтэй хүн</annotation>
 		<annotation cp="👩🏽‍❤‍👩🏼" type="tts">дундаа зүрхтэй хосууд: эмэгтэй хүн эмэгтэй хүн дунд зэргийн бага зэргийн цайвар</annotation>
-		<annotation cp="👩🏽‍❤‍👩🏽">дунд | дунд зэргийн | дундаа зүрхтэй хосууд | зүрх | хайр | хос | эмэгтэй хүн</annotation>
+		<annotation cp="👩🏽‍❤‍👩🏽">дунд зэргийн | дундаа зүрхтэй хосууд | хайр | хос | эмэгтэй хүн</annotation>
 		<annotation cp="👩🏽‍❤‍👩🏽" type="tts">дундаа зүрхтэй хосууд: эмэгтэй хүн эмэгтэй хүн дунд зэргийн</annotation>
-		<annotation cp="👩🏽‍❤‍👩🏾">бордуу | дунд | дунд зэргийн | дундаа зүрхтэй хосууд | зүрх | хайр | хос | эмэгтэй хүн</annotation>
+		<annotation cp="👩🏽‍❤‍👩🏾">бордуу | дунд зэргийн | дундаа зүрхтэй хосууд | хайр | хос | эмэгтэй хүн</annotation>
 		<annotation cp="👩🏽‍❤‍👩🏾" type="tts">дундаа зүрхтэй хосууд: эмэгтэй хүн эмэгтэй хүн дунд зэргийн бордуу</annotation>
-		<annotation cp="👩🏽‍❤‍👩🏿">бор | дунд | дунд зэргийн | дундаа зүрхтэй хосууд | зүрх | хайр | хос | эмэгтэй хүн</annotation>
+		<annotation cp="👩🏽‍❤‍👩🏿">бор | дунд зэргийн | дундаа зүрхтэй хосууд | хайр | хос | эмэгтэй хүн</annotation>
 		<annotation cp="👩🏽‍❤‍👩🏿" type="tts">дундаа зүрхтэй хосууд: эмэгтэй хүн эмэгтэй хүн дунд зэргийн бор</annotation>
-		<annotation cp="👩🏾‍❤‍👩🏻">бордуу | дунд | дундаа зүрхтэй хосууд | зүрх | хайр | хос | цайвар | эмэгтэй хүн</annotation>
+		<annotation cp="👩🏾‍❤‍👩🏻">бордуу | дундаа зүрхтэй хосууд | хайр | хос | цайвар | эмэгтэй хүн</annotation>
 		<annotation cp="👩🏾‍❤‍👩🏻" type="tts">дундаа зүрхтэй хосууд: эмэгтэй хүн эмэгтэй хүн бордуу цайвар</annotation>
-		<annotation cp="👩🏾‍❤‍👩🏼">бага зэргийн цайвар | бордуу | дунд | дундаа зүрхтэй хосууд | зүрх | хайр | хос | эмэгтэй хүн</annotation>
+		<annotation cp="👩🏾‍❤‍👩🏼">бага зэргийн цайвар | бордуу | дундаа зүрхтэй хосууд | хайр | хос | эмэгтэй хүн</annotation>
 		<annotation cp="👩🏾‍❤‍👩🏼" type="tts">дундаа зүрхтэй хосууд: эмэгтэй хүн эмэгтэй хүн бордуу бага зэргийн цайвар</annotation>
-		<annotation cp="👩🏾‍❤‍👩🏽">бордуу | дунд | дунд зэргийн | дундаа зүрхтэй хосууд | зүрх | хайр | хос | эмэгтэй хүн</annotation>
+		<annotation cp="👩🏾‍❤‍👩🏽">бордуу | дунд зэргийн | дундаа зүрхтэй хосууд | хайр | хос | эмэгтэй хүн</annotation>
 		<annotation cp="👩🏾‍❤‍👩🏽" type="tts">дундаа зүрхтэй хосууд: эмэгтэй хүн эмэгтэй хүн бордуу дунд зэргийн</annotation>
-		<annotation cp="👩🏾‍❤‍👩🏾">бордуу | дунд | дундаа зүрхтэй хосууд | зүрх | хайр | хос | эмэгтэй хүн</annotation>
+		<annotation cp="👩🏾‍❤‍👩🏾">бордуу | дундаа зүрхтэй хосууд | хайр | хос | эмэгтэй хүн</annotation>
 		<annotation cp="👩🏾‍❤‍👩🏾" type="tts">дундаа зүрхтэй хосууд: эмэгтэй хүн эмэгтэй хүн бордуу</annotation>
-		<annotation cp="👩🏾‍❤‍👩🏿">бор | бордуу | дунд | дундаа зүрхтэй хосууд | зүрх | хайр | хос | эмэгтэй хүн</annotation>
+		<annotation cp="👩🏾‍❤‍👩🏿">бор | бордуу | дундаа зүрхтэй хосууд | хайр | хос | эмэгтэй хүн</annotation>
 		<annotation cp="👩🏾‍❤‍👩🏿" type="tts">дундаа зүрхтэй хосууд: эмэгтэй хүн эмэгтэй хүн бордуу бор</annotation>
-		<annotation cp="👩🏿‍❤‍👩🏻">бор | дунд | дундаа зүрхтэй хосууд | зүрх | хайр | хос | цайвар | эмэгтэй хүн</annotation>
+		<annotation cp="👩🏿‍❤‍👩🏻">бор | дундаа зүрхтэй хосууд | хайр | хос | цайвар | эмэгтэй хүн</annotation>
 		<annotation cp="👩🏿‍❤‍👩🏻" type="tts">дундаа зүрхтэй хосууд: эмэгтэй хүн эмэгтэй хүн бор цайвар</annotation>
-		<annotation cp="👩🏿‍❤‍👩🏼">бага зэргийн цайвар | бор | дунд | дундаа зүрхтэй хосууд | зүрх | хайр | хос | эмэгтэй хүн</annotation>
+		<annotation cp="👩🏿‍❤‍👩🏼">бага зэргийн цайвар | бор | дундаа зүрхтэй хосууд | хайр | хос | эмэгтэй хүн</annotation>
 		<annotation cp="👩🏿‍❤‍👩🏼" type="tts">дундаа зүрхтэй хосууд: эмэгтэй хүн эмэгтэй хүн бор бага зэргийн цайвар</annotation>
-		<annotation cp="👩🏿‍❤‍👩🏽">бор | дунд | дунд зэргийн | дундаа зүрхтэй хосууд | зүрх | хайр | хос | эмэгтэй хүн</annotation>
+		<annotation cp="👩🏿‍❤‍👩🏽">бор | дунд зэргийн | дундаа зүрхтэй хосууд | хайр | хос | эмэгтэй хүн</annotation>
 		<annotation cp="👩🏿‍❤‍👩🏽" type="tts">дундаа зүрхтэй хосууд: эмэгтэй хүн эмэгтэй хүн бор дунд зэргийн</annotation>
-		<annotation cp="👩🏿‍❤‍👩🏾">бор | бордуу | дунд | дундаа зүрхтэй хосууд | зүрх | хайр | хос | эмэгтэй хүн</annotation>
+		<annotation cp="👩🏿‍❤‍👩🏾">бор | бордуу | дундаа зүрхтэй хосууд | хайр | хос | эмэгтэй хүн</annotation>
 		<annotation cp="👩🏿‍❤‍👩🏾" type="tts">дундаа зүрхтэй хосууд: эмэгтэй хүн эмэгтэй хүн бор бордуу</annotation>
-		<annotation cp="👩🏿‍❤‍👩🏿">бор | дунд | дундаа зүрхтэй хосууд | зүрх | хайр | хос | эмэгтэй хүн</annotation>
+		<annotation cp="👩🏿‍❤‍👩🏿">бор | дундаа зүрхтэй хосууд | хайр | хос | эмэгтэй хүн</annotation>
 		<annotation cp="👩🏿‍❤‍👩🏿" type="tts">дундаа зүрхтэй хосууд: эмэгтэй хүн эмэгтэй хүн бор</annotation>
 		<annotation cp="👩‍🦰">улаан үс | хүн | эмэгтэй</annotation>
 		<annotation cp="👩‍🦰" type="tts">эмэгтэй хүн: улаан үс</annotation>
@@ -1236,15 +1377,15 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="💁🏾‍♀" type="tts">гараа дэлгэж буй эмэгтэй: бордуу</annotation>
 		<annotation cp="💁🏿‍♀">бор | гараа дэлгэж буй эмэгтэй | гараа дэлгэх | марзан | эм | эмэгтэй</annotation>
 		<annotation cp="💁🏿‍♀" type="tts">гараа дэлгэж буй эмэгтэй: бор</annotation>
-		<annotation cp="🙋🏻">баярлаж, гараа өргөсөн хүн | баярласан | гар | өргөх хүн | цайвар</annotation>
+		<annotation cp="🙋🏻">баярлаж | баярлаж, гараа өргөсөн хүн | баярласан | гар | гараа өргөсөн хүн | өргөх хүн | цайвар</annotation>
 		<annotation cp="🙋🏻" type="tts">баярлаж, гараа өргөсөн хүн: цайвар</annotation>
-		<annotation cp="🙋🏼">бага зэргийн цайвар | баярлаж, гараа өргөсөн хүн | баярласан | гар | өргөх хүн</annotation>
+		<annotation cp="🙋🏼">бага зэргийн цайвар | баярлаж | баярлаж, гараа өргөсөн хүн | баярласан | гар | гараа өргөсөн хүн | өргөх хүн</annotation>
 		<annotation cp="🙋🏼" type="tts">баярлаж, гараа өргөсөн хүн: бага зэргийн цайвар</annotation>
-		<annotation cp="🙋🏽">баярлаж, гараа өргөсөн хүн | баярласан | гар | дунд зэргийн | өргөх хүн</annotation>
+		<annotation cp="🙋🏽">баярлаж | баярлаж, гараа өргөсөн хүн | баярласан | гар | гараа өргөсөн хүн | дунд зэргийн | өргөх хүн</annotation>
 		<annotation cp="🙋🏽" type="tts">баярлаж, гараа өргөсөн хүн: дунд зэргийн</annotation>
-		<annotation cp="🙋🏾">баярлаж, гараа өргөсөн хүн | баярласан | бордуу | гар | өргөх хүн</annotation>
+		<annotation cp="🙋🏾">баярлаж | баярлаж, гараа өргөсөн хүн | баярласан | бордуу | гар | гараа өргөсөн хүн | өргөх хүн</annotation>
 		<annotation cp="🙋🏾" type="tts">баярлаж, гараа өргөсөн хүн: бордуу</annotation>
-		<annotation cp="🙋🏿">баярлаж, гараа өргөсөн хүн | баярласан | бор | гар | өргөх хүн</annotation>
+		<annotation cp="🙋🏿">баярлаж | баярлаж, гараа өргөсөн хүн | баярласан | бор | гар | гараа өргөсөн хүн | өргөх хүн</annotation>
 		<annotation cp="🙋🏿" type="tts">баярлаж, гараа өргөсөн хүн: бор</annotation>
 		<annotation cp="🙋🏻‍♂">гараа өргөж буй эрэгтэй | гараа өргөх | дохио | цайвар | эр | эрэгтэй</annotation>
 		<annotation cp="🙋🏻‍♂" type="tts">гараа өргөж буй эрэгтэй: цайвар</annotation>
@@ -1496,25 +1637,25 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👨🏾‍⚖" type="tts">эрэгтэй шүүгч: бордуу</annotation>
 		<annotation cp="👨🏿‍⚖">бор | дэнс | шүүх | эр | эрэгтэй | эрэгтэй шүүгч</annotation>
 		<annotation cp="👨🏿‍⚖" type="tts">эрэгтэй шүүгч: бор</annotation>
-		<annotation cp="👩🏻‍⚖">дэнс | цайвар | шүүгч | эм | эмэгтэй</annotation>
+		<annotation cp="👩🏻‍⚖">дэнс | цайвар | шүүгч | шүүх | эмэгтэй</annotation>
 		<annotation cp="👩🏻‍⚖" type="tts">эмэгтэй шүүгч: цайвар</annotation>
-		<annotation cp="👩🏼‍⚖">бага зэргийн цайвар | дэнс | шүүгч | эм | эмэгтэй</annotation>
+		<annotation cp="👩🏼‍⚖">бага зэргийн цайвар | дэнс | шүүгч | шүүх | эмэгтэй</annotation>
 		<annotation cp="👩🏼‍⚖" type="tts">эмэгтэй шүүгч: бага зэргийн цайвар</annotation>
-		<annotation cp="👩🏽‍⚖">дунд зэргийн | дэнс | шүүгч | эм | эмэгтэй</annotation>
+		<annotation cp="👩🏽‍⚖">дунд зэргийн | дэнс | шүүгч | шүүх | эмэгтэй</annotation>
 		<annotation cp="👩🏽‍⚖" type="tts">эмэгтэй шүүгч: дунд зэргийн</annotation>
-		<annotation cp="👩🏾‍⚖">бордуу | дэнс | шүүгч | эм | эмэгтэй</annotation>
+		<annotation cp="👩🏾‍⚖">бордуу | дэнс | шүүгч | шүүх | эмэгтэй</annotation>
 		<annotation cp="👩🏾‍⚖" type="tts">эмэгтэй шүүгч: бордуу</annotation>
-		<annotation cp="👩🏿‍⚖">бор | дэнс | шүүгч | эм | эмэгтэй</annotation>
+		<annotation cp="👩🏿‍⚖">бор | дэнс | шүүгч | шүүх | эмэгтэй</annotation>
 		<annotation cp="👩🏿‍⚖" type="tts">эмэгтэй шүүгч: бор</annotation>
-		<annotation cp="🧑🏻‍🌾">фермер | цайвар | цэцэрлэгч</annotation>
+		<annotation cp="🧑🏻‍🌾">тариачин | фермер | цайвар | цэцэрлэгч</annotation>
 		<annotation cp="🧑🏻‍🌾" type="tts">фермер: цайвар</annotation>
-		<annotation cp="🧑🏼‍🌾">бага зэргийн цайвар | фермер | цэцэрлэгч</annotation>
+		<annotation cp="🧑🏼‍🌾">бага зэргийн цайвар | тариачин | фермер | цэцэрлэгч</annotation>
 		<annotation cp="🧑🏼‍🌾" type="tts">фермер: бага зэргийн цайвар</annotation>
-		<annotation cp="🧑🏽‍🌾">дунд зэргийн | фермер | цэцэрлэгч</annotation>
+		<annotation cp="🧑🏽‍🌾">дунд зэргийн | тариачин | фермер | цэцэрлэгч</annotation>
 		<annotation cp="🧑🏽‍🌾" type="tts">фермер: дунд зэргийн</annotation>
-		<annotation cp="🧑🏾‍🌾">бордуу | фермер | цэцэрлэгч</annotation>
+		<annotation cp="🧑🏾‍🌾">бордуу | тариачин | фермер | цэцэрлэгч</annotation>
 		<annotation cp="🧑🏾‍🌾" type="tts">фермер: бордуу</annotation>
-		<annotation cp="🧑🏿‍🌾">бор | фермер | цэцэрлэгч</annotation>
+		<annotation cp="🧑🏿‍🌾">бор | тариачин | фермер | цэцэрлэгч</annotation>
 		<annotation cp="🧑🏿‍🌾" type="tts">фермер: бор</annotation>
 		<annotation cp="👨🏻‍🌾">ногооч эр | тариачин | фермер | цайвар | эрэгтэй</annotation>
 		<annotation cp="👨🏻‍🌾" type="tts">эрэгтэй тариачин: цайвар</annotation>
@@ -1996,6 +2137,16 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👷🏾‍♀" type="tts">эмэгтэй барилгын ажилтан: бордуу</annotation>
 		<annotation cp="👷🏿‍♀">ажилтан | барилга | бор | эм | эмэгтэй | эмэгтэй барилгын ажилтан</annotation>
 		<annotation cp="👷🏿‍♀" type="tts">эмэгтэй барилгын ажилтан: бор</annotation>
+		<annotation cp="🫅🏻">сурвалжит | титэмтэй хүн | хаан | цайвар | язгууртан</annotation>
+		<annotation cp="🫅🏻" type="tts">титэмтэй хүн: цайвар</annotation>
+		<annotation cp="🫅🏼">бага зэргийн цайвар | сурвалжит | титэмтэй хүн | хаан | язгууртан</annotation>
+		<annotation cp="🫅🏼" type="tts">титэмтэй хүн: бага зэргийн цайвар</annotation>
+		<annotation cp="🫅🏽">дунд зэргийн | сурвалжит | титэмтэй хүн | хаан | язгууртан</annotation>
+		<annotation cp="🫅🏽" type="tts">титэмтэй хүн: дунд зэргийн</annotation>
+		<annotation cp="🫅🏾">бордуу | сурвалжит | титэмтэй хүн | хаан | язгууртан</annotation>
+		<annotation cp="🫅🏾" type="tts">титэмтэй хүн: бордуу</annotation>
+		<annotation cp="🫅🏿">бор | сурвалжит | титэмтэй хүн | хаан | язгууртан</annotation>
+		<annotation cp="🫅🏿" type="tts">титэмтэй хүн: бор</annotation>
 		<annotation cp="🤴🏻">ханхүү | цайвар</annotation>
 		<annotation cp="🤴🏻" type="tts">ханхүү: цайвар</annotation>
 		<annotation cp="🤴🏼">бага зэргийн цайвар | ханхүү</annotation>
@@ -2136,6 +2287,26 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🤰🏾" type="tts">жирэмсэн эмэгтэй: бордуу</annotation>
 		<annotation cp="🤰🏿">бор | жирэмсэн | эмэгтэй</annotation>
 		<annotation cp="🤰🏿" type="tts">жирэмсэн эмэгтэй: бор</annotation>
+		<annotation cp="🫃🏻">гэдэстэй | дүүрэн | жирэмсэн | жирэмсэн эрэгтэй | цайвар | цүдгэр</annotation>
+		<annotation cp="🫃🏻" type="tts">жирэмсэн эрэгтэй: цайвар</annotation>
+		<annotation cp="🫃🏼">бага зэргийн цайвар | гэдэстэй | дүүрэн | жирэмсэн | жирэмсэн эрэгтэй | цүдгэр</annotation>
+		<annotation cp="🫃🏼" type="tts">жирэмсэн эрэгтэй: бага зэргийн цайвар</annotation>
+		<annotation cp="🫃🏽">гэдэстэй | дунд зэргийн | дүүрэн | жирэмсэн | жирэмсэн эрэгтэй | цүдгэр</annotation>
+		<annotation cp="🫃🏽" type="tts">жирэмсэн эрэгтэй: дунд зэргийн</annotation>
+		<annotation cp="🫃🏾">бордуу | гэдэстэй | дүүрэн | жирэмсэн | жирэмсэн эрэгтэй | цүдгэр</annotation>
+		<annotation cp="🫃🏾" type="tts">жирэмсэн эрэгтэй: бордуу</annotation>
+		<annotation cp="🫃🏿">бор | гэдэстэй | дүүрэн | жирэмсэн | жирэмсэн эрэгтэй | цүдгэр</annotation>
+		<annotation cp="🫃🏿" type="tts">жирэмсэн эрэгтэй: бор</annotation>
+		<annotation cp="🫄🏻">гэдэстэй | дүүрэн | жирэмсэн | жирэмсэн хүн | цайвар | цүдгэр</annotation>
+		<annotation cp="🫄🏻" type="tts">жирэмсэн хүн: цайвар</annotation>
+		<annotation cp="🫄🏼">бага зэргийн цайвар | гэдэстэй | дүүрэн | жирэмсэн | жирэмсэн хүн | цүдгэр</annotation>
+		<annotation cp="🫄🏼" type="tts">жирэмсэн хүн: бага зэргийн цайвар</annotation>
+		<annotation cp="🫄🏽">гэдэстэй | дунд зэргийн | дүүрэн | жирэмсэн | жирэмсэн хүн | цүдгэр</annotation>
+		<annotation cp="🫄🏽" type="tts">жирэмсэн хүн: дунд зэргийн</annotation>
+		<annotation cp="🫄🏾">бордуу | гэдэстэй | дүүрэн | жирэмсэн | жирэмсэн хүн | цүдгэр</annotation>
+		<annotation cp="🫄🏾" type="tts">жирэмсэн хүн: бордуу</annotation>
+		<annotation cp="🫄🏿">бор | гэдэстэй | дүүрэн | жирэмсэн | жирэмсэн хүн | цүдгэр</annotation>
+		<annotation cp="🫄🏿" type="tts">жирэмсэн хүн: бор</annotation>
 		<annotation cp="🤱🏻">асрах | нялх хүүхэд | хөх | хөхөөр хооллох | цайвар</annotation>
 		<annotation cp="🤱🏻" type="tts">хөхөөр хооллох: цайвар</annotation>
 		<annotation cp="🤱🏼">асрах | бага зэргийн цайвар | нялх хүүхэд | хөх | хөхөөр хооллох</annotation>
@@ -2166,15 +2337,15 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👨🏾‍🍼" type="tts">нялх хүүхэд хооллож байгаа эрэгтэй: бордуу</annotation>
 		<annotation cp="👨🏿‍🍼">асрах | бор | нялх хүүхэд | нялх хүүхэд хооллож байгаа эрэгтэй | хооллох | эрэгтэй</annotation>
 		<annotation cp="👨🏿‍🍼" type="tts">нялх хүүхэд хооллож байгаа эрэгтэй: бор</annotation>
-		<annotation cp="🧑🏻‍🍼">нялх хүүхэд хооллож байгаа хүн | нялх хүүхэд, хооллох, асрах, хүн | цайвар</annotation>
+		<annotation cp="🧑🏻‍🍼">асрах | нялх хүүхэд | нялх хүүхэд хооллож байгаа хүн | хооллох | хүн | цайвар</annotation>
 		<annotation cp="🧑🏻‍🍼" type="tts">нялх хүүхэд хооллож байгаа хүн: цайвар</annotation>
-		<annotation cp="🧑🏼‍🍼">бага зэргийн цайвар | нялх хүүхэд хооллож байгаа хүн | нялх хүүхэд, хооллох, асрах, хүн</annotation>
+		<annotation cp="🧑🏼‍🍼">асрах | бага зэргийн цайвар | нялх хүүхэд | нялх хүүхэд хооллож байгаа хүн | хооллох | хүн</annotation>
 		<annotation cp="🧑🏼‍🍼" type="tts">нялх хүүхэд хооллож байгаа хүн: бага зэргийн цайвар</annotation>
-		<annotation cp="🧑🏽‍🍼">дунд зэргийн | нялх хүүхэд хооллож байгаа хүн | нялх хүүхэд, хооллох, асрах, хүн</annotation>
+		<annotation cp="🧑🏽‍🍼">асрах | дунд зэргийн | нялх хүүхэд | нялх хүүхэд хооллож байгаа хүн | хооллох | хүн</annotation>
 		<annotation cp="🧑🏽‍🍼" type="tts">нялх хүүхэд хооллож байгаа хүн: дунд зэргийн</annotation>
-		<annotation cp="🧑🏾‍🍼">бордуу | нялх хүүхэд хооллож байгаа хүн | нялх хүүхэд, хооллох, асрах, хүн</annotation>
+		<annotation cp="🧑🏾‍🍼">асрах | бордуу | нялх хүүхэд | нялх хүүхэд хооллож байгаа хүн | хооллох | хүн</annotation>
 		<annotation cp="🧑🏾‍🍼" type="tts">нялх хүүхэд хооллож байгаа хүн: бордуу</annotation>
-		<annotation cp="🧑🏿‍🍼">бор | нялх хүүхэд хооллож байгаа хүн | нялх хүүхэд, хооллох, асрах, хүн</annotation>
+		<annotation cp="🧑🏿‍🍼">асрах | бор | нялх хүүхэд | нялх хүүхэд хооллож байгаа хүн | хооллох | хүн</annotation>
 		<annotation cp="🧑🏿‍🍼" type="tts">нялх хүүхэд хооллож байгаа хүн: бор</annotation>
 		<annotation cp="👼🏻">инээмсэглэл | нялх | нялх сахиусан тэнгэр | сахиусан тэнгэр | төсөөлөл | цайвар</annotation>
 		<annotation cp="👼🏻" type="tts">нялх сахиусан тэнгэр: цайвар</annotation>
@@ -2186,15 +2357,15 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👼🏾" type="tts">нялх сахиусан тэнгэр: бордуу</annotation>
 		<annotation cp="👼🏿">бор | инээмсэглэл | нялх | нялх сахиусан тэнгэр | сахиусан тэнгэр | төсөөлөл</annotation>
 		<annotation cp="👼🏿" type="tts">нялх сахиусан тэнгэр: бор</annotation>
-		<annotation cp="🎅🏻">аав | баяр тэмдэглэх | Зул сарын баяр | клаус | санта | Санта Клаус | цайвар</annotation>
+		<annotation cp="🎅🏻">аав | баяр тэмдэглэх | Зул сарын баяр | клаус | санта | цайвар</annotation>
 		<annotation cp="🎅🏻" type="tts">Санта Клаус: цайвар</annotation>
-		<annotation cp="🎅🏼">аав | бага зэргийн цайвар | баяр тэмдэглэх | Зул сарын баяр | клаус | санта | Санта Клаус</annotation>
+		<annotation cp="🎅🏼">аав | бага зэргийн цайвар | баяр тэмдэглэх | Зул сарын баяр | клаус | санта</annotation>
 		<annotation cp="🎅🏼" type="tts">Санта Клаус: бага зэргийн цайвар</annotation>
-		<annotation cp="🎅🏽">аав | баяр тэмдэглэх | дунд зэргийн | Зул сарын баяр | клаус | санта | Санта Клаус</annotation>
+		<annotation cp="🎅🏽">аав | баяр тэмдэглэх | дунд зэргийн | Зул сарын баяр | клаус | санта</annotation>
 		<annotation cp="🎅🏽" type="tts">Санта Клаус: дунд зэргийн</annotation>
-		<annotation cp="🎅🏾">аав | баяр тэмдэглэх | бордуу | Зул сарын баяр | клаус | санта | Санта Клаус</annotation>
+		<annotation cp="🎅🏾">аав | баяр тэмдэглэх | бордуу | Зул сарын баяр | клаус | санта</annotation>
 		<annotation cp="🎅🏾" type="tts">Санта Клаус: бордуу</annotation>
-		<annotation cp="🎅🏿">аав | баяр тэмдэглэх | бор | Зул сарын баяр | клаус | санта | Санта Клаус</annotation>
+		<annotation cp="🎅🏿">аав | баяр тэмдэглэх | бор | Зул сарын баяр | клаус | санта</annotation>
 		<annotation cp="🎅🏿" type="tts">Санта Клаус: бор</annotation>
 		<annotation cp="🤶🏻">Зулсар | Зулсарын хатагтай | Хатагтай | цайвар | эх</annotation>
 		<annotation cp="🤶🏻" type="tts">Зулсарын хатагтай: цайвар</annotation>
@@ -2206,15 +2377,15 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🤶🏾" type="tts">Зулсарын хатагтай: бордуу</annotation>
 		<annotation cp="🤶🏿">бор | Зулсар | Зулсарын хатагтай | Хатагтай | эх</annotation>
 		<annotation cp="🤶🏿" type="tts">Зулсарын хатагтай: бор</annotation>
-		<annotation cp="🧑🏻‍🎄">Клаус, зул сар | хатагтай клаус | цайвар</annotation>
+		<annotation cp="🧑🏻‍🎄">зул сар | Клаус | хатагтай клаус | цайвар</annotation>
 		<annotation cp="🧑🏻‍🎄" type="tts">хатагтай клаус: цайвар</annotation>
-		<annotation cp="🧑🏼‍🎄">бага зэргийн цайвар | Клаус, зул сар | хатагтай клаус</annotation>
+		<annotation cp="🧑🏼‍🎄">бага зэргийн цайвар | зул сар | Клаус | хатагтай клаус</annotation>
 		<annotation cp="🧑🏼‍🎄" type="tts">хатагтай клаус: бага зэргийн цайвар</annotation>
-		<annotation cp="🧑🏽‍🎄">дунд зэргийн | Клаус, зул сар | хатагтай клаус</annotation>
+		<annotation cp="🧑🏽‍🎄">дунд зэргийн | зул сар | Клаус | хатагтай клаус</annotation>
 		<annotation cp="🧑🏽‍🎄" type="tts">хатагтай клаус: дунд зэргийн</annotation>
-		<annotation cp="🧑🏾‍🎄">бордуу | Клаус, зул сар | хатагтай клаус</annotation>
+		<annotation cp="🧑🏾‍🎄">бордуу | зул сар | Клаус | хатагтай клаус</annotation>
 		<annotation cp="🧑🏾‍🎄" type="tts">хатагтай клаус: бордуу</annotation>
-		<annotation cp="🧑🏿‍🎄">бор | Клаус, зул сар | хатагтай клаус</annotation>
+		<annotation cp="🧑🏿‍🎄">бор | зул сар | Клаус | хатагтай клаус</annotation>
 		<annotation cp="🧑🏿‍🎄" type="tts">хатагтай клаус: бор</annotation>
 		<annotation cp="🦸🏻">баатар | сайн | супер баатар | супер хүч | цайвар</annotation>
 		<annotation cp="🦸🏻" type="tts">супер баатар: цайвар</annotation>
@@ -2516,6 +2687,42 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🚶🏾‍♀" type="tts">алхаж буй эмэгтэй: бордуу</annotation>
 		<annotation cp="🚶🏿‍♀">алхаж буй эмэгтэй | алхалт | алхах | бор | эм | эмэгтэй</annotation>
 		<annotation cp="🚶🏿‍♀" type="tts">алхаж буй эмэгтэй: бор</annotation>
+		<annotation cp="🚶‍➡">алхаж буй хүн | алхах | баруун | тийш | харсан | хүн</annotation>
+		<annotation cp="🚶‍➡" type="tts">алхаж буй хүн: баруун тийш харсан</annotation>
+		<annotation cp="🚶🏻‍➡">алхаж буй хүн | алхах | баруун | тийш | харсан | хүн | цайвар</annotation>
+		<annotation cp="🚶🏻‍➡" type="tts">алхаж буй хүн: цайвар баруун тийш харсан</annotation>
+		<annotation cp="🚶🏼‍➡">алхаж буй хүн | алхах | бага зэргийн цайвар | баруун | тийш | харсан | хүн</annotation>
+		<annotation cp="🚶🏼‍➡" type="tts">алхаж буй хүн: бага зэргийн цайвар баруун тийш харсан</annotation>
+		<annotation cp="🚶🏽‍➡">алхаж буй хүн | алхах | баруун | дунд зэргийн | тийш | харсан | хүн</annotation>
+		<annotation cp="🚶🏽‍➡" type="tts">алхаж буй хүн: дунд зэргийн баруун тийш харсан</annotation>
+		<annotation cp="🚶🏾‍➡">алхаж буй хүн | алхах | баруун | бордуу | тийш | харсан | хүн</annotation>
+		<annotation cp="🚶🏾‍➡" type="tts">алхаж буй хүн: бордуу баруун тийш харсан</annotation>
+		<annotation cp="🚶🏿‍➡">алхаж буй хүн | алхах | баруун | бор | тийш | харсан | хүн</annotation>
+		<annotation cp="🚶🏿‍➡" type="tts">алхаж буй хүн: бор баруун тийш харсан</annotation>
+		<annotation cp="🚶‍♀‍➡">алхаж буй эмэгтэй | алхалт | алхах | баруун | тийш | харсан | эм | эмэгтэй</annotation>
+		<annotation cp="🚶‍♀‍➡" type="tts">алхаж буй эмэгтэй: баруун тийш харсан</annotation>
+		<annotation cp="🚶🏻‍♀‍➡">алхаж буй эмэгтэй | алхалт | алхах | баруун | тийш | харсан | цайвар | эм | эмэгтэй</annotation>
+		<annotation cp="🚶🏻‍♀‍➡" type="tts">алхаж буй эмэгтэй: цайвар баруун тийш харсан</annotation>
+		<annotation cp="🚶🏼‍♀‍➡">алхаж буй эмэгтэй | алхалт | алхах | бага зэргийн цайвар | баруун | тийш | харсан | эм | эмэгтэй</annotation>
+		<annotation cp="🚶🏼‍♀‍➡" type="tts">алхаж буй эмэгтэй: бага зэргийн цайвар баруун тийш харсан</annotation>
+		<annotation cp="🚶🏽‍♀‍➡">алхаж буй эмэгтэй | алхалт | алхах | баруун | дунд зэргийн | тийш | харсан | эм | эмэгтэй</annotation>
+		<annotation cp="🚶🏽‍♀‍➡" type="tts">алхаж буй эмэгтэй: дунд зэргийн баруун тийш харсан</annotation>
+		<annotation cp="🚶🏾‍♀‍➡">алхаж буй эмэгтэй | алхалт | алхах | баруун | бордуу | тийш | харсан | эм | эмэгтэй</annotation>
+		<annotation cp="🚶🏾‍♀‍➡" type="tts">алхаж буй эмэгтэй: бордуу баруун тийш харсан</annotation>
+		<annotation cp="🚶🏿‍♀‍➡">алхаж буй эмэгтэй | алхалт | алхах | баруун | бор | тийш | харсан | эм | эмэгтэй</annotation>
+		<annotation cp="🚶🏿‍♀‍➡" type="tts">алхаж буй эмэгтэй: бор баруун тийш харсан</annotation>
+		<annotation cp="🚶‍♂‍➡">алхаж буй эрэгтэй | алхалт | алхах | баруун | тийш | харсан | эр | эрэгтэй</annotation>
+		<annotation cp="🚶‍♂‍➡" type="tts">алхаж буй эрэгтэй: баруун тийш харсан</annotation>
+		<annotation cp="🚶🏻‍♂‍➡">алхаж буй эрэгтэй | алхалт | алхах | баруун | тийш | харсан | цайвар | эр | эрэгтэй</annotation>
+		<annotation cp="🚶🏻‍♂‍➡" type="tts">алхаж буй эрэгтэй: цайвар баруун тийш харсан</annotation>
+		<annotation cp="🚶🏼‍♂‍➡">алхаж буй эрэгтэй | алхалт | алхах | бага зэргийн цайвар | баруун | тийш | харсан | эр | эрэгтэй</annotation>
+		<annotation cp="🚶🏼‍♂‍➡" type="tts">алхаж буй эрэгтэй: бага зэргийн цайвар баруун тийш харсан</annotation>
+		<annotation cp="🚶🏽‍♂‍➡">алхаж буй эрэгтэй | алхалт | алхах | баруун | дунд зэргийн | тийш | харсан | эр | эрэгтэй</annotation>
+		<annotation cp="🚶🏽‍♂‍➡" type="tts">алхаж буй эрэгтэй: дунд зэргийн баруун тийш харсан</annotation>
+		<annotation cp="🚶🏾‍♂‍➡">алхаж буй эрэгтэй | алхалт | алхах | баруун | бордуу | тийш | харсан | эр | эрэгтэй</annotation>
+		<annotation cp="🚶🏾‍♂‍➡" type="tts">алхаж буй эрэгтэй: бордуу баруун тийш харсан</annotation>
+		<annotation cp="🚶🏿‍♂‍➡">алхаж буй эрэгтэй | алхалт | алхах | баруун | бор | тийш | харсан | эр | эрэгтэй</annotation>
+		<annotation cp="🚶🏿‍♂‍➡" type="tts">алхаж буй эрэгтэй: бор баруун тийш харсан</annotation>
 		<annotation cp="🧍🏻">зогс | зогсож буй | зогсож буй хүн | цайвар</annotation>
 		<annotation cp="🧍🏻" type="tts">зогсож буй хүн: цайвар</annotation>
 		<annotation cp="🧍🏼">бага зэргийн цайвар | зогс | зогсож буй | зогсож буй хүн</annotation>
@@ -2576,6 +2783,42 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🧎🏾‍♀" type="tts">сөхөрч буй эмэгтэй: бордуу</annotation>
 		<annotation cp="🧎🏿‍♀">бор | сөхөрч буй | сөхөрч буй эмэгтэй | эмэгтэй</annotation>
 		<annotation cp="🧎🏿‍♀" type="tts">сөхөрч буй эмэгтэй: бор</annotation>
+		<annotation cp="🧎‍➡">баруун | сөхөрч буй | сөхөрч суусан хүн | сөхрөх | тийш | харсан</annotation>
+		<annotation cp="🧎‍➡" type="tts">сөхөрч суусан хүн: баруун тийш харсан</annotation>
+		<annotation cp="🧎🏻‍➡">баруун | сөхөрч буй | сөхөрч суусан хүн | сөхрөх | тийш | харсан | цайвар</annotation>
+		<annotation cp="🧎🏻‍➡" type="tts">сөхөрч суусан хүн: цайвар баруун тийш харсан</annotation>
+		<annotation cp="🧎🏼‍➡">бага зэргийн цайвар | баруун | сөхөрч буй | сөхөрч суусан хүн | сөхрөх | тийш | харсан</annotation>
+		<annotation cp="🧎🏼‍➡" type="tts">сөхөрч суусан хүн: бага зэргийн цайвар баруун тийш харсан</annotation>
+		<annotation cp="🧎🏽‍➡">баруун | дунд зэргийн | сөхөрч буй | сөхөрч суусан хүн | сөхрөх | тийш | харсан</annotation>
+		<annotation cp="🧎🏽‍➡" type="tts">сөхөрч суусан хүн: дунд зэргийн баруун тийш харсан</annotation>
+		<annotation cp="🧎🏾‍➡">баруун | бордуу | сөхөрч буй | сөхөрч суусан хүн | сөхрөх | тийш | харсан</annotation>
+		<annotation cp="🧎🏾‍➡" type="tts">сөхөрч суусан хүн: бордуу баруун тийш харсан</annotation>
+		<annotation cp="🧎🏿‍➡">баруун | бор | сөхөрч буй | сөхөрч суусан хүн | сөхрөх | тийш | харсан</annotation>
+		<annotation cp="🧎🏿‍➡" type="tts">сөхөрч суусан хүн: бор баруун тийш харсан</annotation>
+		<annotation cp="🧎‍♀‍➡">баруун | сөхөрч буй | сөхөрч буй эмэгтэй | тийш | харсан | эмэгтэй</annotation>
+		<annotation cp="🧎‍♀‍➡" type="tts">сөхөрч буй эмэгтэй: баруун тийш харсан</annotation>
+		<annotation cp="🧎🏻‍♀‍➡">баруун | сөхөрч буй | сөхөрч буй эмэгтэй | тийш | харсан | цайвар | эмэгтэй</annotation>
+		<annotation cp="🧎🏻‍♀‍➡" type="tts">сөхөрч буй эмэгтэй: цайвар баруун тийш харсан</annotation>
+		<annotation cp="🧎🏼‍♀‍➡">бага зэргийн цайвар | баруун | сөхөрч буй | сөхөрч буй эмэгтэй | тийш | харсан | эмэгтэй</annotation>
+		<annotation cp="🧎🏼‍♀‍➡" type="tts">сөхөрч буй эмэгтэй: бага зэргийн цайвар баруун тийш харсан</annotation>
+		<annotation cp="🧎🏽‍♀‍➡">баруун | дунд зэргийн | сөхөрч буй | сөхөрч буй эмэгтэй | тийш | харсан | эмэгтэй</annotation>
+		<annotation cp="🧎🏽‍♀‍➡" type="tts">сөхөрч буй эмэгтэй: дунд зэргийн баруун тийш харсан</annotation>
+		<annotation cp="🧎🏾‍♀‍➡">баруун | бордуу | сөхөрч буй | сөхөрч буй эмэгтэй | тийш | харсан | эмэгтэй</annotation>
+		<annotation cp="🧎🏾‍♀‍➡" type="tts">сөхөрч буй эмэгтэй: бордуу баруун тийш харсан</annotation>
+		<annotation cp="🧎🏿‍♀‍➡">баруун | бор | сөхөрч буй | сөхөрч буй эмэгтэй | тийш | харсан | эмэгтэй</annotation>
+		<annotation cp="🧎🏿‍♀‍➡" type="tts">сөхөрч буй эмэгтэй: бор баруун тийш харсан</annotation>
+		<annotation cp="🧎‍♂‍➡">баруун | сөхөрч буй | сөхөрч буй эрэгтэй | тийш | харсан | эрэгтэй</annotation>
+		<annotation cp="🧎‍♂‍➡" type="tts">сөхөрч буй эрэгтэй: баруун тийш харсан</annotation>
+		<annotation cp="🧎🏻‍♂‍➡">баруун | сөхөрч буй | сөхөрч буй эрэгтэй | тийш | харсан | цайвар | эрэгтэй</annotation>
+		<annotation cp="🧎🏻‍♂‍➡" type="tts">сөхөрч буй эрэгтэй: цайвар баруун тийш харсан</annotation>
+		<annotation cp="🧎🏼‍♂‍➡">бага зэргийн цайвар | баруун | сөхөрч буй | сөхөрч буй эрэгтэй | тийш | харсан | эрэгтэй</annotation>
+		<annotation cp="🧎🏼‍♂‍➡" type="tts">сөхөрч буй эрэгтэй: бага зэргийн цайвар баруун тийш харсан</annotation>
+		<annotation cp="🧎🏽‍♂‍➡">баруун | дунд зэргийн | сөхөрч буй | сөхөрч буй эрэгтэй | тийш | харсан | эрэгтэй</annotation>
+		<annotation cp="🧎🏽‍♂‍➡" type="tts">сөхөрч буй эрэгтэй: дунд зэргийн баруун тийш харсан</annotation>
+		<annotation cp="🧎🏾‍♂‍➡">баруун | бордуу | сөхөрч буй | сөхөрч буй эрэгтэй | тийш | харсан | эрэгтэй</annotation>
+		<annotation cp="🧎🏾‍♂‍➡" type="tts">сөхөрч буй эрэгтэй: бордуу баруун тийш харсан</annotation>
+		<annotation cp="🧎🏿‍♂‍➡">баруун | бор | сөхөрч буй | сөхөрч буй эрэгтэй | тийш | харсан | эрэгтэй</annotation>
+		<annotation cp="🧎🏿‍♂‍➡" type="tts">сөхөрч буй эрэгтэй: бор баруун тийш харсан</annotation>
 		<annotation cp="🧑🏻‍🦯">метал илрүүлэгчтэй хүн | хараагүй хүн | хүртээмжтэй байдал | цагаан таягтай хүн | цайвар</annotation>
 		<annotation cp="🧑🏻‍🦯" type="tts">метал илрүүлэгчтэй хүн: цайвар</annotation>
 		<annotation cp="🧑🏼‍🦯">бага зэргийн цайвар | метал илрүүлэгчтэй хүн | хараагүй хүн | хүртээмжтэй байдал | цагаан таягтай хүн</annotation>
@@ -2586,6 +2829,18 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🧑🏾‍🦯" type="tts">метал илрүүлэгчтэй хүн: бордуу</annotation>
 		<annotation cp="🧑🏿‍🦯">бор | метал илрүүлэгчтэй хүн | хараагүй хүн | хүртээмжтэй байдал | цагаан таягтай хүн</annotation>
 		<annotation cp="🧑🏿‍🦯" type="tts">метал илрүүлэгчтэй хүн: бор</annotation>
+		<annotation cp="🧑‍🦯‍➡">баруун | метал илрүүлэгчтэй хүн | тийш | хараагүй хүн | харсан | хүртээмжтэй байдал | цагаан таягтай хүн</annotation>
+		<annotation cp="🧑‍🦯‍➡" type="tts">метал илрүүлэгчтэй хүн: баруун тийш харсан</annotation>
+		<annotation cp="🧑🏻‍🦯‍➡">баруун | метал илрүүлэгчтэй хүн | тийш | хараагүй хүн | харсан | хүртээмжтэй байдал | цагаан таягтай хүн | цайвар</annotation>
+		<annotation cp="🧑🏻‍🦯‍➡" type="tts">метал илрүүлэгчтэй хүн: цайвар баруун тийш харсан</annotation>
+		<annotation cp="🧑🏼‍🦯‍➡">бага зэргийн цайвар | баруун | метал илрүүлэгчтэй хүн | тийш | хараагүй хүн | харсан | хүртээмжтэй байдал | цагаан таягтай хүн</annotation>
+		<annotation cp="🧑🏼‍🦯‍➡" type="tts">метал илрүүлэгчтэй хүн: бага зэргийн цайвар баруун тийш харсан</annotation>
+		<annotation cp="🧑🏽‍🦯‍➡">баруун | дунд зэргийн | метал илрүүлэгчтэй хүн | тийш | хараагүй хүн | харсан | хүртээмжтэй байдал | цагаан таягтай хүн</annotation>
+		<annotation cp="🧑🏽‍🦯‍➡" type="tts">метал илрүүлэгчтэй хүн: дунд зэргийн баруун тийш харсан</annotation>
+		<annotation cp="🧑🏾‍🦯‍➡">баруун | бордуу | метал илрүүлэгчтэй хүн | тийш | хараагүй хүн | харсан | хүртээмжтэй байдал | цагаан таягтай хүн</annotation>
+		<annotation cp="🧑🏾‍🦯‍➡" type="tts">метал илрүүлэгчтэй хүн: бордуу баруун тийш харсан</annotation>
+		<annotation cp="🧑🏿‍🦯‍➡">баруун | бор | метал илрүүлэгчтэй хүн | тийш | хараагүй хүн | харсан | хүртээмжтэй байдал | цагаан таягтай хүн</annotation>
+		<annotation cp="🧑🏿‍🦯‍➡" type="tts">метал илрүүлэгчтэй хүн: бор баруун тийш харсан</annotation>
 		<annotation cp="👨🏻‍🦯">таягтай хараагүй эрэгтэй | хараагүй | хөгжлийн бэрхшээл | цайвар | эрэгтэй</annotation>
 		<annotation cp="👨🏻‍🦯" type="tts">таягтай хараагүй эрэгтэй: цайвар</annotation>
 		<annotation cp="👨🏼‍🦯">бага зэргийн цайвар | таягтай хараагүй эрэгтэй | хараагүй | хөгжлийн бэрхшээл | эрэгтэй</annotation>
@@ -2596,6 +2851,18 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👨🏾‍🦯" type="tts">таягтай хараагүй эрэгтэй: бордуу</annotation>
 		<annotation cp="👨🏿‍🦯">бор | таягтай хараагүй эрэгтэй | хараагүй | хөгжлийн бэрхшээл | эрэгтэй</annotation>
 		<annotation cp="👨🏿‍🦯" type="tts">таягтай хараагүй эрэгтэй: бор</annotation>
+		<annotation cp="👨‍🦯‍➡">баруун | таягтай хараагүй эрэгтэй | тийш | хараагүй | харсан | хөгжлийн бэрхшээл | эрэгтэй</annotation>
+		<annotation cp="👨‍🦯‍➡" type="tts">таягтай хараагүй эрэгтэй: баруун тийш харсан</annotation>
+		<annotation cp="👨🏻‍🦯‍➡">баруун | таягтай хараагүй эрэгтэй | тийш | хараагүй | харсан | хөгжлийн бэрхшээл | цайвар | эрэгтэй</annotation>
+		<annotation cp="👨🏻‍🦯‍➡" type="tts">таягтай хараагүй эрэгтэй: цайвар баруун тийш харсан</annotation>
+		<annotation cp="👨🏼‍🦯‍➡">бага зэргийн цайвар | баруун | таягтай хараагүй эрэгтэй | тийш | хараагүй | харсан | хөгжлийн бэрхшээл | эрэгтэй</annotation>
+		<annotation cp="👨🏼‍🦯‍➡" type="tts">таягтай хараагүй эрэгтэй: бага зэргийн цайвар баруун тийш харсан</annotation>
+		<annotation cp="👨🏽‍🦯‍➡">баруун | дунд зэргийн | таягтай хараагүй эрэгтэй | тийш | хараагүй | харсан | хөгжлийн бэрхшээл | эрэгтэй</annotation>
+		<annotation cp="👨🏽‍🦯‍➡" type="tts">таягтай хараагүй эрэгтэй: дунд зэргийн баруун тийш харсан</annotation>
+		<annotation cp="👨🏾‍🦯‍➡">баруун | бордуу | таягтай хараагүй эрэгтэй | тийш | хараагүй | харсан | хөгжлийн бэрхшээл | эрэгтэй</annotation>
+		<annotation cp="👨🏾‍🦯‍➡" type="tts">таягтай хараагүй эрэгтэй: бордуу баруун тийш харсан</annotation>
+		<annotation cp="👨🏿‍🦯‍➡">баруун | бор | таягтай хараагүй эрэгтэй | тийш | хараагүй | харсан | хөгжлийн бэрхшээл | эрэгтэй</annotation>
+		<annotation cp="👨🏿‍🦯‍➡" type="tts">таягтай хараагүй эрэгтэй: бор баруун тийш харсан</annotation>
 		<annotation cp="👩🏻‍🦯">таягтай хараагүй эмэгтэй | хараагүй | хөгжлийн бэрхшээл | цайвар | эмэгтэй</annotation>
 		<annotation cp="👩🏻‍🦯" type="tts">таягтай хараагүй эмэгтэй: цайвар</annotation>
 		<annotation cp="👩🏼‍🦯">бага зэргийн цайвар | таягтай хараагүй эмэгтэй | хараагүй | хөгжлийн бэрхшээл | эмэгтэй</annotation>
@@ -2606,6 +2873,18 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👩🏾‍🦯" type="tts">таягтай хараагүй эмэгтэй: бордуу</annotation>
 		<annotation cp="👩🏿‍🦯">бор | таягтай хараагүй эмэгтэй | хараагүй | хөгжлийн бэрхшээл | эмэгтэй</annotation>
 		<annotation cp="👩🏿‍🦯" type="tts">таягтай хараагүй эмэгтэй: бор</annotation>
+		<annotation cp="👩‍🦯‍➡">баруун | таягтай хараагүй эмэгтэй | тийш | хараагүй | харсан | хөгжлийн бэрхшээл | эмэгтэй</annotation>
+		<annotation cp="👩‍🦯‍➡" type="tts">таягтай хараагүй эмэгтэй: баруун тийш харсан</annotation>
+		<annotation cp="👩🏻‍🦯‍➡">баруун | таягтай хараагүй эмэгтэй | тийш | хараагүй | харсан | хөгжлийн бэрхшээл | цайвар | эмэгтэй</annotation>
+		<annotation cp="👩🏻‍🦯‍➡" type="tts">таягтай хараагүй эмэгтэй: цайвар баруун тийш харсан</annotation>
+		<annotation cp="👩🏼‍🦯‍➡">бага зэргийн цайвар | баруун | таягтай хараагүй эмэгтэй | тийш | хараагүй | харсан | хөгжлийн бэрхшээл | эмэгтэй</annotation>
+		<annotation cp="👩🏼‍🦯‍➡" type="tts">таягтай хараагүй эмэгтэй: бага зэргийн цайвар баруун тийш харсан</annotation>
+		<annotation cp="👩🏽‍🦯‍➡">баруун | дунд зэргийн | таягтай хараагүй эмэгтэй | тийш | хараагүй | харсан | хөгжлийн бэрхшээл | эмэгтэй</annotation>
+		<annotation cp="👩🏽‍🦯‍➡" type="tts">таягтай хараагүй эмэгтэй: дунд зэргийн баруун тийш харсан</annotation>
+		<annotation cp="👩🏾‍🦯‍➡">баруун | бордуу | таягтай хараагүй эмэгтэй | тийш | хараагүй | харсан | хөгжлийн бэрхшээл | эмэгтэй</annotation>
+		<annotation cp="👩🏾‍🦯‍➡" type="tts">таягтай хараагүй эмэгтэй: бордуу баруун тийш харсан</annotation>
+		<annotation cp="👩🏿‍🦯‍➡">баруун | бор | таягтай хараагүй эмэгтэй | тийш | хараагүй | харсан | хөгжлийн бэрхшээл | эмэгтэй</annotation>
+		<annotation cp="👩🏿‍🦯‍➡" type="tts">таягтай хараагүй эмэгтэй: бор баруун тийш харсан</annotation>
 		<annotation cp="🧑🏻‍🦼">автомат удирдлагатай тэргэнцэртэй хүн | тэргэнцэр | хүртээмж | цайвар</annotation>
 		<annotation cp="🧑🏻‍🦼" type="tts">автомат удирдлагатай тэргэнцэртэй хүн: цайвар</annotation>
 		<annotation cp="🧑🏼‍🦼">автомат удирдлагатай тэргэнцэртэй хүн | бага зэргийн цайвар | тэргэнцэр | хүртээмж</annotation>
@@ -2616,6 +2895,18 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🧑🏾‍🦼" type="tts">автомат удирдлагатай тэргэнцэртэй хүн: бордуу</annotation>
 		<annotation cp="🧑🏿‍🦼">автомат удирдлагатай тэргэнцэртэй хүн | бор | тэргэнцэр | хүртээмж</annotation>
 		<annotation cp="🧑🏿‍🦼" type="tts">автомат удирдлагатай тэргэнцэртэй хүн: бор</annotation>
+		<annotation cp="🧑‍🦼‍➡">автомат удирдлагатай тэргэнцэртэй хүн | баруун | тийш | тэргэнцэр | харсан | хүртээмж</annotation>
+		<annotation cp="🧑‍🦼‍➡" type="tts">автомат удирдлагатай тэргэнцэртэй хүн: баруун тийш харсан</annotation>
+		<annotation cp="🧑🏻‍🦼‍➡">автомат удирдлагатай тэргэнцэртэй хүн | баруун | тийш | тэргэнцэр | харсан | хүртээмж | цайвар</annotation>
+		<annotation cp="🧑🏻‍🦼‍➡" type="tts">автомат удирдлагатай тэргэнцэртэй хүн: цайвар баруун тийш харсан</annotation>
+		<annotation cp="🧑🏼‍🦼‍➡">автомат удирдлагатай тэргэнцэртэй хүн | бага зэргийн цайвар | баруун | тийш | тэргэнцэр | харсан | хүртээмж</annotation>
+		<annotation cp="🧑🏼‍🦼‍➡" type="tts">автомат удирдлагатай тэргэнцэртэй хүн: бага зэргийн цайвар баруун тийш харсан</annotation>
+		<annotation cp="🧑🏽‍🦼‍➡">автомат удирдлагатай тэргэнцэртэй хүн | баруун | дунд зэргийн | тийш | тэргэнцэр | харсан | хүртээмж</annotation>
+		<annotation cp="🧑🏽‍🦼‍➡" type="tts">автомат удирдлагатай тэргэнцэртэй хүн: дунд зэргийн баруун тийш харсан</annotation>
+		<annotation cp="🧑🏾‍🦼‍➡">автомат удирдлагатай тэргэнцэртэй хүн | баруун | бордуу | тийш | тэргэнцэр | харсан | хүртээмж</annotation>
+		<annotation cp="🧑🏾‍🦼‍➡" type="tts">автомат удирдлагатай тэргэнцэртэй хүн: бордуу баруун тийш харсан</annotation>
+		<annotation cp="🧑🏿‍🦼‍➡">автомат удирдлагатай тэргэнцэртэй хүн | баруун | бор | тийш | тэргэнцэр | харсан | хүртээмж</annotation>
+		<annotation cp="🧑🏿‍🦼‍➡" type="tts">автомат удирдлагатай тэргэнцэртэй хүн: бор баруун тийш харсан</annotation>
 		<annotation cp="👨🏻‍🦼">моторт тэргэнцэртэй эрэгтэй | тэргэнцэр | хөгжлийн бэрхшээл | цайвар | эрэгтэй</annotation>
 		<annotation cp="👨🏻‍🦼" type="tts">моторт тэргэнцэртэй эрэгтэй: цайвар</annotation>
 		<annotation cp="👨🏼‍🦼">бага зэргийн цайвар | моторт тэргэнцэртэй эрэгтэй | тэргэнцэр | хөгжлийн бэрхшээл | эрэгтэй</annotation>
@@ -2626,6 +2917,18 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👨🏾‍🦼" type="tts">моторт тэргэнцэртэй эрэгтэй: бордуу</annotation>
 		<annotation cp="👨🏿‍🦼">бор | моторт тэргэнцэртэй эрэгтэй | тэргэнцэр | хөгжлийн бэрхшээл | эрэгтэй</annotation>
 		<annotation cp="👨🏿‍🦼" type="tts">моторт тэргэнцэртэй эрэгтэй: бор</annotation>
+		<annotation cp="👨‍🦼‍➡">баруун | моторт тэргэнцэртэй эрэгтэй | тийш | тэргэнцэр | харсан | хөгжлийн бэрхшээл | эрэгтэй</annotation>
+		<annotation cp="👨‍🦼‍➡" type="tts">моторт тэргэнцэртэй эрэгтэй: баруун тийш харсан</annotation>
+		<annotation cp="👨🏻‍🦼‍➡">баруун | моторт тэргэнцэртэй эрэгтэй | тийш | тэргэнцэр | харсан | хөгжлийн бэрхшээл | цайвар | эрэгтэй</annotation>
+		<annotation cp="👨🏻‍🦼‍➡" type="tts">моторт тэргэнцэртэй эрэгтэй: цайвар баруун тийш харсан</annotation>
+		<annotation cp="👨🏼‍🦼‍➡">бага зэргийн цайвар | баруун | моторт тэргэнцэртэй эрэгтэй | тийш | тэргэнцэр | харсан | хөгжлийн бэрхшээл | эрэгтэй</annotation>
+		<annotation cp="👨🏼‍🦼‍➡" type="tts">моторт тэргэнцэртэй эрэгтэй: бага зэргийн цайвар баруун тийш харсан</annotation>
+		<annotation cp="👨🏽‍🦼‍➡">баруун | дунд зэргийн | моторт тэргэнцэртэй эрэгтэй | тийш | тэргэнцэр | харсан | хөгжлийн бэрхшээл | эрэгтэй</annotation>
+		<annotation cp="👨🏽‍🦼‍➡" type="tts">моторт тэргэнцэртэй эрэгтэй: дунд зэргийн баруун тийш харсан</annotation>
+		<annotation cp="👨🏾‍🦼‍➡">баруун | бордуу | моторт тэргэнцэртэй эрэгтэй | тийш | тэргэнцэр | харсан | хөгжлийн бэрхшээл | эрэгтэй</annotation>
+		<annotation cp="👨🏾‍🦼‍➡" type="tts">моторт тэргэнцэртэй эрэгтэй: бордуу баруун тийш харсан</annotation>
+		<annotation cp="👨🏿‍🦼‍➡">баруун | бор | моторт тэргэнцэртэй эрэгтэй | тийш | тэргэнцэр | харсан | хөгжлийн бэрхшээл | эрэгтэй</annotation>
+		<annotation cp="👨🏿‍🦼‍➡" type="tts">моторт тэргэнцэртэй эрэгтэй: бор баруун тийш харсан</annotation>
 		<annotation cp="👩🏻‍🦼">моторт тэргэнцэртэй эмэгтэй | тэргэнцэр | хөгжлийн бэрхшээл | цайвар | эмэгтэй</annotation>
 		<annotation cp="👩🏻‍🦼" type="tts">моторт тэргэнцэртэй эмэгтэй: цайвар</annotation>
 		<annotation cp="👩🏼‍🦼">бага зэргийн цайвар | моторт тэргэнцэртэй эмэгтэй | тэргэнцэр | хөгжлийн бэрхшээл | эмэгтэй</annotation>
@@ -2636,6 +2939,18 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👩🏾‍🦼" type="tts">моторт тэргэнцэртэй эмэгтэй: бордуу</annotation>
 		<annotation cp="👩🏿‍🦼">бор | моторт тэргэнцэртэй эмэгтэй | тэргэнцэр | хөгжлийн бэрхшээл | эмэгтэй</annotation>
 		<annotation cp="👩🏿‍🦼" type="tts">моторт тэргэнцэртэй эмэгтэй: бор</annotation>
+		<annotation cp="👩‍🦼‍➡">баруун | моторт тэргэнцэртэй эмэгтэй | тийш | тэргэнцэр | харсан | хөгжлийн бэрхшээл | эмэгтэй</annotation>
+		<annotation cp="👩‍🦼‍➡" type="tts">моторт тэргэнцэртэй эмэгтэй: баруун тийш харсан</annotation>
+		<annotation cp="👩🏻‍🦼‍➡">баруун | моторт тэргэнцэртэй эмэгтэй | тийш | тэргэнцэр | харсан | хөгжлийн бэрхшээл | цайвар | эмэгтэй</annotation>
+		<annotation cp="👩🏻‍🦼‍➡" type="tts">моторт тэргэнцэртэй эмэгтэй: цайвар баруун тийш харсан</annotation>
+		<annotation cp="👩🏼‍🦼‍➡">бага зэргийн цайвар | баруун | моторт тэргэнцэртэй эмэгтэй | тийш | тэргэнцэр | харсан | хөгжлийн бэрхшээл | эмэгтэй</annotation>
+		<annotation cp="👩🏼‍🦼‍➡" type="tts">моторт тэргэнцэртэй эмэгтэй: бага зэргийн цайвар баруун тийш харсан</annotation>
+		<annotation cp="👩🏽‍🦼‍➡">баруун | дунд зэргийн | моторт тэргэнцэртэй эмэгтэй | тийш | тэргэнцэр | харсан | хөгжлийн бэрхшээл | эмэгтэй</annotation>
+		<annotation cp="👩🏽‍🦼‍➡" type="tts">моторт тэргэнцэртэй эмэгтэй: дунд зэргийн баруун тийш харсан</annotation>
+		<annotation cp="👩🏾‍🦼‍➡">баруун | бордуу | моторт тэргэнцэртэй эмэгтэй | тийш | тэргэнцэр | харсан | хөгжлийн бэрхшээл | эмэгтэй</annotation>
+		<annotation cp="👩🏾‍🦼‍➡" type="tts">моторт тэргэнцэртэй эмэгтэй: бордуу баруун тийш харсан</annotation>
+		<annotation cp="👩🏿‍🦼‍➡">баруун | бор | моторт тэргэнцэртэй эмэгтэй | тийш | тэргэнцэр | харсан | хөгжлийн бэрхшээл | эмэгтэй</annotation>
+		<annotation cp="👩🏿‍🦼‍➡" type="tts">моторт тэргэнцэртэй эмэгтэй: бор баруун тийш харсан</annotation>
 		<annotation cp="🧑🏻‍🦽">гар ажиллагаатай тэргэнцэртэй хүн | тэргэнцэр | хүртээмж | цайвар</annotation>
 		<annotation cp="🧑🏻‍🦽" type="tts">гар ажиллагаатай тэргэнцэртэй хүн: цайвар</annotation>
 		<annotation cp="🧑🏼‍🦽">бага зэргийн цайвар | гар ажиллагаатай тэргэнцэртэй хүн | тэргэнцэр | хүртээмж</annotation>
@@ -2646,6 +2961,18 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🧑🏾‍🦽" type="tts">гар ажиллагаатай тэргэнцэртэй хүн: бордуу</annotation>
 		<annotation cp="🧑🏿‍🦽">бор | гар ажиллагаатай тэргэнцэртэй хүн | тэргэнцэр | хүртээмж</annotation>
 		<annotation cp="🧑🏿‍🦽" type="tts">гар ажиллагаатай тэргэнцэртэй хүн: бор</annotation>
+		<annotation cp="🧑‍🦽‍➡">баруун | гар ажиллагаатай тэргэнцэртэй хүн | тийш | тэргэнцэр | харсан | хүртээмж</annotation>
+		<annotation cp="🧑‍🦽‍➡" type="tts">гар ажиллагаатай тэргэнцэртэй хүн: баруун тийш харсан</annotation>
+		<annotation cp="🧑🏻‍🦽‍➡">баруун | гар ажиллагаатай тэргэнцэртэй хүн | тийш | тэргэнцэр | харсан | хүртээмж | цайвар</annotation>
+		<annotation cp="🧑🏻‍🦽‍➡" type="tts">гар ажиллагаатай тэргэнцэртэй хүн: цайвар баруун тийш харсан</annotation>
+		<annotation cp="🧑🏼‍🦽‍➡">бага зэргийн цайвар | баруун | гар ажиллагаатай тэргэнцэртэй хүн | тийш | тэргэнцэр | харсан | хүртээмж</annotation>
+		<annotation cp="🧑🏼‍🦽‍➡" type="tts">гар ажиллагаатай тэргэнцэртэй хүн: бага зэргийн цайвар баруун тийш харсан</annotation>
+		<annotation cp="🧑🏽‍🦽‍➡">баруун | гар ажиллагаатай тэргэнцэртэй хүн | дунд зэргийн | тийш | тэргэнцэр | харсан | хүртээмж</annotation>
+		<annotation cp="🧑🏽‍🦽‍➡" type="tts">гар ажиллагаатай тэргэнцэртэй хүн: дунд зэргийн баруун тийш харсан</annotation>
+		<annotation cp="🧑🏾‍🦽‍➡">баруун | бордуу | гар ажиллагаатай тэргэнцэртэй хүн | тийш | тэргэнцэр | харсан | хүртээмж</annotation>
+		<annotation cp="🧑🏾‍🦽‍➡" type="tts">гар ажиллагаатай тэргэнцэртэй хүн: бордуу баруун тийш харсан</annotation>
+		<annotation cp="🧑🏿‍🦽‍➡">баруун | бор | гар ажиллагаатай тэргэнцэртэй хүн | тийш | тэргэнцэр | харсан | хүртээмж</annotation>
+		<annotation cp="🧑🏿‍🦽‍➡" type="tts">гар ажиллагаатай тэргэнцэртэй хүн: бор баруун тийш харсан</annotation>
 		<annotation cp="👨🏻‍🦽">тэргэнцэр | тэргэнцэртэй эрэгтэй | хөгжлийн бэрхшээл | цайвар | эрэгтэй</annotation>
 		<annotation cp="👨🏻‍🦽" type="tts">тэргэнцэртэй эрэгтэй: цайвар</annotation>
 		<annotation cp="👨🏼‍🦽">бага зэргийн цайвар | тэргэнцэр | тэргэнцэртэй эрэгтэй | хөгжлийн бэрхшээл | эрэгтэй</annotation>
@@ -2656,6 +2983,18 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👨🏾‍🦽" type="tts">тэргэнцэртэй эрэгтэй: бордуу</annotation>
 		<annotation cp="👨🏿‍🦽">бор | тэргэнцэр | тэргэнцэртэй эрэгтэй | хөгжлийн бэрхшээл | эрэгтэй</annotation>
 		<annotation cp="👨🏿‍🦽" type="tts">тэргэнцэртэй эрэгтэй: бор</annotation>
+		<annotation cp="👨‍🦽‍➡">баруун | тийш | тэргэнцэр | тэргэнцэртэй эрэгтэй | харсан | хөгжлийн бэрхшээл | эрэгтэй</annotation>
+		<annotation cp="👨‍🦽‍➡" type="tts">тэргэнцэртэй эрэгтэй: баруун тийш харсан</annotation>
+		<annotation cp="👨🏻‍🦽‍➡">баруун | тийш | тэргэнцэр | тэргэнцэртэй эрэгтэй | харсан | хөгжлийн бэрхшээл | цайвар | эрэгтэй</annotation>
+		<annotation cp="👨🏻‍🦽‍➡" type="tts">тэргэнцэртэй эрэгтэй: цайвар баруун тийш харсан</annotation>
+		<annotation cp="👨🏼‍🦽‍➡">бага зэргийн цайвар | баруун | тийш | тэргэнцэр | тэргэнцэртэй эрэгтэй | харсан | хөгжлийн бэрхшээл | эрэгтэй</annotation>
+		<annotation cp="👨🏼‍🦽‍➡" type="tts">тэргэнцэртэй эрэгтэй: бага зэргийн цайвар баруун тийш харсан</annotation>
+		<annotation cp="👨🏽‍🦽‍➡">баруун | дунд зэргийн | тийш | тэргэнцэр | тэргэнцэртэй эрэгтэй | харсан | хөгжлийн бэрхшээл | эрэгтэй</annotation>
+		<annotation cp="👨🏽‍🦽‍➡" type="tts">тэргэнцэртэй эрэгтэй: дунд зэргийн баруун тийш харсан</annotation>
+		<annotation cp="👨🏾‍🦽‍➡">баруун | бордуу | тийш | тэргэнцэр | тэргэнцэртэй эрэгтэй | харсан | хөгжлийн бэрхшээл | эрэгтэй</annotation>
+		<annotation cp="👨🏾‍🦽‍➡" type="tts">тэргэнцэртэй эрэгтэй: бордуу баруун тийш харсан</annotation>
+		<annotation cp="👨🏿‍🦽‍➡">баруун | бор | тийш | тэргэнцэр | тэргэнцэртэй эрэгтэй | харсан | хөгжлийн бэрхшээл | эрэгтэй</annotation>
+		<annotation cp="👨🏿‍🦽‍➡" type="tts">тэргэнцэртэй эрэгтэй: бор баруун тийш харсан</annotation>
 		<annotation cp="👩🏻‍🦽">тэргэнцэр | тэргэнцэртэй эмэгтэй | хөгжлийн бэрхшээл | цайвар | эмэгтэй</annotation>
 		<annotation cp="👩🏻‍🦽" type="tts">тэргэнцэртэй эмэгтэй: цайвар</annotation>
 		<annotation cp="👩🏼‍🦽">бага зэргийн цайвар | тэргэнцэр | тэргэнцэртэй эмэгтэй | хөгжлийн бэрхшээл | эмэгтэй</annotation>
@@ -2666,6 +3005,18 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👩🏾‍🦽" type="tts">тэргэнцэртэй эмэгтэй: бордуу</annotation>
 		<annotation cp="👩🏿‍🦽">бор | тэргэнцэр | тэргэнцэртэй эмэгтэй | хөгжлийн бэрхшээл | эмэгтэй</annotation>
 		<annotation cp="👩🏿‍🦽" type="tts">тэргэнцэртэй эмэгтэй: бор</annotation>
+		<annotation cp="👩‍🦽‍➡">баруун | тийш | тэргэнцэр | тэргэнцэртэй эмэгтэй | харсан | хөгжлийн бэрхшээл | эмэгтэй</annotation>
+		<annotation cp="👩‍🦽‍➡" type="tts">тэргэнцэртэй эмэгтэй: баруун тийш харсан</annotation>
+		<annotation cp="👩🏻‍🦽‍➡">баруун | тийш | тэргэнцэр | тэргэнцэртэй эмэгтэй | харсан | хөгжлийн бэрхшээл | цайвар | эмэгтэй</annotation>
+		<annotation cp="👩🏻‍🦽‍➡" type="tts">тэргэнцэртэй эмэгтэй: цайвар баруун тийш харсан</annotation>
+		<annotation cp="👩🏼‍🦽‍➡">бага зэргийн цайвар | баруун | тийш | тэргэнцэр | тэргэнцэртэй эмэгтэй | харсан | хөгжлийн бэрхшээл | эмэгтэй</annotation>
+		<annotation cp="👩🏼‍🦽‍➡" type="tts">тэргэнцэртэй эмэгтэй: бага зэргийн цайвар баруун тийш харсан</annotation>
+		<annotation cp="👩🏽‍🦽‍➡">баруун | дунд зэргийн | тийш | тэргэнцэр | тэргэнцэртэй эмэгтэй | харсан | хөгжлийн бэрхшээл | эмэгтэй</annotation>
+		<annotation cp="👩🏽‍🦽‍➡" type="tts">тэргэнцэртэй эмэгтэй: дунд зэргийн баруун тийш харсан</annotation>
+		<annotation cp="👩🏾‍🦽‍➡">баруун | бордуу | тийш | тэргэнцэр | тэргэнцэртэй эмэгтэй | харсан | хөгжлийн бэрхшээл | эмэгтэй</annotation>
+		<annotation cp="👩🏾‍🦽‍➡" type="tts">тэргэнцэртэй эмэгтэй: бордуу баруун тийш харсан</annotation>
+		<annotation cp="👩🏿‍🦽‍➡">баруун | бор | тийш | тэргэнцэр | тэргэнцэртэй эмэгтэй | харсан | хөгжлийн бэрхшээл | эмэгтэй</annotation>
+		<annotation cp="👩🏿‍🦽‍➡" type="tts">тэргэнцэртэй эмэгтэй: бор баруун тийш харсан</annotation>
 		<annotation cp="🏃🏻">гүйж байгаа хүн | гүйх | хүн | цайвар</annotation>
 		<annotation cp="🏃🏻" type="tts">гүйж байгаа хүн: цайвар</annotation>
 		<annotation cp="🏃🏼">бага зэргийн цайвар | гүйж байгаа хүн | гүйх | хүн</annotation>
@@ -2696,6 +3047,42 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🏃🏾‍♀" type="tts">гүйж буй эмэгтэй: бордуу</annotation>
 		<annotation cp="🏃🏿‍♀">бор | гүйж буй эмэгтэй | марафон | уралдаан | эм | эмэгтэй</annotation>
 		<annotation cp="🏃🏿‍♀" type="tts">гүйж буй эмэгтэй: бор</annotation>
+		<annotation cp="🏃‍➡">баруун | гүйж байгаа хүн | гүйх | тийш | харсан | хүн</annotation>
+		<annotation cp="🏃‍➡" type="tts">гүйж байгаа хүн: баруун тийш харсан</annotation>
+		<annotation cp="🏃🏻‍➡">баруун | гүйж байгаа хүн | гүйх | тийш | харсан | хүн | цайвар</annotation>
+		<annotation cp="🏃🏻‍➡" type="tts">гүйж байгаа хүн: цайвар баруун тийш харсан</annotation>
+		<annotation cp="🏃🏼‍➡">бага зэргийн цайвар | баруун | гүйж байгаа хүн | гүйх | тийш | харсан | хүн</annotation>
+		<annotation cp="🏃🏼‍➡" type="tts">гүйж байгаа хүн: бага зэргийн цайвар баруун тийш харсан</annotation>
+		<annotation cp="🏃🏽‍➡">баруун | гүйж байгаа хүн | гүйх | дунд зэргийн | тийш | харсан | хүн</annotation>
+		<annotation cp="🏃🏽‍➡" type="tts">гүйж байгаа хүн: дунд зэргийн баруун тийш харсан</annotation>
+		<annotation cp="🏃🏾‍➡">баруун | бордуу | гүйж байгаа хүн | гүйх | тийш | харсан | хүн</annotation>
+		<annotation cp="🏃🏾‍➡" type="tts">гүйж байгаа хүн: бордуу баруун тийш харсан</annotation>
+		<annotation cp="🏃🏿‍➡">баруун | бор | гүйж байгаа хүн | гүйх | тийш | харсан | хүн</annotation>
+		<annotation cp="🏃🏿‍➡" type="tts">гүйж байгаа хүн: бор баруун тийш харсан</annotation>
+		<annotation cp="🏃‍♀‍➡">баруун | гүйж буй эмэгтэй | марафон | тийш | уралдаан | харсан | эм | эмэгтэй</annotation>
+		<annotation cp="🏃‍♀‍➡" type="tts">гүйж буй эмэгтэй: баруун тийш харсан</annotation>
+		<annotation cp="🏃🏻‍♀‍➡">баруун | гүйж буй эмэгтэй | марафон | тийш | уралдаан | харсан | цайвар | эм | эмэгтэй</annotation>
+		<annotation cp="🏃🏻‍♀‍➡" type="tts">гүйж буй эмэгтэй: цайвар баруун тийш харсан</annotation>
+		<annotation cp="🏃🏼‍♀‍➡">бага зэргийн цайвар | баруун | гүйж буй эмэгтэй | марафон | тийш | уралдаан | харсан | эм | эмэгтэй</annotation>
+		<annotation cp="🏃🏼‍♀‍➡" type="tts">гүйж буй эмэгтэй: бага зэргийн цайвар баруун тийш харсан</annotation>
+		<annotation cp="🏃🏽‍♀‍➡">баруун | гүйж буй эмэгтэй | дунд зэргийн | марафон | тийш | уралдаан | харсан | эм | эмэгтэй</annotation>
+		<annotation cp="🏃🏽‍♀‍➡" type="tts">гүйж буй эмэгтэй: дунд зэргийн баруун тийш харсан</annotation>
+		<annotation cp="🏃🏾‍♀‍➡">баруун | бордуу | гүйж буй эмэгтэй | марафон | тийш | уралдаан | харсан | эм | эмэгтэй</annotation>
+		<annotation cp="🏃🏾‍♀‍➡" type="tts">гүйж буй эмэгтэй: бордуу баруун тийш харсан</annotation>
+		<annotation cp="🏃🏿‍♀‍➡">баруун | бор | гүйж буй эмэгтэй | марафон | тийш | уралдаан | харсан | эм | эмэгтэй</annotation>
+		<annotation cp="🏃🏿‍♀‍➡" type="tts">гүйж буй эмэгтэй: бор баруун тийш харсан</annotation>
+		<annotation cp="🏃‍♂‍➡">баруун | гүйж буй эрэгтэй | гүйх | марафон | тийш | уралдаан | харсан | эрэгтэй</annotation>
+		<annotation cp="🏃‍♂‍➡" type="tts">гүйж буй эрэгтэй: баруун тийш харсан</annotation>
+		<annotation cp="🏃🏻‍♂‍➡">баруун | гүйж буй эрэгтэй | гүйх | марафон | тийш | уралдаан | харсан | цайвар | эрэгтэй</annotation>
+		<annotation cp="🏃🏻‍♂‍➡" type="tts">гүйж буй эрэгтэй: цайвар баруун тийш харсан</annotation>
+		<annotation cp="🏃🏼‍♂‍➡">бага зэргийн цайвар | баруун | гүйж буй эрэгтэй | гүйх | марафон | тийш | уралдаан | харсан | эрэгтэй</annotation>
+		<annotation cp="🏃🏼‍♂‍➡" type="tts">гүйж буй эрэгтэй: бага зэргийн цайвар баруун тийш харсан</annotation>
+		<annotation cp="🏃🏽‍♂‍➡">баруун | гүйж буй эрэгтэй | гүйх | дунд зэргийн | марафон | тийш | уралдаан | харсан | эрэгтэй</annotation>
+		<annotation cp="🏃🏽‍♂‍➡" type="tts">гүйж буй эрэгтэй: дунд зэргийн баруун тийш харсан</annotation>
+		<annotation cp="🏃🏾‍♂‍➡">баруун | бордуу | гүйж буй эрэгтэй | гүйх | марафон | тийш | уралдаан | харсан | эрэгтэй</annotation>
+		<annotation cp="🏃🏾‍♂‍➡" type="tts">гүйж буй эрэгтэй: бордуу баруун тийш харсан</annotation>
+		<annotation cp="🏃🏿‍♂‍➡">баруун | бор | гүйж буй эрэгтэй | гүйх | марафон | тийш | уралдаан | харсан | эрэгтэй</annotation>
+		<annotation cp="🏃🏿‍♂‍➡" type="tts">гүйж буй эрэгтэй: бор баруун тийш харсан</annotation>
 		<annotation cp="💃🏻">бүжиг | бүжигчин | даашинз | цайвар | эмэгтэй</annotation>
 		<annotation cp="💃🏻" type="tts">бүжигчин: цайвар</annotation>
 		<annotation cp="💃🏼">бага зэргийн цайвар | бүжиг | бүжигчин | даашинз | эмэгтэй</annotation>
@@ -2986,15 +3373,15 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🏋🏾‍♀" type="tts">хүндийн өргөгч эмэгтэй: бордуу</annotation>
 		<annotation cp="🏋🏿‍♀">бор | хүнд жин өргөлт | хүндийн өргөгч эмэгтэй | эмэгтэй</annotation>
 		<annotation cp="🏋🏿‍♀" type="tts">хүндийн өргөгч эмэгтэй: бор</annotation>
-		<annotation cp="🚴🏻">дугуйчин | дугүй | цайвар</annotation>
+		<annotation cp="🚴🏻">дугуй | дугуй унаж буй хүн | дугуй унах | дугуйчин | цайвар</annotation>
 		<annotation cp="🚴🏻" type="tts">дугуйчин: цайвар</annotation>
-		<annotation cp="🚴🏼">бага зэргийн цайвар | дугуйчин | дугүй</annotation>
+		<annotation cp="🚴🏼">бага зэргийн цайвар | дугуй | дугуй унаж буй хүн | дугуй унах | дугуйчин</annotation>
 		<annotation cp="🚴🏼" type="tts">дугуйчин: бага зэргийн цайвар</annotation>
-		<annotation cp="🚴🏽">дугуйчин | дугүй | дунд зэргийн</annotation>
+		<annotation cp="🚴🏽">дугуй | дугуй унаж буй хүн | дугуй унах | дугуйчин | дунд зэргийн</annotation>
 		<annotation cp="🚴🏽" type="tts">дугуйчин: дунд зэргийн</annotation>
-		<annotation cp="🚴🏾">бордуу | дугуйчин | дугүй</annotation>
+		<annotation cp="🚴🏾">бордуу | дугуй | дугуй унаж буй хүн | дугуй унах | дугуйчин</annotation>
 		<annotation cp="🚴🏾" type="tts">дугуйчин: бордуу</annotation>
-		<annotation cp="🚴🏿">бор | дугуйчин | дугүй</annotation>
+		<annotation cp="🚴🏿">бор | дугуй | дугуй унаж буй хүн | дугуй унах | дугуйчин</annotation>
 		<annotation cp="🚴🏿" type="tts">дугуйчин: бор</annotation>
 		<annotation cp="🚴🏻‍♂">дугуй | дугуй унаж буй эрэгтэй | дугуй унах | дугуйчин | цайвар | эрэгтэй</annotation>
 		<annotation cp="🚴🏻‍♂" type="tts">дугуй унаж буй эрэгтэй: цайвар</annotation>
@@ -3106,15 +3493,15 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🤽🏾‍♀" type="tts">усан поло тоглох эмэгтэй: бордуу</annotation>
 		<annotation cp="🤽🏿‍♀">бор | спорт | усан поло | усан поло тоглох эмэгтэй | хүн | эмэгтэй</annotation>
 		<annotation cp="🤽🏿‍♀" type="tts">усан поло тоглох эмэгтэй: бор</annotation>
-		<annotation cp="🤾🏻">бөмбөг | гар | гар бөмбөг тоглож буй хүн | спорт | хүн | цайвар</annotation>
+		<annotation cp="🤾🏻">бөмбөг | гар бөмбөг тоглож буй хүн | цайвар</annotation>
 		<annotation cp="🤾🏻" type="tts">гар бөмбөг тоглож буй хүн: цайвар</annotation>
-		<annotation cp="🤾🏼">бага зэргийн цайвар | бөмбөг | гар | гар бөмбөг тоглож буй хүн | спорт | хүн</annotation>
+		<annotation cp="🤾🏼">бага зэргийн цайвар | бөмбөг | гар бөмбөг тоглож буй хүн</annotation>
 		<annotation cp="🤾🏼" type="tts">гар бөмбөг тоглож буй хүн: бага зэргийн цайвар</annotation>
-		<annotation cp="🤾🏽">бөмбөг | гар | гар бөмбөг тоглож буй хүн | дунд зэргийн | спорт | хүн</annotation>
+		<annotation cp="🤾🏽">бөмбөг | гар бөмбөг тоглож буй хүн | дунд зэргийн</annotation>
 		<annotation cp="🤾🏽" type="tts">гар бөмбөг тоглож буй хүн: дунд зэргийн</annotation>
-		<annotation cp="🤾🏾">бордуу | бөмбөг | гар | гар бөмбөг тоглож буй хүн | спорт | хүн</annotation>
+		<annotation cp="🤾🏾">бордуу | бөмбөг | гар бөмбөг тоглож буй хүн</annotation>
 		<annotation cp="🤾🏾" type="tts">гар бөмбөг тоглож буй хүн: бордуу</annotation>
-		<annotation cp="🤾🏿">бор | бөмбөг | гар | гар бөмбөг тоглож буй хүн | спорт | хүн</annotation>
+		<annotation cp="🤾🏿">бор | бөмбөг | гар бөмбөг тоглож буй хүн</annotation>
 		<annotation cp="🤾🏿" type="tts">гар бөмбөг тоглож буй хүн: бор</annotation>
 		<annotation cp="🤾🏻‍♂">гар бөмбөг | гар бөмбөг тоглох эрэгтэй | спорт | цайвар | эрэгтэй</annotation>
 		<annotation cp="🤾🏻‍♂" type="tts">гар бөмбөг тоглох эрэгтэй: цайвар</annotation>
@@ -3206,15 +3593,15 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🛀🏾" type="tts">усанд орж байгаа хүн: бордуу</annotation>
 		<annotation cp="🛀🏿">бор | орох | ус | усанд орж байгаа хүн | хүн</annotation>
 		<annotation cp="🛀🏿" type="tts">усанд орж байгаа хүн: бор</annotation>
-		<annotation cp="🛌🏻">зочид буудал | ор | орондоо байгаа хүн | унтах | хүн | цайвар</annotation>
+		<annotation cp="🛌🏻">зочид буудал | орондоо байгаа хүн | унтах | цайвар</annotation>
 		<annotation cp="🛌🏻" type="tts">орондоо байгаа хүн: цайвар</annotation>
-		<annotation cp="🛌🏼">бага зэргийн цайвар | зочид буудал | ор | орондоо байгаа хүн | унтах | хүн</annotation>
+		<annotation cp="🛌🏼">бага зэргийн цайвар | зочид буудал | орондоо байгаа хүн | унтах</annotation>
 		<annotation cp="🛌🏼" type="tts">орондоо байгаа хүн: бага зэргийн цайвар</annotation>
-		<annotation cp="🛌🏽">дунд зэргийн | зочид буудал | ор | орондоо байгаа хүн | унтах | хүн</annotation>
+		<annotation cp="🛌🏽">дунд зэргийн | зочид буудал | орондоо байгаа хүн | унтах</annotation>
 		<annotation cp="🛌🏽" type="tts">орондоо байгаа хүн: дунд зэргийн</annotation>
-		<annotation cp="🛌🏾">бордуу | зочид буудал | ор | орондоо байгаа хүн | унтах | хүн</annotation>
+		<annotation cp="🛌🏾">бордуу | зочид буудал | орондоо байгаа хүн | унтах</annotation>
 		<annotation cp="🛌🏾" type="tts">орондоо байгаа хүн: бордуу</annotation>
-		<annotation cp="🛌🏿">бор | зочид буудал | ор | орондоо байгаа хүн | унтах | хүн</annotation>
+		<annotation cp="🛌🏿">бор | зочид буудал | орондоо байгаа хүн | унтах</annotation>
 		<annotation cp="🛌🏿" type="tts">орондоо байгаа хүн: бор</annotation>
 		<annotation cp="🧑🏻‍🤝‍🧑🏻">барих | гар | гар барилцаж буй хүмүүс | хосууд | хүн | цайвар</annotation>
 		<annotation cp="🧑🏻‍🤝‍🧑🏻" type="tts">гар барилцаж буй хүмүүс: цайвар</annotation>
@@ -3432,71 +3819,71 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👨‍❤‍💋‍👨" type="tts">үнсэлт: эрэгтэй хүн эрэгтэй хүн</annotation>
 		<annotation cp="👩‍❤‍💋‍👩">үнсэлт | хос | эмэгтэй хүн</annotation>
 		<annotation cp="👩‍❤‍💋‍👩" type="tts">үнсэлт: эмэгтэй хүн эмэгтэй хүн</annotation>
-		<annotation cp="💑🏻">дунд | дундаа зүрхтэй хосууд | зүрх | хайр | хос | цайвар</annotation>
+		<annotation cp="💑🏻">дундаа зүрхтэй хосууд | хайр | хос | цайвар</annotation>
 		<annotation cp="💑🏻" type="tts">дундаа зүрхтэй хосууд: цайвар</annotation>
-		<annotation cp="💑🏼">бага зэргийн цайвар | дунд | дундаа зүрхтэй хосууд | зүрх | хайр | хос</annotation>
+		<annotation cp="💑🏼">бага зэргийн цайвар | дундаа зүрхтэй хосууд | хайр | хос</annotation>
 		<annotation cp="💑🏼" type="tts">дундаа зүрхтэй хосууд: бага зэргийн цайвар</annotation>
-		<annotation cp="💑🏽">дунд | дунд зэргийн | дундаа зүрхтэй хосууд | зүрх | хайр | хос</annotation>
+		<annotation cp="💑🏽">дунд зэргийн | дундаа зүрхтэй хосууд | хайр | хос</annotation>
 		<annotation cp="💑🏽" type="tts">дундаа зүрхтэй хосууд: дунд зэргийн</annotation>
-		<annotation cp="💑🏾">бордуу | дунд | дундаа зүрхтэй хосууд | зүрх | хайр | хос</annotation>
+		<annotation cp="💑🏾">бордуу | дундаа зүрхтэй хосууд | хайр | хос</annotation>
 		<annotation cp="💑🏾" type="tts">дундаа зүрхтэй хосууд: бордуу</annotation>
-		<annotation cp="💑🏿">бор | дунд | дундаа зүрхтэй хосууд | зүрх | хайр | хос</annotation>
+		<annotation cp="💑🏿">бор | дундаа зүрхтэй хосууд | хайр | хос</annotation>
 		<annotation cp="💑🏿" type="tts">дундаа зүрхтэй хосууд: бор</annotation>
-		<annotation cp="👩‍❤‍👨">дунд | дундаа зүрхтэй хосууд | зүрх | хайр | хос | эмэгтэй хүн | эрэгтэй хүн</annotation>
+		<annotation cp="👩‍❤‍👨">дундаа зүрхтэй хосууд | хайр | хос | эмэгтэй хүн | эрэгтэй хүн</annotation>
 		<annotation cp="👩‍❤‍👨" type="tts">дундаа зүрхтэй хосууд: эмэгтэй хүн эрэгтэй хүн</annotation>
-		<annotation cp="👨‍❤‍👨">дунд | дундаа зүрхтэй хосууд | зүрх | хайр | хос | эрэгтэй хүн</annotation>
+		<annotation cp="👨‍❤‍👨">дундаа зүрхтэй хосууд | хайр | хос | эрэгтэй хүн</annotation>
 		<annotation cp="👨‍❤‍👨" type="tts">дундаа зүрхтэй хосууд: эрэгтэй хүн эрэгтэй хүн</annotation>
-		<annotation cp="👩‍❤‍👩">дунд | дундаа зүрхтэй хосууд | зүрх | хайр | хос | эмэгтэй хүн</annotation>
+		<annotation cp="👩‍❤‍👩">дундаа зүрхтэй хосууд | хайр | хос | эмэгтэй хүн</annotation>
 		<annotation cp="👩‍❤‍👩" type="tts">дундаа зүрхтэй хосууд: эмэгтэй хүн эмэгтэй хүн</annotation>
-		<annotation cp="👨‍👩‍👦">аав | гэр бүл | хүү | эмэгтэй хүн | эрэгтэй хүн | эрэгтэй хүүхэд | ээж</annotation>
+		<annotation cp="👨‍👩‍👦">гэр бүл | эмэгтэй хүн | эрэгтэй хүн | эрэгтэй хүүхэд</annotation>
 		<annotation cp="👨‍👩‍👦" type="tts">гэр бүл: эрэгтэй хүн эмэгтэй хүн эрэгтэй хүүхэд</annotation>
-		<annotation cp="👨‍👩‍👧">аав | гэр бүл | хүү | эмэгтэй хүн | эмэгтэй хүүхэд | эрэгтэй хүн | ээж</annotation>
+		<annotation cp="👨‍👩‍👧">гэр бүл | эмэгтэй хүн | эмэгтэй хүүхэд | эрэгтэй хүн</annotation>
 		<annotation cp="👨‍👩‍👧" type="tts">гэр бүл: эрэгтэй хүн эмэгтэй хүн эмэгтэй хүүхэд</annotation>
-		<annotation cp="👨‍👩‍👧‍👦">аав | гэр бүл | хүү | эмэгтэй хүн | эмэгтэй хүүхэд | эрэгтэй хүн | эрэгтэй хүүхэд | ээж</annotation>
+		<annotation cp="👨‍👩‍👧‍👦">гэр бүл | эмэгтэй хүн | эмэгтэй хүүхэд | эрэгтэй хүн | эрэгтэй хүүхэд</annotation>
 		<annotation cp="👨‍👩‍👧‍👦" type="tts">гэр бүл: эрэгтэй хүн эмэгтэй хүн эмэгтэй хүүхэд эрэгтэй хүүхэд</annotation>
-		<annotation cp="👨‍👩‍👦‍👦">аав | гэр бүл | хүү | эмэгтэй хүн | эрэгтэй хүн | эрэгтэй хүүхэд | ээж</annotation>
+		<annotation cp="👨‍👩‍👦‍👦">гэр бүл | эмэгтэй хүн | эрэгтэй хүн | эрэгтэй хүүхэд</annotation>
 		<annotation cp="👨‍👩‍👦‍👦" type="tts">гэр бүл: эрэгтэй хүн эмэгтэй хүн эрэгтэй хүүхэд эрэгтэй хүүхэд</annotation>
-		<annotation cp="👨‍👩‍👧‍👧">аав | гэр бүл | хүү | эмэгтэй хүн | эмэгтэй хүүхэд | эрэгтэй хүн | ээж</annotation>
+		<annotation cp="👨‍👩‍👧‍👧">гэр бүл | эмэгтэй хүн | эмэгтэй хүүхэд | эрэгтэй хүн</annotation>
 		<annotation cp="👨‍👩‍👧‍👧" type="tts">гэр бүл: эрэгтэй хүн эмэгтэй хүн эмэгтэй хүүхэд эмэгтэй хүүхэд</annotation>
-		<annotation cp="👨‍👨‍👦">аав | гэр бүл | хүү | эрэгтэй хүн | эрэгтэй хүүхэд | ээж</annotation>
+		<annotation cp="👨‍👨‍👦">гэр бүл | эрэгтэй хүн | эрэгтэй хүүхэд</annotation>
 		<annotation cp="👨‍👨‍👦" type="tts">гэр бүл: эрэгтэй хүн эрэгтэй хүн эрэгтэй хүүхэд</annotation>
-		<annotation cp="👨‍👨‍👧">аав | гэр бүл | хүү | эмэгтэй хүүхэд | эрэгтэй хүн | ээж</annotation>
+		<annotation cp="👨‍👨‍👧">гэр бүл | эмэгтэй хүүхэд | эрэгтэй хүн</annotation>
 		<annotation cp="👨‍👨‍👧" type="tts">гэр бүл: эрэгтэй хүн эрэгтэй хүн эмэгтэй хүүхэд</annotation>
-		<annotation cp="👨‍👨‍👧‍👦">аав | гэр бүл | хүү | эмэгтэй хүүхэд | эрэгтэй хүн | эрэгтэй хүүхэд | ээж</annotation>
+		<annotation cp="👨‍👨‍👧‍👦">гэр бүл | эмэгтэй хүүхэд | эрэгтэй хүн | эрэгтэй хүүхэд</annotation>
 		<annotation cp="👨‍👨‍👧‍👦" type="tts">гэр бүл: эрэгтэй хүн эрэгтэй хүн эмэгтэй хүүхэд эрэгтэй хүүхэд</annotation>
-		<annotation cp="👨‍👨‍👦‍👦">аав | гэр бүл | хүү | эрэгтэй хүн | эрэгтэй хүүхэд | ээж</annotation>
+		<annotation cp="👨‍👨‍👦‍👦">гэр бүл | эрэгтэй хүн | эрэгтэй хүүхэд</annotation>
 		<annotation cp="👨‍👨‍👦‍👦" type="tts">гэр бүл: эрэгтэй хүн эрэгтэй хүн эрэгтэй хүүхэд эрэгтэй хүүхэд</annotation>
-		<annotation cp="👨‍👨‍👧‍👧">аав | гэр бүл | хүү | эмэгтэй хүүхэд | эрэгтэй хүн | ээж</annotation>
+		<annotation cp="👨‍👨‍👧‍👧">гэр бүл | эмэгтэй хүүхэд | эрэгтэй хүн</annotation>
 		<annotation cp="👨‍👨‍👧‍👧" type="tts">гэр бүл: эрэгтэй хүн эрэгтэй хүн эмэгтэй хүүхэд эмэгтэй хүүхэд</annotation>
-		<annotation cp="👩‍👩‍👦">аав | гэр бүл | хүү | эмэгтэй хүн | эрэгтэй хүүхэд | ээж</annotation>
+		<annotation cp="👩‍👩‍👦">гэр бүл | эмэгтэй хүн | эрэгтэй хүүхэд</annotation>
 		<annotation cp="👩‍👩‍👦" type="tts">гэр бүл: эмэгтэй хүн эмэгтэй хүн эрэгтэй хүүхэд</annotation>
-		<annotation cp="👩‍👩‍👧">аав | гэр бүл | хүү | эмэгтэй хүн | эмэгтэй хүүхэд | ээж</annotation>
+		<annotation cp="👩‍👩‍👧">гэр бүл | эмэгтэй хүн | эмэгтэй хүүхэд</annotation>
 		<annotation cp="👩‍👩‍👧" type="tts">гэр бүл: эмэгтэй хүн эмэгтэй хүн эмэгтэй хүүхэд</annotation>
-		<annotation cp="👩‍👩‍👧‍👦">аав | гэр бүл | хүү | эмэгтэй хүн | эмэгтэй хүүхэд | эрэгтэй хүүхэд | ээж</annotation>
+		<annotation cp="👩‍👩‍👧‍👦">гэр бүл | эмэгтэй хүн | эмэгтэй хүүхэд | эрэгтэй хүүхэд</annotation>
 		<annotation cp="👩‍👩‍👧‍👦" type="tts">гэр бүл: эмэгтэй хүн эмэгтэй хүн эмэгтэй хүүхэд эрэгтэй хүүхэд</annotation>
-		<annotation cp="👩‍👩‍👦‍👦">аав | гэр бүл | хүү | эмэгтэй хүн | эрэгтэй хүүхэд | ээж</annotation>
+		<annotation cp="👩‍👩‍👦‍👦">гэр бүл | эмэгтэй хүн | эрэгтэй хүүхэд</annotation>
 		<annotation cp="👩‍👩‍👦‍👦" type="tts">гэр бүл: эмэгтэй хүн эмэгтэй хүн эрэгтэй хүүхэд эрэгтэй хүүхэд</annotation>
-		<annotation cp="👩‍👩‍👧‍👧">аав | гэр бүл | хүү | эмэгтэй хүн | эмэгтэй хүүхэд | ээж</annotation>
+		<annotation cp="👩‍👩‍👧‍👧">гэр бүл | эмэгтэй хүн | эмэгтэй хүүхэд</annotation>
 		<annotation cp="👩‍👩‍👧‍👧" type="tts">гэр бүл: эмэгтэй хүн эмэгтэй хүн эмэгтэй хүүхэд эмэгтэй хүүхэд</annotation>
-		<annotation cp="👨‍👦">аав | гэр бүл | хүү | эрэгтэй хүн | эрэгтэй хүүхэд | ээж</annotation>
+		<annotation cp="👨‍👦">гэр бүл | эрэгтэй хүн | эрэгтэй хүүхэд</annotation>
 		<annotation cp="👨‍👦" type="tts">гэр бүл: эрэгтэй хүн эрэгтэй хүүхэд</annotation>
-		<annotation cp="👨‍👦‍👦">аав | гэр бүл | хүү | эрэгтэй хүн | эрэгтэй хүүхэд | ээж</annotation>
+		<annotation cp="👨‍👦‍👦">гэр бүл | эрэгтэй хүн | эрэгтэй хүүхэд</annotation>
 		<annotation cp="👨‍👦‍👦" type="tts">гэр бүл: эрэгтэй хүн эрэгтэй хүүхэд эрэгтэй хүүхэд</annotation>
-		<annotation cp="👨‍👧">аав | гэр бүл | хүү | эмэгтэй хүүхэд | эрэгтэй хүн | ээж</annotation>
+		<annotation cp="👨‍👧">гэр бүл | эмэгтэй хүүхэд | эрэгтэй хүн</annotation>
 		<annotation cp="👨‍👧" type="tts">гэр бүл: эрэгтэй хүн эмэгтэй хүүхэд</annotation>
-		<annotation cp="👨‍👧‍👦">аав | гэр бүл | хүү | эмэгтэй хүүхэд | эрэгтэй хүн | эрэгтэй хүүхэд | ээж</annotation>
+		<annotation cp="👨‍👧‍👦">гэр бүл | эмэгтэй хүүхэд | эрэгтэй хүн | эрэгтэй хүүхэд</annotation>
 		<annotation cp="👨‍👧‍👦" type="tts">гэр бүл: эрэгтэй хүн эмэгтэй хүүхэд эрэгтэй хүүхэд</annotation>
-		<annotation cp="👨‍👧‍👧">аав | гэр бүл | хүү | эмэгтэй хүүхэд | эрэгтэй хүн | ээж</annotation>
+		<annotation cp="👨‍👧‍👧">гэр бүл | эмэгтэй хүүхэд | эрэгтэй хүн</annotation>
 		<annotation cp="👨‍👧‍👧" type="tts">гэр бүл: эрэгтэй хүн эмэгтэй хүүхэд эмэгтэй хүүхэд</annotation>
-		<annotation cp="👩‍👦">аав | гэр бүл | хүү | эмэгтэй хүн | эрэгтэй хүүхэд | ээж</annotation>
+		<annotation cp="👩‍👦">гэр бүл | эмэгтэй хүн | эрэгтэй хүүхэд</annotation>
 		<annotation cp="👩‍👦" type="tts">гэр бүл: эмэгтэй хүн эрэгтэй хүүхэд</annotation>
-		<annotation cp="👩‍👦‍👦">аав | гэр бүл | хүү | эмэгтэй хүн | эрэгтэй хүүхэд | ээж</annotation>
+		<annotation cp="👩‍👦‍👦">гэр бүл | эмэгтэй хүн | эрэгтэй хүүхэд</annotation>
 		<annotation cp="👩‍👦‍👦" type="tts">гэр бүл: эмэгтэй хүн эрэгтэй хүүхэд эрэгтэй хүүхэд</annotation>
-		<annotation cp="👩‍👧">аав | гэр бүл | хүү | эмэгтэй хүн | эмэгтэй хүүхэд | ээж</annotation>
+		<annotation cp="👩‍👧">гэр бүл | эмэгтэй хүн | эмэгтэй хүүхэд</annotation>
 		<annotation cp="👩‍👧" type="tts">гэр бүл: эмэгтэй хүн эмэгтэй хүүхэд</annotation>
-		<annotation cp="👩‍👧‍👦">аав | гэр бүл | хүү | эмэгтэй хүн | эмэгтэй хүүхэд | эрэгтэй хүүхэд | ээж</annotation>
+		<annotation cp="👩‍👧‍👦">гэр бүл | эмэгтэй хүн | эмэгтэй хүүхэд | эрэгтэй хүүхэд</annotation>
 		<annotation cp="👩‍👧‍👦" type="tts">гэр бүл: эмэгтэй хүн эмэгтэй хүүхэд эрэгтэй хүүхэд</annotation>
-		<annotation cp="👩‍👧‍👧">аав | гэр бүл | хүү | эмэгтэй хүн | эмэгтэй хүүхэд | ээж</annotation>
+		<annotation cp="👩‍👧‍👧">гэр бүл | эмэгтэй хүн | эмэгтэй хүүхэд</annotation>
 		<annotation cp="👩‍👧‍👧" type="tts">гэр бүл: эмэгтэй хүн эмэгтэй хүүхэд эмэгтэй хүүхэд</annotation>
 		<annotation cp="#⃣">түлхүүрийн гэр</annotation>
 		<annotation cp="#⃣" type="tts">түлхүүрийн гэр: #</annotation>
@@ -3509,7 +3896,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🇦🇩">туг</annotation>
 		<annotation cp="🇦🇩" type="tts">туг: Андорра</annotation>
 		<annotation cp="🇦🇪">туг</annotation>
-		<annotation cp="🇦🇪" type="tts">туг: Арабын Нэгдсэн Эмирт Улс</annotation>
+		<annotation cp="🇦🇪" type="tts">туг: Арабын Нэгдсэн Эмират Улс</annotation>
 		<annotation cp="🇦🇫">туг</annotation>
 		<annotation cp="🇦🇫" type="tts">туг: Афганистан</annotation>
 		<annotation cp="🇦🇬">туг</annotation>
@@ -3539,7 +3926,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🇦🇿">туг</annotation>
 		<annotation cp="🇦🇿" type="tts">туг: Азербайжан</annotation>
 		<annotation cp="🇧🇦">туг</annotation>
-		<annotation cp="🇧🇦" type="tts">туг: Босни-Герцеговин</annotation>
+		<annotation cp="🇧🇦" type="tts">туг: Босни-Херцеговин</annotation>
 		<annotation cp="🇧🇧">туг</annotation>
 		<annotation cp="🇧🇧" type="tts">туг: Барбадос</annotation>
 		<annotation cp="🇧🇩">туг</annotation>
@@ -3591,7 +3978,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🇨🇬">туг</annotation>
 		<annotation cp="🇨🇬" type="tts">туг: Конго-Браззавиль</annotation>
 		<annotation cp="🇨🇭">туг</annotation>
-		<annotation cp="🇨🇭" type="tts">туг: Швейцарь</annotation>
+		<annotation cp="🇨🇭" type="tts">туг: Швейцар</annotation>
 		<annotation cp="🇨🇮">туг</annotation>
 		<annotation cp="🇨🇮" type="tts">туг: Кот-д’Ивуар</annotation>
 		<annotation cp="🇨🇰">туг</annotation>
@@ -3653,7 +4040,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🇪🇺">туг</annotation>
 		<annotation cp="🇪🇺" type="tts">туг: Европын Холбоо</annotation>
 		<annotation cp="🇫🇮">туг</annotation>
-		<annotation cp="🇫🇮" type="tts">туг: Финлянд</annotation>
+		<annotation cp="🇫🇮" type="tts">туг: Финланд</annotation>
 		<annotation cp="🇫🇯">туг</annotation>
 		<annotation cp="🇫🇯" type="tts">туг: Фижи</annotation>
 		<annotation cp="🇫🇰">туг</annotation>
@@ -3703,7 +4090,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🇬🇾">туг</annotation>
 		<annotation cp="🇬🇾" type="tts">туг: Гайана</annotation>
 		<annotation cp="🇭🇰">туг</annotation>
-		<annotation cp="🇭🇰" type="tts">туг: БНХАУ-ын Тусгай захиргааны бүс Хонг Конг</annotation>
+		<annotation cp="🇭🇰" type="tts">туг: БНХАУ-ын Тусгай захиргааны бүс Хонг-Конг</annotation>
 		<annotation cp="🇭🇲">туг</annotation>
 		<annotation cp="🇭🇲" type="tts">туг: Херд ба Макдональдийн арлууд</annotation>
 		<annotation cp="🇭🇳">туг</annotation>
@@ -3721,7 +4108,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🇮🇪">туг</annotation>
 		<annotation cp="🇮🇪" type="tts">туг: Ирланд</annotation>
 		<annotation cp="🇮🇱">туг</annotation>
-		<annotation cp="🇮🇱" type="tts">туг: Израиль</annotation>
+		<annotation cp="🇮🇱" type="tts">туг: Израил</annotation>
 		<annotation cp="🇮🇲">туг</annotation>
 		<annotation cp="🇮🇲" type="tts">туг: Мэн Арал</annotation>
 		<annotation cp="🇮🇳">туг</annotation>
@@ -3747,7 +4134,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🇰🇪">туг</annotation>
 		<annotation cp="🇰🇪" type="tts">туг: Кени</annotation>
 		<annotation cp="🇰🇬">туг</annotation>
-		<annotation cp="🇰🇬" type="tts">туг: Кыргызстан</annotation>
+		<annotation cp="🇰🇬" type="tts">туг: Киргиз</annotation>
 		<annotation cp="🇰🇭">туг</annotation>
 		<annotation cp="🇰🇭" type="tts">туг: Камбож</annotation>
 		<annotation cp="🇰🇮">туг</annotation>
@@ -3773,7 +4160,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🇱🇨">туг</annotation>
 		<annotation cp="🇱🇨" type="tts">туг: Сент Люсиа</annotation>
 		<annotation cp="🇱🇮">туг</annotation>
-		<annotation cp="🇱🇮" type="tts">туг: Лихтенштейн</annotation>
+		<annotation cp="🇱🇮" type="tts">туг: Лихтенштайн</annotation>
 		<annotation cp="🇱🇰">туг</annotation>
 		<annotation cp="🇱🇰" type="tts">туг: Шри-Ланка</annotation>
 		<annotation cp="🇱🇷">туг</annotation>
@@ -3849,7 +4236,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🇳🇱">туг</annotation>
 		<annotation cp="🇳🇱" type="tts">туг: Нидерланд</annotation>
 		<annotation cp="🇳🇴">туг</annotation>
-		<annotation cp="🇳🇴" type="tts">туг: Норвеги</annotation>
+		<annotation cp="🇳🇴" type="tts">туг: Норвег</annotation>
 		<annotation cp="🇳🇵">туг</annotation>
 		<annotation cp="🇳🇵" type="tts">туг: Балба</annotation>
 		<annotation cp="🇳🇷">туг</annotation>

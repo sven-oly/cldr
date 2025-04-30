@@ -1,5 +1,8 @@
 package org.unicode.cldr.tool;
 
+import com.ibm.icu.text.UTF16;
+import com.ibm.icu.util.ICUUncheckedIOException;
+import com.ibm.icu.util.ULocale;
 import java.io.IOException;
 import java.util.Collections;
 import java.util.LinkedHashSet;
@@ -7,23 +10,29 @@ import java.util.Locale;
 import java.util.Map;
 import java.util.Set;
 import java.util.TreeMap;
-
 import org.unicode.cldr.util.CldrUtility;
 import org.unicode.cldr.util.CldrUtility.LineHandler;
 import org.unicode.cldr.util.StandardCodes;
-
-import com.ibm.icu.text.UTF16;
-import com.ibm.icu.util.ICUUncheckedIOException;
-import com.ibm.icu.util.ULocale;
 
 public class CountryCodeConverter {
 
     private static final boolean SHOW_SKIP = CldrUtility.getProperty("SHOW_SKIP", false);
 
-    private static Map<String, String> nameToCountryCode = new TreeMap<>(new UTF16.StringComparator(true, true, 0));
+    private static Map<String, String> nameToCountryCode =
+            new TreeMap<>(new UTF16.StringComparator(true, true, 0));
     private static Set<String> parseErrors = new LinkedHashSet<>();
 
     public static String getCodeFromName(String display, boolean showMissing) {
+        return getCodeFromName(display, showMissing, null);
+    }
+
+    /**
+     * @param display
+     * @param showMissing
+     * @param missing will contain a list of missing names (if showMissing is true)
+     * @return
+     */
+    public static String getCodeFromName(String display, boolean showMissing, Set<String> missing) {
         String trial = display.trim().toLowerCase(Locale.ENGLISH);
         if (trial.startsWith("\"") && trial.endsWith("\"")) {
             trial = trial.substring(1, trial.length() - 2);
@@ -45,8 +54,16 @@ public class CountryCodeConverter {
             }
         }
         if (result == null && (showMissing || SHOW_SKIP)) {
-            System.err.println("CountryCodeConverter missing code; add to external/alternate_country_names.txt a line like:" +
-                "\t<code>;\t<name>;\t" + display);
+            System.err.println(
+                    "ERROR: CountryCodeConverter missing code for "
+                            + display
+                            + ".\n"
+                            + "To fix: add to external/alternate_country_names.txt a line such as:\n"
+                            + "\t<code>;\t<name>;\t"
+                            + display);
+            if (missing != null) {
+                missing.add(display);
+            }
         }
         return result;
     }
@@ -85,7 +102,8 @@ public class CountryCodeConverter {
             if (country.equals("057")) continue;
             addName(description, country);
         }
-        CldrUtility.handleFile("external/alternate_country_names.txt", new MyHandler(goodAvailableCodes));
+        CldrUtility.handleFile(
+                "external/alternate_country_names.txt", new MyHandler(goodAvailableCodes));
         nameToCountryCode = CldrUtility.protectCollection(nameToCountryCode);
         parseErrors = Collections.unmodifiableSet(parseErrors);
     }
@@ -99,14 +117,16 @@ public class CountryCodeConverter {
 
         @Override
         public boolean handle(String line) {
-            if (line.trim().length() == 0) {
-                return true; // don't show skips
+            if (line.trim().length() == 0 || line.trim().startsWith("#")) {
+                return true; // don't show skips, ignore comment lines
             }
             String[] pieces = line.split(";");
             String country = pieces[0].trim();
             if (!goodAvailableCodes.contains(country)) {
-
+                // TODO- ?
             }
+            // Note: field 1 is ignored.
+
             addName(pieces[2].trim(), country);
             return true;
         }
@@ -136,5 +156,4 @@ public class CountryCodeConverter {
     public static Set<String> getParseErrors() {
         return parseErrors;
     }
-
 }

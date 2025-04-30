@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE ldml SYSTEM "../../common/dtd/ldml.dtd">
-<!-- Copyright © 1991-2020 Unicode, Inc.
+<!-- Copyright © 1991-2024 Unicode, Inc.
 For terms of use, see http://www.unicode.org/copyright.html
-Unicode and the Unicode Logo are registered trademarks of Unicode, Inc. in the U.S. and other countries.
+SPDX-License-Identifier: Unicode-3.0
 CLDR data files are interpreted according to the LDML specification (http://unicode.org/reports/tr35/)
+
+Derived short names and annotations, using GenerateDerivedAnnotations.java. See warnings in /annotations/ file.
 -->
-<!-- Derived short names and annotations, using GenerateDerivedAnnotations.java. See warnings in /annotations/ file. -->
 <ldml>
 	<identity>
 		<version number="$Revision$"/>
@@ -62,6 +63,106 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🖖🏾" type="tts">ভল্কান ছেলুট: মধ্যমীয়া-ক’লা ছালৰ ৰং</annotation>
 		<annotation cp="🖖🏿">আঙুলি | ক’লা ছালৰ ৰং | ভল্কান | ভল্কান ছেলুট | স্প’ক | হাত</annotation>
 		<annotation cp="🖖🏿" type="tts">ভল্কান ছেলুট: ক’লা ছালৰ ৰং</annotation>
+		<annotation cp="🫱🏻">পাতল ছালৰ ৰং | সোঁ | সোঁফালে মুখ কৰা | সোঁফালে মুখ কৰা হাত | হাত</annotation>
+		<annotation cp="🫱🏻" type="tts">সোঁফালে মুখ কৰা হাত: পাতল ছালৰ ৰং</annotation>
+		<annotation cp="🫱🏼">মধ্যমীয়া-পাতল ছালৰ ৰং | সোঁ | সোঁফালে মুখ কৰা | সোঁফালে মুখ কৰা হাত | হাত</annotation>
+		<annotation cp="🫱🏼" type="tts">সোঁফালে মুখ কৰা হাত: মধ্যমীয়া-পাতল ছালৰ ৰং</annotation>
+		<annotation cp="🫱🏽">মধ্যমীয়া ছালৰ ৰং | সোঁ | সোঁফালে মুখ কৰা | সোঁফালে মুখ কৰা হাত | হাত</annotation>
+		<annotation cp="🫱🏽" type="tts">সোঁফালে মুখ কৰা হাত: মধ্যমীয়া ছালৰ ৰং</annotation>
+		<annotation cp="🫱🏾">মধ্যমীয়া-ক’লা ছালৰ ৰং | সোঁ | সোঁফালে মুখ কৰা | সোঁফালে মুখ কৰা হাত | হাত</annotation>
+		<annotation cp="🫱🏾" type="tts">সোঁফালে মুখ কৰা হাত: মধ্যমীয়া-ক’লা ছালৰ ৰং</annotation>
+		<annotation cp="🫱🏿">ক’লা ছালৰ ৰং | সোঁ | সোঁফালে মুখ কৰা | সোঁফালে মুখ কৰা হাত | হাত</annotation>
+		<annotation cp="🫱🏿" type="tts">সোঁফালে মুখ কৰা হাত: ক’লা ছালৰ ৰং</annotation>
+		<annotation cp="🫱🏻‍🫲🏼">কৰমৰ্দন | চুক্তি | পাতল ছালৰ ৰং | মধ্যমীয়া-পাতল ছালৰ ৰং | মিটিং | লৰোৱা | হাত</annotation>
+		<annotation cp="🫱🏻‍🫲🏼" type="tts">কৰমৰ্দন: পাতল ছালৰ ৰং, মধ্যমীয়া-পাতল ছালৰ ৰং</annotation>
+		<annotation cp="🫱🏻‍🫲🏽">কৰমৰ্দন | চুক্তি | পাতল ছালৰ ৰং | মধ্যমীয়া ছালৰ ৰং | মিটিং | লৰোৱা | হাত</annotation>
+		<annotation cp="🫱🏻‍🫲🏽" type="tts">কৰমৰ্দন: পাতল ছালৰ ৰং, মধ্যমীয়া ছালৰ ৰং</annotation>
+		<annotation cp="🫱🏻‍🫲🏾">কৰমৰ্দন | চুক্তি | পাতল ছালৰ ৰং | মধ্যমীয়া-ক’লা ছালৰ ৰং | মিটিং | লৰোৱা | হাত</annotation>
+		<annotation cp="🫱🏻‍🫲🏾" type="tts">কৰমৰ্দন: পাতল ছালৰ ৰং, মধ্যমীয়া-ক’লা ছালৰ ৰং</annotation>
+		<annotation cp="🫱🏻‍🫲🏿">ক’লা ছালৰ ৰং | কৰমৰ্দন | চুক্তি | পাতল ছালৰ ৰং | মিটিং | লৰোৱা | হাত</annotation>
+		<annotation cp="🫱🏻‍🫲🏿" type="tts">কৰমৰ্দন: পাতল ছালৰ ৰং, ক’লা ছালৰ ৰং</annotation>
+		<annotation cp="🫱🏼‍🫲🏻">কৰমৰ্দন | চুক্তি | পাতল ছালৰ ৰং | মধ্যমীয়া-পাতল ছালৰ ৰং | মিটিং | লৰোৱা | হাত</annotation>
+		<annotation cp="🫱🏼‍🫲🏻" type="tts">কৰমৰ্দন: মধ্যমীয়া-পাতল ছালৰ ৰং, পাতল ছালৰ ৰং</annotation>
+		<annotation cp="🫱🏼‍🫲🏽">কৰমৰ্দন | চুক্তি | মধ্যমীয়া ছালৰ ৰং | মধ্যমীয়া-পাতল ছালৰ ৰং | মিটিং | লৰোৱা | হাত</annotation>
+		<annotation cp="🫱🏼‍🫲🏽" type="tts">কৰমৰ্দন: মধ্যমীয়া-পাতল ছালৰ ৰং, মধ্যমীয়া ছালৰ ৰং</annotation>
+		<annotation cp="🫱🏼‍🫲🏾">কৰমৰ্দন | চুক্তি | মধ্যমীয়া-ক’লা ছালৰ ৰং | মধ্যমীয়া-পাতল ছালৰ ৰং | মিটিং | লৰোৱা | হাত</annotation>
+		<annotation cp="🫱🏼‍🫲🏾" type="tts">কৰমৰ্দন: মধ্যমীয়া-পাতল ছালৰ ৰং, মধ্যমীয়া-ক’লা ছালৰ ৰং</annotation>
+		<annotation cp="🫱🏼‍🫲🏿">ক’লা ছালৰ ৰং | কৰমৰ্দন | চুক্তি | মধ্যমীয়া-পাতল ছালৰ ৰং | মিটিং | লৰোৱা | হাত</annotation>
+		<annotation cp="🫱🏼‍🫲🏿" type="tts">কৰমৰ্দন: মধ্যমীয়া-পাতল ছালৰ ৰং, ক’লা ছালৰ ৰং</annotation>
+		<annotation cp="🫱🏽‍🫲🏻">কৰমৰ্দন | চুক্তি | পাতল ছালৰ ৰং | মধ্যমীয়া ছালৰ ৰং | মিটিং | লৰোৱা | হাত</annotation>
+		<annotation cp="🫱🏽‍🫲🏻" type="tts">কৰমৰ্দন: মধ্যমীয়া ছালৰ ৰং, পাতল ছালৰ ৰং</annotation>
+		<annotation cp="🫱🏽‍🫲🏼">কৰমৰ্দন | চুক্তি | মধ্যমীয়া ছালৰ ৰং | মধ্যমীয়া-পাতল ছালৰ ৰং | মিটিং | লৰোৱা | হাত</annotation>
+		<annotation cp="🫱🏽‍🫲🏼" type="tts">কৰমৰ্দন: মধ্যমীয়া ছালৰ ৰং, মধ্যমীয়া-পাতল ছালৰ ৰং</annotation>
+		<annotation cp="🫱🏽‍🫲🏾">কৰমৰ্দন | চুক্তি | মধ্যমীয়া ছালৰ ৰং | মধ্যমীয়া-ক’লা ছালৰ ৰং | মিটিং | লৰোৱা | হাত</annotation>
+		<annotation cp="🫱🏽‍🫲🏾" type="tts">কৰমৰ্দন: মধ্যমীয়া ছালৰ ৰং, মধ্যমীয়া-ক’লা ছালৰ ৰং</annotation>
+		<annotation cp="🫱🏽‍🫲🏿">ক’লা ছালৰ ৰং | কৰমৰ্দন | চুক্তি | মধ্যমীয়া ছালৰ ৰং | মিটিং | লৰোৱা | হাত</annotation>
+		<annotation cp="🫱🏽‍🫲🏿" type="tts">কৰমৰ্দন: মধ্যমীয়া ছালৰ ৰং, ক’লা ছালৰ ৰং</annotation>
+		<annotation cp="🫱🏾‍🫲🏻">কৰমৰ্দন | চুক্তি | পাতল ছালৰ ৰং | মধ্যমীয়া-ক’লা ছালৰ ৰং | মিটিং | লৰোৱা | হাত</annotation>
+		<annotation cp="🫱🏾‍🫲🏻" type="tts">কৰমৰ্দন: মধ্যমীয়া-ক’লা ছালৰ ৰং, পাতল ছালৰ ৰং</annotation>
+		<annotation cp="🫱🏾‍🫲🏼">কৰমৰ্দন | চুক্তি | মধ্যমীয়া-ক’লা ছালৰ ৰং | মধ্যমীয়া-পাতল ছালৰ ৰং | মিটিং | লৰোৱা | হাত</annotation>
+		<annotation cp="🫱🏾‍🫲🏼" type="tts">কৰমৰ্দন: মধ্যমীয়া-ক’লা ছালৰ ৰং, মধ্যমীয়া-পাতল ছালৰ ৰং</annotation>
+		<annotation cp="🫱🏾‍🫲🏽">কৰমৰ্দন | চুক্তি | মধ্যমীয়া ছালৰ ৰং | মধ্যমীয়া-ক’লা ছালৰ ৰং | মিটিং | লৰোৱা | হাত</annotation>
+		<annotation cp="🫱🏾‍🫲🏽" type="tts">কৰমৰ্দন: মধ্যমীয়া-ক’লা ছালৰ ৰং, মধ্যমীয়া ছালৰ ৰং</annotation>
+		<annotation cp="🫱🏾‍🫲🏿">ক’লা ছালৰ ৰং | কৰমৰ্দন | চুক্তি | মধ্যমীয়া-ক’লা ছালৰ ৰং | মিটিং | লৰোৱা | হাত</annotation>
+		<annotation cp="🫱🏾‍🫲🏿" type="tts">কৰমৰ্দন: মধ্যমীয়া-ক’লা ছালৰ ৰং, ক’লা ছালৰ ৰং</annotation>
+		<annotation cp="🫱🏿‍🫲🏻">ক’লা ছালৰ ৰং | কৰমৰ্দন | চুক্তি | পাতল ছালৰ ৰং | মিটিং | লৰোৱা | হাত</annotation>
+		<annotation cp="🫱🏿‍🫲🏻" type="tts">কৰমৰ্দন: ক’লা ছালৰ ৰং, পাতল ছালৰ ৰং</annotation>
+		<annotation cp="🫱🏿‍🫲🏼">ক’লা ছালৰ ৰং | কৰমৰ্দন | চুক্তি | মধ্যমীয়া-পাতল ছালৰ ৰং | মিটিং | লৰোৱা | হাত</annotation>
+		<annotation cp="🫱🏿‍🫲🏼" type="tts">কৰমৰ্দন: ক’লা ছালৰ ৰং, মধ্যমীয়া-পাতল ছালৰ ৰং</annotation>
+		<annotation cp="🫱🏿‍🫲🏽">ক’লা ছালৰ ৰং | কৰমৰ্দন | চুক্তি | মধ্যমীয়া ছালৰ ৰং | মিটিং | লৰোৱা | হাত</annotation>
+		<annotation cp="🫱🏿‍🫲🏽" type="tts">কৰমৰ্দন: ক’লা ছালৰ ৰং, মধ্যমীয়া ছালৰ ৰং</annotation>
+		<annotation cp="🫱🏿‍🫲🏾">ক’লা ছালৰ ৰং | কৰমৰ্দন | চুক্তি | মধ্যমীয়া-ক’লা ছালৰ ৰং | মিটিং | লৰোৱা | হাত</annotation>
+		<annotation cp="🫱🏿‍🫲🏾" type="tts">কৰমৰ্দন: ক’লা ছালৰ ৰং, মধ্যমীয়া-ক’লা ছালৰ ৰং</annotation>
+		<annotation cp="🫲🏻">পাতল ছালৰ ৰং | বাওঁ | বাওঁফালে মুখ কৰা | বাওঁফালে মুখ কৰা হাত | হাত</annotation>
+		<annotation cp="🫲🏻" type="tts">বাওঁফালে মুখ কৰা হাত: পাতল ছালৰ ৰং</annotation>
+		<annotation cp="🫲🏼">বাওঁ | বাওঁফালে মুখ কৰা | বাওঁফালে মুখ কৰা হাত | মধ্যমীয়া-পাতল ছালৰ ৰং | হাত</annotation>
+		<annotation cp="🫲🏼" type="tts">বাওঁফালে মুখ কৰা হাত: মধ্যমীয়া-পাতল ছালৰ ৰং</annotation>
+		<annotation cp="🫲🏽">বাওঁ | বাওঁফালে মুখ কৰা | বাওঁফালে মুখ কৰা হাত | মধ্যমীয়া ছালৰ ৰং | হাত</annotation>
+		<annotation cp="🫲🏽" type="tts">বাওঁফালে মুখ কৰা হাত: মধ্যমীয়া ছালৰ ৰং</annotation>
+		<annotation cp="🫲🏾">বাওঁ | বাওঁফালে মুখ কৰা | বাওঁফালে মুখ কৰা হাত | মধ্যমীয়া-ক’লা ছালৰ ৰং | হাত</annotation>
+		<annotation cp="🫲🏾" type="tts">বাওঁফালে মুখ কৰা হাত: মধ্যমীয়া-ক’লা ছালৰ ৰং</annotation>
+		<annotation cp="🫲🏿">ক’লা ছালৰ ৰং | বাওঁ | বাওঁফালে মুখ কৰা | বাওঁফালে মুখ কৰা হাত | হাত</annotation>
+		<annotation cp="🫲🏿" type="tts">বাওঁফালে মুখ কৰা হাত: ক’লা ছালৰ ৰং</annotation>
+		<annotation cp="🫳🏻">আঁতৰলৈ যোৱা | খাৰিজ কৰা | নমোৱা | পাতল ছালৰ ৰং | হাতৰ তলুৱা তলমুৱা কৰা হাত</annotation>
+		<annotation cp="🫳🏻" type="tts">হাতৰ তলুৱা তলমুৱা কৰা হাত: পাতল ছালৰ ৰং</annotation>
+		<annotation cp="🫳🏼">আঁতৰলৈ যোৱা | খাৰিজ কৰা | নমোৱা | মধ্যমীয়া-পাতল ছালৰ ৰং | হাতৰ তলুৱা তলমুৱা কৰা হাত</annotation>
+		<annotation cp="🫳🏼" type="tts">হাতৰ তলুৱা তলমুৱা কৰা হাত: মধ্যমীয়া-পাতল ছালৰ ৰং</annotation>
+		<annotation cp="🫳🏽">আঁতৰলৈ যোৱা | খাৰিজ কৰা | নমোৱা | মধ্যমীয়া ছালৰ ৰং | হাতৰ তলুৱা তলমুৱা কৰা হাত</annotation>
+		<annotation cp="🫳🏽" type="tts">হাতৰ তলুৱা তলমুৱা কৰা হাত: মধ্যমীয়া ছালৰ ৰং</annotation>
+		<annotation cp="🫳🏾">আঁতৰলৈ যোৱা | খাৰিজ কৰা | নমোৱা | মধ্যমীয়া-ক’লা ছালৰ ৰং | হাতৰ তলুৱা তলমুৱা কৰা হাত</annotation>
+		<annotation cp="🫳🏾" type="tts">হাতৰ তলুৱা তলমুৱা কৰা হাত: মধ্যমীয়া-ক’লা ছালৰ ৰং</annotation>
+		<annotation cp="🫳🏿">আঁতৰলৈ যোৱা | ক’লা ছালৰ ৰং | খাৰিজ কৰা | নমোৱা | হাতৰ তলুৱা তলমুৱা কৰা হাত</annotation>
+		<annotation cp="🫳🏿" type="tts">হাতৰ তলুৱা তলমুৱা কৰা হাত: ক’লা ছালৰ ৰং</annotation>
+		<annotation cp="🫴🏻">অফাৰ | আহা | ধৰা | পাতল ছালৰ ৰং | বেকন | হাতৰ তলুৱা ওপৰমুৱা কৰা হাত</annotation>
+		<annotation cp="🫴🏻" type="tts">হাতৰ তলুৱা ওপৰমুৱা কৰা হাত: পাতল ছালৰ ৰং</annotation>
+		<annotation cp="🫴🏼">অফাৰ | আহা | ধৰা | বেকন | মধ্যমীয়া-পাতল ছালৰ ৰং | হাতৰ তলুৱা ওপৰমুৱা কৰা হাত</annotation>
+		<annotation cp="🫴🏼" type="tts">হাতৰ তলুৱা ওপৰমুৱা কৰা হাত: মধ্যমীয়া-পাতল ছালৰ ৰং</annotation>
+		<annotation cp="🫴🏽">অফাৰ | আহা | ধৰা | বেকন | মধ্যমীয়া ছালৰ ৰং | হাতৰ তলুৱা ওপৰমুৱা কৰা হাত</annotation>
+		<annotation cp="🫴🏽" type="tts">হাতৰ তলুৱা ওপৰমুৱা কৰা হাত: মধ্যমীয়া ছালৰ ৰং</annotation>
+		<annotation cp="🫴🏾">অফাৰ | আহা | ধৰা | বেকন | মধ্যমীয়া-ক’লা ছালৰ ৰং | হাতৰ তলুৱা ওপৰমুৱা কৰা হাত</annotation>
+		<annotation cp="🫴🏾" type="tts">হাতৰ তলুৱা ওপৰমুৱা কৰা হাত: মধ্যমীয়া-ক’লা ছালৰ ৰং</annotation>
+		<annotation cp="🫴🏿">অফাৰ | আহা | ক’লা ছালৰ ৰং | ধৰা | বেকন | হাতৰ তলুৱা ওপৰমুৱা কৰা হাত</annotation>
+		<annotation cp="🫴🏿" type="tts">হাতৰ তলুৱা ওপৰমুৱা কৰা হাত: ক’লা ছালৰ ৰং</annotation>
+		<annotation cp="🫷🏻">অপেক্ষা | ঠেলা | পাতল ছালৰ ৰং | বাওঁফালে | বাওঁফালে ঠেলি থকা হাত | মানা কৰা | ৰৈ যোৱা | হাই ফাইভ</annotation>
+		<annotation cp="🫷🏻" type="tts">বাওঁফালে ঠেলি থকা হাত: পাতল ছালৰ ৰং</annotation>
+		<annotation cp="🫷🏼">অপেক্ষা | ঠেলা | বাওঁফালে | বাওঁফালে ঠেলি থকা হাত | মধ্যমীয়া-পাতল ছালৰ ৰং | মানা কৰা | ৰৈ যোৱা | হাই ফাইভ</annotation>
+		<annotation cp="🫷🏼" type="tts">বাওঁফালে ঠেলি থকা হাত: মধ্যমীয়া-পাতল ছালৰ ৰং</annotation>
+		<annotation cp="🫷🏽">অপেক্ষা | ঠেলা | বাওঁফালে | বাওঁফালে ঠেলি থকা হাত | মধ্যমীয়া ছালৰ ৰং | মানা কৰা | ৰৈ যোৱা | হাই ফাইভ</annotation>
+		<annotation cp="🫷🏽" type="tts">বাওঁফালে ঠেলি থকা হাত: মধ্যমীয়া ছালৰ ৰং</annotation>
+		<annotation cp="🫷🏾">অপেক্ষা | ঠেলা | বাওঁফালে | বাওঁফালে ঠেলি থকা হাত | মধ্যমীয়া-ক’লা ছালৰ ৰং | মানা কৰা | ৰৈ যোৱা | হাই ফাইভ</annotation>
+		<annotation cp="🫷🏾" type="tts">বাওঁফালে ঠেলি থকা হাত: মধ্যমীয়া-ক’লা ছালৰ ৰং</annotation>
+		<annotation cp="🫷🏿">অপেক্ষা | ক’লা ছালৰ ৰং | ঠেলা | বাওঁফালে | বাওঁফালে ঠেলি থকা হাত | মানা কৰা | ৰৈ যোৱা | হাই ফাইভ</annotation>
+		<annotation cp="🫷🏿" type="tts">বাওঁফালে ঠেলি থকা হাত: ক’লা ছালৰ ৰং</annotation>
+		<annotation cp="🫸🏻">অপেক্ষা | ঠেলা | পাতল ছালৰ ৰং | মানা কৰা | ৰৈ যোৱা | সোঁফালে | সোঁফালে ঠেলি থকা হাত | হাই ফাইভ</annotation>
+		<annotation cp="🫸🏻" type="tts">সোঁফালে ঠেলি থকা হাত: পাতল ছালৰ ৰং</annotation>
+		<annotation cp="🫸🏼">অপেক্ষা | ঠেলা | মধ্যমীয়া-পাতল ছালৰ ৰং | মানা কৰা | ৰৈ যোৱা | সোঁফালে | সোঁফালে ঠেলি থকা হাত | হাই ফাইভ</annotation>
+		<annotation cp="🫸🏼" type="tts">সোঁফালে ঠেলি থকা হাত: মধ্যমীয়া-পাতল ছালৰ ৰং</annotation>
+		<annotation cp="🫸🏽">অপেক্ষা | ঠেলা | মধ্যমীয়া ছালৰ ৰং | মানা কৰা | ৰৈ যোৱা | সোঁফালে | সোঁফালে ঠেলি থকা হাত | হাই ফাইভ</annotation>
+		<annotation cp="🫸🏽" type="tts">সোঁফালে ঠেলি থকা হাত: মধ্যমীয়া ছালৰ ৰং</annotation>
+		<annotation cp="🫸🏾">অপেক্ষা | ঠেলা | মধ্যমীয়া-ক’লা ছালৰ ৰং | মানা কৰা | ৰৈ যোৱা | সোঁফালে | সোঁফালে ঠেলি থকা হাত | হাই ফাইভ</annotation>
+		<annotation cp="🫸🏾" type="tts">সোঁফালে ঠেলি থকা হাত: মধ্যমীয়া-ক’লা ছালৰ ৰং</annotation>
+		<annotation cp="🫸🏿">অপেক্ষা | ক’লা ছালৰ ৰং | ঠেলা | মানা কৰা | ৰৈ যোৱা | সোঁফালে | সোঁফালে ঠেলি থকা হাত | হাই ফাইভ</annotation>
+		<annotation cp="🫸🏿" type="tts">সোঁফালে ঠেলি থকা হাত: ক’লা ছালৰ ৰং</annotation>
 		<annotation cp="👌🏻">ঠিক আছে | পাতল ছালৰ ৰং | বঢ়িয়া | হাত</annotation>
 		<annotation cp="👌🏻" type="tts">ঠিক আছে: পাতল ছালৰ ৰং</annotation>
 		<annotation cp="👌🏼">ঠিক আছে | বঢ়িয়া | মধ্যমীয়া-পাতল ছালৰ ৰং | হাত</annotation>
@@ -112,6 +213,16 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🤞🏾" type="tts">ক্ৰছ্‌ড ফিঙ্গাৰ্ছ্: মধ্যমীয়া-ক’লা ছালৰ ৰং</annotation>
 		<annotation cp="🤞🏿">আঙুলি | ক’লা ছালৰ ৰং | ক্ৰছ | ক্ৰছ্‌ড ফিঙ্গাৰ্ছ্ | ভাগ্য | হাত</annotation>
 		<annotation cp="🤞🏿" type="tts">ক্ৰছ্‌ড ফিঙ্গাৰ্ছ্: ক’লা ছালৰ ৰং</annotation>
+		<annotation cp="🫰🏻">টকা | তৰ্জনী আঙুলি আৰু বুঢ়া আঙুলি ক্ৰছ থকা হাত | পাতল ছালৰ ৰং | প্ৰেম | মূল্যৱান | স্নেপ | হৃদয়</annotation>
+		<annotation cp="🫰🏻" type="tts">তৰ্জনী আঙুলি আৰু বুঢ়া আঙুলি ক্ৰছ থকা হাত: পাতল ছালৰ ৰং</annotation>
+		<annotation cp="🫰🏼">টকা | তৰ্জনী আঙুলি আৰু বুঢ়া আঙুলি ক্ৰছ থকা হাত | প্ৰেম | মধ্যমীয়া-পাতল ছালৰ ৰং | মূল্যৱান | স্নেপ | হৃদয়</annotation>
+		<annotation cp="🫰🏼" type="tts">তৰ্জনী আঙুলি আৰু বুঢ়া আঙুলি ক্ৰছ থকা হাত: মধ্যমীয়া-পাতল ছালৰ ৰং</annotation>
+		<annotation cp="🫰🏽">টকা | তৰ্জনী আঙুলি আৰু বুঢ়া আঙুলি ক্ৰছ থকা হাত | প্ৰেম | মধ্যমীয়া ছালৰ ৰং | মূল্যৱান | স্নেপ | হৃদয়</annotation>
+		<annotation cp="🫰🏽" type="tts">তৰ্জনী আঙুলি আৰু বুঢ়া আঙুলি ক্ৰছ থকা হাত: মধ্যমীয়া ছালৰ ৰং</annotation>
+		<annotation cp="🫰🏾">টকা | তৰ্জনী আঙুলি আৰু বুঢ়া আঙুলি ক্ৰছ থকা হাত | প্ৰেম | মধ্যমীয়া-ক’লা ছালৰ ৰং | মূল্যৱান | স্নেপ | হৃদয়</annotation>
+		<annotation cp="🫰🏾" type="tts">তৰ্জনী আঙুলি আৰু বুঢ়া আঙুলি ক্ৰছ থকা হাত: মধ্যমীয়া-ক’লা ছালৰ ৰং</annotation>
+		<annotation cp="🫰🏿">ক’লা ছালৰ ৰং | টকা | তৰ্জনী আঙুলি আৰু বুঢ়া আঙুলি ক্ৰছ থকা হাত | প্ৰেম | মূল্যৱান | স্নেপ | হৃদয়</annotation>
+		<annotation cp="🫰🏿" type="tts">তৰ্জনী আঙুলি আৰু বুঢ়া আঙুলি ক্ৰছ থকা হাত: ক’লা ছালৰ ৰং</annotation>
 		<annotation cp="🤟🏻">পাতল ছালৰ ৰং | প্ৰেম | ভালপোৱাৰ ইঙ্গিত | হাত</annotation>
 		<annotation cp="🤟🏻" type="tts">ভালপোৱাৰ ইঙ্গিত: পাতল ছালৰ ৰং</annotation>
 		<annotation cp="🤟🏼">প্ৰেম | ভালপোৱাৰ ইঙ্গিত | মধ্যমীয়া-পাতল ছালৰ ৰং | হাত</annotation>
@@ -202,6 +313,16 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="☝🏾" type="tts">তৰ্জনী ওপৰলৈ নিৰ্দেশ কৰা: মধ্যমীয়া-ক’লা ছালৰ ৰং</annotation>
 		<annotation cp="☝🏿">আঙুলি | ওপৰ | ক’লা ছালৰ ৰং | তৰ্জনী | তৰ্জনী ওপৰলৈ নিৰ্দেশ কৰা | নিৰ্দেশ কৰা | হাত</annotation>
 		<annotation cp="☝🏿" type="tts">তৰ্জনী ওপৰলৈ নিৰ্দেশ কৰা: ক’লা ছালৰ ৰং</annotation>
+		<annotation cp="🫵🏻">আঙুলি দেখুওৱা | আপুনি | দৰ্শকৰ ফালে তৰ্জনী আঙুলি দেখুওৱা | পাতল ছালৰ ৰং</annotation>
+		<annotation cp="🫵🏻" type="tts">দৰ্শকৰ ফালে তৰ্জনী আঙুলি দেখুওৱা: পাতল ছালৰ ৰং</annotation>
+		<annotation cp="🫵🏼">আঙুলি দেখুওৱা | আপুনি | দৰ্শকৰ ফালে তৰ্জনী আঙুলি দেখুওৱা | মধ্যমীয়া-পাতল ছালৰ ৰং</annotation>
+		<annotation cp="🫵🏼" type="tts">দৰ্শকৰ ফালে তৰ্জনী আঙুলি দেখুওৱা: মধ্যমীয়া-পাতল ছালৰ ৰং</annotation>
+		<annotation cp="🫵🏽">আঙুলি দেখুওৱা | আপুনি | দৰ্শকৰ ফালে তৰ্জনী আঙুলি দেখুওৱা | মধ্যমীয়া ছালৰ ৰং</annotation>
+		<annotation cp="🫵🏽" type="tts">দৰ্শকৰ ফালে তৰ্জনী আঙুলি দেখুওৱা: মধ্যমীয়া ছালৰ ৰং</annotation>
+		<annotation cp="🫵🏾">আঙুলি দেখুওৱা | আপুনি | দৰ্শকৰ ফালে তৰ্জনী আঙুলি দেখুওৱা | মধ্যমীয়া-ক’লা ছালৰ ৰং</annotation>
+		<annotation cp="🫵🏾" type="tts">দৰ্শকৰ ফালে তৰ্জনী আঙুলি দেখুওৱা: মধ্যমীয়া-ক’লা ছালৰ ৰং</annotation>
+		<annotation cp="🫵🏿">আঙুলি দেখুওৱা | আপুনি | ক’লা ছালৰ ৰং | দৰ্শকৰ ফালে তৰ্জনী আঙুলি দেখুওৱা</annotation>
+		<annotation cp="🫵🏿" type="tts">দৰ্শকৰ ফালে তৰ্জনী আঙুলি দেখুওৱা: ক’লা ছালৰ ৰং</annotation>
 		<annotation cp="👍🏻">+১ | ওপৰ | পাতল ছালৰ ৰং | বুঢ়া আঙুলি | ভাল কৰিছো | হাত</annotation>
 		<annotation cp="👍🏻" type="tts">ভাল কৰিছো: পাতল ছালৰ ৰং</annotation>
 		<annotation cp="👍🏼">+১ | ওপৰ | বুঢ়া আঙুলি | ভাল কৰিছো | মধ্যমীয়া-পাতল ছালৰ ৰং | হাত</annotation>
@@ -282,6 +403,16 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🙌🏾" type="tts">হাত উঠোৱা: মধ্যমীয়া-ক’লা ছালৰ ৰং</annotation>
 		<annotation cp="🙌🏿">উত্থিত | উদযাপন | ক’লা ছালৰ ৰং | ভঙ্গিমা | হাত | হাত উঠোৱা | হুৰে</annotation>
 		<annotation cp="🙌🏿" type="tts">হাত উঠোৱা: ক’লা ছালৰ ৰং</annotation>
+		<annotation cp="🫶🏻">পাতল ছালৰ ৰং | প্ৰেম | হাতেৰে বনোৱা হৃদয়</annotation>
+		<annotation cp="🫶🏻" type="tts">হাতেৰে বনোৱা হৃদয়: পাতল ছালৰ ৰং</annotation>
+		<annotation cp="🫶🏼">প্ৰেম | মধ্যমীয়া-পাতল ছালৰ ৰং | হাতেৰে বনোৱা হৃদয়</annotation>
+		<annotation cp="🫶🏼" type="tts">হাতেৰে বনোৱা হৃদয়: মধ্যমীয়া-পাতল ছালৰ ৰং</annotation>
+		<annotation cp="🫶🏽">প্ৰেম | মধ্যমীয়া ছালৰ ৰং | হাতেৰে বনোৱা হৃদয়</annotation>
+		<annotation cp="🫶🏽" type="tts">হাতেৰে বনোৱা হৃদয়: মধ্যমীয়া ছালৰ ৰং</annotation>
+		<annotation cp="🫶🏾">প্ৰেম | মধ্যমীয়া-ক’লা ছালৰ ৰং | হাতেৰে বনোৱা হৃদয়</annotation>
+		<annotation cp="🫶🏾" type="tts">হাতেৰে বনোৱা হৃদয়: মধ্যমীয়া-ক’লা ছালৰ ৰং</annotation>
+		<annotation cp="🫶🏿">ক’লা ছালৰ ৰং | প্ৰেম | হাতেৰে বনোৱা হৃদয়</annotation>
+		<annotation cp="🫶🏿" type="tts">হাতেৰে বনোৱা হৃদয়: ক’লা ছালৰ ৰং</annotation>
 		<annotation cp="👐🏻">খোলা | পাতল ছালৰ ৰং | মেলা হাত | হাত</annotation>
 		<annotation cp="👐🏻" type="tts">মেলা হাত: পাতল ছালৰ ৰং</annotation>
 		<annotation cp="👐🏼">খোলা | মধ্যমীয়া-পাতল ছালৰ ৰং | মেলা হাত | হাত</annotation>
@@ -302,6 +433,16 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🤲🏾" type="tts">একেলগে উঠোৱা হাত: মধ্যমীয়া-ক’লা ছালৰ ৰং</annotation>
 		<annotation cp="🤲🏿">একেলগে উঠোৱা হাত | ক’লা ছালৰ ৰং | প্ৰাৰ্থনা</annotation>
 		<annotation cp="🤲🏿" type="tts">একেলগে উঠোৱা হাত: ক’লা ছালৰ ৰং</annotation>
+		<annotation cp="🤝🏻">কৰমৰ্দন | চুক্তি | পাতল ছালৰ ৰং | মিটিং | লৰোৱা | হাত</annotation>
+		<annotation cp="🤝🏻" type="tts">কৰমৰ্দন: পাতল ছালৰ ৰং</annotation>
+		<annotation cp="🤝🏼">কৰমৰ্দন | চুক্তি | মধ্যমীয়া-পাতল ছালৰ ৰং | মিটিং | লৰোৱা | হাত</annotation>
+		<annotation cp="🤝🏼" type="tts">কৰমৰ্দন: মধ্যমীয়া-পাতল ছালৰ ৰং</annotation>
+		<annotation cp="🤝🏽">কৰমৰ্দন | চুক্তি | মধ্যমীয়া ছালৰ ৰং | মিটিং | লৰোৱা | হাত</annotation>
+		<annotation cp="🤝🏽" type="tts">কৰমৰ্দন: মধ্যমীয়া ছালৰ ৰং</annotation>
+		<annotation cp="🤝🏾">কৰমৰ্দন | চুক্তি | মধ্যমীয়া-ক’লা ছালৰ ৰং | মিটিং | লৰোৱা | হাত</annotation>
+		<annotation cp="🤝🏾" type="tts">কৰমৰ্দন: মধ্যমীয়া-ক’লা ছালৰ ৰং</annotation>
+		<annotation cp="🤝🏿">ক’লা ছালৰ ৰং | কৰমৰ্দন | চুক্তি | মিটিং | লৰোৱা | হাত</annotation>
+		<annotation cp="🤝🏿" type="tts">কৰমৰ্দন: ক’লা ছালৰ ৰং</annotation>
 		<annotation cp="🙏🏻">অনুগ্ৰহ | ধন্যবাদ | পাতল ছালৰ ৰং | প্ৰাৰ্থনা | সোধা | হাত | হাত জোৰ কৰা</annotation>
 		<annotation cp="🙏🏻" type="tts">হাত জোৰ কৰা: পাতল ছালৰ ৰং</annotation>
 		<annotation cp="🙏🏼">অনুগ্ৰহ | ধন্যবাদ | প্ৰাৰ্থনা | মধ্যমীয়া-পাতল ছালৰ ৰং | সোধা | হাত | হাত জোৰ কৰা</annotation>
@@ -1996,6 +2137,16 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👷🏾‍♀" type="tts">নিৰ্মাণকাৰ্য্যৰ মহিলা শ্ৰমিক: মধ্যমীয়া-ক’লা ছালৰ ৰং</annotation>
 		<annotation cp="👷🏿‍♀">ক’লা ছালৰ ৰং | নিৰ্মাণকাৰ্য্য | নিৰ্মাণকাৰ্য্যৰ মহিলা শ্ৰমিক | মহিলা | শ্ৰমিক</annotation>
 		<annotation cp="👷🏿‍♀" type="tts">নিৰ্মাণকাৰ্য্যৰ মহিলা শ্ৰমিক: ক’লা ছালৰ ৰং</annotation>
+		<annotation cp="🫅🏻">পাতল ছালৰ ৰং | মুকুট পিন্ধা ব্যক্তি | ৰাজকীয় | ৰাজন্য | ৰাজপদ | সম্ৰাট</annotation>
+		<annotation cp="🫅🏻" type="tts">মুকুট পিন্ধা ব্যক্তি: পাতল ছালৰ ৰং</annotation>
+		<annotation cp="🫅🏼">মধ্যমীয়া-পাতল ছালৰ ৰং | মুকুট পিন্ধা ব্যক্তি | ৰাজকীয় | ৰাজন্য | ৰাজপদ | সম্ৰাট</annotation>
+		<annotation cp="🫅🏼" type="tts">মুকুট পিন্ধা ব্যক্তি: মধ্যমীয়া-পাতল ছালৰ ৰং</annotation>
+		<annotation cp="🫅🏽">মধ্যমীয়া ছালৰ ৰং | মুকুট পিন্ধা ব্যক্তি | ৰাজকীয় | ৰাজন্য | ৰাজপদ | সম্ৰাট</annotation>
+		<annotation cp="🫅🏽" type="tts">মুকুট পিন্ধা ব্যক্তি: মধ্যমীয়া ছালৰ ৰং</annotation>
+		<annotation cp="🫅🏾">মধ্যমীয়া-ক’লা ছালৰ ৰং | মুকুট পিন্ধা ব্যক্তি | ৰাজকীয় | ৰাজন্য | ৰাজপদ | সম্ৰাট</annotation>
+		<annotation cp="🫅🏾" type="tts">মুকুট পিন্ধা ব্যক্তি: মধ্যমীয়া-ক’লা ছালৰ ৰং</annotation>
+		<annotation cp="🫅🏿">ক’লা ছালৰ ৰং | মুকুট পিন্ধা ব্যক্তি | ৰাজকীয় | ৰাজন্য | ৰাজপদ | সম্ৰাট</annotation>
+		<annotation cp="🫅🏿" type="tts">মুকুট পিন্ধা ব্যক্তি: ক’লা ছালৰ ৰং</annotation>
 		<annotation cp="🤴🏻">পাতল ছালৰ ৰং | ৰাজকুমাৰ</annotation>
 		<annotation cp="🤴🏻" type="tts">ৰাজকুমাৰ: পাতল ছালৰ ৰং</annotation>
 		<annotation cp="🤴🏼">মধ্যমীয়া-পাতল ছালৰ ৰং | ৰাজকুমাৰ</annotation>
@@ -2136,6 +2287,26 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🤰🏾" type="tts">গৰ্ভৱতী মহিলা: মধ্যমীয়া-ক’লা ছালৰ ৰং</annotation>
 		<annotation cp="🤰🏿">ক’লা ছালৰ ৰং | গৰ্ভৱতী | মহিলা</annotation>
 		<annotation cp="🤰🏿" type="tts">গৰ্ভৱতী মহিলা: ক’লা ছালৰ ৰং</annotation>
+		<annotation cp="🫃🏻">গৰ্ভৱতী | গৰ্ভৱতী পুৰুষ | তলপেট | পাতল ছালৰ ৰং | ফুলা | সম্পূৰ্ণ</annotation>
+		<annotation cp="🫃🏻" type="tts">গৰ্ভৱতী পুৰুষ: পাতল ছালৰ ৰং</annotation>
+		<annotation cp="🫃🏼">গৰ্ভৱতী | গৰ্ভৱতী পুৰুষ | তলপেট | ফুলা | মধ্যমীয়া-পাতল ছালৰ ৰং | সম্পূৰ্ণ</annotation>
+		<annotation cp="🫃🏼" type="tts">গৰ্ভৱতী পুৰুষ: মধ্যমীয়া-পাতল ছালৰ ৰং</annotation>
+		<annotation cp="🫃🏽">গৰ্ভৱতী | গৰ্ভৱতী পুৰুষ | তলপেট | ফুলা | মধ্যমীয়া ছালৰ ৰং | সম্পূৰ্ণ</annotation>
+		<annotation cp="🫃🏽" type="tts">গৰ্ভৱতী পুৰুষ: মধ্যমীয়া ছালৰ ৰং</annotation>
+		<annotation cp="🫃🏾">গৰ্ভৱতী | গৰ্ভৱতী পুৰুষ | তলপেট | ফুলা | মধ্যমীয়া-ক’লা ছালৰ ৰং | সম্পূৰ্ণ</annotation>
+		<annotation cp="🫃🏾" type="tts">গৰ্ভৱতী পুৰুষ: মধ্যমীয়া-ক’লা ছালৰ ৰং</annotation>
+		<annotation cp="🫃🏿">ক’লা ছালৰ ৰং | গৰ্ভৱতী | গৰ্ভৱতী পুৰুষ | তলপেট | ফুলা | সম্পূৰ্ণ</annotation>
+		<annotation cp="🫃🏿" type="tts">গৰ্ভৱতী পুৰুষ: ক’লা ছালৰ ৰং</annotation>
+		<annotation cp="🫄🏻">গৰ্ভৱতী | গৰ্ভৱতী ব্যক্তি | তলপেট | পাতল ছালৰ ৰং | ফুলা | সম্পূৰ্ণ</annotation>
+		<annotation cp="🫄🏻" type="tts">গৰ্ভৱতী ব্যক্তি: পাতল ছালৰ ৰং</annotation>
+		<annotation cp="🫄🏼">গৰ্ভৱতী | গৰ্ভৱতী ব্যক্তি | তলপেট | ফুলা | মধ্যমীয়া-পাতল ছালৰ ৰং | সম্পূৰ্ণ</annotation>
+		<annotation cp="🫄🏼" type="tts">গৰ্ভৱতী ব্যক্তি: মধ্যমীয়া-পাতল ছালৰ ৰং</annotation>
+		<annotation cp="🫄🏽">গৰ্ভৱতী | গৰ্ভৱতী ব্যক্তি | তলপেট | ফুলা | মধ্যমীয়া ছালৰ ৰং | সম্পূৰ্ণ</annotation>
+		<annotation cp="🫄🏽" type="tts">গৰ্ভৱতী ব্যক্তি: মধ্যমীয়া ছালৰ ৰং</annotation>
+		<annotation cp="🫄🏾">গৰ্ভৱতী | গৰ্ভৱতী ব্যক্তি | তলপেট | ফুলা | মধ্যমীয়া-ক’লা ছালৰ ৰং | সম্পূৰ্ণ</annotation>
+		<annotation cp="🫄🏾" type="tts">গৰ্ভৱতী ব্যক্তি: মধ্যমীয়া-ক’লা ছালৰ ৰং</annotation>
+		<annotation cp="🫄🏿">ক’লা ছালৰ ৰং | গৰ্ভৱতী | গৰ্ভৱতী ব্যক্তি | তলপেট | ফুলা | সম্পূৰ্ণ</annotation>
+		<annotation cp="🫄🏿" type="tts">গৰ্ভৱতী ব্যক্তি: ক’লা ছালৰ ৰং</annotation>
 		<annotation cp="🤱🏻">নাৰ্চিং | পাতল ছালৰ ৰং | শিশু | স্তন | স্তনপান</annotation>
 		<annotation cp="🤱🏻" type="tts">স্তনপান: পাতল ছালৰ ৰং</annotation>
 		<annotation cp="🤱🏼">নাৰ্চিং | মধ্যমীয়া-পাতল ছালৰ ৰং | শিশু | স্তন | স্তনপান</annotation>
@@ -2206,15 +2377,15 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🤶🏾" type="tts">মিচেচ ক্ল’জ: মধ্যমীয়া-ক’লা ছালৰ ৰং</annotation>
 		<annotation cp="🤶🏿">উদযাপন | ক’লা ছালৰ ৰং | ক্ল’জ | খ্ৰীষ্টমাচ | মাতৃ | মিচেচ ক্ল’জ</annotation>
 		<annotation cp="🤶🏿" type="tts">মিচেচ ক্ল’জ: ক’লা ছালৰ ৰং</annotation>
-		<annotation cp="🧑🏻‍🎄">ক্ল’জ, খ্ৰীষ্টমাচ | পাতল ছালৰ ৰং | মেক্স ক্ল’জ</annotation>
+		<annotation cp="🧑🏻‍🎄">উদ্‌যাপন | এক্সমাছ | কল্পনা | ক্ল’জ | খ্ৰীষ্টমাচ | ছান্তা | পৰী | পাতল ছালৰ ৰং | বন্ধৰ দিন | মেক্স | মেৰী | সাধুকথা</annotation>
 		<annotation cp="🧑🏻‍🎄" type="tts">মেক্স ক্ল’জ: পাতল ছালৰ ৰং</annotation>
-		<annotation cp="🧑🏼‍🎄">ক্ল’জ, খ্ৰীষ্টমাচ | মধ্যমীয়া-পাতল ছালৰ ৰং | মেক্স ক্ল’জ</annotation>
+		<annotation cp="🧑🏼‍🎄">উদ্‌যাপন | এক্সমাছ | কল্পনা | ক্ল’জ | খ্ৰীষ্টমাচ | ছান্তা | পৰী | বন্ধৰ দিন | মধ্যমীয়া-পাতল ছালৰ ৰং | মেক্স | মেৰী | সাধুকথা</annotation>
 		<annotation cp="🧑🏼‍🎄" type="tts">মেক্স ক্ল’জ: মধ্যমীয়া-পাতল ছালৰ ৰং</annotation>
-		<annotation cp="🧑🏽‍🎄">ক্ল’জ, খ্ৰীষ্টমাচ | মধ্যমীয়া ছালৰ ৰং | মেক্স ক্ল’জ</annotation>
+		<annotation cp="🧑🏽‍🎄">উদ্‌যাপন | এক্সমাছ | কল্পনা | ক্ল’জ | খ্ৰীষ্টমাচ | ছান্তা | পৰী | বন্ধৰ দিন | মধ্যমীয়া ছালৰ ৰং | মেক্স | মেৰী | সাধুকথা</annotation>
 		<annotation cp="🧑🏽‍🎄" type="tts">মেক্স ক্ল’জ: মধ্যমীয়া ছালৰ ৰং</annotation>
-		<annotation cp="🧑🏾‍🎄">ক্ল’জ, খ্ৰীষ্টমাচ | মধ্যমীয়া-ক’লা ছালৰ ৰং | মেক্স ক্ল’জ</annotation>
+		<annotation cp="🧑🏾‍🎄">উদ্‌যাপন | এক্সমাছ | কল্পনা | ক্ল’জ | খ্ৰীষ্টমাচ | ছান্তা | পৰী | বন্ধৰ দিন | মধ্যমীয়া-ক’লা ছালৰ ৰং | মেক্স | মেৰী | সাধুকথা</annotation>
 		<annotation cp="🧑🏾‍🎄" type="tts">মেক্স ক্ল’জ: মধ্যমীয়া-ক’লা ছালৰ ৰং</annotation>
-		<annotation cp="🧑🏿‍🎄">ক’লা ছালৰ ৰং | ক্ল’জ, খ্ৰীষ্টমাচ | মেক্স ক্ল’জ</annotation>
+		<annotation cp="🧑🏿‍🎄">উদ্‌যাপন | এক্সমাছ | ক’লা ছালৰ ৰং | কল্পনা | ক্ল’জ | খ্ৰীষ্টমাচ | ছান্তা | পৰী | বন্ধৰ দিন | মেক্স | মেৰী | সাধুকথা</annotation>
 		<annotation cp="🧑🏿‍🎄" type="tts">মেক্স ক্ল’জ: ক’লা ছালৰ ৰং</annotation>
 		<annotation cp="🦸🏻">চুপাৰপাৱাৰ | চুপাৰহিৰ’ | পাতল ছালৰ ৰং | ভাল | হিৰ’ | হিৰ’ইন</annotation>
 		<annotation cp="🦸🏻" type="tts">চুপাৰহিৰ’: পাতল ছালৰ ৰং</annotation>
@@ -2516,6 +2687,42 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🚶🏾‍♀" type="tts">খোজ কঢ়া মহিলা: মধ্যমীয়া-ক’লা ছালৰ ৰং</annotation>
 		<annotation cp="🚶🏿‍♀">ক’লা ছালৰ ৰং | খোজ কঢ়া | খোজ কঢ়া মহিলা | বৃদ্ধি | মহিলা</annotation>
 		<annotation cp="🚶🏿‍♀" type="tts">খোজ কঢ়া মহিলা: ক’লা ছালৰ ৰং</annotation>
+		<annotation cp="🚶‍➡">কৰা | খোজ কঢ়া | খোজ কঢ়া ব্যক্তি | খোজ কাঢ়ি থকা | বৃদ্ধি | মুখ | সোঁফালে</annotation>
+		<annotation cp="🚶‍➡" type="tts">খোজ কঢ়া ব্যক্তি: সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="🚶🏻‍➡">কৰা | খোজ কঢ়া | খোজ কঢ়া ব্যক্তি | খোজ কাঢ়ি থকা | পাতল ছালৰ ৰং | বৃদ্ধি | মুখ | সোঁফালে</annotation>
+		<annotation cp="🚶🏻‍➡" type="tts">খোজ কঢ়া ব্যক্তি: পাতল ছালৰ ৰং, সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="🚶🏼‍➡">কৰা | খোজ কঢ়া | খোজ কঢ়া ব্যক্তি | খোজ কাঢ়ি থকা | বৃদ্ধি | মধ্যমীয়া-পাতল ছালৰ ৰং | মুখ | সোঁফালে</annotation>
+		<annotation cp="🚶🏼‍➡" type="tts">খোজ কঢ়া ব্যক্তি: মধ্যমীয়া-পাতল ছালৰ ৰং, সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="🚶🏽‍➡">কৰা | খোজ কঢ়া | খোজ কঢ়া ব্যক্তি | খোজ কাঢ়ি থকা | বৃদ্ধি | মধ্যমীয়া ছালৰ ৰং | মুখ | সোঁফালে</annotation>
+		<annotation cp="🚶🏽‍➡" type="tts">খোজ কঢ়া ব্যক্তি: মধ্যমীয়া ছালৰ ৰং, সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="🚶🏾‍➡">কৰা | খোজ কঢ়া | খোজ কঢ়া ব্যক্তি | খোজ কাঢ়ি থকা | বৃদ্ধি | মধ্যমীয়া-ক’লা ছালৰ ৰং | মুখ | সোঁফালে</annotation>
+		<annotation cp="🚶🏾‍➡" type="tts">খোজ কঢ়া ব্যক্তি: মধ্যমীয়া-ক’লা ছালৰ ৰং, সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="🚶🏿‍➡">ক’লা ছালৰ ৰং | কৰা | খোজ কঢ়া | খোজ কঢ়া ব্যক্তি | খোজ কাঢ়ি থকা | বৃদ্ধি | মুখ | সোঁফালে</annotation>
+		<annotation cp="🚶🏿‍➡" type="tts">খোজ কঢ়া ব্যক্তি: ক’লা ছালৰ ৰং, সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="🚶‍♀‍➡">কৰা | খোজ কঢ়া | খোজ কঢ়া মহিলা | বৃদ্ধি | মহিলা | মুখ | সোঁফালে</annotation>
+		<annotation cp="🚶‍♀‍➡" type="tts">খোজ কঢ়া মহিলা: সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="🚶🏻‍♀‍➡">কৰা | খোজ কঢ়া | খোজ কঢ়া মহিলা | পাতল ছালৰ ৰং | বৃদ্ধি | মহিলা | মুখ | সোঁফালে</annotation>
+		<annotation cp="🚶🏻‍♀‍➡" type="tts">খোজ কঢ়া মহিলা: পাতল ছালৰ ৰং, সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="🚶🏼‍♀‍➡">কৰা | খোজ কঢ়া | খোজ কঢ়া মহিলা | বৃদ্ধি | মধ্যমীয়া-পাতল ছালৰ ৰং | মহিলা | মুখ | সোঁফালে</annotation>
+		<annotation cp="🚶🏼‍♀‍➡" type="tts">খোজ কঢ়া মহিলা: মধ্যমীয়া-পাতল ছালৰ ৰং, সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="🚶🏽‍♀‍➡">কৰা | খোজ কঢ়া | খোজ কঢ়া মহিলা | বৃদ্ধি | মধ্যমীয়া ছালৰ ৰং | মহিলা | মুখ | সোঁফালে</annotation>
+		<annotation cp="🚶🏽‍♀‍➡" type="tts">খোজ কঢ়া মহিলা: মধ্যমীয়া ছালৰ ৰং, সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="🚶🏾‍♀‍➡">কৰা | খোজ কঢ়া | খোজ কঢ়া মহিলা | বৃদ্ধি | মধ্যমীয়া-ক’লা ছালৰ ৰং | মহিলা | মুখ | সোঁফালে</annotation>
+		<annotation cp="🚶🏾‍♀‍➡" type="tts">খোজ কঢ়া মহিলা: মধ্যমীয়া-ক’লা ছালৰ ৰং, সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="🚶🏿‍♀‍➡">ক’লা ছালৰ ৰং | কৰা | খোজ কঢ়া | খোজ কঢ়া মহিলা | বৃদ্ধি | মহিলা | মুখ | সোঁফালে</annotation>
+		<annotation cp="🚶🏿‍♀‍➡" type="tts">খোজ কঢ়া মহিলা: ক’লা ছালৰ ৰং, সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="🚶‍♂‍➡">কৰা | খোজ কঢ়া | খোজ কঢ়া পুৰুষ | পুৰুষ | বৃদ্ধি | মুখ | সোঁফালে</annotation>
+		<annotation cp="🚶‍♂‍➡" type="tts">খোজ কঢ়া পুৰুষ: সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="🚶🏻‍♂‍➡">কৰা | খোজ কঢ়া | খোজ কঢ়া পুৰুষ | পাতল ছালৰ ৰং | পুৰুষ | বৃদ্ধি | মুখ | সোঁফালে</annotation>
+		<annotation cp="🚶🏻‍♂‍➡" type="tts">খোজ কঢ়া পুৰুষ: পাতল ছালৰ ৰং, সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="🚶🏼‍♂‍➡">কৰা | খোজ কঢ়া | খোজ কঢ়া পুৰুষ | পুৰুষ | বৃদ্ধি | মধ্যমীয়া-পাতল ছালৰ ৰং | মুখ | সোঁফালে</annotation>
+		<annotation cp="🚶🏼‍♂‍➡" type="tts">খোজ কঢ়া পুৰুষ: মধ্যমীয়া-পাতল ছালৰ ৰং, সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="🚶🏽‍♂‍➡">কৰা | খোজ কঢ়া | খোজ কঢ়া পুৰুষ | পুৰুষ | বৃদ্ধি | মধ্যমীয়া ছালৰ ৰং | মুখ | সোঁফালে</annotation>
+		<annotation cp="🚶🏽‍♂‍➡" type="tts">খোজ কঢ়া পুৰুষ: মধ্যমীয়া ছালৰ ৰং, সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="🚶🏾‍♂‍➡">কৰা | খোজ কঢ়া | খোজ কঢ়া পুৰুষ | পুৰুষ | বৃদ্ধি | মধ্যমীয়া-ক’লা ছালৰ ৰং | মুখ | সোঁফালে</annotation>
+		<annotation cp="🚶🏾‍♂‍➡" type="tts">খোজ কঢ়া পুৰুষ: মধ্যমীয়া-ক’লা ছালৰ ৰং, সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="🚶🏿‍♂‍➡">ক’লা ছালৰ ৰং | কৰা | খোজ কঢ়া | খোজ কঢ়া পুৰুষ | পুৰুষ | বৃদ্ধি | মুখ | সোঁফালে</annotation>
+		<annotation cp="🚶🏿‍♂‍➡" type="tts">খোজ কঢ়া পুৰুষ: ক’লা ছালৰ ৰং, সোঁফালে মুখ কৰা</annotation>
 		<annotation cp="🧍🏻">ঠিয় হৈ থকা | ঠিয় হৈ থকা ব্যক্তি | পাতল ছালৰ ৰং</annotation>
 		<annotation cp="🧍🏻" type="tts">ঠিয় হৈ থকা ব্যক্তি: পাতল ছালৰ ৰং</annotation>
 		<annotation cp="🧍🏼">ঠিয় হৈ থকা | ঠিয় হৈ থকা ব্যক্তি | মধ্যমীয়া-পাতল ছালৰ ৰং</annotation>
@@ -2576,6 +2783,42 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🧎🏾‍♀" type="tts">আঁঠু কাঢ়ি থকা মহিলা: মধ্যমীয়া-ক’লা ছালৰ ৰং</annotation>
 		<annotation cp="🧎🏿‍♀">আঁঠু কাঢ়ি থকা অৱস্থা | আঁঠু কাঢ়ি থকা মহিলা | ক’লা ছালৰ ৰং | মহিলা</annotation>
 		<annotation cp="🧎🏿‍♀" type="tts">আঁঠু কাঢ়ি থকা মহিলা: ক’লা ছালৰ ৰং</annotation>
+		<annotation cp="🧎‍➡">আঁঠু কঢ়া | আঁঠু কাঢ়ি থকা অৱস্থা | আঠুকাঢ়ি থকা ব্যক্তি | কৰা | মুখ | সোঁফালে</annotation>
+		<annotation cp="🧎‍➡" type="tts">আঠুকাঢ়ি থকা ব্যক্তি: সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="🧎🏻‍➡">আঁঠু কঢ়া | আঁঠু কাঢ়ি থকা অৱস্থা | আঠুকাঢ়ি থকা ব্যক্তি | কৰা | পাতল ছালৰ ৰং | মুখ | সোঁফালে</annotation>
+		<annotation cp="🧎🏻‍➡" type="tts">আঠুকাঢ়ি থকা ব্যক্তি: পাতল ছালৰ ৰং, সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="🧎🏼‍➡">আঁঠু কঢ়া | আঁঠু কাঢ়ি থকা অৱস্থা | আঠুকাঢ়ি থকা ব্যক্তি | কৰা | মধ্যমীয়া-পাতল ছালৰ ৰং | মুখ | সোঁফালে</annotation>
+		<annotation cp="🧎🏼‍➡" type="tts">আঠুকাঢ়ি থকা ব্যক্তি: মধ্যমীয়া-পাতল ছালৰ ৰং, সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="🧎🏽‍➡">আঁঠু কঢ়া | আঁঠু কাঢ়ি থকা অৱস্থা | আঠুকাঢ়ি থকা ব্যক্তি | কৰা | মধ্যমীয়া ছালৰ ৰং | মুখ | সোঁফালে</annotation>
+		<annotation cp="🧎🏽‍➡" type="tts">আঠুকাঢ়ি থকা ব্যক্তি: মধ্যমীয়া ছালৰ ৰং, সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="🧎🏾‍➡">আঁঠু কঢ়া | আঁঠু কাঢ়ি থকা অৱস্থা | আঠুকাঢ়ি থকা ব্যক্তি | কৰা | মধ্যমীয়া-ক’লা ছালৰ ৰং | মুখ | সোঁফালে</annotation>
+		<annotation cp="🧎🏾‍➡" type="tts">আঠুকাঢ়ি থকা ব্যক্তি: মধ্যমীয়া-ক’লা ছালৰ ৰং, সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="🧎🏿‍➡">আঁঠু কঢ়া | আঁঠু কাঢ়ি থকা অৱস্থা | আঠুকাঢ়ি থকা ব্যক্তি | ক’লা ছালৰ ৰং | কৰা | মুখ | সোঁফালে</annotation>
+		<annotation cp="🧎🏿‍➡" type="tts">আঠুকাঢ়ি থকা ব্যক্তি: ক’লা ছালৰ ৰং, সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="🧎‍♀‍➡">আঁঠু কাঢ়ি থকা অৱস্থা | আঁঠু কাঢ়ি থকা মহিলা | কৰা | মহিলা | মুখ | সোঁফালে</annotation>
+		<annotation cp="🧎‍♀‍➡" type="tts">আঁঠু কাঢ়ি থকা মহিলা: সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="🧎🏻‍♀‍➡">আঁঠু কাঢ়ি থকা অৱস্থা | আঁঠু কাঢ়ি থকা মহিলা | কৰা | পাতল ছালৰ ৰং | মহিলা | মুখ | সোঁফালে</annotation>
+		<annotation cp="🧎🏻‍♀‍➡" type="tts">আঁঠু কাঢ়ি থকা মহিলা: পাতল ছালৰ ৰং, সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="🧎🏼‍♀‍➡">আঁঠু কাঢ়ি থকা অৱস্থা | আঁঠু কাঢ়ি থকা মহিলা | কৰা | মধ্যমীয়া-পাতল ছালৰ ৰং | মহিলা | মুখ | সোঁফালে</annotation>
+		<annotation cp="🧎🏼‍♀‍➡" type="tts">আঁঠু কাঢ়ি থকা মহিলা: মধ্যমীয়া-পাতল ছালৰ ৰং, সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="🧎🏽‍♀‍➡">আঁঠু কাঢ়ি থকা অৱস্থা | আঁঠু কাঢ়ি থকা মহিলা | কৰা | মধ্যমীয়া ছালৰ ৰং | মহিলা | মুখ | সোঁফালে</annotation>
+		<annotation cp="🧎🏽‍♀‍➡" type="tts">আঁঠু কাঢ়ি থকা মহিলা: মধ্যমীয়া ছালৰ ৰং, সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="🧎🏾‍♀‍➡">আঁঠু কাঢ়ি থকা অৱস্থা | আঁঠু কাঢ়ি থকা মহিলা | কৰা | মধ্যমীয়া-ক’লা ছালৰ ৰং | মহিলা | মুখ | সোঁফালে</annotation>
+		<annotation cp="🧎🏾‍♀‍➡" type="tts">আঁঠু কাঢ়ি থকা মহিলা: মধ্যমীয়া-ক’লা ছালৰ ৰং, সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="🧎🏿‍♀‍➡">আঁঠু কাঢ়ি থকা অৱস্থা | আঁঠু কাঢ়ি থকা মহিলা | ক’লা ছালৰ ৰং | কৰা | মহিলা | মুখ | সোঁফালে</annotation>
+		<annotation cp="🧎🏿‍♀‍➡" type="tts">আঁঠু কাঢ়ি থকা মহিলা: ক’লা ছালৰ ৰং, সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="🧎‍♂‍➡">আঁঠু কাঢ়ি থকা অৱস্থা | আঁঠু কাঢ়ি থকা মানুহ | কৰা | পুৰুষ | মুখ | সোঁফালে</annotation>
+		<annotation cp="🧎‍♂‍➡" type="tts">আঁঠু কাঢ়ি থকা মানুহ: সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="🧎🏻‍♂‍➡">আঁঠু কাঢ়ি থকা অৱস্থা | আঁঠু কাঢ়ি থকা মানুহ | কৰা | পাতল ছালৰ ৰং | পুৰুষ | মুখ | সোঁফালে</annotation>
+		<annotation cp="🧎🏻‍♂‍➡" type="tts">আঁঠু কাঢ়ি থকা মানুহ: পাতল ছালৰ ৰং, সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="🧎🏼‍♂‍➡">আঁঠু কাঢ়ি থকা অৱস্থা | আঁঠু কাঢ়ি থকা মানুহ | কৰা | পুৰুষ | মধ্যমীয়া-পাতল ছালৰ ৰং | মুখ | সোঁফালে</annotation>
+		<annotation cp="🧎🏼‍♂‍➡" type="tts">আঁঠু কাঢ়ি থকা মানুহ: মধ্যমীয়া-পাতল ছালৰ ৰং, সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="🧎🏽‍♂‍➡">আঁঠু কাঢ়ি থকা অৱস্থা | আঁঠু কাঢ়ি থকা মানুহ | কৰা | পুৰুষ | মধ্যমীয়া ছালৰ ৰং | মুখ | সোঁফালে</annotation>
+		<annotation cp="🧎🏽‍♂‍➡" type="tts">আঁঠু কাঢ়ি থকা মানুহ: মধ্যমীয়া ছালৰ ৰং, সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="🧎🏾‍♂‍➡">আঁঠু কাঢ়ি থকা অৱস্থা | আঁঠু কাঢ়ি থকা মানুহ | কৰা | পুৰুষ | মধ্যমীয়া-ক’লা ছালৰ ৰং | মুখ | সোঁফালে</annotation>
+		<annotation cp="🧎🏾‍♂‍➡" type="tts">আঁঠু কাঢ়ি থকা মানুহ: মধ্যমীয়া-ক’লা ছালৰ ৰং, সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="🧎🏿‍♂‍➡">আঁঠু কাঢ়ি থকা অৱস্থা | আঁঠু কাঢ়ি থকা মানুহ | ক’লা ছালৰ ৰং | কৰা | পুৰুষ | মুখ | সোঁফালে</annotation>
+		<annotation cp="🧎🏿‍♂‍➡" type="tts">আঁঠু কাঢ়ি থকা মানুহ: ক’লা ছালৰ ৰং, সোঁফালে মুখ কৰা</annotation>
 		<annotation cp="🧑🏻‍🦯">অন্ধ | দিব্যাংগ | পাতল ছালৰ ৰং | বেতৰ লাখুটি লৈ থকা ব্যক্তি</annotation>
 		<annotation cp="🧑🏻‍🦯" type="tts">বেতৰ লাখুটি লৈ থকা ব্যক্তি: পাতল ছালৰ ৰং</annotation>
 		<annotation cp="🧑🏼‍🦯">অন্ধ | দিব্যাংগ | বেতৰ লাখুটি লৈ থকা ব্যক্তি | মধ্যমীয়া-পাতল ছালৰ ৰং</annotation>
@@ -2586,6 +2829,18 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🧑🏾‍🦯" type="tts">বেতৰ লাখুটি লৈ থকা ব্যক্তি: মধ্যমীয়া-ক’লা ছালৰ ৰং</annotation>
 		<annotation cp="🧑🏿‍🦯">অন্ধ | ক’লা ছালৰ ৰং | দিব্যাংগ | বেতৰ লাখুটি লৈ থকা ব্যক্তি</annotation>
 		<annotation cp="🧑🏿‍🦯" type="tts">বেতৰ লাখুটি লৈ থকা ব্যক্তি: ক’লা ছালৰ ৰং</annotation>
+		<annotation cp="🧑‍🦯‍➡">অন্ধ | কৰা | দিব্যাংগ | বেতৰ লাখুটি লৈ থকা ব্যক্তি | মুখ | সোঁফালে</annotation>
+		<annotation cp="🧑‍🦯‍➡" type="tts">বেতৰ লাখুটি লৈ থকা ব্যক্তি: সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="🧑🏻‍🦯‍➡">অন্ধ | কৰা | দিব্যাংগ | পাতল ছালৰ ৰং | বেতৰ লাখুটি লৈ থকা ব্যক্তি | মুখ | সোঁফালে</annotation>
+		<annotation cp="🧑🏻‍🦯‍➡" type="tts">বেতৰ লাখুটি লৈ থকা ব্যক্তি: পাতল ছালৰ ৰং, সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="🧑🏼‍🦯‍➡">অন্ধ | কৰা | দিব্যাংগ | বেতৰ লাখুটি লৈ থকা ব্যক্তি | মধ্যমীয়া-পাতল ছালৰ ৰং | মুখ | সোঁফালে</annotation>
+		<annotation cp="🧑🏼‍🦯‍➡" type="tts">বেতৰ লাখুটি লৈ থকা ব্যক্তি: মধ্যমীয়া-পাতল ছালৰ ৰং, সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="🧑🏽‍🦯‍➡">অন্ধ | কৰা | দিব্যাংগ | বেতৰ লাখুটি লৈ থকা ব্যক্তি | মধ্যমীয়া ছালৰ ৰং | মুখ | সোঁফালে</annotation>
+		<annotation cp="🧑🏽‍🦯‍➡" type="tts">বেতৰ লাখুটি লৈ থকা ব্যক্তি: মধ্যমীয়া ছালৰ ৰং, সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="🧑🏾‍🦯‍➡">অন্ধ | কৰা | দিব্যাংগ | বেতৰ লাখুটি লৈ থকা ব্যক্তি | মধ্যমীয়া-ক’লা ছালৰ ৰং | মুখ | সোঁফালে</annotation>
+		<annotation cp="🧑🏾‍🦯‍➡" type="tts">বেতৰ লাখুটি লৈ থকা ব্যক্তি: মধ্যমীয়া-ক’লা ছালৰ ৰং, সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="🧑🏿‍🦯‍➡">অন্ধ | ক’লা ছালৰ ৰং | কৰা | দিব্যাংগ | বেতৰ লাখুটি লৈ থকা ব্যক্তি | মুখ | সোঁফালে</annotation>
+		<annotation cp="🧑🏿‍🦯‍➡" type="tts">বেতৰ লাখুটি লৈ থকা ব্যক্তি: ক’লা ছালৰ ৰং, সোঁফালে মুখ কৰা</annotation>
 		<annotation cp="👨🏻‍🦯">অন্ধ | দিব্যাংগ | পাতল ছালৰ ৰং | পুৰুষ | হাতত বেতৰ লাখুটি লৈ থকা মানুহৰ ছবি</annotation>
 		<annotation cp="👨🏻‍🦯" type="tts">হাতত বেতৰ লাখুটি লৈ থকা মানুহৰ ছবি: পাতল ছালৰ ৰং</annotation>
 		<annotation cp="👨🏼‍🦯">অন্ধ | দিব্যাংগ | পুৰুষ | মধ্যমীয়া-পাতল ছালৰ ৰং | হাতত বেতৰ লাখুটি লৈ থকা মানুহৰ ছবি</annotation>
@@ -2596,6 +2851,18 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👨🏾‍🦯" type="tts">হাতত বেতৰ লাখুটি লৈ থকা মানুহৰ ছবি: মধ্যমীয়া-ক’লা ছালৰ ৰং</annotation>
 		<annotation cp="👨🏿‍🦯">অন্ধ | ক’লা ছালৰ ৰং | দিব্যাংগ | পুৰুষ | হাতত বেতৰ লাখুটি লৈ থকা মানুহৰ ছবি</annotation>
 		<annotation cp="👨🏿‍🦯" type="tts">হাতত বেতৰ লাখুটি লৈ থকা মানুহৰ ছবি: ক’লা ছালৰ ৰং</annotation>
+		<annotation cp="👨‍🦯‍➡">অন্ধ | কৰা | দিব্যাংগ | পুৰুষ | মুখ | সোঁফালে | হাতত বেতৰ লাখুটি লৈ থকা মানুহৰ ছবি</annotation>
+		<annotation cp="👨‍🦯‍➡" type="tts">হাতত বেতৰ লাখুটি লৈ থকা মানুহৰ ছবি: সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="👨🏻‍🦯‍➡">অন্ধ | কৰা | দিব্যাংগ | পাতল ছালৰ ৰং | পুৰুষ | মুখ | সোঁফালে | হাতত বেতৰ লাখুটি লৈ থকা মানুহৰ ছবি</annotation>
+		<annotation cp="👨🏻‍🦯‍➡" type="tts">হাতত বেতৰ লাখুটি লৈ থকা মানুহৰ ছবি: পাতল ছালৰ ৰং, সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="👨🏼‍🦯‍➡">অন্ধ | কৰা | দিব্যাংগ | পুৰুষ | মধ্যমীয়া-পাতল ছালৰ ৰং | মুখ | সোঁফালে | হাতত বেতৰ লাখুটি লৈ থকা মানুহৰ ছবি</annotation>
+		<annotation cp="👨🏼‍🦯‍➡" type="tts">হাতত বেতৰ লাখুটি লৈ থকা মানুহৰ ছবি: মধ্যমীয়া-পাতল ছালৰ ৰং, সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="👨🏽‍🦯‍➡">অন্ধ | কৰা | দিব্যাংগ | পুৰুষ | মধ্যমীয়া ছালৰ ৰং | মুখ | সোঁফালে | হাতত বেতৰ লাখুটি লৈ থকা মানুহৰ ছবি</annotation>
+		<annotation cp="👨🏽‍🦯‍➡" type="tts">হাতত বেতৰ লাখুটি লৈ থকা মানুহৰ ছবি: মধ্যমীয়া ছালৰ ৰং, সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="👨🏾‍🦯‍➡">অন্ধ | কৰা | দিব্যাংগ | পুৰুষ | মধ্যমীয়া-ক’লা ছালৰ ৰং | মুখ | সোঁফালে | হাতত বেতৰ লাখুটি লৈ থকা মানুহৰ ছবি</annotation>
+		<annotation cp="👨🏾‍🦯‍➡" type="tts">হাতত বেতৰ লাখুটি লৈ থকা মানুহৰ ছবি: মধ্যমীয়া-ক’লা ছালৰ ৰং, সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="👨🏿‍🦯‍➡">অন্ধ | ক’লা ছালৰ ৰং | কৰা | দিব্যাংগ | পুৰুষ | মুখ | সোঁফালে | হাতত বেতৰ লাখুটি লৈ থকা মানুহৰ ছবি</annotation>
+		<annotation cp="👨🏿‍🦯‍➡" type="tts">হাতত বেতৰ লাখুটি লৈ থকা মানুহৰ ছবি: ক’লা ছালৰ ৰং, সোঁফালে মুখ কৰা</annotation>
 		<annotation cp="👩🏻‍🦯">অন্ধ | দিব্যাংগ | পাতল ছালৰ ৰং | মহিলা | হাতত বেতৰ লাখুটি লৈ থকা মহিলাৰ ছবি</annotation>
 		<annotation cp="👩🏻‍🦯" type="tts">হাতত বেতৰ লাখুটি লৈ থকা মহিলাৰ ছবি: পাতল ছালৰ ৰং</annotation>
 		<annotation cp="👩🏼‍🦯">অন্ধ | দিব্যাংগ | মধ্যমীয়া-পাতল ছালৰ ৰং | মহিলা | হাতত বেতৰ লাখুটি লৈ থকা মহিলাৰ ছবি</annotation>
@@ -2606,6 +2873,18 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👩🏾‍🦯" type="tts">হাতত বেতৰ লাখুটি লৈ থকা মহিলাৰ ছবি: মধ্যমীয়া-ক’লা ছালৰ ৰং</annotation>
 		<annotation cp="👩🏿‍🦯">অন্ধ | ক’লা ছালৰ ৰং | দিব্যাংগ | মহিলা | হাতত বেতৰ লাখুটি লৈ থকা মহিলাৰ ছবি</annotation>
 		<annotation cp="👩🏿‍🦯" type="tts">হাতত বেতৰ লাখুটি লৈ থকা মহিলাৰ ছবি: ক’লা ছালৰ ৰং</annotation>
+		<annotation cp="👩‍🦯‍➡">অন্ধ | কৰা | দিব্যাংগ | মহিলা | মুখ | সোঁফালে | হাতত বেতৰ লাখুটি লৈ থকা মহিলাৰ ছবি</annotation>
+		<annotation cp="👩‍🦯‍➡" type="tts">হাতত বেতৰ লাখুটি লৈ থকা মহিলাৰ ছবি: সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="👩🏻‍🦯‍➡">অন্ধ | কৰা | দিব্যাংগ | পাতল ছালৰ ৰং | মহিলা | মুখ | সোঁফালে | হাতত বেতৰ লাখুটি লৈ থকা মহিলাৰ ছবি</annotation>
+		<annotation cp="👩🏻‍🦯‍➡" type="tts">হাতত বেতৰ লাখুটি লৈ থকা মহিলাৰ ছবি: পাতল ছালৰ ৰং, সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="👩🏼‍🦯‍➡">অন্ধ | কৰা | দিব্যাংগ | মধ্যমীয়া-পাতল ছালৰ ৰং | মহিলা | মুখ | সোঁফালে | হাতত বেতৰ লাখুটি লৈ থকা মহিলাৰ ছবি</annotation>
+		<annotation cp="👩🏼‍🦯‍➡" type="tts">হাতত বেতৰ লাখুটি লৈ থকা মহিলাৰ ছবি: মধ্যমীয়া-পাতল ছালৰ ৰং, সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="👩🏽‍🦯‍➡">অন্ধ | কৰা | দিব্যাংগ | মধ্যমীয়া ছালৰ ৰং | মহিলা | মুখ | সোঁফালে | হাতত বেতৰ লাখুটি লৈ থকা মহিলাৰ ছবি</annotation>
+		<annotation cp="👩🏽‍🦯‍➡" type="tts">হাতত বেতৰ লাখুটি লৈ থকা মহিলাৰ ছবি: মধ্যমীয়া ছালৰ ৰং, সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="👩🏾‍🦯‍➡">অন্ধ | কৰা | দিব্যাংগ | মধ্যমীয়া-ক’লা ছালৰ ৰং | মহিলা | মুখ | সোঁফালে | হাতত বেতৰ লাখুটি লৈ থকা মহিলাৰ ছবি</annotation>
+		<annotation cp="👩🏾‍🦯‍➡" type="tts">হাতত বেতৰ লাখুটি লৈ থকা মহিলাৰ ছবি: মধ্যমীয়া-ক’লা ছালৰ ৰং, সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="👩🏿‍🦯‍➡">অন্ধ | ক’লা ছালৰ ৰং | কৰা | দিব্যাংগ | মহিলা | মুখ | সোঁফালে | হাতত বেতৰ লাখুটি লৈ থকা মহিলাৰ ছবি</annotation>
+		<annotation cp="👩🏿‍🦯‍➡" type="tts">হাতত বেতৰ লাখুটি লৈ থকা মহিলাৰ ছবি: ক’লা ছালৰ ৰং, সোঁফালে মুখ কৰা</annotation>
 		<annotation cp="🧑🏻‍🦼">দিব্যাংগ | পাতল ছালৰ ৰং | মটৰ চালিত হুইলচেয়াৰত বহি থকা ব্যক্তি | হুইলচেয়াৰ</annotation>
 		<annotation cp="🧑🏻‍🦼" type="tts">মটৰ চালিত হুইলচেয়াৰত বহি থকা ব্যক্তি: পাতল ছালৰ ৰং</annotation>
 		<annotation cp="🧑🏼‍🦼">দিব্যাংগ | মটৰ চালিত হুইলচেয়াৰত বহি থকা ব্যক্তি | মধ্যমীয়া-পাতল ছালৰ ৰং | হুইলচেয়াৰ</annotation>
@@ -2616,6 +2895,18 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🧑🏾‍🦼" type="tts">মটৰ চালিত হুইলচেয়াৰত বহি থকা ব্যক্তি: মধ্যমীয়া-ক’লা ছালৰ ৰং</annotation>
 		<annotation cp="🧑🏿‍🦼">ক’লা ছালৰ ৰং | দিব্যাংগ | মটৰ চালিত হুইলচেয়াৰত বহি থকা ব্যক্তি | হুইলচেয়াৰ</annotation>
 		<annotation cp="🧑🏿‍🦼" type="tts">মটৰ চালিত হুইলচেয়াৰত বহি থকা ব্যক্তি: ক’লা ছালৰ ৰং</annotation>
+		<annotation cp="🧑‍🦼‍➡">কৰা | দিব্যাংগ | মটৰ চালিত হুইলচেয়াৰত বহি থকা ব্যক্তি | মুখ | সোঁফালে | হুইলচেয়াৰ</annotation>
+		<annotation cp="🧑‍🦼‍➡" type="tts">মটৰ চালিত হুইলচেয়াৰত বহি থকা ব্যক্তি: সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="🧑🏻‍🦼‍➡">কৰা | দিব্যাংগ | পাতল ছালৰ ৰং | মটৰ চালিত হুইলচেয়াৰত বহি থকা ব্যক্তি | মুখ | সোঁফালে | হুইলচেয়াৰ</annotation>
+		<annotation cp="🧑🏻‍🦼‍➡" type="tts">মটৰ চালিত হুইলচেয়াৰত বহি থকা ব্যক্তি: পাতল ছালৰ ৰং, সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="🧑🏼‍🦼‍➡">কৰা | দিব্যাংগ | মটৰ চালিত হুইলচেয়াৰত বহি থকা ব্যক্তি | মধ্যমীয়া-পাতল ছালৰ ৰং | মুখ | সোঁফালে | হুইলচেয়াৰ</annotation>
+		<annotation cp="🧑🏼‍🦼‍➡" type="tts">মটৰ চালিত হুইলচেয়াৰত বহি থকা ব্যক্তি: মধ্যমীয়া-পাতল ছালৰ ৰং, সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="🧑🏽‍🦼‍➡">কৰা | দিব্যাংগ | মটৰ চালিত হুইলচেয়াৰত বহি থকা ব্যক্তি | মধ্যমীয়া ছালৰ ৰং | মুখ | সোঁফালে | হুইলচেয়াৰ</annotation>
+		<annotation cp="🧑🏽‍🦼‍➡" type="tts">মটৰ চালিত হুইলচেয়াৰত বহি থকা ব্যক্তি: মধ্যমীয়া ছালৰ ৰং, সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="🧑🏾‍🦼‍➡">কৰা | দিব্যাংগ | মটৰ চালিত হুইলচেয়াৰত বহি থকা ব্যক্তি | মধ্যমীয়া-ক’লা ছালৰ ৰং | মুখ | সোঁফালে | হুইলচেয়াৰ</annotation>
+		<annotation cp="🧑🏾‍🦼‍➡" type="tts">মটৰ চালিত হুইলচেয়াৰত বহি থকা ব্যক্তি: মধ্যমীয়া-ক’লা ছালৰ ৰং, সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="🧑🏿‍🦼‍➡">ক’লা ছালৰ ৰং | কৰা | দিব্যাংগ | মটৰ চালিত হুইলচেয়াৰত বহি থকা ব্যক্তি | মুখ | সোঁফালে | হুইলচেয়াৰ</annotation>
+		<annotation cp="🧑🏿‍🦼‍➡" type="tts">মটৰ চালিত হুইলচেয়াৰত বহি থকা ব্যক্তি: ক’লা ছালৰ ৰং, সোঁফালে মুখ কৰা</annotation>
 		<annotation cp="👨🏻‍🦼">দিব্যাংগ | পাতল ছালৰ ৰং | পুৰুষ | মটৰ চালিত হুইলশ্বেয়াৰত বহি থকা মানুহৰ ছবি | হুইলশ্বেয়াৰ</annotation>
 		<annotation cp="👨🏻‍🦼" type="tts">মটৰ চালিত হুইলশ্বেয়াৰত বহি থকা মানুহৰ ছবি: পাতল ছালৰ ৰং</annotation>
 		<annotation cp="👨🏼‍🦼">দিব্যাংগ | পুৰুষ | মটৰ চালিত হুইলশ্বেয়াৰত বহি থকা মানুহৰ ছবি | মধ্যমীয়া-পাতল ছালৰ ৰং | হুইলশ্বেয়াৰ</annotation>
@@ -2626,6 +2917,18 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👨🏾‍🦼" type="tts">মটৰ চালিত হুইলশ্বেয়াৰত বহি থকা মানুহৰ ছবি: মধ্যমীয়া-ক’লা ছালৰ ৰং</annotation>
 		<annotation cp="👨🏿‍🦼">ক’লা ছালৰ ৰং | দিব্যাংগ | পুৰুষ | মটৰ চালিত হুইলশ্বেয়াৰত বহি থকা মানুহৰ ছবি | হুইলশ্বেয়াৰ</annotation>
 		<annotation cp="👨🏿‍🦼" type="tts">মটৰ চালিত হুইলশ্বেয়াৰত বহি থকা মানুহৰ ছবি: ক’লা ছালৰ ৰং</annotation>
+		<annotation cp="👨‍🦼‍➡">কৰা | দিব্যাংগ | পুৰুষ | মটৰ চালিত হুইলশ্বেয়াৰত বহি থকা মানুহৰ ছবি | মুখ | সোঁফালে | হুইলশ্বেয়াৰ</annotation>
+		<annotation cp="👨‍🦼‍➡" type="tts">মটৰ চালিত হুইলশ্বেয়াৰত বহি থকা মানুহৰ ছবি: সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="👨🏻‍🦼‍➡">কৰা | দিব্যাংগ | পাতল ছালৰ ৰং | পুৰুষ | মটৰ চালিত হুইলশ্বেয়াৰত বহি থকা মানুহৰ ছবি | মুখ | সোঁফালে | হুইলশ্বেয়াৰ</annotation>
+		<annotation cp="👨🏻‍🦼‍➡" type="tts">মটৰ চালিত হুইলশ্বেয়াৰত বহি থকা মানুহৰ ছবি: পাতল ছালৰ ৰং, সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="👨🏼‍🦼‍➡">কৰা | দিব্যাংগ | পুৰুষ | মটৰ চালিত হুইলশ্বেয়াৰত বহি থকা মানুহৰ ছবি | মধ্যমীয়া-পাতল ছালৰ ৰং | মুখ | সোঁফালে | হুইলশ্বেয়াৰ</annotation>
+		<annotation cp="👨🏼‍🦼‍➡" type="tts">মটৰ চালিত হুইলশ্বেয়াৰত বহি থকা মানুহৰ ছবি: মধ্যমীয়া-পাতল ছালৰ ৰং, সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="👨🏽‍🦼‍➡">কৰা | দিব্যাংগ | পুৰুষ | মটৰ চালিত হুইলশ্বেয়াৰত বহি থকা মানুহৰ ছবি | মধ্যমীয়া ছালৰ ৰং | মুখ | সোঁফালে | হুইলশ্বেয়াৰ</annotation>
+		<annotation cp="👨🏽‍🦼‍➡" type="tts">মটৰ চালিত হুইলশ্বেয়াৰত বহি থকা মানুহৰ ছবি: মধ্যমীয়া ছালৰ ৰং, সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="👨🏾‍🦼‍➡">কৰা | দিব্যাংগ | পুৰুষ | মটৰ চালিত হুইলশ্বেয়াৰত বহি থকা মানুহৰ ছবি | মধ্যমীয়া-ক’লা ছালৰ ৰং | মুখ | সোঁফালে | হুইলশ্বেয়াৰ</annotation>
+		<annotation cp="👨🏾‍🦼‍➡" type="tts">মটৰ চালিত হুইলশ্বেয়াৰত বহি থকা মানুহৰ ছবি: মধ্যমীয়া-ক’লা ছালৰ ৰং, সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="👨🏿‍🦼‍➡">ক’লা ছালৰ ৰং | কৰা | দিব্যাংগ | পুৰুষ | মটৰ চালিত হুইলশ্বেয়াৰত বহি থকা মানুহৰ ছবি | মুখ | সোঁফালে | হুইলশ্বেয়াৰ</annotation>
+		<annotation cp="👨🏿‍🦼‍➡" type="tts">মটৰ চালিত হুইলশ্বেয়াৰত বহি থকা মানুহৰ ছবি: ক’লা ছালৰ ৰং, সোঁফালে মুখ কৰা</annotation>
 		<annotation cp="👩🏻‍🦼">দিব্যাংগ | পাতল ছালৰ ৰং | মটৰ চালিত হুইলশ্বেয়াৰত বহি থকা মহিলাৰ ছবি | মহিলা | হুইলশ্বেয়াৰ</annotation>
 		<annotation cp="👩🏻‍🦼" type="tts">মটৰ চালিত হুইলশ্বেয়াৰত বহি থকা মহিলাৰ ছবি: পাতল ছালৰ ৰং</annotation>
 		<annotation cp="👩🏼‍🦼">দিব্যাংগ | মটৰ চালিত হুইলশ্বেয়াৰত বহি থকা মহিলাৰ ছবি | মধ্যমীয়া-পাতল ছালৰ ৰং | মহিলা | হুইলশ্বেয়াৰ</annotation>
@@ -2636,6 +2939,18 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👩🏾‍🦼" type="tts">মটৰ চালিত হুইলশ্বেয়াৰত বহি থকা মহিলাৰ ছবি: মধ্যমীয়া-ক’লা ছালৰ ৰং</annotation>
 		<annotation cp="👩🏿‍🦼">ক’লা ছালৰ ৰং | দিব্যাংগ | মটৰ চালিত হুইলশ্বেয়াৰত বহি থকা মহিলাৰ ছবি | মহিলা | হুইলশ্বেয়াৰ</annotation>
 		<annotation cp="👩🏿‍🦼" type="tts">মটৰ চালিত হুইলশ্বেয়াৰত বহি থকা মহিলাৰ ছবি: ক’লা ছালৰ ৰং</annotation>
+		<annotation cp="👩‍🦼‍➡">কৰা | দিব্যাংগ | মটৰ চালিত হুইলশ্বেয়াৰত বহি থকা মহিলাৰ ছবি | মহিলা | মুখ | সোঁফালে | হুইলশ্বেয়াৰ</annotation>
+		<annotation cp="👩‍🦼‍➡" type="tts">মটৰ চালিত হুইলশ্বেয়াৰত বহি থকা মহিলাৰ ছবি: সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="👩🏻‍🦼‍➡">কৰা | দিব্যাংগ | পাতল ছালৰ ৰং | মটৰ চালিত হুইলশ্বেয়াৰত বহি থকা মহিলাৰ ছবি | মহিলা | মুখ | সোঁফালে | হুইলশ্বেয়াৰ</annotation>
+		<annotation cp="👩🏻‍🦼‍➡" type="tts">মটৰ চালিত হুইলশ্বেয়াৰত বহি থকা মহিলাৰ ছবি: পাতল ছালৰ ৰং, সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="👩🏼‍🦼‍➡">কৰা | দিব্যাংগ | মটৰ চালিত হুইলশ্বেয়াৰত বহি থকা মহিলাৰ ছবি | মধ্যমীয়া-পাতল ছালৰ ৰং | মহিলা | মুখ | সোঁফালে | হুইলশ্বেয়াৰ</annotation>
+		<annotation cp="👩🏼‍🦼‍➡" type="tts">মটৰ চালিত হুইলশ্বেয়াৰত বহি থকা মহিলাৰ ছবি: মধ্যমীয়া-পাতল ছালৰ ৰং, সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="👩🏽‍🦼‍➡">কৰা | দিব্যাংগ | মটৰ চালিত হুইলশ্বেয়াৰত বহি থকা মহিলাৰ ছবি | মধ্যমীয়া ছালৰ ৰং | মহিলা | মুখ | সোঁফালে | হুইলশ্বেয়াৰ</annotation>
+		<annotation cp="👩🏽‍🦼‍➡" type="tts">মটৰ চালিত হুইলশ্বেয়াৰত বহি থকা মহিলাৰ ছবি: মধ্যমীয়া ছালৰ ৰং, সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="👩🏾‍🦼‍➡">কৰা | দিব্যাংগ | মটৰ চালিত হুইলশ্বেয়াৰত বহি থকা মহিলাৰ ছবি | মধ্যমীয়া-ক’লা ছালৰ ৰং | মহিলা | মুখ | সোঁফালে | হুইলশ্বেয়াৰ</annotation>
+		<annotation cp="👩🏾‍🦼‍➡" type="tts">মটৰ চালিত হুইলশ্বেয়াৰত বহি থকা মহিলাৰ ছবি: মধ্যমীয়া-ক’লা ছালৰ ৰং, সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="👩🏿‍🦼‍➡">ক’লা ছালৰ ৰং | কৰা | দিব্যাংগ | মটৰ চালিত হুইলশ্বেয়াৰত বহি থকা মহিলাৰ ছবি | মহিলা | মুখ | সোঁফালে | হুইলশ্বেয়াৰ</annotation>
+		<annotation cp="👩🏿‍🦼‍➡" type="tts">মটৰ চালিত হুইলশ্বেয়াৰত বহি থকা মহিলাৰ ছবি: ক’লা ছালৰ ৰং, সোঁফালে মুখ কৰা</annotation>
 		<annotation cp="🧑🏻‍🦽">দিব্যাংগ | পাতল ছালৰ ৰং | হস্তচালিত হুইলচেয়াৰত বহি থকা ব্যক্তি | হুইলচেয়াৰ</annotation>
 		<annotation cp="🧑🏻‍🦽" type="tts">হস্তচালিত হুইলচেয়াৰত বহি থকা ব্যক্তি: পাতল ছালৰ ৰং</annotation>
 		<annotation cp="🧑🏼‍🦽">দিব্যাংগ | মধ্যমীয়া-পাতল ছালৰ ৰং | হস্তচালিত হুইলচেয়াৰত বহি থকা ব্যক্তি | হুইলচেয়াৰ</annotation>
@@ -2646,6 +2961,18 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🧑🏾‍🦽" type="tts">হস্তচালিত হুইলচেয়াৰত বহি থকা ব্যক্তি: মধ্যমীয়া-ক’লা ছালৰ ৰং</annotation>
 		<annotation cp="🧑🏿‍🦽">ক’লা ছালৰ ৰং | দিব্যাংগ | হস্তচালিত হুইলচেয়াৰত বহি থকা ব্যক্তি | হুইলচেয়াৰ</annotation>
 		<annotation cp="🧑🏿‍🦽" type="tts">হস্তচালিত হুইলচেয়াৰত বহি থকা ব্যক্তি: ক’লা ছালৰ ৰং</annotation>
+		<annotation cp="🧑‍🦽‍➡">কৰা | দিব্যাংগ | মুখ | সোঁফালে | হস্তচালিত হুইলচেয়াৰত বহি থকা ব্যক্তি | হুইলচেয়াৰ</annotation>
+		<annotation cp="🧑‍🦽‍➡" type="tts">হস্তচালিত হুইলচেয়াৰত বহি থকা ব্যক্তি: সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="🧑🏻‍🦽‍➡">কৰা | দিব্যাংগ | পাতল ছালৰ ৰং | মুখ | সোঁফালে | হস্তচালিত হুইলচেয়াৰত বহি থকা ব্যক্তি | হুইলচেয়াৰ</annotation>
+		<annotation cp="🧑🏻‍🦽‍➡" type="tts">হস্তচালিত হুইলচেয়াৰত বহি থকা ব্যক্তি: পাতল ছালৰ ৰং, সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="🧑🏼‍🦽‍➡">কৰা | দিব্যাংগ | মধ্যমীয়া-পাতল ছালৰ ৰং | মুখ | সোঁফালে | হস্তচালিত হুইলচেয়াৰত বহি থকা ব্যক্তি | হুইলচেয়াৰ</annotation>
+		<annotation cp="🧑🏼‍🦽‍➡" type="tts">হস্তচালিত হুইলচেয়াৰত বহি থকা ব্যক্তি: মধ্যমীয়া-পাতল ছালৰ ৰং, সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="🧑🏽‍🦽‍➡">কৰা | দিব্যাংগ | মধ্যমীয়া ছালৰ ৰং | মুখ | সোঁফালে | হস্তচালিত হুইলচেয়াৰত বহি থকা ব্যক্তি | হুইলচেয়াৰ</annotation>
+		<annotation cp="🧑🏽‍🦽‍➡" type="tts">হস্তচালিত হুইলচেয়াৰত বহি থকা ব্যক্তি: মধ্যমীয়া ছালৰ ৰং, সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="🧑🏾‍🦽‍➡">কৰা | দিব্যাংগ | মধ্যমীয়া-ক’লা ছালৰ ৰং | মুখ | সোঁফালে | হস্তচালিত হুইলচেয়াৰত বহি থকা ব্যক্তি | হুইলচেয়াৰ</annotation>
+		<annotation cp="🧑🏾‍🦽‍➡" type="tts">হস্তচালিত হুইলচেয়াৰত বহি থকা ব্যক্তি: মধ্যমীয়া-ক’লা ছালৰ ৰং, সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="🧑🏿‍🦽‍➡">ক’লা ছালৰ ৰং | কৰা | দিব্যাংগ | মুখ | সোঁফালে | হস্তচালিত হুইলচেয়াৰত বহি থকা ব্যক্তি | হুইলচেয়াৰ</annotation>
+		<annotation cp="🧑🏿‍🦽‍➡" type="tts">হস্তচালিত হুইলচেয়াৰত বহি থকা ব্যক্তি: ক’লা ছালৰ ৰং, সোঁফালে মুখ কৰা</annotation>
 		<annotation cp="👨🏻‍🦽">দিব্যাংগ | পাতল ছালৰ ৰং | পুৰুষ | হস্তচালিত হুইলশ্বেয়াৰত বহি থকা মানুহৰ ছবি | হুইলশ্বেয়াৰ</annotation>
 		<annotation cp="👨🏻‍🦽" type="tts">হস্তচালিত হুইলশ্বেয়াৰত বহি থকা মানুহৰ ছবি: পাতল ছালৰ ৰং</annotation>
 		<annotation cp="👨🏼‍🦽">দিব্যাংগ | পুৰুষ | মধ্যমীয়া-পাতল ছালৰ ৰং | হস্তচালিত হুইলশ্বেয়াৰত বহি থকা মানুহৰ ছবি | হুইলশ্বেয়াৰ</annotation>
@@ -2656,6 +2983,18 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👨🏾‍🦽" type="tts">হস্তচালিত হুইলশ্বেয়াৰত বহি থকা মানুহৰ ছবি: মধ্যমীয়া-ক’লা ছালৰ ৰং</annotation>
 		<annotation cp="👨🏿‍🦽">ক’লা ছালৰ ৰং | দিব্যাংগ | পুৰুষ | হস্তচালিত হুইলশ্বেয়াৰত বহি থকা মানুহৰ ছবি | হুইলশ্বেয়াৰ</annotation>
 		<annotation cp="👨🏿‍🦽" type="tts">হস্তচালিত হুইলশ্বেয়াৰত বহি থকা মানুহৰ ছবি: ক’লা ছালৰ ৰং</annotation>
+		<annotation cp="👨‍🦽‍➡">কৰা | দিব্যাংগ | পুৰুষ | মুখ | সোঁফালে | হস্তচালিত হুইলশ্বেয়াৰত বহি থকা মানুহৰ ছবি | হুইলশ্বেয়াৰ</annotation>
+		<annotation cp="👨‍🦽‍➡" type="tts">হস্তচালিত হুইলশ্বেয়াৰত বহি থকা মানুহৰ ছবি: সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="👨🏻‍🦽‍➡">কৰা | দিব্যাংগ | পাতল ছালৰ ৰং | পুৰুষ | মুখ | সোঁফালে | হস্তচালিত হুইলশ্বেয়াৰত বহি থকা মানুহৰ ছবি | হুইলশ্বেয়াৰ</annotation>
+		<annotation cp="👨🏻‍🦽‍➡" type="tts">হস্তচালিত হুইলশ্বেয়াৰত বহি থকা মানুহৰ ছবি: পাতল ছালৰ ৰং, সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="👨🏼‍🦽‍➡">কৰা | দিব্যাংগ | পুৰুষ | মধ্যমীয়া-পাতল ছালৰ ৰং | মুখ | সোঁফালে | হস্তচালিত হুইলশ্বেয়াৰত বহি থকা মানুহৰ ছবি | হুইলশ্বেয়াৰ</annotation>
+		<annotation cp="👨🏼‍🦽‍➡" type="tts">হস্তচালিত হুইলশ্বেয়াৰত বহি থকা মানুহৰ ছবি: মধ্যমীয়া-পাতল ছালৰ ৰং, সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="👨🏽‍🦽‍➡">কৰা | দিব্যাংগ | পুৰুষ | মধ্যমীয়া ছালৰ ৰং | মুখ | সোঁফালে | হস্তচালিত হুইলশ্বেয়াৰত বহি থকা মানুহৰ ছবি | হুইলশ্বেয়াৰ</annotation>
+		<annotation cp="👨🏽‍🦽‍➡" type="tts">হস্তচালিত হুইলশ্বেয়াৰত বহি থকা মানুহৰ ছবি: মধ্যমীয়া ছালৰ ৰং, সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="👨🏾‍🦽‍➡">কৰা | দিব্যাংগ | পুৰুষ | মধ্যমীয়া-ক’লা ছালৰ ৰং | মুখ | সোঁফালে | হস্তচালিত হুইলশ্বেয়াৰত বহি থকা মানুহৰ ছবি | হুইলশ্বেয়াৰ</annotation>
+		<annotation cp="👨🏾‍🦽‍➡" type="tts">হস্তচালিত হুইলশ্বেয়াৰত বহি থকা মানুহৰ ছবি: মধ্যমীয়া-ক’লা ছালৰ ৰং, সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="👨🏿‍🦽‍➡">ক’লা ছালৰ ৰং | কৰা | দিব্যাংগ | পুৰুষ | মুখ | সোঁফালে | হস্তচালিত হুইলশ্বেয়াৰত বহি থকা মানুহৰ ছবি | হুইলশ্বেয়াৰ</annotation>
+		<annotation cp="👨🏿‍🦽‍➡" type="tts">হস্তচালিত হুইলশ্বেয়াৰত বহি থকা মানুহৰ ছবি: ক’লা ছালৰ ৰং, সোঁফালে মুখ কৰা</annotation>
 		<annotation cp="👩🏻‍🦽">দিব্যাংগ | পাতল ছালৰ ৰং | মহিলা | হস্তচালিত হুইলশ্বেয়াৰত বহি থকা মহিলাৰ ছবি | হুইলশ্বেয়াৰ</annotation>
 		<annotation cp="👩🏻‍🦽" type="tts">হস্তচালিত হুইলশ্বেয়াৰত বহি থকা মহিলাৰ ছবি: পাতল ছালৰ ৰং</annotation>
 		<annotation cp="👩🏼‍🦽">দিব্যাংগ | মধ্যমীয়া-পাতল ছালৰ ৰং | মহিলা | হস্তচালিত হুইলশ্বেয়াৰত বহি থকা মহিলাৰ ছবি | হুইলশ্বেয়াৰ</annotation>
@@ -2666,6 +3005,18 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👩🏾‍🦽" type="tts">হস্তচালিত হুইলশ্বেয়াৰত বহি থকা মহিলাৰ ছবি: মধ্যমীয়া-ক’লা ছালৰ ৰং</annotation>
 		<annotation cp="👩🏿‍🦽">ক’লা ছালৰ ৰং | দিব্যাংগ | মহিলা | হস্তচালিত হুইলশ্বেয়াৰত বহি থকা মহিলাৰ ছবি | হুইলশ্বেয়াৰ</annotation>
 		<annotation cp="👩🏿‍🦽" type="tts">হস্তচালিত হুইলশ্বেয়াৰত বহি থকা মহিলাৰ ছবি: ক’লা ছালৰ ৰং</annotation>
+		<annotation cp="👩‍🦽‍➡">কৰা | দিব্যাংগ | মহিলা | মুখ | সোঁফালে | হস্তচালিত হুইলশ্বেয়াৰত বহি থকা মহিলাৰ ছবি | হুইলশ্বেয়াৰ</annotation>
+		<annotation cp="👩‍🦽‍➡" type="tts">হস্তচালিত হুইলশ্বেয়াৰত বহি থকা মহিলাৰ ছবি: সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="👩🏻‍🦽‍➡">কৰা | দিব্যাংগ | পাতল ছালৰ ৰং | মহিলা | মুখ | সোঁফালে | হস্তচালিত হুইলশ্বেয়াৰত বহি থকা মহিলাৰ ছবি | হুইলশ্বেয়াৰ</annotation>
+		<annotation cp="👩🏻‍🦽‍➡" type="tts">হস্তচালিত হুইলশ্বেয়াৰত বহি থকা মহিলাৰ ছবি: পাতল ছালৰ ৰং, সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="👩🏼‍🦽‍➡">কৰা | দিব্যাংগ | মধ্যমীয়া-পাতল ছালৰ ৰং | মহিলা | মুখ | সোঁফালে | হস্তচালিত হুইলশ্বেয়াৰত বহি থকা মহিলাৰ ছবি | হুইলশ্বেয়াৰ</annotation>
+		<annotation cp="👩🏼‍🦽‍➡" type="tts">হস্তচালিত হুইলশ্বেয়াৰত বহি থকা মহিলাৰ ছবি: মধ্যমীয়া-পাতল ছালৰ ৰং, সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="👩🏽‍🦽‍➡">কৰা | দিব্যাংগ | মধ্যমীয়া ছালৰ ৰং | মহিলা | মুখ | সোঁফালে | হস্তচালিত হুইলশ্বেয়াৰত বহি থকা মহিলাৰ ছবি | হুইলশ্বেয়াৰ</annotation>
+		<annotation cp="👩🏽‍🦽‍➡" type="tts">হস্তচালিত হুইলশ্বেয়াৰত বহি থকা মহিলাৰ ছবি: মধ্যমীয়া ছালৰ ৰং, সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="👩🏾‍🦽‍➡">কৰা | দিব্যাংগ | মধ্যমীয়া-ক’লা ছালৰ ৰং | মহিলা | মুখ | সোঁফালে | হস্তচালিত হুইলশ্বেয়াৰত বহি থকা মহিলাৰ ছবি | হুইলশ্বেয়াৰ</annotation>
+		<annotation cp="👩🏾‍🦽‍➡" type="tts">হস্তচালিত হুইলশ্বেয়াৰত বহি থকা মহিলাৰ ছবি: মধ্যমীয়া-ক’লা ছালৰ ৰং, সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="👩🏿‍🦽‍➡">ক’লা ছালৰ ৰং | কৰা | দিব্যাংগ | মহিলা | মুখ | সোঁফালে | হস্তচালিত হুইলশ্বেয়াৰত বহি থকা মহিলাৰ ছবি | হুইলশ্বেয়াৰ</annotation>
+		<annotation cp="👩🏿‍🦽‍➡" type="tts">হস্তচালিত হুইলশ্বেয়াৰত বহি থকা মহিলাৰ ছবি: ক’লা ছালৰ ৰং, সোঁফালে মুখ কৰা</annotation>
 		<annotation cp="🏃🏻">দৌৰা | দৌৰি থকা ব্যক্তি | পাতল ছালৰ ৰং | মাৰাথন</annotation>
 		<annotation cp="🏃🏻" type="tts">দৌৰি থকা ব্যক্তি: পাতল ছালৰ ৰং</annotation>
 		<annotation cp="🏃🏼">দৌৰা | দৌৰি থকা ব্যক্তি | মধ্যমীয়া-পাতল ছালৰ ৰং | মাৰাথন</annotation>
@@ -2696,6 +3047,42 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🏃🏾‍♀" type="tts">দৌৰি থকা মহিলা: মধ্যমীয়া-ক’লা ছালৰ ৰং</annotation>
 		<annotation cp="🏃🏿‍♀">ক’লা ছালৰ ৰং | দৌৰা | দৌৰি থকা মহিলা | মহিলা | মাৰাথন | ৰেচিং</annotation>
 		<annotation cp="🏃🏿‍♀" type="tts">দৌৰি থকা মহিলা: ক’লা ছালৰ ৰং</annotation>
+		<annotation cp="🏃‍➡">কৰা | দৌৰা | দৌৰি থকা ব্যক্তি | মাৰাথন | মুখ | সোঁফালে</annotation>
+		<annotation cp="🏃‍➡" type="tts">দৌৰি থকা ব্যক্তি: সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="🏃🏻‍➡">কৰা | দৌৰা | দৌৰি থকা ব্যক্তি | পাতল ছালৰ ৰং | মাৰাথন | মুখ | সোঁফালে</annotation>
+		<annotation cp="🏃🏻‍➡" type="tts">দৌৰি থকা ব্যক্তি: পাতল ছালৰ ৰং, সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="🏃🏼‍➡">কৰা | দৌৰা | দৌৰি থকা ব্যক্তি | মধ্যমীয়া-পাতল ছালৰ ৰং | মাৰাথন | মুখ | সোঁফালে</annotation>
+		<annotation cp="🏃🏼‍➡" type="tts">দৌৰি থকা ব্যক্তি: মধ্যমীয়া-পাতল ছালৰ ৰং, সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="🏃🏽‍➡">কৰা | দৌৰা | দৌৰি থকা ব্যক্তি | মধ্যমীয়া ছালৰ ৰং | মাৰাথন | মুখ | সোঁফালে</annotation>
+		<annotation cp="🏃🏽‍➡" type="tts">দৌৰি থকা ব্যক্তি: মধ্যমীয়া ছালৰ ৰং, সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="🏃🏾‍➡">কৰা | দৌৰা | দৌৰি থকা ব্যক্তি | মধ্যমীয়া-ক’লা ছালৰ ৰং | মাৰাথন | মুখ | সোঁফালে</annotation>
+		<annotation cp="🏃🏾‍➡" type="tts">দৌৰি থকা ব্যক্তি: মধ্যমীয়া-ক’লা ছালৰ ৰং, সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="🏃🏿‍➡">ক’লা ছালৰ ৰং | কৰা | দৌৰা | দৌৰি থকা ব্যক্তি | মাৰাথন | মুখ | সোঁফালে</annotation>
+		<annotation cp="🏃🏿‍➡" type="tts">দৌৰি থকা ব্যক্তি: ক’লা ছালৰ ৰং, সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="🏃‍♀‍➡">কৰা | দৌৰা | দৌৰি থকা মহিলা | মহিলা | মাৰাথন | মুখ | ৰেচিং | সোঁফালে</annotation>
+		<annotation cp="🏃‍♀‍➡" type="tts">দৌৰি থকা মহিলা: সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="🏃🏻‍♀‍➡">কৰা | দৌৰা | দৌৰি থকা মহিলা | পাতল ছালৰ ৰং | মহিলা | মাৰাথন | মুখ | ৰেচিং | সোঁফালে</annotation>
+		<annotation cp="🏃🏻‍♀‍➡" type="tts">দৌৰি থকা মহিলা: পাতল ছালৰ ৰং, সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="🏃🏼‍♀‍➡">কৰা | দৌৰা | দৌৰি থকা মহিলা | মধ্যমীয়া-পাতল ছালৰ ৰং | মহিলা | মাৰাথন | মুখ | ৰেচিং | সোঁফালে</annotation>
+		<annotation cp="🏃🏼‍♀‍➡" type="tts">দৌৰি থকা মহিলা: মধ্যমীয়া-পাতল ছালৰ ৰং, সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="🏃🏽‍♀‍➡">কৰা | দৌৰা | দৌৰি থকা মহিলা | মধ্যমীয়া ছালৰ ৰং | মহিলা | মাৰাথন | মুখ | ৰেচিং | সোঁফালে</annotation>
+		<annotation cp="🏃🏽‍♀‍➡" type="tts">দৌৰি থকা মহিলা: মধ্যমীয়া ছালৰ ৰং, সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="🏃🏾‍♀‍➡">কৰা | দৌৰা | দৌৰি থকা মহিলা | মধ্যমীয়া-ক’লা ছালৰ ৰং | মহিলা | মাৰাথন | মুখ | ৰেচিং | সোঁফালে</annotation>
+		<annotation cp="🏃🏾‍♀‍➡" type="tts">দৌৰি থকা মহিলা: মধ্যমীয়া-ক’লা ছালৰ ৰং, সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="🏃🏿‍♀‍➡">ক’লা ছালৰ ৰং | কৰা | দৌৰা | দৌৰি থকা মহিলা | মহিলা | মাৰাথন | মুখ | ৰেচিং | সোঁফালে</annotation>
+		<annotation cp="🏃🏿‍♀‍➡" type="tts">দৌৰি থকা মহিলা: ক’লা ছালৰ ৰং, সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="🏃‍♂‍➡">কৰা | দৌৰা | দৌৰি থকা পুৰুষ | পুৰুষ | মাৰাথন | মুখ | ৰেচিং | সোঁফালে</annotation>
+		<annotation cp="🏃‍♂‍➡" type="tts">দৌৰি থকা পুৰুষ: সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="🏃🏻‍♂‍➡">কৰা | দৌৰা | দৌৰি থকা পুৰুষ | পাতল ছালৰ ৰং | পুৰুষ | মাৰাথন | মুখ | ৰেচিং | সোঁফালে</annotation>
+		<annotation cp="🏃🏻‍♂‍➡" type="tts">দৌৰি থকা পুৰুষ: পাতল ছালৰ ৰং, সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="🏃🏼‍♂‍➡">কৰা | দৌৰা | দৌৰি থকা পুৰুষ | পুৰুষ | মধ্যমীয়া-পাতল ছালৰ ৰং | মাৰাথন | মুখ | ৰেচিং | সোঁফালে</annotation>
+		<annotation cp="🏃🏼‍♂‍➡" type="tts">দৌৰি থকা পুৰুষ: মধ্যমীয়া-পাতল ছালৰ ৰং, সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="🏃🏽‍♂‍➡">কৰা | দৌৰা | দৌৰি থকা পুৰুষ | পুৰুষ | মধ্যমীয়া ছালৰ ৰং | মাৰাথন | মুখ | ৰেচিং | সোঁফালে</annotation>
+		<annotation cp="🏃🏽‍♂‍➡" type="tts">দৌৰি থকা পুৰুষ: মধ্যমীয়া ছালৰ ৰং, সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="🏃🏾‍♂‍➡">কৰা | দৌৰা | দৌৰি থকা পুৰুষ | পুৰুষ | মধ্যমীয়া-ক’লা ছালৰ ৰং | মাৰাথন | মুখ | ৰেচিং | সোঁফালে</annotation>
+		<annotation cp="🏃🏾‍♂‍➡" type="tts">দৌৰি থকা পুৰুষ: মধ্যমীয়া-ক’লা ছালৰ ৰং, সোঁফালে মুখ কৰা</annotation>
+		<annotation cp="🏃🏿‍♂‍➡">ক’লা ছালৰ ৰং | কৰা | দৌৰা | দৌৰি থকা পুৰুষ | পুৰুষ | মাৰাথন | মুখ | ৰেচিং | সোঁফালে</annotation>
+		<annotation cp="🏃🏿‍♂‍➡" type="tts">দৌৰি থকা পুৰুষ: ক’লা ছালৰ ৰং, সোঁফালে মুখ কৰা</annotation>
 		<annotation cp="💃🏻">নাচি থকা মহিলা | নৃত্য | পাতল ছালৰ ৰং | মহিলা</annotation>
 		<annotation cp="💃🏻" type="tts">নাচি থকা মহিলা: পাতল ছালৰ ৰং</annotation>
 		<annotation cp="💃🏼">নাচি থকা মহিলা | নৃত্য | মধ্যমীয়া-পাতল ছালৰ ৰং | মহিলা</annotation>
@@ -3967,7 +4354,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🇹🇴">পতাকা</annotation>
 		<annotation cp="🇹🇴" type="tts">পতাকা: টংগা</annotation>
 		<annotation cp="🇹🇷">পতাকা</annotation>
-		<annotation cp="🇹🇷" type="tts">পতাকা: তুৰ্কি</annotation>
+		<annotation cp="🇹🇷" type="tts">পতাকা: তুৰ্কিয়ে</annotation>
 		<annotation cp="🇹🇹">পতাকা</annotation>
 		<annotation cp="🇹🇹" type="tts">পতাকা: ট্ৰিনিডাড আৰু টোবাগো</annotation>
 		<annotation cp="🇹🇻">পতাকা</annotation>

@@ -1,5 +1,9 @@
 package org.unicode.cldr.tool;
 
+import com.google.common.collect.ImmutableList;
+import com.google.common.collect.Lists;
+import com.ibm.icu.impl.locale.XCldrStub.ImmutableMap;
+import com.ibm.icu.util.VersionInfo;
 import java.io.File;
 import java.util.EnumSet;
 import java.util.LinkedHashMap;
@@ -8,36 +12,79 @@ import java.util.List;
 import java.util.Map;
 import java.util.Set;
 import java.util.TreeSet;
-
+import org.unicode.cldr.util.CLDRFile;
 import org.unicode.cldr.util.CLDRPaths;
-import org.unicode.cldr.util.SupplementalDataInfo;
-
-import com.google.common.collect.ImmutableList;
-import com.google.common.collect.Lists;
-import com.ibm.icu.impl.locale.XCldrStub.ImmutableMap;
-import com.ibm.icu.util.VersionInfo;
 
 /**
- * Enums that should exactly match what is in cldr-archive; eg, v2_0_1 means that there is a folder "cldr-2.0.1"
- * @author markdavis
+ * Enums that should exactly match what is in cldr-archive; eg, v2_0_1 means that there is a folder
+ * "cldr-2.0.1"
  *
+ * @author markdavis
+ * @see CheckoutArchive for a tool to automatically populate the cldr-archive
  */
-// TODO compute the VersionInfo for each at creation time, and stash as field.
+// TODO merge with all other copies of the CLDR version and replace with supplemental metadata,
+// CLDR-9149
 public enum CldrVersion {
     unknown,
-    v1_1_1, v1_2, v1_3, v1_4_1, v1_5_1, v1_6_1, v1_7_2, v1_8_1, v1_9_1, v2_0_1,
-    v21_0, v22_1, v23_1, v24_0, v25_0, v26_0, v27_0, v28_0, v29_0, v30_0, v31_0, v32_0, v33_0, v33_1, v34_0,
-    v35_0, v35_1, v36_0, v36_1, v37_0,
-    trunk;
+    v1_1,
+    v1_1_1,
+    v1_2,
+    v1_3,
+    v1_4,
+    v1_4_1,
+    v1_5_0_1,
+    v1_5_1,
+    v1_6_1,
+    v1_7_2,
+    v1_8_1,
+    v1_9_1,
+    v2_0_1,
+    v21_0,
+    v22_1,
+    v23_1,
+    v24_0,
+    v25_0,
+    v26_0,
+    v27_0,
+    v28_0,
+    v29_0,
+    v30_0,
+    v31_0,
+    v32_0,
+    v33_0,
+    v33_1,
+    v34_0,
+    v35_0,
+    v35_1,
+    v36_0,
+    v36_1,
+    v37_0,
+    v38_0,
+    v38_1,
+    v39_0,
+    v40_0,
+    v41_0,
+    v42_0,
+    v43_0,
+    v44_0,
+    v44_1,
+    v45_0,
+    v46_0,
+    v46_1,
+    v47_0,
+    /**
+     * @see CLDRFile#GEN_VERSION
+     */
+    baseline;
 
     private final String baseDirectory;
     private final String dotName;
     private final VersionInfo versionInfo;
 
     /**
-     * Get the closest available version (successively dropping lower-significance values)
-     * We do this because the archive might contain a dot-dot version
-     * but have a folder called by the round(er) version number.
+     * Get the closest available version (successively dropping lower-significance values) We do
+     * this because the archive might contain a dot-dot version but have a folder called by the
+     * round(er) version number.
      */
     public static CldrVersion from(VersionInfo versionInfo) {
         if (versionInfo == null) {
@@ -48,23 +95,37 @@ public enum CldrVersion {
             if (result != null) {
                 return result;
             }
-            versionInfo = versionInfo.getMilli() != 0 ? VersionInfo.getInstance(versionInfo.getMajor(), versionInfo.getMinor())
-                    : versionInfo.getMinor() != 0 ? VersionInfo.getInstance(versionInfo.getMajor())
-                        : unknown.versionInfo; // will always terminate with unknown.
+            versionInfo =
+                    versionInfo.getMilli() != 0
+                            ? VersionInfo.getInstance(
+                                    versionInfo.getMajor(), versionInfo.getMinor())
+                            : versionInfo.getMinor() != 0
+                                    ? VersionInfo.getInstance(versionInfo.getMajor())
+                                    : unknown.versionInfo; // will always terminate with unknown.
         }
     }
 
     public static CldrVersion from(String versionString) {
-        return valueOf(versionString.charAt(0) < 'A' ? "v" + versionString.replace('.', '_') : versionString);
+        // treat 'current' as baseline
+        if (versionString.equals(CLDRFile.GEN_VERSION)
+                || versionString.equals(CLDRFile.GEN_VERSION + ".0")) {
+            return CldrVersion.baseline;
+        }
+        return valueOf(
+                versionString.charAt(0) < 'A'
+                        ? "v" + versionString.replace('.', '_')
+                        : versionString);
     }
 
     public VersionInfo getVersionInfo() {
         return versionInfo;
     }
+
     @Override
     public String toString() {
         return dotName;
     }
+
     public String getBaseDirectory() {
         return baseDirectory;
     }
@@ -82,15 +143,16 @@ public enum CldrVersion {
         } else {
             dotName = oldName;
             baseDirectory = CLDRPaths.BASE_DIRECTORY;
-            SupplementalDataInfo sdi = SupplementalDataInfo.getInstance();
-            versionInfo = "trunk".equals(oldName) ? sdi.getCldrVersion() : VersionInfo.getInstance(0);
+            final VersionInfo cldrVersion = VersionInfo.getInstance(CLDRFile.GEN_VERSION);
+            versionInfo = "baseline".equals(oldName) ? cldrVersion : VersionInfo.getInstance(0);
         }
     }
 
-    public static final CldrVersion LAST_RELEASE_VERSION = values()[values().length-2];
+    public static final CldrVersion LAST_RELEASE_VERSION = values()[values().length - 2];
     public static final List<CldrVersion> CLDR_VERSIONS_ASCENDING;
     public static final List<CldrVersion> CLDR_VERSIONS_DESCENDING;
     private static final Map<VersionInfo, CldrVersion> versionInfoToCldrVersion;
+
     static {
         EnumSet<CldrVersion> temp = EnumSet.allOf(CldrVersion.class);
         CLDR_VERSIONS_ASCENDING = ImmutableList.copyOf(temp);
@@ -116,24 +178,24 @@ public enum CldrVersion {
     }
 
     public List<File> getPathsForFactory() {
-        return ImmutableList.copyOf(versionInfo != null && versionInfo.getMajor() < 27
-            ? new File[] { new File(getBaseDirectory() + "common/main/") }
-        : new File[] {
-            new File(getBaseDirectory() + "common/main/"),
-            new File(getBaseDirectory() + "common/annotations/") });
+        return ImmutableList.copyOf(
+                versionInfo != null && versionInfo.getMajor() < 27
+                        ? new File[] {new File(getBaseDirectory() + "common/main/")}
+                        : new File[] {
+                            new File(getBaseDirectory() + "common/main/"),
+                            new File(getBaseDirectory() + "common/annotations/")
+                        });
     }
 
-    /**
-     * For testing
-     */
+    /** For testing */
     public static void checkVersions() {
-//        System.out.println(Arrays.asList(CldrVersion.values()));
+        //        System.out.println(Arrays.asList(CldrVersion.values()));
 
         Set<VersionInfo> allFileVersions = new TreeSet<>();
         Set<VersionInfo> allTc = new TreeSet<>();
         Set<VersionInfo> missingEnums = new TreeSet<>();
         Set<CldrVersion> extraEnums = EnumSet.copyOf(CLDR_VERSIONS_ASCENDING);
-        extraEnums.remove(CldrVersion.trunk);
+        extraEnums.remove(CldrVersion.baseline);
         extraEnums.remove(CldrVersion.unknown);
 
         for (String subdir : new File(CLDRPaths.ARCHIVE_DIRECTORY).list()) {
@@ -161,24 +223,35 @@ public enum CldrVersion {
             LinkedHashSet<VersionInfo> tcMFile = new LinkedHashSet<>(allTc);
             tcMFile.removeAll(allFileVersions);
             if (!tcMFile.isEmpty()) {
-                errorMessages.add("Extra ToolConstants.CLDR_VERSIONS compared to " + CLDRPaths.ARCHIVE_DIRECTORY + ": " + tcMFile);
+                errorMessages.add(
+                        "Extra ToolConstants.CLDR_VERSIONS compared to "
+                                + CLDRPaths.ARCHIVE_DIRECTORY
+                                + ": "
+                                + tcMFile);
             }
             LinkedHashSet<VersionInfo> fileMTc = new LinkedHashSet<>(allFileVersions);
             fileMTc.removeAll(allTc);
             if (!fileMTc.isEmpty()) {
-                errorMessages.add("Extra folders in " + CLDRPaths.ARCHIVE_DIRECTORY + " compared to ToolConstants.CLDR_VERSIONS: " + fileMTc);
+                errorMessages.add(
+                        "Extra folders in "
+                                + CLDRPaths.ARCHIVE_DIRECTORY
+                                + " compared to ToolConstants.CLDR_VERSIONS: "
+                                + fileMTc);
             }
         }
 
         // Are there extra enums complete?
         if (!extraEnums.isEmpty()) {
-            errorMessages.add("Extra enums compared to " + CLDRPaths.ARCHIVE_DIRECTORY + ": " + extraEnums);
+            errorMessages.add(
+                    "Extra enums compared to " + CLDRPaths.ARCHIVE_DIRECTORY + ": " + extraEnums);
         }
         // Is the archive complete?
         if (!missingEnums.isEmpty()) {
             StringBuilder temp = new StringBuilder();
-            allFileVersions.forEach(v -> temp.append(", v" + v.getVersionString(2, 4).replace('.', '_')));
-            errorMessages.add("Missing enums " + missingEnums + ", should be:\ntrunk" + temp + ", unknown");
+            allFileVersions.forEach(
+                    v -> temp.append(", v" + v.getVersionString(2, 4).replace('.', '_')));
+            errorMessages.add(
+                    "Missing enums " + missingEnums + ", should be:\ntrunk" + temp + ", unknown");
         }
         if (!errorMessages.isEmpty()) {
             throw new IllegalArgumentException(errorMessages.toString());

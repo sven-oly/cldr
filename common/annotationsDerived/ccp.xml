@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE ldml SYSTEM "../../common/dtd/ldml.dtd">
-<!-- Copyright © 1991-2020 Unicode, Inc.
+<!-- Copyright © 1991-2024 Unicode, Inc.
 For terms of use, see http://www.unicode.org/copyright.html
-Unicode and the Unicode Logo are registered trademarks of Unicode, Inc. in the U.S. and other countries.
+SPDX-License-Identifier: Unicode-3.0
 CLDR data files are interpreted according to the LDML specification (http://unicode.org/reports/tr35/)
+
+Derived short names and annotations, using GenerateDerivedAnnotations.java. See warnings in /annotations/ file.
 -->
-<!-- Derived short names and annotations, using GenerateDerivedAnnotations.java. See warnings in /annotations/ file. -->
 <ldml>
 	<identity>
 		<version number="$Revision$"/>
@@ -548,7 +549,6 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="៛" type="tts">𑄇𑄧𑄟𑄴𑄝𑄮𑄓𑄨𑄠𑄚𑄴 𑄢𑄨𑄠𑄬𑄣𑄴</annotation>
 		<annotation cp="₡" type="tts">𑄇𑄮𑄥𑄴𑄑𑄢𑄨𑄇 𑄇𑄮𑄣𑄮𑄚𑄴</annotation>
 		<annotation cp="₦" type="tts">𑄚𑄭𑄎𑄬𑄢𑄨𑄠𑄚𑄴 𑄚𑄠𑄴𑄢</annotation>
-		<annotation cp="₧" type="tts">𑄥𑄳𑄛𑄳𑄠𑄚𑄨𑄥𑄴 𑄛𑄬𑄥𑄬𑄖</annotation>
 		<annotation cp="₪" type="tts">𑄃𑄨𑄥𑄳𑄢𑄭𑄣𑄨 𑄚𑄱 𑄥𑄬𑄇𑄬𑄣𑄴</annotation>
 		<annotation cp="₫" type="tts">𑄞𑄨𑄠𑄬𑄖𑄴𑄚𑄟𑄨 𑄓𑄧𑄋𑄴𑄉𑄧</annotation>
 		<annotation cp="₭" type="tts">𑄣𑄬𑄅𑄪𑄥𑄚𑄴 𑄇𑄨𑄛𑄴</annotation>
@@ -580,5 +580,6 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="8⃣" type="tts">𑄇𑄨𑄇𑄳𑄠𑄛𑄴: 8</annotation>
 		<annotation cp="9⃣">𑄇𑄨𑄇𑄳𑄠𑄛𑄴</annotation>
 		<annotation cp="9⃣" type="tts">𑄇𑄨𑄇𑄳𑄠𑄛𑄴: 9</annotation>
+		<annotation cp="₧" type="tts">𑄥𑄳𑄛𑄳𑄠𑄚𑄨𑄥𑄴 𑄛𑄬𑄥𑄬𑄖</annotation>
 	</annotations>
 </ldml>

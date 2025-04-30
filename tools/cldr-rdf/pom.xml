@@ -12,7 +12,7 @@
     <url>https://unicode.org/cldr</url>
 
     <properties>
-        <jenaVersion>3.16.0</jenaVersion>
+        <jenaVersion>3.17.0</jenaVersion>
     </properties>
 
     <scm>
@@ -22,7 +22,7 @@
     <parent>
         <groupId>org.unicode.cldr</groupId>
         <artifactId>cldr-all</artifactId>
-        <version>40.0-SNAPSHOT</version>
+        <version>48.0-SNAPSHOT</version>
     </parent>
 
 
@@ -40,6 +40,11 @@
             <version>${jenaVersion}</version>
         </dependency>
 
+        <dependency>
+            <groupId>org.slf4j</groupId>
+            <artifactId>slf4j-jdk14</artifactId>
+            <version>2.0.0</version>
+        </dependency>
 
         <!-- project stuff-->
         <dependency>
@@ -49,23 +54,13 @@
 
         <dependency>
             <groupId>com.ibm.icu</groupId>
-            <artifactId>icu4j-for-cldr</artifactId>
-        </dependency>
-
-        <dependency>
-            <groupId>com.ibm.icu</groupId>
-            <artifactId>utilities-for-cldr</artifactId>
+            <artifactId>icu4j</artifactId>
         </dependency>
 
         <!-- test -->
         <dependency>
             <groupId>org.junit.jupiter</groupId>
-            <artifactId>junit-jupiter-api</artifactId>
-            <scope>test</scope>
-        </dependency>
-        <dependency>
-            <groupId>org.junit.jupiter</groupId>
-            <artifactId>junit-jupiter-engine</artifactId>
+            <artifactId>junit-jupiter</artifactId>
             <scope>test</scope>
         </dependency>
 
@@ -76,16 +71,6 @@
         <dependency>
             <groupId>com.google.guava</groupId>
             <artifactId>guava</artifactId>
-        </dependency>
-
-        <dependency>
-            <groupId>xml-apis</groupId>
-            <artifactId>xml-apis</artifactId>
-        </dependency>
-
-        <dependency>
-            <groupId>xerces</groupId>
-            <artifactId>xercesImpl</artifactId>
         </dependency>
     </dependencies>
     <build>

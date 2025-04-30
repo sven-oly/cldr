@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE ldml SYSTEM "../../common/dtd/ldml.dtd">
-<!-- Copyright © 1991-2020 Unicode, Inc.
+<!-- Copyright © 1991-2024 Unicode, Inc.
 For terms of use, see http://www.unicode.org/copyright.html
-Unicode and the Unicode Logo are registered trademarks of Unicode, Inc. in the U.S. and other countries.
+SPDX-License-Identifier: Unicode-3.0
 CLDR data files are interpreted according to the LDML specification (http://unicode.org/reports/tr35/)
-
-Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/ for derived annotations.
 -->
 <ldml>
 	<identity>
@@ -237,8 +235,6 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🙉" type="tts">inkende itumva</annotation>
 		<annotation cp="🙊">ikibi | ikibujijwe | ikimenyetso | injangwe | inkende itavuga | isura | kuvuga | nta | oya</annotation>
 		<annotation cp="🙊" type="tts">inkende itavuga</annotation>
-		<annotation cp="💋">gusoma | ikimenyetso cyo gusomana | iminwa</annotation>
-		<annotation cp="💋" type="tts">ikimenyetso cyo gusomana</annotation>
 		<annotation cp="💌">ibahasha y’urukundo | ibaruwa | meyili | umutima | urukundo</annotation>
 		<annotation cp="💌" type="tts">ibahasha y’urukundo</annotation>
 		<annotation cp="💘">akambi | ikigirwamana cy’urukundo | umutima n’akambi</annotation>
@@ -275,6 +271,8 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="💜" type="tts">umutima wa move</annotation>
 		<annotation cp="🖤">cy’umugome | ikibi | imitima yirabura | umukara</annotation>
 		<annotation cp="🖤" type="tts">imitima yirabura</annotation>
+		<annotation cp="💋">gusoma | ikimenyetso cyo gusomana | iminwa</annotation>
+		<annotation cp="💋" type="tts">ikimenyetso cyo gusomana</annotation>
 		<annotation cp="💯">100 | amanota ijana | ijana | inota | yuzuye</annotation>
 		<annotation cp="💯" type="tts">amanota ijana</annotation>
 		<annotation cp="💢">ikimenyetso cy’uburakari | inkuru ishushanyije | irakaje</annotation>
@@ -289,8 +287,6 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="💨" type="tts">ikimenyetso cy’ibinyaruka</annotation>
 		<annotation cp="🕳">umwobo</annotation>
 		<annotation cp="🕳" type="tts">umwobo</annotation>
-		<annotation cp="💣">ibombe | inkuru ishushanyije</annotation>
-		<annotation cp="💣" type="tts">ibombe</annotation>
 		<annotation cp="💬">akabaruni | akabarunigitekerezo | igipurizomvugo | ikiganiro | imvugo | inkuru ishushanyije</annotation>
 		<annotation cp="💬" type="tts">igipurizomvugo</annotation>
 		<annotation cp="👁‍🗨">akabaruni | ijisho | ijisho riri mu kabaruni | umuhamya</annotation>
@@ -577,9 +573,9 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🤱" type="tts">konsa</annotation>
 		<annotation cp="👼">akamalayika | amakabyankuru | isura | marayika | uruhinja</annotation>
 		<annotation cp="👼" type="tts">akamalayika</annotation>
-		<annotation cp="🎅">data | ibirori | Noheli | papa | Papa Noheli</annotation>
+		<annotation cp="🎅">data | ibirori | Noheli | papa</annotation>
 		<annotation cp="🎅" type="tts">Papa Noheli</annotation>
-		<annotation cp="🤶">ibirori | madamazela. | mama | Mama Noheli | Noheli | papa Noheli</annotation>
+		<annotation cp="🤶">ibirori | madamazela. | mama | Noheli | papa Noheli</annotation>
 		<annotation cp="🤶" type="tts">Mama Noheli</annotation>
 		<annotation cp="🧙">umumaji | umupfumu | umupfumukazi | umurozi</annotation>
 		<annotation cp="🧙" type="tts">umumaji</annotation>
@@ -777,14 +773,14 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="💏" type="tts">gusomana</annotation>
 		<annotation cp="💑">abakundana | ikupule n’umutima | urukundo</annotation>
 		<annotation cp="💑" type="tts">ikupule n’umutima</annotation>
-		<annotation cp="👪">umuryango</annotation>
-		<annotation cp="👪" type="tts">umuryango</annotation>
 		<annotation cp="🗣">igicucucucu | isura | kuvuga | umutwe | umutwe uvuga</annotation>
 		<annotation cp="🗣" type="tts">umutwe uvuga</annotation>
 		<annotation cp="👤">igicucu | igihimba | ishusho y’igihimba cy’umuntu</annotation>
 		<annotation cp="👤" type="tts">ishusho y’igihimba cy’umuntu</annotation>
 		<annotation cp="👥">amashusho y’igihimba cy’umuntu | igicucu | igihimba</annotation>
 		<annotation cp="👥" type="tts">amashusho y’igihimba cy’umuntu</annotation>
+		<annotation cp="👪">umuryango</annotation>
+		<annotation cp="👪" type="tts">umuryango</annotation>
 		<annotation cp="👣">ahakandagiye ibirenge | aho ikirenge cyakandaiye | akarango | kwambara</annotation>
 		<annotation cp="👣" type="tts">ahakandagiye ibirenge</annotation>
 		<annotation cp="🐵">isura y’inkende | mu maso h’inkima</annotation>
@@ -827,7 +823,7 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🦌" type="tts">isha</annotation>
 		<annotation cp="🐮">isura | y’inka</annotation>
 		<annotation cp="🐮" type="tts">isura y’inka</annotation>
-		<annotation cp="🐂">ikimasa | Ikimasa | zodiyake</annotation>
+		<annotation cp="🐂">Ikimasa | zodiyake</annotation>
 		<annotation cp="🐂" type="tts">ikimasa</annotation>
 		<annotation cp="🐃">imbogo yo | imbogo yo mu mazi | mu mazi</annotation>
 		<annotation cp="🐃" type="tts">imbogo yo mu mazi</annotation>
@@ -931,7 +927,7 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🐋" type="tts">barene</annotation>
 		<annotation cp="🐬">igifi kinini | inkweto bogana</annotation>
 		<annotation cp="🐬" type="tts">igifi kinini</annotation>
-		<annotation cp="🐟">ifi | Ifi | zodiyake</annotation>
+		<annotation cp="🐟">Ifi | zodiyake</annotation>
 		<annotation cp="🐟" type="tts">ifi</annotation>
 		<annotation cp="🐠">ifi yo muri toropike | Ifi yo muri Turopike</annotation>
 		<annotation cp="🐠" type="tts">ifi yo muri toropike</annotation>
@@ -941,8 +937,14 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🦈" type="tts">roke</annotation>
 		<annotation cp="🐙">igikoko cyo mumazi</annotation>
 		<annotation cp="🐙" type="tts">igikoko cyo mumazi</annotation>
-		<annotation cp="🐚">igikonoshwa | Igikonoshwa</annotation>
+		<annotation cp="🐚">Igikonoshwa</annotation>
 		<annotation cp="🐚" type="tts">igikonoshwa</annotation>
+		<annotation cp="🦀">kanseri | karabu | zodiyake</annotation>
+		<annotation cp="🦀" type="tts">karabu</annotation>
+		<annotation cp="🦐">gitoya | ibiribwa | igihore cyo mu mazi | igikonoshwa cy’ifi | kerevete</annotation>
+		<annotation cp="🦐" type="tts">kerevete</annotation>
+		<annotation cp="🦑">ibiribwa | ifi nyamahembe | ikinyamunjonjorerwa | sikwidi</annotation>
+		<annotation cp="🦑" type="tts">sikwidi</annotation>
 		<annotation cp="🐌">ikinyamunjonjorerwa</annotation>
 		<annotation cp="🐌" type="tts">ikinyamunjonjorerwa</annotation>
 		<annotation cp="🦋">agakoko | cyiza | ikinyugunyugu</annotation>
@@ -1007,6 +1009,8 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🍂" type="tts">ikibabi cyaguye</annotation>
 		<annotation cp="🍃">guhuha | ibabi | ikibabi gihuhwa n’umuyaga | kwizunguza | umuyaga</annotation>
 		<annotation cp="🍃" type="tts">ikibabi gihuhwa n’umuyaga</annotation>
+		<annotation cp="🍄">ibiyege | igihumyo</annotation>
+		<annotation cp="🍄" type="tts">igihumyo</annotation>
 		<annotation cp="🍇">imizabibu | umuzabibu | urubuto</annotation>
 		<annotation cp="🍇" type="tts">imizabibu</annotation>
 		<annotation cp="🍈">imbuto | melo</annotation>
@@ -1055,8 +1059,6 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🥒" type="tts">kokombure</annotation>
 		<annotation cp="🥦">amashu gakondo | udushu</annotation>
 		<annotation cp="🥦" type="tts">udushu</annotation>
-		<annotation cp="🍄">ibiyege | igihumyo</annotation>
-		<annotation cp="🍄" type="tts">igihumyo</annotation>
 		<annotation cp="🥜">ibiribwa | imboga | ubunyobwa | ubunyobwa bwa coco | urunyobwa</annotation>
 		<annotation cp="🥜" type="tts">urunyobwa</annotation>
 		<annotation cp="🌰">igiti cya shatenye | ikimera</annotation>
@@ -1127,7 +1129,7 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🍜" type="tts">inkono icumbamo umwotsi</annotation>
 		<annotation cp="🍝">makaroni | sipageti</annotation>
 		<annotation cp="🍝" type="tts">sipageti</annotation>
-		<annotation cp="🍠">ikijumba cyokeje | Ikijumba cyokeje</annotation>
+		<annotation cp="🍠">Ikijumba cyokeje</annotation>
 		<annotation cp="🍠" type="tts">ikijumba cyokeje</annotation>
 		<annotation cp="🍢">boroshete | ibinyenyanja | inkoni | odeni | umushito</annotation>
 		<annotation cp="🍢" type="tts">odeni</annotation>
@@ -1145,12 +1147,6 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🥠" type="tts">igisuguti</annotation>
 		<annotation cp="🥡">agakarito batwaramo ibiryo | agakarito kajyamo ibifwera</annotation>
 		<annotation cp="🥡" type="tts">agakarito batwaramo ibiryo</annotation>
-		<annotation cp="🦀">kanseri | karabu | zodiyake</annotation>
-		<annotation cp="🦀" type="tts">karabu</annotation>
-		<annotation cp="🦐">gitoya | ibiribwa | igihore cyo mu mazi | igikonoshwa cy’ifi | kerevete</annotation>
-		<annotation cp="🦐" type="tts">kerevete</annotation>
-		<annotation cp="🦑">ibiribwa | ifi nyamahembe | ikinyamunjonjorerwa | sikwidi</annotation>
-		<annotation cp="🦑" type="tts">sikwidi</annotation>
 		<annotation cp="🍦">ayisikirimu yoroheje | balafu | deseri | iryoshye | ise sikirimu | kereme | yoroshye</annotation>
 		<annotation cp="🍦" type="tts">ayisikirimu yoroheje</annotation>
 		<annotation cp="🍧">balafue | deseri | iryoshye | itariho urufuro | urubura rusennye neza</annotation>
@@ -1379,7 +1375,7 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🚕" type="tts">tagisi</annotation>
 		<annotation cp="🚖">igusanga | tagisi iza | tagisi iza igusanga</annotation>
 		<annotation cp="🚖" type="tts">tagisi iza igusanga</annotation>
-		<annotation cp="🚗">imodoka | Imodoka</annotation>
+		<annotation cp="🚗">Imodoka</annotation>
 		<annotation cp="🚗" type="tts">imodoka</annotation>
 		<annotation cp="🚘">imodoka | imodoka iza igusanga | iri kuza</annotation>
 		<annotation cp="🚘" type="tts">imodoka iza igusanga</annotation>
@@ -1715,6 +1711,8 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🥌" type="tts">ibuye rya curling</annotation>
 		<annotation cp="🎯">akambi | gukubita | gukubita ako kanya | hagati mu gipimo aho barasa mu mukino | igipimo | ijisho | ikimasa | umukino</annotation>
 		<annotation cp="🎯" type="tts">gukubita ako kanya</annotation>
+		<annotation cp="🔫">igikoresho | imbunda | intwaro | masotera | revoluveri</annotation>
+		<annotation cp="🔫" type="tts">masotera</annotation>
 		<annotation cp="🎱">8 | biyari | umukino | umunani | umupira | umupira wa biyari wa nomero 8</annotation>
 		<annotation cp="🎱" type="tts">umupira wa biyari wa nomero 8</annotation>
 		<annotation cp="🔮">amahirwe | igikoresho | ikibumbe cy’urubura | inkuru mpimbano | inkuu itangaje | kibengerana | umupira</annotation>
@@ -2087,8 +2085,8 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🗡" type="tts">daga</annotation>
 		<annotation cp="⚔">gisobekeranye | inkota | inkota zisobekeranye | intwaro</annotation>
 		<annotation cp="⚔" type="tts">inkota zisobekeranye</annotation>
-		<annotation cp="🔫">igikoresho | imbunda | intwaro | masotera | revoluveri</annotation>
-		<annotation cp="🔫" type="tts">masotera</annotation>
+		<annotation cp="💣">ibombe | inkuru ishushanyije</annotation>
+		<annotation cp="💣" type="tts">ibombe</annotation>
 		<annotation cp="🏹">igikoresho | ikimenyetso cya zodiyake cy’umwambi | intwaro | kumasha | umuheto n’umwambi | umurashi | umwambi | zodiyake</annotation>
 		<annotation cp="🏹" type="tts">umuheto n’umwambi</annotation>
 		<annotation cp="🛡">ingabo | intwaro</annotation>
@@ -2101,7 +2099,7 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="⚙" type="tts">ishusho ringi</annotation>
 		<annotation cp="🗜">gukanda | igikoresho | ipensi | ivisi</annotation>
 		<annotation cp="🗜" type="tts">ipensi</annotation>
-		<annotation cp="⚖">igikoresho | iminzani | uburemere | ubutabera | umunzani | Umunzani | zodiyake</annotation>
+		<annotation cp="⚖">igikoresho | iminzani | uburemere | ubutabera | Umunzani | zodiyake</annotation>
 		<annotation cp="⚖" type="tts">umunzani</annotation>
 		<annotation cp="🔗">ihuza</annotation>
 		<annotation cp="🔗" type="tts">ihuza</annotation>

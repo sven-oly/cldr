@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE ldml SYSTEM "../../common/dtd/ldml.dtd">
-<!-- Copyright © 1991-2020 Unicode, Inc.
+<!-- Copyright © 1991-2024 Unicode, Inc.
 For terms of use, see http://www.unicode.org/copyright.html
-Unicode and the Unicode Logo are registered trademarks of Unicode, Inc. in the U.S. and other countries.
+SPDX-License-Identifier: Unicode-3.0
 CLDR data files are interpreted according to the LDML specification (http://unicode.org/reports/tr35/)
+
+Derived short names and annotations, using GenerateDerivedAnnotations.java. See warnings in /annotations/ file.
 -->
-<!-- Derived short names and annotations, using GenerateDerivedAnnotations.java. See warnings in /annotations/ file. -->
 <ldml>
 	<identity>
 		<version number="$Revision$"/>
@@ -62,6 +63,106 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🖖🏾" type="tts">vulcan-kveðja: meðaldökkur húðlitur</annotation>
 		<annotation cp="🖖🏿">dökkur húðlitur | fingur | hendi | kveðja | spock | vulcan-kveðja | vúlkan</annotation>
 		<annotation cp="🖖🏿" type="tts">vulcan-kveðja: dökkur húðlitur</annotation>
+		<annotation cp="🫱🏻">hægra megin | hægri | hendi | hendi hægra megin | ljós húðlitur</annotation>
+		<annotation cp="🫱🏻" type="tts">hendi hægra megin: ljós húðlitur</annotation>
+		<annotation cp="🫱🏼">hægra megin | hægri | hendi | hendi hægra megin | meðalljós húðlitur</annotation>
+		<annotation cp="🫱🏼" type="tts">hendi hægra megin: meðalljós húðlitur</annotation>
+		<annotation cp="🫱🏽">hægra megin | hægri | hendi | hendi hægra megin | millihúðlitur</annotation>
+		<annotation cp="🫱🏽" type="tts">hendi hægra megin: millihúðlitur</annotation>
+		<annotation cp="🫱🏾">hægra megin | hægri | hendi | hendi hægra megin | meðaldökkur húðlitur</annotation>
+		<annotation cp="🫱🏾" type="tts">hendi hægra megin: meðaldökkur húðlitur</annotation>
+		<annotation cp="🫱🏿">dökkur húðlitur | hægra megin | hægri | hendi | hendi hægra megin</annotation>
+		<annotation cp="🫱🏿" type="tts">hendi hægra megin: dökkur húðlitur</annotation>
+		<annotation cp="🫱🏻‍🫲🏼">handaband | heilsa | heilsast | ljós húðlitur | meðalljós húðlitur | samkomulag</annotation>
+		<annotation cp="🫱🏻‍🫲🏼" type="tts">handaband: ljós húðlitur og meðalljós húðlitur</annotation>
+		<annotation cp="🫱🏻‍🫲🏽">handaband | heilsa | heilsast | ljós húðlitur | millihúðlitur | samkomulag</annotation>
+		<annotation cp="🫱🏻‍🫲🏽" type="tts">handaband: ljós húðlitur og millihúðlitur</annotation>
+		<annotation cp="🫱🏻‍🫲🏾">handaband | heilsa | heilsast | ljós húðlitur | meðaldökkur húðlitur | samkomulag</annotation>
+		<annotation cp="🫱🏻‍🫲🏾" type="tts">handaband: ljós húðlitur og meðaldökkur húðlitur</annotation>
+		<annotation cp="🫱🏻‍🫲🏿">dökkur húðlitur | handaband | heilsa | heilsast | ljós húðlitur | samkomulag</annotation>
+		<annotation cp="🫱🏻‍🫲🏿" type="tts">handaband: ljós húðlitur og dökkur húðlitur</annotation>
+		<annotation cp="🫱🏼‍🫲🏻">handaband | heilsa | heilsast | ljós húðlitur | meðalljós húðlitur | samkomulag</annotation>
+		<annotation cp="🫱🏼‍🫲🏻" type="tts">handaband: meðalljós húðlitur og ljós húðlitur</annotation>
+		<annotation cp="🫱🏼‍🫲🏽">handaband | heilsa | heilsast | meðalljós húðlitur | millihúðlitur | samkomulag</annotation>
+		<annotation cp="🫱🏼‍🫲🏽" type="tts">handaband: meðalljós húðlitur og millihúðlitur</annotation>
+		<annotation cp="🫱🏼‍🫲🏾">handaband | heilsa | heilsast | meðaldökkur húðlitur | meðalljós húðlitur | samkomulag</annotation>
+		<annotation cp="🫱🏼‍🫲🏾" type="tts">handaband: meðalljós húðlitur og meðaldökkur húðlitur</annotation>
+		<annotation cp="🫱🏼‍🫲🏿">dökkur húðlitur | handaband | heilsa | heilsast | meðalljós húðlitur | samkomulag</annotation>
+		<annotation cp="🫱🏼‍🫲🏿" type="tts">handaband: meðalljós húðlitur og dökkur húðlitur</annotation>
+		<annotation cp="🫱🏽‍🫲🏻">handaband | heilsa | heilsast | ljós húðlitur | millihúðlitur | samkomulag</annotation>
+		<annotation cp="🫱🏽‍🫲🏻" type="tts">handaband: millihúðlitur og ljós húðlitur</annotation>
+		<annotation cp="🫱🏽‍🫲🏼">handaband | heilsa | heilsast | meðalljós húðlitur | millihúðlitur | samkomulag</annotation>
+		<annotation cp="🫱🏽‍🫲🏼" type="tts">handaband: millihúðlitur og meðalljós húðlitur</annotation>
+		<annotation cp="🫱🏽‍🫲🏾">handaband | heilsa | heilsast | meðaldökkur húðlitur | millihúðlitur | samkomulag</annotation>
+		<annotation cp="🫱🏽‍🫲🏾" type="tts">handaband: millihúðlitur og meðaldökkur húðlitur</annotation>
+		<annotation cp="🫱🏽‍🫲🏿">dökkur húðlitur | handaband | heilsa | heilsast | millihúðlitur | samkomulag</annotation>
+		<annotation cp="🫱🏽‍🫲🏿" type="tts">handaband: millihúðlitur og dökkur húðlitur</annotation>
+		<annotation cp="🫱🏾‍🫲🏻">handaband | heilsa | heilsast | ljós húðlitur | meðaldökkur húðlitur | samkomulag</annotation>
+		<annotation cp="🫱🏾‍🫲🏻" type="tts">handaband: meðaldökkur húðlitur og ljós húðlitur</annotation>
+		<annotation cp="🫱🏾‍🫲🏼">handaband | heilsa | heilsast | meðaldökkur húðlitur | meðalljós húðlitur | samkomulag</annotation>
+		<annotation cp="🫱🏾‍🫲🏼" type="tts">handaband: meðaldökkur húðlitur og meðalljós húðlitur</annotation>
+		<annotation cp="🫱🏾‍🫲🏽">handaband | heilsa | heilsast | meðaldökkur húðlitur | millihúðlitur | samkomulag</annotation>
+		<annotation cp="🫱🏾‍🫲🏽" type="tts">handaband: meðaldökkur húðlitur og millihúðlitur</annotation>
+		<annotation cp="🫱🏾‍🫲🏿">dökkur húðlitur | handaband | heilsa | heilsast | meðaldökkur húðlitur | samkomulag</annotation>
+		<annotation cp="🫱🏾‍🫲🏿" type="tts">handaband: meðaldökkur húðlitur og dökkur húðlitur</annotation>
+		<annotation cp="🫱🏿‍🫲🏻">dökkur húðlitur | handaband | heilsa | heilsast | ljós húðlitur | samkomulag</annotation>
+		<annotation cp="🫱🏿‍🫲🏻" type="tts">handaband: dökkur húðlitur og ljós húðlitur</annotation>
+		<annotation cp="🫱🏿‍🫲🏼">dökkur húðlitur | handaband | heilsa | heilsast | meðalljós húðlitur | samkomulag</annotation>
+		<annotation cp="🫱🏿‍🫲🏼" type="tts">handaband: dökkur húðlitur og meðalljós húðlitur</annotation>
+		<annotation cp="🫱🏿‍🫲🏽">dökkur húðlitur | handaband | heilsa | heilsast | millihúðlitur | samkomulag</annotation>
+		<annotation cp="🫱🏿‍🫲🏽" type="tts">handaband: dökkur húðlitur og millihúðlitur</annotation>
+		<annotation cp="🫱🏿‍🫲🏾">dökkur húðlitur | handaband | heilsa | heilsast | meðaldökkur húðlitur | samkomulag</annotation>
+		<annotation cp="🫱🏿‍🫲🏾" type="tts">handaband: dökkur húðlitur og meðaldökkur húðlitur</annotation>
+		<annotation cp="🫲🏻">hendi | hendi vinstra megin | ljós húðlitur | vinstra megin | vinstri</annotation>
+		<annotation cp="🫲🏻" type="tts">hendi vinstra megin: ljós húðlitur</annotation>
+		<annotation cp="🫲🏼">hendi | hendi vinstra megin | meðalljós húðlitur | vinstra megin | vinstri</annotation>
+		<annotation cp="🫲🏼" type="tts">hendi vinstra megin: meðalljós húðlitur</annotation>
+		<annotation cp="🫲🏽">hendi | hendi vinstra megin | millihúðlitur | vinstra megin | vinstri</annotation>
+		<annotation cp="🫲🏽" type="tts">hendi vinstra megin: millihúðlitur</annotation>
+		<annotation cp="🫲🏾">hendi | hendi vinstra megin | meðaldökkur húðlitur | vinstra megin | vinstri</annotation>
+		<annotation cp="🫲🏾" type="tts">hendi vinstra megin: meðaldökkur húðlitur</annotation>
+		<annotation cp="🫲🏿">dökkur húðlitur | hendi | hendi vinstra megin | vinstra megin | vinstri</annotation>
+		<annotation cp="🫲🏿" type="tts">hendi vinstra megin: dökkur húðlitur</annotation>
+		<annotation cp="🫳🏻">bægja frá | hendi með lófa niður | ljós húðlitur | sleppa | stugga við</annotation>
+		<annotation cp="🫳🏻" type="tts">hendi með lófa niður: ljós húðlitur</annotation>
+		<annotation cp="🫳🏼">bægja frá | hendi með lófa niður | meðalljós húðlitur | sleppa | stugga við</annotation>
+		<annotation cp="🫳🏼" type="tts">hendi með lófa niður: meðalljós húðlitur</annotation>
+		<annotation cp="🫳🏽">bægja frá | hendi með lófa niður | millihúðlitur | sleppa | stugga við</annotation>
+		<annotation cp="🫳🏽" type="tts">hendi með lófa niður: millihúðlitur</annotation>
+		<annotation cp="🫳🏾">bægja frá | hendi með lófa niður | meðaldökkur húðlitur | sleppa | stugga við</annotation>
+		<annotation cp="🫳🏾" type="tts">hendi með lófa niður: meðaldökkur húðlitur</annotation>
+		<annotation cp="🫳🏿">bægja frá | dökkur húðlitur | hendi með lófa niður | sleppa | stugga við</annotation>
+		<annotation cp="🫳🏿" type="tts">hendi með lófa niður: dökkur húðlitur</annotation>
+		<annotation cp="🫴🏻">benda | bjóða | grípa | hendi með lófa upp | koma | ljós húðlitur</annotation>
+		<annotation cp="🫴🏻" type="tts">hendi með lófa upp: ljós húðlitur</annotation>
+		<annotation cp="🫴🏼">benda | bjóða | grípa | hendi með lófa upp | koma | meðalljós húðlitur</annotation>
+		<annotation cp="🫴🏼" type="tts">hendi með lófa upp: meðalljós húðlitur</annotation>
+		<annotation cp="🫴🏽">benda | bjóða | grípa | hendi með lófa upp | koma | millihúðlitur</annotation>
+		<annotation cp="🫴🏽" type="tts">hendi með lófa upp: millihúðlitur</annotation>
+		<annotation cp="🫴🏾">benda | bjóða | grípa | hendi með lófa upp | koma | meðaldökkur húðlitur</annotation>
+		<annotation cp="🫴🏾" type="tts">hendi með lófa upp: meðaldökkur húðlitur</annotation>
+		<annotation cp="🫴🏿">benda | bjóða | dökkur húðlitur | grípa | hendi með lófa upp | koma</annotation>
+		<annotation cp="🫴🏿" type="tts">hendi með lófa upp: dökkur húðlitur</annotation>
+		<annotation cp="🫷🏻">bíddu | fimma | hafna | hönd ýtt til vinstri | ljós húðlitur | stopp | til vinstri | ýta</annotation>
+		<annotation cp="🫷🏻" type="tts">hönd ýtt til vinstri: ljós húðlitur</annotation>
+		<annotation cp="🫷🏼">bíddu | fimma | hafna | hönd ýtt til vinstri | meðalljós húðlitur | stopp | til vinstri | ýta</annotation>
+		<annotation cp="🫷🏼" type="tts">hönd ýtt til vinstri: meðalljós húðlitur</annotation>
+		<annotation cp="🫷🏽">bíddu | fimma | hafna | hönd ýtt til vinstri | millihúðlitur | stopp | til vinstri | ýta</annotation>
+		<annotation cp="🫷🏽" type="tts">hönd ýtt til vinstri: millihúðlitur</annotation>
+		<annotation cp="🫷🏾">bíddu | fimma | hafna | hönd ýtt til vinstri | meðaldökkur húðlitur | stopp | til vinstri | ýta</annotation>
+		<annotation cp="🫷🏾" type="tts">hönd ýtt til vinstri: meðaldökkur húðlitur</annotation>
+		<annotation cp="🫷🏿">bíddu | dökkur húðlitur | fimma | hafna | hönd ýtt til vinstri | stopp | til vinstri | ýta</annotation>
+		<annotation cp="🫷🏿" type="tts">hönd ýtt til vinstri: dökkur húðlitur</annotation>
+		<annotation cp="🫸🏻">bíddu | fimma | hafna | hönd ýtt til hægri | ljós húðlitur | stopp | til hægri | ýta</annotation>
+		<annotation cp="🫸🏻" type="tts">hönd ýtt til hægri: ljós húðlitur</annotation>
+		<annotation cp="🫸🏼">bíddu | fimma | hafna | hönd ýtt til hægri | meðalljós húðlitur | stopp | til hægri | ýta</annotation>
+		<annotation cp="🫸🏼" type="tts">hönd ýtt til hægri: meðalljós húðlitur</annotation>
+		<annotation cp="🫸🏽">bíddu | fimma | hafna | hönd ýtt til hægri | millihúðlitur | stopp | til hægri | ýta</annotation>
+		<annotation cp="🫸🏽" type="tts">hönd ýtt til hægri: millihúðlitur</annotation>
+		<annotation cp="🫸🏾">bíddu | fimma | hafna | hönd ýtt til hægri | meðaldökkur húðlitur | stopp | til hægri | ýta</annotation>
+		<annotation cp="🫸🏾" type="tts">hönd ýtt til hægri: meðaldökkur húðlitur</annotation>
+		<annotation cp="🫸🏿">bíddu | dökkur húðlitur | fimma | hafna | hönd ýtt til hægri | stopp | til hægri | ýta</annotation>
+		<annotation cp="🫸🏿" type="tts">hönd ýtt til hægri: dökkur húðlitur</annotation>
 		<annotation cp="👌🏻">bending | handarmerki | Í lagi | ljós húðlitur | OK | ókei</annotation>
 		<annotation cp="👌🏻" type="tts">Í lagi: ljós húðlitur</annotation>
 		<annotation cp="👌🏼">bending | handarmerki | Í lagi | meðalljós húðlitur | OK | ókei</annotation>
@@ -112,6 +213,16 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🤞🏾" type="tts">krosslagðir fingur: meðaldökkur húðlitur</annotation>
 		<annotation cp="🤞🏿">dökkur húðlitur | fingur | hendi | kross | krosslagðir fingur | lukka</annotation>
 		<annotation cp="🤞🏿" type="tts">krosslagðir fingur: dökkur húðlitur</annotation>
+		<annotation cp="🫰🏻">ást | dýr | hendi með vísifingur og þumal í kross | hjarta | ljós húðlitur | peningar | smella</annotation>
+		<annotation cp="🫰🏻" type="tts">hendi með vísifingur og þumal í kross: ljós húðlitur</annotation>
+		<annotation cp="🫰🏼">ást | dýr | hendi með vísifingur og þumal í kross | hjarta | meðalljós húðlitur | peningar | smella</annotation>
+		<annotation cp="🫰🏼" type="tts">hendi með vísifingur og þumal í kross: meðalljós húðlitur</annotation>
+		<annotation cp="🫰🏽">ást | dýr | hendi með vísifingur og þumal í kross | hjarta | millihúðlitur | peningar | smella</annotation>
+		<annotation cp="🫰🏽" type="tts">hendi með vísifingur og þumal í kross: millihúðlitur</annotation>
+		<annotation cp="🫰🏾">ást | dýr | hendi með vísifingur og þumal í kross | hjarta | meðaldökkur húðlitur | peningar | smella</annotation>
+		<annotation cp="🫰🏾" type="tts">hendi með vísifingur og þumal í kross: meðaldökkur húðlitur</annotation>
+		<annotation cp="🫰🏿">ást | dökkur húðlitur | dýr | hendi með vísifingur og þumal í kross | hjarta | peningar | smella</annotation>
+		<annotation cp="🫰🏿" type="tts">hendi með vísifingur og þumal í kross: dökkur húðlitur</annotation>
 		<annotation cp="🤟🏻">elska-þig merki | hendi | ILY | ljós húðlitur</annotation>
 		<annotation cp="🤟🏻" type="tts">elska-þig merki: ljós húðlitur</annotation>
 		<annotation cp="🤟🏼">elska-þig merki | hendi | ILY | meðalljós húðlitur</annotation>
@@ -202,6 +313,16 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="☝🏾" type="tts">vísifingur bendir upp: meðaldökkur húðlitur</annotation>
 		<annotation cp="☝🏿">benda | benda upp | dökkur húðlitur | fingur | hönd | vísifingur | vísifingur bendir upp</annotation>
 		<annotation cp="☝🏿" type="tts">vísifingur bendir upp: dökkur húðlitur</annotation>
+		<annotation cp="🫵🏻">benda | ljós húðlitur | vísifingur bendir á áhorfandann | þú</annotation>
+		<annotation cp="🫵🏻" type="tts">vísifingur bendir á áhorfandann: ljós húðlitur</annotation>
+		<annotation cp="🫵🏼">benda | meðalljós húðlitur | vísifingur bendir á áhorfandann | þú</annotation>
+		<annotation cp="🫵🏼" type="tts">vísifingur bendir á áhorfandann: meðalljós húðlitur</annotation>
+		<annotation cp="🫵🏽">benda | millihúðlitur | vísifingur bendir á áhorfandann | þú</annotation>
+		<annotation cp="🫵🏽" type="tts">vísifingur bendir á áhorfandann: millihúðlitur</annotation>
+		<annotation cp="🫵🏾">benda | meðaldökkur húðlitur | vísifingur bendir á áhorfandann | þú</annotation>
+		<annotation cp="🫵🏾" type="tts">vísifingur bendir á áhorfandann: meðaldökkur húðlitur</annotation>
+		<annotation cp="🫵🏿">benda | dökkur húðlitur | vísifingur bendir á áhorfandann | þú</annotation>
+		<annotation cp="🫵🏿" type="tts">vísifingur bendir á áhorfandann: dökkur húðlitur</annotation>
 		<annotation cp="👍🏻">bending | hönd | ljós húðlitur | þumall upp</annotation>
 		<annotation cp="👍🏻" type="tts">þumall upp: ljós húðlitur</annotation>
 		<annotation cp="👍🏼">bending | hönd | meðalljós húðlitur | þumall upp</annotation>
@@ -282,6 +403,16 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🙌🏾" type="tts">húrra: meðaldökkur húðlitur</annotation>
 		<annotation cp="🙌🏿">báðar hendur | dökkur húðlitur | fagna | hendur upp í loft | húrra</annotation>
 		<annotation cp="🙌🏿" type="tts">húrra: dökkur húðlitur</annotation>
+		<annotation cp="🫶🏻">ást | hjartahendur | ljós húðlitur</annotation>
+		<annotation cp="🫶🏻" type="tts">hjartahendur: ljós húðlitur</annotation>
+		<annotation cp="🫶🏼">ást | hjartahendur | meðalljós húðlitur</annotation>
+		<annotation cp="🫶🏼" type="tts">hjartahendur: meðalljós húðlitur</annotation>
+		<annotation cp="🫶🏽">ást | hjartahendur | millihúðlitur</annotation>
+		<annotation cp="🫶🏽" type="tts">hjartahendur: millihúðlitur</annotation>
+		<annotation cp="🫶🏾">ást | hjartahendur | meðaldökkur húðlitur</annotation>
+		<annotation cp="🫶🏾" type="tts">hjartahendur: meðaldökkur húðlitur</annotation>
+		<annotation cp="🫶🏿">ást | dökkur húðlitur | hjartahendur</annotation>
+		<annotation cp="🫶🏿" type="tts">hjartahendur: dökkur húðlitur</annotation>
 		<annotation cp="👐🏻">hendur | ljós húðlitur | lófar | opinn lófi | opnir lófar</annotation>
 		<annotation cp="👐🏻" type="tts">opinn lófi: ljós húðlitur</annotation>
 		<annotation cp="👐🏼">hendur | lófar | meðalljós húðlitur | opinn lófi | opnir lófar</annotation>
@@ -302,6 +433,16 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🤲🏾" type="tts">lófar saman: meðaldökkur húðlitur</annotation>
 		<annotation cp="🤲🏿">dökkur húðlitur | lófar saman | spenntar greipar</annotation>
 		<annotation cp="🤲🏿" type="tts">lófar saman: dökkur húðlitur</annotation>
+		<annotation cp="🤝🏻">handaband | heilsa | heilsast | ljós húðlitur | samkomulag</annotation>
+		<annotation cp="🤝🏻" type="tts">handaband: ljós húðlitur</annotation>
+		<annotation cp="🤝🏼">handaband | heilsa | heilsast | meðalljós húðlitur | samkomulag</annotation>
+		<annotation cp="🤝🏼" type="tts">handaband: meðalljós húðlitur</annotation>
+		<annotation cp="🤝🏽">handaband | heilsa | heilsast | millihúðlitur | samkomulag</annotation>
+		<annotation cp="🤝🏽" type="tts">handaband: millihúðlitur</annotation>
+		<annotation cp="🤝🏾">handaband | heilsa | heilsast | meðaldökkur húðlitur | samkomulag</annotation>
+		<annotation cp="🤝🏾" type="tts">handaband: meðaldökkur húðlitur</annotation>
+		<annotation cp="🤝🏿">dökkur húðlitur | handaband | heilsa | heilsast | samkomulag</annotation>
+		<annotation cp="🤝🏿" type="tts">handaband: dökkur húðlitur</annotation>
 		<annotation cp="🙏🏻">bæn | ljós húðlitur | spenna greipar | spenntar greipar</annotation>
 		<annotation cp="🙏🏻" type="tts">bæn: ljós húðlitur</annotation>
 		<annotation cp="🙏🏼">bæn | meðalljós húðlitur | spenna greipar | spenntar greipar</annotation>
@@ -1996,15 +2137,25 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👷🏾‍♀" type="tts">kvenkyns byggingarstarfsmaður: meðaldökkur húðlitur</annotation>
 		<annotation cp="👷🏿‍♀">byggingar | dökkur húðlitur | kona | kvenkyns byggingarstarfsmaður | verkamaður</annotation>
 		<annotation cp="👷🏿‍♀" type="tts">kvenkyns byggingarstarfsmaður: dökkur húðlitur</annotation>
-		<annotation cp="🤴🏻">ljós húðlitur | prins</annotation>
+		<annotation cp="🫅🏻">kóngafólk | konunglegt | ljós húðlitur | manneskja með kórónu | tiginn | þjóðhöfðingi</annotation>
+		<annotation cp="🫅🏻" type="tts">manneskja með kórónu: ljós húðlitur</annotation>
+		<annotation cp="🫅🏼">kóngafólk | konunglegt | manneskja með kórónu | meðalljós húðlitur | tiginn | þjóðhöfðingi</annotation>
+		<annotation cp="🫅🏼" type="tts">manneskja með kórónu: meðalljós húðlitur</annotation>
+		<annotation cp="🫅🏽">kóngafólk | konunglegt | manneskja með kórónu | millihúðlitur | tiginn | þjóðhöfðingi</annotation>
+		<annotation cp="🫅🏽" type="tts">manneskja með kórónu: millihúðlitur</annotation>
+		<annotation cp="🫅🏾">kóngafólk | konunglegt | manneskja með kórónu | meðaldökkur húðlitur | tiginn | þjóðhöfðingi</annotation>
+		<annotation cp="🫅🏾" type="tts">manneskja með kórónu: meðaldökkur húðlitur</annotation>
+		<annotation cp="🫅🏿">dökkur húðlitur | kóngafólk | konunglegt | manneskja með kórónu | tiginn | þjóðhöfðingi</annotation>
+		<annotation cp="🫅🏿" type="tts">manneskja með kórónu: dökkur húðlitur</annotation>
+		<annotation cp="🤴🏻">ævintýri | fólk | ljós húðlitur | prins</annotation>
 		<annotation cp="🤴🏻" type="tts">prins: ljós húðlitur</annotation>
-		<annotation cp="🤴🏼">meðalljós húðlitur | prins</annotation>
+		<annotation cp="🤴🏼">ævintýri | fólk | meðalljós húðlitur | prins</annotation>
 		<annotation cp="🤴🏼" type="tts">prins: meðalljós húðlitur</annotation>
-		<annotation cp="🤴🏽">millihúðlitur | prins</annotation>
+		<annotation cp="🤴🏽">ævintýri | fólk | millihúðlitur | prins</annotation>
 		<annotation cp="🤴🏽" type="tts">prins: millihúðlitur</annotation>
-		<annotation cp="🤴🏾">meðaldökkur húðlitur | prins</annotation>
+		<annotation cp="🤴🏾">ævintýri | fólk | meðaldökkur húðlitur | prins</annotation>
 		<annotation cp="🤴🏾" type="tts">prins: meðaldökkur húðlitur</annotation>
-		<annotation cp="🤴🏿">dökkur húðlitur | prins</annotation>
+		<annotation cp="🤴🏿">ævintýri | dökkur húðlitur | fólk | prins</annotation>
 		<annotation cp="🤴🏿" type="tts">prins: dökkur húðlitur</annotation>
 		<annotation cp="👸🏻">ævintýri | fólk | ljós húðlitur | prinsessa</annotation>
 		<annotation cp="👸🏻" type="tts">prinsessa: ljós húðlitur</annotation>
@@ -2136,6 +2287,26 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🤰🏾" type="tts">ólétt kona: meðaldökkur húðlitur</annotation>
 		<annotation cp="🤰🏿">dökkur húðlitur | kona | ófrísk | ólétt</annotation>
 		<annotation cp="🤰🏿" type="tts">ólétt kona: dökkur húðlitur</annotation>
+		<annotation cp="🫃🏻">barnshafandi | barnshafandi maður | fullur | kviður | ljós húðlitur | uppblásinn</annotation>
+		<annotation cp="🫃🏻" type="tts">barnshafandi maður: ljós húðlitur</annotation>
+		<annotation cp="🫃🏼">barnshafandi | barnshafandi maður | fullur | kviður | meðalljós húðlitur | uppblásinn</annotation>
+		<annotation cp="🫃🏼" type="tts">barnshafandi maður: meðalljós húðlitur</annotation>
+		<annotation cp="🫃🏽">barnshafandi | barnshafandi maður | fullur | kviður | millihúðlitur | uppblásinn</annotation>
+		<annotation cp="🫃🏽" type="tts">barnshafandi maður: millihúðlitur</annotation>
+		<annotation cp="🫃🏾">barnshafandi | barnshafandi maður | fullur | kviður | meðaldökkur húðlitur | uppblásinn</annotation>
+		<annotation cp="🫃🏾" type="tts">barnshafandi maður: meðaldökkur húðlitur</annotation>
+		<annotation cp="🫃🏿">barnshafandi | barnshafandi maður | dökkur húðlitur | fullur | kviður | uppblásinn</annotation>
+		<annotation cp="🫃🏿" type="tts">barnshafandi maður: dökkur húðlitur</annotation>
+		<annotation cp="🫄🏻">barnshafandi | barnshafandi manneskja | fullur | kviður | ljós húðlitur | uppblásinn</annotation>
+		<annotation cp="🫄🏻" type="tts">barnshafandi manneskja: ljós húðlitur</annotation>
+		<annotation cp="🫄🏼">barnshafandi | barnshafandi manneskja | fullur | kviður | meðalljós húðlitur | uppblásinn</annotation>
+		<annotation cp="🫄🏼" type="tts">barnshafandi manneskja: meðalljós húðlitur</annotation>
+		<annotation cp="🫄🏽">barnshafandi | barnshafandi manneskja | fullur | kviður | millihúðlitur | uppblásinn</annotation>
+		<annotation cp="🫄🏽" type="tts">barnshafandi manneskja: millihúðlitur</annotation>
+		<annotation cp="🫄🏾">barnshafandi | barnshafandi manneskja | fullur | kviður | meðaldökkur húðlitur | uppblásinn</annotation>
+		<annotation cp="🫄🏾" type="tts">barnshafandi manneskja: meðaldökkur húðlitur</annotation>
+		<annotation cp="🫄🏿">barnshafandi | barnshafandi manneskja | dökkur húðlitur | fullur | kviður | uppblásinn</annotation>
+		<annotation cp="🫄🏿" type="tts">barnshafandi manneskja: dökkur húðlitur</annotation>
 		<annotation cp="🤱🏻">barn | brjóst | brjóstagjöf | ljós húðlitur</annotation>
 		<annotation cp="🤱🏻" type="tts">brjóstagjöf: ljós húðlitur</annotation>
 		<annotation cp="🤱🏼">barn | brjóst | brjóstagjöf | meðalljós húðlitur</annotation>
@@ -2206,15 +2377,15 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🤶🏾" type="tts">jólamamma: meðaldökkur húðlitur</annotation>
 		<annotation cp="🤶🏿">amma | dökkur húðlitur | jól | jólamamma | mamma</annotation>
 		<annotation cp="🤶🏿" type="tts">jólamamma: dökkur húðlitur</annotation>
-		<annotation cp="🧑🏻‍🎄">frú sveinki | ljós húðlitur | Sveinki, jól</annotation>
+		<annotation cp="🧑🏻‍🎄">frú sveinki | jól | ljós húðlitur | Sveinki</annotation>
 		<annotation cp="🧑🏻‍🎄" type="tts">frú sveinki: ljós húðlitur</annotation>
-		<annotation cp="🧑🏼‍🎄">frú sveinki | meðalljós húðlitur | Sveinki, jól</annotation>
+		<annotation cp="🧑🏼‍🎄">frú sveinki | jól | meðalljós húðlitur | Sveinki</annotation>
 		<annotation cp="🧑🏼‍🎄" type="tts">frú sveinki: meðalljós húðlitur</annotation>
-		<annotation cp="🧑🏽‍🎄">frú sveinki | millihúðlitur | Sveinki, jól</annotation>
+		<annotation cp="🧑🏽‍🎄">frú sveinki | jól | millihúðlitur | Sveinki</annotation>
 		<annotation cp="🧑🏽‍🎄" type="tts">frú sveinki: millihúðlitur</annotation>
-		<annotation cp="🧑🏾‍🎄">frú sveinki | meðaldökkur húðlitur | Sveinki, jól</annotation>
+		<annotation cp="🧑🏾‍🎄">frú sveinki | jól | meðaldökkur húðlitur | Sveinki</annotation>
 		<annotation cp="🧑🏾‍🎄" type="tts">frú sveinki: meðaldökkur húðlitur</annotation>
-		<annotation cp="🧑🏿‍🎄">dökkur húðlitur | frú sveinki | Sveinki, jól</annotation>
+		<annotation cp="🧑🏿‍🎄">dökkur húðlitur | frú sveinki | jól | Sveinki</annotation>
 		<annotation cp="🧑🏿‍🎄" type="tts">frú sveinki: dökkur húðlitur</annotation>
 		<annotation cp="🦸🏻">góð | hetja | kvenhetja | ljós húðlitur | ofurhetja | ofurkraftur</annotation>
 		<annotation cp="🦸🏻" type="tts">ofurhetja: ljós húðlitur</annotation>
@@ -2516,6 +2687,42 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🚶🏾‍♀" type="tts">gangandi kona: meðaldökkur húðlitur</annotation>
 		<annotation cp="🚶🏿‍♀">dökkur húðlitur | ganga | gangandi kona | gönguferð | kona | labba</annotation>
 		<annotation cp="🚶🏿‍♀" type="tts">gangandi kona: dökkur húðlitur</annotation>
+		<annotation cp="🚶‍➡">ganga | gönguferð | hægri | labba | snýr | til | vegfarandi</annotation>
+		<annotation cp="🚶‍➡" type="tts">vegfarandi: snýr til hægri</annotation>
+		<annotation cp="🚶🏻‍➡">ganga | gönguferð | hægri | labba | ljós húðlitur | snýr | til | vegfarandi</annotation>
+		<annotation cp="🚶🏻‍➡" type="tts">vegfarandi: ljós húðlitur og snýr til hægri</annotation>
+		<annotation cp="🚶🏼‍➡">ganga | gönguferð | hægri | labba | meðalljós húðlitur | snýr | til | vegfarandi</annotation>
+		<annotation cp="🚶🏼‍➡" type="tts">vegfarandi: meðalljós húðlitur og snýr til hægri</annotation>
+		<annotation cp="🚶🏽‍➡">ganga | gönguferð | hægri | labba | millihúðlitur | snýr | til | vegfarandi</annotation>
+		<annotation cp="🚶🏽‍➡" type="tts">vegfarandi: millihúðlitur og snýr til hægri</annotation>
+		<annotation cp="🚶🏾‍➡">ganga | gönguferð | hægri | labba | meðaldökkur húðlitur | snýr | til | vegfarandi</annotation>
+		<annotation cp="🚶🏾‍➡" type="tts">vegfarandi: meðaldökkur húðlitur og snýr til hægri</annotation>
+		<annotation cp="🚶🏿‍➡">dökkur húðlitur | ganga | gönguferð | hægri | labba | snýr | til | vegfarandi</annotation>
+		<annotation cp="🚶🏿‍➡" type="tts">vegfarandi: dökkur húðlitur og snýr til hægri</annotation>
+		<annotation cp="🚶‍♀‍➡">ganga | gangandi kona | gönguferð | hægri | kona | labba | snýr | til</annotation>
+		<annotation cp="🚶‍♀‍➡" type="tts">gangandi kona: snýr til hægri</annotation>
+		<annotation cp="🚶🏻‍♀‍➡">ganga | gangandi kona | gönguferð | hægri | kona | labba | ljós húðlitur | snýr | til</annotation>
+		<annotation cp="🚶🏻‍♀‍➡" type="tts">gangandi kona: ljós húðlitur og snýr til hægri</annotation>
+		<annotation cp="🚶🏼‍♀‍➡">ganga | gangandi kona | gönguferð | hægri | kona | labba | meðalljós húðlitur | snýr | til</annotation>
+		<annotation cp="🚶🏼‍♀‍➡" type="tts">gangandi kona: meðalljós húðlitur og snýr til hægri</annotation>
+		<annotation cp="🚶🏽‍♀‍➡">ganga | gangandi kona | gönguferð | hægri | kona | labba | millihúðlitur | snýr | til</annotation>
+		<annotation cp="🚶🏽‍♀‍➡" type="tts">gangandi kona: millihúðlitur og snýr til hægri</annotation>
+		<annotation cp="🚶🏾‍♀‍➡">ganga | gangandi kona | gönguferð | hægri | kona | labba | meðaldökkur húðlitur | snýr | til</annotation>
+		<annotation cp="🚶🏾‍♀‍➡" type="tts">gangandi kona: meðaldökkur húðlitur og snýr til hægri</annotation>
+		<annotation cp="🚶🏿‍♀‍➡">dökkur húðlitur | ganga | gangandi kona | gönguferð | hægri | kona | labba | snýr | til</annotation>
+		<annotation cp="🚶🏿‍♀‍➡" type="tts">gangandi kona: dökkur húðlitur og snýr til hægri</annotation>
+		<annotation cp="🚶‍♂‍➡">ganga | gangandi maður | gönguferð | hægri | karl | labba | snýr | til</annotation>
+		<annotation cp="🚶‍♂‍➡" type="tts">gangandi maður: snýr til hægri</annotation>
+		<annotation cp="🚶🏻‍♂‍➡">ganga | gangandi maður | gönguferð | hægri | karl | labba | ljós húðlitur | snýr | til</annotation>
+		<annotation cp="🚶🏻‍♂‍➡" type="tts">gangandi maður: ljós húðlitur og snýr til hægri</annotation>
+		<annotation cp="🚶🏼‍♂‍➡">ganga | gangandi maður | gönguferð | hægri | karl | labba | meðalljós húðlitur | snýr | til</annotation>
+		<annotation cp="🚶🏼‍♂‍➡" type="tts">gangandi maður: meðalljós húðlitur og snýr til hægri</annotation>
+		<annotation cp="🚶🏽‍♂‍➡">ganga | gangandi maður | gönguferð | hægri | karl | labba | millihúðlitur | snýr | til</annotation>
+		<annotation cp="🚶🏽‍♂‍➡" type="tts">gangandi maður: millihúðlitur og snýr til hægri</annotation>
+		<annotation cp="🚶🏾‍♂‍➡">ganga | gangandi maður | gönguferð | hægri | karl | labba | meðaldökkur húðlitur | snýr | til</annotation>
+		<annotation cp="🚶🏾‍♂‍➡" type="tts">gangandi maður: meðaldökkur húðlitur og snýr til hægri</annotation>
+		<annotation cp="🚶🏿‍♂‍➡">dökkur húðlitur | ganga | gangandi maður | gönguferð | hægri | karl | labba | snýr | til</annotation>
+		<annotation cp="🚶🏿‍♂‍➡" type="tts">gangandi maður: dökkur húðlitur og snýr til hægri</annotation>
 		<annotation cp="🧍🏻">ljós húðlitur | standa | standandi manneskja | stendur</annotation>
 		<annotation cp="🧍🏻" type="tts">standandi manneskja: ljós húðlitur</annotation>
 		<annotation cp="🧍🏼">meðalljós húðlitur | standa | standandi manneskja | stendur</annotation>
@@ -2576,6 +2783,42 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🧎🏾‍♀" type="tts">krjúpandi kona: meðaldökkur húðlitur</annotation>
 		<annotation cp="🧎🏿‍♀">dökkur húðlitur | kona | krjúpandi</annotation>
 		<annotation cp="🧎🏿‍♀" type="tts">krjúpandi kona: dökkur húðlitur</annotation>
+		<annotation cp="🧎‍➡">hægri | krjúpa | krjúpandi | krjúpandi manneskja | snýr | til</annotation>
+		<annotation cp="🧎‍➡" type="tts">krjúpandi manneskja: snýr til hægri</annotation>
+		<annotation cp="🧎🏻‍➡">hægri | krjúpa | krjúpandi | krjúpandi manneskja | ljós húðlitur | snýr | til</annotation>
+		<annotation cp="🧎🏻‍➡" type="tts">krjúpandi manneskja: ljós húðlitur og snýr til hægri</annotation>
+		<annotation cp="🧎🏼‍➡">hægri | krjúpa | krjúpandi | krjúpandi manneskja | meðalljós húðlitur | snýr | til</annotation>
+		<annotation cp="🧎🏼‍➡" type="tts">krjúpandi manneskja: meðalljós húðlitur og snýr til hægri</annotation>
+		<annotation cp="🧎🏽‍➡">hægri | krjúpa | krjúpandi | krjúpandi manneskja | millihúðlitur | snýr | til</annotation>
+		<annotation cp="🧎🏽‍➡" type="tts">krjúpandi manneskja: millihúðlitur og snýr til hægri</annotation>
+		<annotation cp="🧎🏾‍➡">hægri | krjúpa | krjúpandi | krjúpandi manneskja | meðaldökkur húðlitur | snýr | til</annotation>
+		<annotation cp="🧎🏾‍➡" type="tts">krjúpandi manneskja: meðaldökkur húðlitur og snýr til hægri</annotation>
+		<annotation cp="🧎🏿‍➡">dökkur húðlitur | hægri | krjúpa | krjúpandi | krjúpandi manneskja | snýr | til</annotation>
+		<annotation cp="🧎🏿‍➡" type="tts">krjúpandi manneskja: dökkur húðlitur og snýr til hægri</annotation>
+		<annotation cp="🧎‍♀‍➡">hægri | kona | krjúpandi | snýr | til</annotation>
+		<annotation cp="🧎‍♀‍➡" type="tts">krjúpandi kona: snýr til hægri</annotation>
+		<annotation cp="🧎🏻‍♀‍➡">hægri | kona | krjúpandi | ljós húðlitur | snýr | til</annotation>
+		<annotation cp="🧎🏻‍♀‍➡" type="tts">krjúpandi kona: ljós húðlitur og snýr til hægri</annotation>
+		<annotation cp="🧎🏼‍♀‍➡">hægri | kona | krjúpandi | meðalljós húðlitur | snýr | til</annotation>
+		<annotation cp="🧎🏼‍♀‍➡" type="tts">krjúpandi kona: meðalljós húðlitur og snýr til hægri</annotation>
+		<annotation cp="🧎🏽‍♀‍➡">hægri | kona | krjúpandi | millihúðlitur | snýr | til</annotation>
+		<annotation cp="🧎🏽‍♀‍➡" type="tts">krjúpandi kona: millihúðlitur og snýr til hægri</annotation>
+		<annotation cp="🧎🏾‍♀‍➡">hægri | kona | krjúpandi | meðaldökkur húðlitur | snýr | til</annotation>
+		<annotation cp="🧎🏾‍♀‍➡" type="tts">krjúpandi kona: meðaldökkur húðlitur og snýr til hægri</annotation>
+		<annotation cp="🧎🏿‍♀‍➡">dökkur húðlitur | hægri | kona | krjúpandi | snýr | til</annotation>
+		<annotation cp="🧎🏿‍♀‍➡" type="tts">krjúpandi kona: dökkur húðlitur og snýr til hægri</annotation>
+		<annotation cp="🧎‍♂‍➡">hægri | krjúpandi | maður | snýr | til</annotation>
+		<annotation cp="🧎‍♂‍➡" type="tts">krjúpandi maður: snýr til hægri</annotation>
+		<annotation cp="🧎🏻‍♂‍➡">hægri | krjúpandi | ljós húðlitur | maður | snýr | til</annotation>
+		<annotation cp="🧎🏻‍♂‍➡" type="tts">krjúpandi maður: ljós húðlitur og snýr til hægri</annotation>
+		<annotation cp="🧎🏼‍♂‍➡">hægri | krjúpandi | maður | meðalljós húðlitur | snýr | til</annotation>
+		<annotation cp="🧎🏼‍♂‍➡" type="tts">krjúpandi maður: meðalljós húðlitur og snýr til hægri</annotation>
+		<annotation cp="🧎🏽‍♂‍➡">hægri | krjúpandi | maður | millihúðlitur | snýr | til</annotation>
+		<annotation cp="🧎🏽‍♂‍➡" type="tts">krjúpandi maður: millihúðlitur og snýr til hægri</annotation>
+		<annotation cp="🧎🏾‍♂‍➡">hægri | krjúpandi | maður | meðaldökkur húðlitur | snýr | til</annotation>
+		<annotation cp="🧎🏾‍♂‍➡" type="tts">krjúpandi maður: meðaldökkur húðlitur og snýr til hægri</annotation>
+		<annotation cp="🧎🏿‍♂‍➡">dökkur húðlitur | hægri | krjúpandi | maður | snýr | til</annotation>
+		<annotation cp="🧎🏿‍♂‍➡" type="tts">krjúpandi maður: dökkur húðlitur og snýr til hægri</annotation>
 		<annotation cp="🧑🏻‍🦯">aðgengi | ljós húðlitur | manneskja með blindrastaf | manneskja með hvítan staf | sjónlaus</annotation>
 		<annotation cp="🧑🏻‍🦯" type="tts">manneskja með blindrastaf: ljós húðlitur</annotation>
 		<annotation cp="🧑🏼‍🦯">aðgengi | manneskja með blindrastaf | manneskja með hvítan staf | meðalljós húðlitur | sjónlaus</annotation>
@@ -2586,6 +2829,18 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🧑🏾‍🦯" type="tts">manneskja með blindrastaf: meðaldökkur húðlitur</annotation>
 		<annotation cp="🧑🏿‍🦯">aðgengi | dökkur húðlitur | manneskja með blindrastaf | manneskja með hvítan staf | sjónlaus</annotation>
 		<annotation cp="🧑🏿‍🦯" type="tts">manneskja með blindrastaf: dökkur húðlitur</annotation>
+		<annotation cp="🧑‍🦯‍➡">aðgengi | hægri | manneskja með blindrastaf | manneskja með hvítan staf | sjónlaus | snýr | til</annotation>
+		<annotation cp="🧑‍🦯‍➡" type="tts">manneskja með blindrastaf: snýr til hægri</annotation>
+		<annotation cp="🧑🏻‍🦯‍➡">aðgengi | hægri | ljós húðlitur | manneskja með blindrastaf | manneskja með hvítan staf | sjónlaus | snýr | til</annotation>
+		<annotation cp="🧑🏻‍🦯‍➡" type="tts">manneskja með blindrastaf: ljós húðlitur og snýr til hægri</annotation>
+		<annotation cp="🧑🏼‍🦯‍➡">aðgengi | hægri | manneskja með blindrastaf | manneskja með hvítan staf | meðalljós húðlitur | sjónlaus | snýr | til</annotation>
+		<annotation cp="🧑🏼‍🦯‍➡" type="tts">manneskja með blindrastaf: meðalljós húðlitur og snýr til hægri</annotation>
+		<annotation cp="🧑🏽‍🦯‍➡">aðgengi | hægri | manneskja með blindrastaf | manneskja með hvítan staf | millihúðlitur | sjónlaus | snýr | til</annotation>
+		<annotation cp="🧑🏽‍🦯‍➡" type="tts">manneskja með blindrastaf: millihúðlitur og snýr til hægri</annotation>
+		<annotation cp="🧑🏾‍🦯‍➡">aðgengi | hægri | manneskja með blindrastaf | manneskja með hvítan staf | meðaldökkur húðlitur | sjónlaus | snýr | til</annotation>
+		<annotation cp="🧑🏾‍🦯‍➡" type="tts">manneskja með blindrastaf: meðaldökkur húðlitur og snýr til hægri</annotation>
+		<annotation cp="🧑🏿‍🦯‍➡">aðgengi | dökkur húðlitur | hægri | manneskja með blindrastaf | manneskja með hvítan staf | sjónlaus | snýr | til</annotation>
+		<annotation cp="🧑🏿‍🦯‍➡" type="tts">manneskja með blindrastaf: dökkur húðlitur og snýr til hægri</annotation>
 		<annotation cp="👨🏻‍🦯">aðgengi | blindur | ljós húðlitur | maður | maður með blindrastaf</annotation>
 		<annotation cp="👨🏻‍🦯" type="tts">maður með blindrastaf: ljós húðlitur</annotation>
 		<annotation cp="👨🏼‍🦯">aðgengi | blindur | maður | maður með blindrastaf | meðalljós húðlitur</annotation>
@@ -2596,6 +2851,18 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👨🏾‍🦯" type="tts">maður með blindrastaf: meðaldökkur húðlitur</annotation>
 		<annotation cp="👨🏿‍🦯">aðgengi | blindur | dökkur húðlitur | maður | maður með blindrastaf</annotation>
 		<annotation cp="👨🏿‍🦯" type="tts">maður með blindrastaf: dökkur húðlitur</annotation>
+		<annotation cp="👨‍🦯‍➡">aðgengi | blindur | hægri | maður | maður með blindrastaf | snýr | til</annotation>
+		<annotation cp="👨‍🦯‍➡" type="tts">maður með blindrastaf: snýr til hægri</annotation>
+		<annotation cp="👨🏻‍🦯‍➡">aðgengi | blindur | hægri | ljós húðlitur | maður | maður með blindrastaf | snýr | til</annotation>
+		<annotation cp="👨🏻‍🦯‍➡" type="tts">maður með blindrastaf: ljós húðlitur og snýr til hægri</annotation>
+		<annotation cp="👨🏼‍🦯‍➡">aðgengi | blindur | hægri | maður | maður með blindrastaf | meðalljós húðlitur | snýr | til</annotation>
+		<annotation cp="👨🏼‍🦯‍➡" type="tts">maður með blindrastaf: meðalljós húðlitur og snýr til hægri</annotation>
+		<annotation cp="👨🏽‍🦯‍➡">aðgengi | blindur | hægri | maður | maður með blindrastaf | millihúðlitur | snýr | til</annotation>
+		<annotation cp="👨🏽‍🦯‍➡" type="tts">maður með blindrastaf: millihúðlitur og snýr til hægri</annotation>
+		<annotation cp="👨🏾‍🦯‍➡">aðgengi | blindur | hægri | maður | maður með blindrastaf | meðaldökkur húðlitur | snýr | til</annotation>
+		<annotation cp="👨🏾‍🦯‍➡" type="tts">maður með blindrastaf: meðaldökkur húðlitur og snýr til hægri</annotation>
+		<annotation cp="👨🏿‍🦯‍➡">aðgengi | blindur | dökkur húðlitur | hægri | maður | maður með blindrastaf | snýr | til</annotation>
+		<annotation cp="👨🏿‍🦯‍➡" type="tts">maður með blindrastaf: dökkur húðlitur og snýr til hægri</annotation>
 		<annotation cp="👩🏻‍🦯">aðgengi | blind | kona | kona með blindrastaf | ljós húðlitur</annotation>
 		<annotation cp="👩🏻‍🦯" type="tts">kona með blindrastaf: ljós húðlitur</annotation>
 		<annotation cp="👩🏼‍🦯">aðgengi | blind | kona | kona með blindrastaf | meðalljós húðlitur</annotation>
@@ -2606,6 +2873,18 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👩🏾‍🦯" type="tts">kona með blindrastaf: meðaldökkur húðlitur</annotation>
 		<annotation cp="👩🏿‍🦯">aðgengi | blind | dökkur húðlitur | kona | kona með blindrastaf</annotation>
 		<annotation cp="👩🏿‍🦯" type="tts">kona með blindrastaf: dökkur húðlitur</annotation>
+		<annotation cp="👩‍🦯‍➡">aðgengi | blind | hægri | kona | kona með blindrastaf | snýr | til</annotation>
+		<annotation cp="👩‍🦯‍➡" type="tts">kona með blindrastaf: snýr til hægri</annotation>
+		<annotation cp="👩🏻‍🦯‍➡">aðgengi | blind | hægri | kona | kona með blindrastaf | ljós húðlitur | snýr | til</annotation>
+		<annotation cp="👩🏻‍🦯‍➡" type="tts">kona með blindrastaf: ljós húðlitur og snýr til hægri</annotation>
+		<annotation cp="👩🏼‍🦯‍➡">aðgengi | blind | hægri | kona | kona með blindrastaf | meðalljós húðlitur | snýr | til</annotation>
+		<annotation cp="👩🏼‍🦯‍➡" type="tts">kona með blindrastaf: meðalljós húðlitur og snýr til hægri</annotation>
+		<annotation cp="👩🏽‍🦯‍➡">aðgengi | blind | hægri | kona | kona með blindrastaf | millihúðlitur | snýr | til</annotation>
+		<annotation cp="👩🏽‍🦯‍➡" type="tts">kona með blindrastaf: millihúðlitur og snýr til hægri</annotation>
+		<annotation cp="👩🏾‍🦯‍➡">aðgengi | blind | hægri | kona | kona með blindrastaf | meðaldökkur húðlitur | snýr | til</annotation>
+		<annotation cp="👩🏾‍🦯‍➡" type="tts">kona með blindrastaf: meðaldökkur húðlitur og snýr til hægri</annotation>
+		<annotation cp="👩🏿‍🦯‍➡">aðgengi | blind | dökkur húðlitur | hægri | kona | kona með blindrastaf | snýr | til</annotation>
+		<annotation cp="👩🏿‍🦯‍➡" type="tts">kona með blindrastaf: dökkur húðlitur og snýr til hægri</annotation>
 		<annotation cp="🧑🏻‍🦼">aðgengi | hjólastóll | ljós húðlitur | manneskja í vélknúnum hjólastól</annotation>
 		<annotation cp="🧑🏻‍🦼" type="tts">manneskja í vélknúnum hjólastól: ljós húðlitur</annotation>
 		<annotation cp="🧑🏼‍🦼">aðgengi | hjólastóll | manneskja í vélknúnum hjólastól | meðalljós húðlitur</annotation>
@@ -2616,6 +2895,18 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🧑🏾‍🦼" type="tts">manneskja í vélknúnum hjólastól: meðaldökkur húðlitur</annotation>
 		<annotation cp="🧑🏿‍🦼">aðgengi | dökkur húðlitur | hjólastóll | manneskja í vélknúnum hjólastól</annotation>
 		<annotation cp="🧑🏿‍🦼" type="tts">manneskja í vélknúnum hjólastól: dökkur húðlitur</annotation>
+		<annotation cp="🧑‍🦼‍➡">aðgengi | hægri | hjólastóll | manneskja í vélknúnum hjólastól | snýr | til</annotation>
+		<annotation cp="🧑‍🦼‍➡" type="tts">manneskja í vélknúnum hjólastól: snýr til hægri</annotation>
+		<annotation cp="🧑🏻‍🦼‍➡">aðgengi | hægri | hjólastóll | ljós húðlitur | manneskja í vélknúnum hjólastól | snýr | til</annotation>
+		<annotation cp="🧑🏻‍🦼‍➡" type="tts">manneskja í vélknúnum hjólastól: ljós húðlitur og snýr til hægri</annotation>
+		<annotation cp="🧑🏼‍🦼‍➡">aðgengi | hægri | hjólastóll | manneskja í vélknúnum hjólastól | meðalljós húðlitur | snýr | til</annotation>
+		<annotation cp="🧑🏼‍🦼‍➡" type="tts">manneskja í vélknúnum hjólastól: meðalljós húðlitur og snýr til hægri</annotation>
+		<annotation cp="🧑🏽‍🦼‍➡">aðgengi | hægri | hjólastóll | manneskja í vélknúnum hjólastól | millihúðlitur | snýr | til</annotation>
+		<annotation cp="🧑🏽‍🦼‍➡" type="tts">manneskja í vélknúnum hjólastól: millihúðlitur og snýr til hægri</annotation>
+		<annotation cp="🧑🏾‍🦼‍➡">aðgengi | hægri | hjólastóll | manneskja í vélknúnum hjólastól | meðaldökkur húðlitur | snýr | til</annotation>
+		<annotation cp="🧑🏾‍🦼‍➡" type="tts">manneskja í vélknúnum hjólastól: meðaldökkur húðlitur og snýr til hægri</annotation>
+		<annotation cp="🧑🏿‍🦼‍➡">aðgengi | dökkur húðlitur | hægri | hjólastóll | manneskja í vélknúnum hjólastól | snýr | til</annotation>
+		<annotation cp="🧑🏿‍🦼‍➡" type="tts">manneskja í vélknúnum hjólastól: dökkur húðlitur og snýr til hægri</annotation>
 		<annotation cp="👨🏻‍🦼">aðgengi | hjólastóll | ljós húðlitur | maður | maður í vélknúnum hjólastól</annotation>
 		<annotation cp="👨🏻‍🦼" type="tts">maður í vélknúnum hjólastól: ljós húðlitur</annotation>
 		<annotation cp="👨🏼‍🦼">aðgengi | hjólastóll | maður | maður í vélknúnum hjólastól | meðalljós húðlitur</annotation>
@@ -2626,6 +2917,18 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👨🏾‍🦼" type="tts">maður í vélknúnum hjólastól: meðaldökkur húðlitur</annotation>
 		<annotation cp="👨🏿‍🦼">aðgengi | dökkur húðlitur | hjólastóll | maður | maður í vélknúnum hjólastól</annotation>
 		<annotation cp="👨🏿‍🦼" type="tts">maður í vélknúnum hjólastól: dökkur húðlitur</annotation>
+		<annotation cp="👨‍🦼‍➡">aðgengi | hægri | hjólastóll | maður | maður í vélknúnum hjólastól | snýr | til</annotation>
+		<annotation cp="👨‍🦼‍➡" type="tts">maður í vélknúnum hjólastól: snýr til hægri</annotation>
+		<annotation cp="👨🏻‍🦼‍➡">aðgengi | hægri | hjólastóll | ljós húðlitur | maður | maður í vélknúnum hjólastól | snýr | til</annotation>
+		<annotation cp="👨🏻‍🦼‍➡" type="tts">maður í vélknúnum hjólastól: ljós húðlitur og snýr til hægri</annotation>
+		<annotation cp="👨🏼‍🦼‍➡">aðgengi | hægri | hjólastóll | maður | maður í vélknúnum hjólastól | meðalljós húðlitur | snýr | til</annotation>
+		<annotation cp="👨🏼‍🦼‍➡" type="tts">maður í vélknúnum hjólastól: meðalljós húðlitur og snýr til hægri</annotation>
+		<annotation cp="👨🏽‍🦼‍➡">aðgengi | hægri | hjólastóll | maður | maður í vélknúnum hjólastól | millihúðlitur | snýr | til</annotation>
+		<annotation cp="👨🏽‍🦼‍➡" type="tts">maður í vélknúnum hjólastól: millihúðlitur og snýr til hægri</annotation>
+		<annotation cp="👨🏾‍🦼‍➡">aðgengi | hægri | hjólastóll | maður | maður í vélknúnum hjólastól | meðaldökkur húðlitur | snýr | til</annotation>
+		<annotation cp="👨🏾‍🦼‍➡" type="tts">maður í vélknúnum hjólastól: meðaldökkur húðlitur og snýr til hægri</annotation>
+		<annotation cp="👨🏿‍🦼‍➡">aðgengi | dökkur húðlitur | hægri | hjólastóll | maður | maður í vélknúnum hjólastól | snýr | til</annotation>
+		<annotation cp="👨🏿‍🦼‍➡" type="tts">maður í vélknúnum hjólastól: dökkur húðlitur og snýr til hægri</annotation>
 		<annotation cp="👩🏻‍🦼">aðgengi | hjólastóll | kona | kona í vélknúnum hjólastól | ljós húðlitur</annotation>
 		<annotation cp="👩🏻‍🦼" type="tts">kona í vélknúnum hjólastól: ljós húðlitur</annotation>
 		<annotation cp="👩🏼‍🦼">aðgengi | hjólastóll | kona | kona í vélknúnum hjólastól | meðalljós húðlitur</annotation>
@@ -2636,6 +2939,18 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👩🏾‍🦼" type="tts">kona í vélknúnum hjólastól: meðaldökkur húðlitur</annotation>
 		<annotation cp="👩🏿‍🦼">aðgengi | dökkur húðlitur | hjólastóll | kona | kona í vélknúnum hjólastól</annotation>
 		<annotation cp="👩🏿‍🦼" type="tts">kona í vélknúnum hjólastól: dökkur húðlitur</annotation>
+		<annotation cp="👩‍🦼‍➡">aðgengi | hægri | hjólastóll | kona | kona í vélknúnum hjólastól | snýr | til</annotation>
+		<annotation cp="👩‍🦼‍➡" type="tts">kona í vélknúnum hjólastól: snýr til hægri</annotation>
+		<annotation cp="👩🏻‍🦼‍➡">aðgengi | hægri | hjólastóll | kona | kona í vélknúnum hjólastól | ljós húðlitur | snýr | til</annotation>
+		<annotation cp="👩🏻‍🦼‍➡" type="tts">kona í vélknúnum hjólastól: ljós húðlitur og snýr til hægri</annotation>
+		<annotation cp="👩🏼‍🦼‍➡">aðgengi | hægri | hjólastóll | kona | kona í vélknúnum hjólastól | meðalljós húðlitur | snýr | til</annotation>
+		<annotation cp="👩🏼‍🦼‍➡" type="tts">kona í vélknúnum hjólastól: meðalljós húðlitur og snýr til hægri</annotation>
+		<annotation cp="👩🏽‍🦼‍➡">aðgengi | hægri | hjólastóll | kona | kona í vélknúnum hjólastól | millihúðlitur | snýr | til</annotation>
+		<annotation cp="👩🏽‍🦼‍➡" type="tts">kona í vélknúnum hjólastól: millihúðlitur og snýr til hægri</annotation>
+		<annotation cp="👩🏾‍🦼‍➡">aðgengi | hægri | hjólastóll | kona | kona í vélknúnum hjólastól | meðaldökkur húðlitur | snýr | til</annotation>
+		<annotation cp="👩🏾‍🦼‍➡" type="tts">kona í vélknúnum hjólastól: meðaldökkur húðlitur og snýr til hægri</annotation>
+		<annotation cp="👩🏿‍🦼‍➡">aðgengi | dökkur húðlitur | hægri | hjólastóll | kona | kona í vélknúnum hjólastól | snýr | til</annotation>
+		<annotation cp="👩🏿‍🦼‍➡" type="tts">kona í vélknúnum hjólastól: dökkur húðlitur og snýr til hægri</annotation>
 		<annotation cp="🧑🏻‍🦽">aðgengi | hjólastóll | ljós húðlitur | manneskja í hjólastól</annotation>
 		<annotation cp="🧑🏻‍🦽" type="tts">manneskja í hjólastól: ljós húðlitur</annotation>
 		<annotation cp="🧑🏼‍🦽">aðgengi | hjólastóll | manneskja í hjólastól | meðalljós húðlitur</annotation>
@@ -2646,6 +2961,18 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🧑🏾‍🦽" type="tts">manneskja í hjólastól: meðaldökkur húðlitur</annotation>
 		<annotation cp="🧑🏿‍🦽">aðgengi | dökkur húðlitur | hjólastóll | manneskja í hjólastól</annotation>
 		<annotation cp="🧑🏿‍🦽" type="tts">manneskja í hjólastól: dökkur húðlitur</annotation>
+		<annotation cp="🧑‍🦽‍➡">aðgengi | hægri | hjólastóll | manneskja í hjólastól | snýr | til</annotation>
+		<annotation cp="🧑‍🦽‍➡" type="tts">manneskja í hjólastól: snýr til hægri</annotation>
+		<annotation cp="🧑🏻‍🦽‍➡">aðgengi | hægri | hjólastóll | ljós húðlitur | manneskja í hjólastól | snýr | til</annotation>
+		<annotation cp="🧑🏻‍🦽‍➡" type="tts">manneskja í hjólastól: ljós húðlitur og snýr til hægri</annotation>
+		<annotation cp="🧑🏼‍🦽‍➡">aðgengi | hægri | hjólastóll | manneskja í hjólastól | meðalljós húðlitur | snýr | til</annotation>
+		<annotation cp="🧑🏼‍🦽‍➡" type="tts">manneskja í hjólastól: meðalljós húðlitur og snýr til hægri</annotation>
+		<annotation cp="🧑🏽‍🦽‍➡">aðgengi | hægri | hjólastóll | manneskja í hjólastól | millihúðlitur | snýr | til</annotation>
+		<annotation cp="🧑🏽‍🦽‍➡" type="tts">manneskja í hjólastól: millihúðlitur og snýr til hægri</annotation>
+		<annotation cp="🧑🏾‍🦽‍➡">aðgengi | hægri | hjólastóll | manneskja í hjólastól | meðaldökkur húðlitur | snýr | til</annotation>
+		<annotation cp="🧑🏾‍🦽‍➡" type="tts">manneskja í hjólastól: meðaldökkur húðlitur og snýr til hægri</annotation>
+		<annotation cp="🧑🏿‍🦽‍➡">aðgengi | dökkur húðlitur | hægri | hjólastóll | manneskja í hjólastól | snýr | til</annotation>
+		<annotation cp="🧑🏿‍🦽‍➡" type="tts">manneskja í hjólastól: dökkur húðlitur og snýr til hægri</annotation>
 		<annotation cp="👨🏻‍🦽">aðgengi | hjólastóll | ljós húðlitur | maður | maður í hjólastól</annotation>
 		<annotation cp="👨🏻‍🦽" type="tts">maður í hjólastól: ljós húðlitur</annotation>
 		<annotation cp="👨🏼‍🦽">aðgengi | hjólastóll | maður | maður í hjólastól | meðalljós húðlitur</annotation>
@@ -2656,6 +2983,18 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👨🏾‍🦽" type="tts">maður í hjólastól: meðaldökkur húðlitur</annotation>
 		<annotation cp="👨🏿‍🦽">aðgengi | dökkur húðlitur | hjólastóll | maður | maður í hjólastól</annotation>
 		<annotation cp="👨🏿‍🦽" type="tts">maður í hjólastól: dökkur húðlitur</annotation>
+		<annotation cp="👨‍🦽‍➡">aðgengi | hægri | hjólastóll | maður | maður í hjólastól | snýr | til</annotation>
+		<annotation cp="👨‍🦽‍➡" type="tts">maður í hjólastól: snýr til hægri</annotation>
+		<annotation cp="👨🏻‍🦽‍➡">aðgengi | hægri | hjólastóll | ljós húðlitur | maður | maður í hjólastól | snýr | til</annotation>
+		<annotation cp="👨🏻‍🦽‍➡" type="tts">maður í hjólastól: ljós húðlitur og snýr til hægri</annotation>
+		<annotation cp="👨🏼‍🦽‍➡">aðgengi | hægri | hjólastóll | maður | maður í hjólastól | meðalljós húðlitur | snýr | til</annotation>
+		<annotation cp="👨🏼‍🦽‍➡" type="tts">maður í hjólastól: meðalljós húðlitur og snýr til hægri</annotation>
+		<annotation cp="👨🏽‍🦽‍➡">aðgengi | hægri | hjólastóll | maður | maður í hjólastól | millihúðlitur | snýr | til</annotation>
+		<annotation cp="👨🏽‍🦽‍➡" type="tts">maður í hjólastól: millihúðlitur og snýr til hægri</annotation>
+		<annotation cp="👨🏾‍🦽‍➡">aðgengi | hægri | hjólastóll | maður | maður í hjólastól | meðaldökkur húðlitur | snýr | til</annotation>
+		<annotation cp="👨🏾‍🦽‍➡" type="tts">maður í hjólastól: meðaldökkur húðlitur og snýr til hægri</annotation>
+		<annotation cp="👨🏿‍🦽‍➡">aðgengi | dökkur húðlitur | hægri | hjólastóll | maður | maður í hjólastól | snýr | til</annotation>
+		<annotation cp="👨🏿‍🦽‍➡" type="tts">maður í hjólastól: dökkur húðlitur og snýr til hægri</annotation>
 		<annotation cp="👩🏻‍🦽">aðgengi | hjólastóll | kona | kona í hjólastól | ljós húðlitur</annotation>
 		<annotation cp="👩🏻‍🦽" type="tts">kona í hjólastól: ljós húðlitur</annotation>
 		<annotation cp="👩🏼‍🦽">aðgengi | hjólastóll | kona | kona í hjólastól | meðalljós húðlitur</annotation>
@@ -2666,6 +3005,18 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👩🏾‍🦽" type="tts">kona í hjólastól: meðaldökkur húðlitur</annotation>
 		<annotation cp="👩🏿‍🦽">aðgengi | dökkur húðlitur | hjólastóll | kona | kona í hjólastól</annotation>
 		<annotation cp="👩🏿‍🦽" type="tts">kona í hjólastól: dökkur húðlitur</annotation>
+		<annotation cp="👩‍🦽‍➡">aðgengi | hægri | hjólastóll | kona | kona í hjólastól | snýr | til</annotation>
+		<annotation cp="👩‍🦽‍➡" type="tts">kona í hjólastól: snýr til hægri</annotation>
+		<annotation cp="👩🏻‍🦽‍➡">aðgengi | hægri | hjólastóll | kona | kona í hjólastól | ljós húðlitur | snýr | til</annotation>
+		<annotation cp="👩🏻‍🦽‍➡" type="tts">kona í hjólastól: ljós húðlitur og snýr til hægri</annotation>
+		<annotation cp="👩🏼‍🦽‍➡">aðgengi | hægri | hjólastóll | kona | kona í hjólastól | meðalljós húðlitur | snýr | til</annotation>
+		<annotation cp="👩🏼‍🦽‍➡" type="tts">kona í hjólastól: meðalljós húðlitur og snýr til hægri</annotation>
+		<annotation cp="👩🏽‍🦽‍➡">aðgengi | hægri | hjólastóll | kona | kona í hjólastól | millihúðlitur | snýr | til</annotation>
+		<annotation cp="👩🏽‍🦽‍➡" type="tts">kona í hjólastól: millihúðlitur og snýr til hægri</annotation>
+		<annotation cp="👩🏾‍🦽‍➡">aðgengi | hægri | hjólastóll | kona | kona í hjólastól | meðaldökkur húðlitur | snýr | til</annotation>
+		<annotation cp="👩🏾‍🦽‍➡" type="tts">kona í hjólastól: meðaldökkur húðlitur og snýr til hægri</annotation>
+		<annotation cp="👩🏿‍🦽‍➡">aðgengi | dökkur húðlitur | hægri | hjólastóll | kona | kona í hjólastól | snýr | til</annotation>
+		<annotation cp="👩🏿‍🦽‍➡" type="tts">kona í hjólastól: dökkur húðlitur og snýr til hægri</annotation>
 		<annotation cp="🏃🏻">hlaup | hlaupari | ljós húðlitur | maraþon</annotation>
 		<annotation cp="🏃🏻" type="tts">hlaupari: ljós húðlitur</annotation>
 		<annotation cp="🏃🏼">hlaup | hlaupari | maraþon | meðalljós húðlitur</annotation>
@@ -2696,6 +3047,42 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🏃🏾‍♀" type="tts">hlaupandi kona: meðaldökkur húðlitur</annotation>
 		<annotation cp="🏃🏿‍♀">dökkur húðlitur | hlaup | hlaupandi kona | maraþon</annotation>
 		<annotation cp="🏃🏿‍♀" type="tts">hlaupandi kona: dökkur húðlitur</annotation>
+		<annotation cp="🏃‍➡">hægri | hlaup | hlaupari | maraþon | snýr | til</annotation>
+		<annotation cp="🏃‍➡" type="tts">hlaupari: snýr til hægri</annotation>
+		<annotation cp="🏃🏻‍➡">hægri | hlaup | hlaupari | ljós húðlitur | maraþon | snýr | til</annotation>
+		<annotation cp="🏃🏻‍➡" type="tts">hlaupari: ljós húðlitur og snýr til hægri</annotation>
+		<annotation cp="🏃🏼‍➡">hægri | hlaup | hlaupari | maraþon | meðalljós húðlitur | snýr | til</annotation>
+		<annotation cp="🏃🏼‍➡" type="tts">hlaupari: meðalljós húðlitur og snýr til hægri</annotation>
+		<annotation cp="🏃🏽‍➡">hægri | hlaup | hlaupari | maraþon | millihúðlitur | snýr | til</annotation>
+		<annotation cp="🏃🏽‍➡" type="tts">hlaupari: millihúðlitur og snýr til hægri</annotation>
+		<annotation cp="🏃🏾‍➡">hægri | hlaup | hlaupari | maraþon | meðaldökkur húðlitur | snýr | til</annotation>
+		<annotation cp="🏃🏾‍➡" type="tts">hlaupari: meðaldökkur húðlitur og snýr til hægri</annotation>
+		<annotation cp="🏃🏿‍➡">dökkur húðlitur | hægri | hlaup | hlaupari | maraþon | snýr | til</annotation>
+		<annotation cp="🏃🏿‍➡" type="tts">hlaupari: dökkur húðlitur og snýr til hægri</annotation>
+		<annotation cp="🏃‍♀‍➡">hægri | hlaup | hlaupandi kona | maraþon | snýr | til</annotation>
+		<annotation cp="🏃‍♀‍➡" type="tts">hlaupandi kona: snýr til hægri</annotation>
+		<annotation cp="🏃🏻‍♀‍➡">hægri | hlaup | hlaupandi kona | ljós húðlitur | maraþon | snýr | til</annotation>
+		<annotation cp="🏃🏻‍♀‍➡" type="tts">hlaupandi kona: ljós húðlitur og snýr til hægri</annotation>
+		<annotation cp="🏃🏼‍♀‍➡">hægri | hlaup | hlaupandi kona | maraþon | meðalljós húðlitur | snýr | til</annotation>
+		<annotation cp="🏃🏼‍♀‍➡" type="tts">hlaupandi kona: meðalljós húðlitur og snýr til hægri</annotation>
+		<annotation cp="🏃🏽‍♀‍➡">hægri | hlaup | hlaupandi kona | maraþon | millihúðlitur | snýr | til</annotation>
+		<annotation cp="🏃🏽‍♀‍➡" type="tts">hlaupandi kona: millihúðlitur og snýr til hægri</annotation>
+		<annotation cp="🏃🏾‍♀‍➡">hægri | hlaup | hlaupandi kona | maraþon | meðaldökkur húðlitur | snýr | til</annotation>
+		<annotation cp="🏃🏾‍♀‍➡" type="tts">hlaupandi kona: meðaldökkur húðlitur og snýr til hægri</annotation>
+		<annotation cp="🏃🏿‍♀‍➡">dökkur húðlitur | hægri | hlaup | hlaupandi kona | maraþon | snýr | til</annotation>
+		<annotation cp="🏃🏿‍♀‍➡" type="tts">hlaupandi kona: dökkur húðlitur og snýr til hægri</annotation>
+		<annotation cp="🏃‍♂‍➡">hægri | hlaup | hlaupandi maður | maraþon | snýr | til</annotation>
+		<annotation cp="🏃‍♂‍➡" type="tts">hlaupandi maður: snýr til hægri</annotation>
+		<annotation cp="🏃🏻‍♂‍➡">hægri | hlaup | hlaupandi maður | ljós húðlitur | maraþon | snýr | til</annotation>
+		<annotation cp="🏃🏻‍♂‍➡" type="tts">hlaupandi maður: ljós húðlitur og snýr til hægri</annotation>
+		<annotation cp="🏃🏼‍♂‍➡">hægri | hlaup | hlaupandi maður | maraþon | meðalljós húðlitur | snýr | til</annotation>
+		<annotation cp="🏃🏼‍♂‍➡" type="tts">hlaupandi maður: meðalljós húðlitur og snýr til hægri</annotation>
+		<annotation cp="🏃🏽‍♂‍➡">hægri | hlaup | hlaupandi maður | maraþon | millihúðlitur | snýr | til</annotation>
+		<annotation cp="🏃🏽‍♂‍➡" type="tts">hlaupandi maður: millihúðlitur og snýr til hægri</annotation>
+		<annotation cp="🏃🏾‍♂‍➡">hægri | hlaup | hlaupandi maður | maraþon | meðaldökkur húðlitur | snýr | til</annotation>
+		<annotation cp="🏃🏾‍♂‍➡" type="tts">hlaupandi maður: meðaldökkur húðlitur og snýr til hægri</annotation>
+		<annotation cp="🏃🏿‍♂‍➡">dökkur húðlitur | hægri | hlaup | hlaupandi maður | maraþon | snýr | til</annotation>
+		<annotation cp="🏃🏿‍♂‍➡" type="tts">hlaupandi maður: dökkur húðlitur og snýr til hægri</annotation>
 		<annotation cp="💃🏻">dans | dansandi kona | fólk | ljós húðlitur</annotation>
 		<annotation cp="💃🏻" type="tts">dansandi kona: ljós húðlitur</annotation>
 		<annotation cp="💃🏼">dans | dansandi kona | fólk | meðalljós húðlitur</annotation>
@@ -2986,16 +3373,16 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🏋🏾‍♀" type="tts">kona í kraftlyftingum: meðaldökkur húðlitur</annotation>
 		<annotation cp="🏋🏿‍♀">dökkur húðlitur | kona | kona í kraftlyftingum | líkamsrækt | lyftingar</annotation>
 		<annotation cp="🏋🏿‍♀" type="tts">kona í kraftlyftingum: dökkur húðlitur</annotation>
-		<annotation cp="🚴🏻">hjól | hjólreiðar | ljós húðlitur</annotation>
-		<annotation cp="🚴🏻" type="tts">hjól: ljós húðlitur</annotation>
-		<annotation cp="🚴🏼">hjól | hjólreiðar | meðalljós húðlitur</annotation>
-		<annotation cp="🚴🏼" type="tts">hjól: meðalljós húðlitur</annotation>
-		<annotation cp="🚴🏽">hjól | hjólreiðar | millihúðlitur</annotation>
-		<annotation cp="🚴🏽" type="tts">hjól: millihúðlitur</annotation>
-		<annotation cp="🚴🏾">hjól | hjólreiðar | meðaldökkur húðlitur</annotation>
-		<annotation cp="🚴🏾" type="tts">hjól: meðaldökkur húðlitur</annotation>
-		<annotation cp="🚴🏿">dökkur húðlitur | hjól | hjólreiðar</annotation>
-		<annotation cp="🚴🏿" type="tts">hjól: dökkur húðlitur</annotation>
+		<annotation cp="🚴🏻">hjól | hjólreiðar | ljós húðlitur | manneskja á hjóli</annotation>
+		<annotation cp="🚴🏻" type="tts">manneskja á hjóli: ljós húðlitur</annotation>
+		<annotation cp="🚴🏼">hjól | hjólreiðar | manneskja á hjóli | meðalljós húðlitur</annotation>
+		<annotation cp="🚴🏼" type="tts">manneskja á hjóli: meðalljós húðlitur</annotation>
+		<annotation cp="🚴🏽">hjól | hjólreiðar | manneskja á hjóli | millihúðlitur</annotation>
+		<annotation cp="🚴🏽" type="tts">manneskja á hjóli: millihúðlitur</annotation>
+		<annotation cp="🚴🏾">hjól | hjólreiðar | manneskja á hjóli | meðaldökkur húðlitur</annotation>
+		<annotation cp="🚴🏾" type="tts">manneskja á hjóli: meðaldökkur húðlitur</annotation>
+		<annotation cp="🚴🏿">dökkur húðlitur | hjól | hjólreiðar | manneskja á hjóli</annotation>
+		<annotation cp="🚴🏿" type="tts">manneskja á hjóli: dökkur húðlitur</annotation>
 		<annotation cp="🚴🏻‍♂">hjól | hjólreiðar | karl | ljós húðlitur | maður á hjóli</annotation>
 		<annotation cp="🚴🏻‍♂" type="tts">maður á hjóli: ljós húðlitur</annotation>
 		<annotation cp="🚴🏼‍♂">hjól | hjólreiðar | karl | maður á hjóli | meðalljós húðlitur</annotation>
@@ -3046,16 +3433,16 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🚵🏾‍♀" type="tts">kona á fjallahjóli: meðaldökkur húðlitur</annotation>
 		<annotation cp="🚵🏿‍♀">dökkur húðlitur | fjallahjól | hjólreiðar | kona | kona á fjallahjóli</annotation>
 		<annotation cp="🚵🏿‍♀" type="tts">kona á fjallahjóli: dökkur húðlitur</annotation>
-		<annotation cp="🤸🏻">fimleikar | handalaup | hlaup | íþrótt | ljós húðlitur</annotation>
-		<annotation cp="🤸🏻" type="tts">handalaup: ljós húðlitur</annotation>
-		<annotation cp="🤸🏼">fimleikar | handalaup | hlaup | íþrótt | meðalljós húðlitur</annotation>
-		<annotation cp="🤸🏼" type="tts">handalaup: meðalljós húðlitur</annotation>
-		<annotation cp="🤸🏽">fimleikar | handalaup | hlaup | íþrótt | millihúðlitur</annotation>
-		<annotation cp="🤸🏽" type="tts">handalaup: millihúðlitur</annotation>
-		<annotation cp="🤸🏾">fimleikar | handalaup | hlaup | íþrótt | meðaldökkur húðlitur</annotation>
-		<annotation cp="🤸🏾" type="tts">handalaup: meðaldökkur húðlitur</annotation>
-		<annotation cp="🤸🏿">dökkur húðlitur | fimleikar | handalaup | hlaup | íþrótt</annotation>
-		<annotation cp="🤸🏿" type="tts">handalaup: dökkur húðlitur</annotation>
+		<annotation cp="🤸🏻">fimleikar | handahlaup | hlaup | íþrótt | ljós húðlitur</annotation>
+		<annotation cp="🤸🏻" type="tts">handahlaup: ljós húðlitur</annotation>
+		<annotation cp="🤸🏼">fimleikar | handahlaup | hlaup | íþrótt | meðalljós húðlitur</annotation>
+		<annotation cp="🤸🏼" type="tts">handahlaup: meðalljós húðlitur</annotation>
+		<annotation cp="🤸🏽">fimleikar | handahlaup | hlaup | íþrótt | millihúðlitur</annotation>
+		<annotation cp="🤸🏽" type="tts">handahlaup: millihúðlitur</annotation>
+		<annotation cp="🤸🏾">fimleikar | handahlaup | hlaup | íþrótt | meðaldökkur húðlitur</annotation>
+		<annotation cp="🤸🏾" type="tts">handahlaup: meðaldökkur húðlitur</annotation>
+		<annotation cp="🤸🏿">dökkur húðlitur | fimleikar | handahlaup | hlaup | íþrótt</annotation>
+		<annotation cp="🤸🏿" type="tts">handahlaup: dökkur húðlitur</annotation>
 		<annotation cp="🤸🏻‍♂">fimleikar | handahlaup | karl | ljós húðlitur | maður á handahlaupum</annotation>
 		<annotation cp="🤸🏻‍♂" type="tts">maður á handahlaupum: ljós húðlitur</annotation>
 		<annotation cp="🤸🏼‍♂">fimleikar | handahlaup | karl | maður á handahlaupum | meðalljós húðlitur</annotation>
@@ -3941,7 +4328,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🇸🇾">fáni</annotation>
 		<annotation cp="🇸🇾" type="tts">fáni: Sýrland</annotation>
 		<annotation cp="🇸🇿">fáni</annotation>
-		<annotation cp="🇸🇿" type="tts">fáni: Svasíland</annotation>
+		<annotation cp="🇸🇿" type="tts">fáni: Esvatíní</annotation>
 		<annotation cp="🇹🇦">fáni</annotation>
 		<annotation cp="🇹🇦" type="tts">fáni: Tristan da Cunha</annotation>
 		<annotation cp="🇹🇨">fáni</annotation>
@@ -4034,7 +4421,6 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="៛" type="tts">kambódískt ríal</annotation>
 		<annotation cp="₡" type="tts">kostarískt kólon</annotation>
 		<annotation cp="₦" type="tts">nígerísk næra</annotation>
-		<annotation cp="₧" type="tts">Spænskur peseti</annotation>
 		<annotation cp="₪" type="tts">nýr ísraelskur sikill</annotation>
 		<annotation cp="₫" type="tts">víetnamskt dong</annotation>
 		<annotation cp="₭" type="tts">laoskt kip</annotation>
@@ -4066,5 +4452,6 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="8⃣" type="tts">takki: 8</annotation>
 		<annotation cp="9⃣">takki</annotation>
 		<annotation cp="9⃣" type="tts">takki: 9</annotation>
+		<annotation cp="₧" type="tts">Spænskur peseti</annotation>
 	</annotations>
 </ldml>

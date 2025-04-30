@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE ldml SYSTEM "../../common/dtd/ldml.dtd">
-<!-- Copyright © 1991-2020 Unicode, Inc.
+<!-- Copyright © 1991-2024 Unicode, Inc.
 For terms of use, see http://www.unicode.org/copyright.html
-Unicode and the Unicode Logo are registered trademarks of Unicode, Inc. in the U.S. and other countries.
+SPDX-License-Identifier: Unicode-3.0
 CLDR data files are interpreted according to the LDML specification (http://unicode.org/reports/tr35/)
+
+Derived short names and annotations, using GenerateDerivedAnnotations.java. See warnings in /annotations/ file.
 -->
-<!-- Derived short names and annotations, using GenerateDerivedAnnotations.java. See warnings in /annotations/ file. -->
 <ldml>
 	<identity>
 		<version number="$Revision$"/>
@@ -62,6 +63,106 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🖖🏾" type="tts">вулкандыктарча салам: кара тору</annotation>
 		<annotation cp="🖖🏿">вулкан | вулкандыктарча салам | дене | кара | кол | манжа</annotation>
 		<annotation cp="🖖🏿" type="tts">вулкандыктарча салам: кара</annotation>
+		<annotation cp="🫱🏻">акжуумал | оңду көрсөткөн кол</annotation>
+		<annotation cp="🫱🏻" type="tts">оңду көрсөткөн кол: акжуумал</annotation>
+		<annotation cp="🫱🏼">буудай жүздүү | оңду көрсөткөн кол</annotation>
+		<annotation cp="🫱🏼" type="tts">оңду көрсөткөн кол: буудай жүздүү</annotation>
+		<annotation cp="🫱🏽">оңду көрсөткөн кол | орточо</annotation>
+		<annotation cp="🫱🏽" type="tts">оңду көрсөткөн кол: орточо</annotation>
+		<annotation cp="🫱🏾">кара тору | оңду көрсөткөн кол</annotation>
+		<annotation cp="🫱🏾" type="tts">оңду көрсөткөн кол: кара тору</annotation>
+		<annotation cp="🫱🏿">кара | оңду көрсөткөн кол</annotation>
+		<annotation cp="🫱🏿" type="tts">оңду көрсөткөн кол: кара</annotation>
+		<annotation cp="🫱🏻‍🫲🏼">акжуумал | буудай жүздүү | жолугуу | келишүү | кол алышуу</annotation>
+		<annotation cp="🫱🏻‍🫲🏼" type="tts">кол алышуу: акжуумал, буудай жүздүү</annotation>
+		<annotation cp="🫱🏻‍🫲🏽">акжуумал | жолугуу | келишүү | кол алышуу | орточо</annotation>
+		<annotation cp="🫱🏻‍🫲🏽" type="tts">кол алышуу: акжуумал, орточо</annotation>
+		<annotation cp="🫱🏻‍🫲🏾">акжуумал | жолугуу | кара тору | келишүү | кол алышуу</annotation>
+		<annotation cp="🫱🏻‍🫲🏾" type="tts">кол алышуу: акжуумал, кара тору</annotation>
+		<annotation cp="🫱🏻‍🫲🏿">акжуумал | жолугуу | кара | келишүү | кол алышуу</annotation>
+		<annotation cp="🫱🏻‍🫲🏿" type="tts">кол алышуу: акжуумал, кара</annotation>
+		<annotation cp="🫱🏼‍🫲🏻">акжуумал | буудай жүздүү | жолугуу | келишүү | кол алышуу</annotation>
+		<annotation cp="🫱🏼‍🫲🏻" type="tts">кол алышуу: буудай жүздүү, акжуумал</annotation>
+		<annotation cp="🫱🏼‍🫲🏽">буудай жүздүү | жолугуу | келишүү | кол алышуу | орточо</annotation>
+		<annotation cp="🫱🏼‍🫲🏽" type="tts">кол алышуу: буудай жүздүү, орточо</annotation>
+		<annotation cp="🫱🏼‍🫲🏾">буудай жүздүү | жолугуу | кара тору | келишүү | кол алышуу</annotation>
+		<annotation cp="🫱🏼‍🫲🏾" type="tts">кол алышуу: буудай жүздүү, кара тору</annotation>
+		<annotation cp="🫱🏼‍🫲🏿">буудай жүздүү | жолугуу | кара | келишүү | кол алышуу</annotation>
+		<annotation cp="🫱🏼‍🫲🏿" type="tts">кол алышуу: буудай жүздүү, кара</annotation>
+		<annotation cp="🫱🏽‍🫲🏻">акжуумал | жолугуу | келишүү | кол алышуу | орточо</annotation>
+		<annotation cp="🫱🏽‍🫲🏻" type="tts">кол алышуу: орточо, акжуумал</annotation>
+		<annotation cp="🫱🏽‍🫲🏼">буудай жүздүү | жолугуу | келишүү | кол алышуу | орточо</annotation>
+		<annotation cp="🫱🏽‍🫲🏼" type="tts">кол алышуу: орточо, буудай жүздүү</annotation>
+		<annotation cp="🫱🏽‍🫲🏾">жолугуу | кара тору | келишүү | кол алышуу | орточо</annotation>
+		<annotation cp="🫱🏽‍🫲🏾" type="tts">кол алышуу: орточо, кара тору</annotation>
+		<annotation cp="🫱🏽‍🫲🏿">жолугуу | кара | келишүү | кол алышуу | орточо</annotation>
+		<annotation cp="🫱🏽‍🫲🏿" type="tts">кол алышуу: орточо, кара</annotation>
+		<annotation cp="🫱🏾‍🫲🏻">акжуумал | жолугуу | кара тору | келишүү | кол алышуу</annotation>
+		<annotation cp="🫱🏾‍🫲🏻" type="tts">кол алышуу: кара тору, акжуумал</annotation>
+		<annotation cp="🫱🏾‍🫲🏼">буудай жүздүү | жолугуу | кара тору | келишүү | кол алышуу</annotation>
+		<annotation cp="🫱🏾‍🫲🏼" type="tts">кол алышуу: кара тору, буудай жүздүү</annotation>
+		<annotation cp="🫱🏾‍🫲🏽">жолугуу | кара тору | келишүү | кол алышуу | орточо</annotation>
+		<annotation cp="🫱🏾‍🫲🏽" type="tts">кол алышуу: кара тору, орточо</annotation>
+		<annotation cp="🫱🏾‍🫲🏿">жолугуу | кара | кара тору | келишүү | кол алышуу</annotation>
+		<annotation cp="🫱🏾‍🫲🏿" type="tts">кол алышуу: кара тору, кара</annotation>
+		<annotation cp="🫱🏿‍🫲🏻">акжуумал | жолугуу | кара | келишүү | кол алышуу</annotation>
+		<annotation cp="🫱🏿‍🫲🏻" type="tts">кол алышуу: кара, акжуумал</annotation>
+		<annotation cp="🫱🏿‍🫲🏼">буудай жүздүү | жолугуу | кара | келишүү | кол алышуу</annotation>
+		<annotation cp="🫱🏿‍🫲🏼" type="tts">кол алышуу: кара, буудай жүздүү</annotation>
+		<annotation cp="🫱🏿‍🫲🏽">жолугуу | кара | келишүү | кол алышуу | орточо</annotation>
+		<annotation cp="🫱🏿‍🫲🏽" type="tts">кол алышуу: кара, орточо</annotation>
+		<annotation cp="🫱🏿‍🫲🏾">жолугуу | кара | кара тору | келишүү | кол алышуу</annotation>
+		<annotation cp="🫱🏿‍🫲🏾" type="tts">кол алышуу: кара, кара тору</annotation>
+		<annotation cp="🫲🏻">акжуумал | солду көрсөткөн кол</annotation>
+		<annotation cp="🫲🏻" type="tts">солду көрсөткөн кол: акжуумал</annotation>
+		<annotation cp="🫲🏼">буудай жүздүү | солду көрсөткөн кол</annotation>
+		<annotation cp="🫲🏼" type="tts">солду көрсөткөн кол: буудай жүздүү</annotation>
+		<annotation cp="🫲🏽">орточо | солду көрсөткөн кол</annotation>
+		<annotation cp="🫲🏽" type="tts">солду көрсөткөн кол: орточо</annotation>
+		<annotation cp="🫲🏾">кара тору | солду көрсөткөн кол</annotation>
+		<annotation cp="🫲🏾" type="tts">солду көрсөткөн кол: кара тору</annotation>
+		<annotation cp="🫲🏿">кара | солду көрсөткөн кол</annotation>
+		<annotation cp="🫲🏿" type="tts">солду көрсөткөн кол: кара</annotation>
+		<annotation cp="🫳🏻">акжуумал | алаканы ылдый караган кол</annotation>
+		<annotation cp="🫳🏻" type="tts">алаканы ылдый караган кол: акжуумал</annotation>
+		<annotation cp="🫳🏼">алаканы ылдый караган кол | буудай жүздүү</annotation>
+		<annotation cp="🫳🏼" type="tts">алаканы ылдый караган кол: буудай жүздүү</annotation>
+		<annotation cp="🫳🏽">алаканы ылдый караган кол | орточо</annotation>
+		<annotation cp="🫳🏽" type="tts">алаканы ылдый караган кол: орточо</annotation>
+		<annotation cp="🫳🏾">алаканы ылдый караган кол | кара тору</annotation>
+		<annotation cp="🫳🏾" type="tts">алаканы ылдый караган кол: кара тору</annotation>
+		<annotation cp="🫳🏿">алаканы ылдый караган кол | кара</annotation>
+		<annotation cp="🫳🏿" type="tts">алаканы ылдый караган кол: кара</annotation>
+		<annotation cp="🫴🏻">акжуумал | алаканы өйдө караган кол</annotation>
+		<annotation cp="🫴🏻" type="tts">алаканы өйдө караган кол: акжуумал</annotation>
+		<annotation cp="🫴🏼">алаканы өйдө караган кол | буудай жүздүү</annotation>
+		<annotation cp="🫴🏼" type="tts">алаканы өйдө караган кол: буудай жүздүү</annotation>
+		<annotation cp="🫴🏽">алаканы өйдө караган кол | орточо</annotation>
+		<annotation cp="🫴🏽" type="tts">алаканы өйдө караган кол: орточо</annotation>
+		<annotation cp="🫴🏾">алаканы өйдө караган кол | кара тору</annotation>
+		<annotation cp="🫴🏾" type="tts">алаканы өйдө караган кол: кара тору</annotation>
+		<annotation cp="🫴🏿">алаканы өйдө караган кол | кара</annotation>
+		<annotation cp="🫴🏿" type="tts">алаканы өйдө караган кол: кара</annotation>
+		<annotation cp="🫷🏻">акжуумал | баш тартуу | беш берүү | күтүү | сол жакка | сол жакка түрткөн кол | токтотуу | түртүү</annotation>
+		<annotation cp="🫷🏻" type="tts">сол жакка түрткөн кол: акжуумал</annotation>
+		<annotation cp="🫷🏼">баш тартуу | беш берүү | буудай жүздүү | күтүү | сол жакка | сол жакка түрткөн кол | токтотуу | түртүү</annotation>
+		<annotation cp="🫷🏼" type="tts">сол жакка түрткөн кол: буудай жүздүү</annotation>
+		<annotation cp="🫷🏽">баш тартуу | беш берүү | күтүү | орточо | сол жакка | сол жакка түрткөн кол | токтотуу | түртүү</annotation>
+		<annotation cp="🫷🏽" type="tts">сол жакка түрткөн кол: орточо</annotation>
+		<annotation cp="🫷🏾">баш тартуу | беш берүү | кара тору | күтүү | сол жакка | сол жакка түрткөн кол | токтотуу | түртүү</annotation>
+		<annotation cp="🫷🏾" type="tts">сол жакка түрткөн кол: кара тору</annotation>
+		<annotation cp="🫷🏿">баш тартуу | беш берүү | кара | күтүү | сол жакка | сол жакка түрткөн кол | токтотуу | түртүү</annotation>
+		<annotation cp="🫷🏿" type="tts">сол жакка түрткөн кол: кара</annotation>
+		<annotation cp="🫸🏻">акжуумал | баш тартуу | беш берүү | күтүү | оң жакка | оң жакка түрткөн кол | токтотуу | түртүү</annotation>
+		<annotation cp="🫸🏻" type="tts">оң жакка түрткөн кол: акжуумал</annotation>
+		<annotation cp="🫸🏼">баш тартуу | беш берүү | буудай жүздүү | күтүү | оң жакка | оң жакка түрткөн кол | токтотуу | түртүү</annotation>
+		<annotation cp="🫸🏼" type="tts">оң жакка түрткөн кол: буудай жүздүү</annotation>
+		<annotation cp="🫸🏽">баш тартуу | беш берүү | күтүү | оң жакка | оң жакка түрткөн кол | орточо | токтотуу | түртүү</annotation>
+		<annotation cp="🫸🏽" type="tts">оң жакка түрткөн кол: орточо</annotation>
+		<annotation cp="🫸🏾">баш тартуу | беш берүү | кара тору | күтүү | оң жакка | оң жакка түрткөн кол | токтотуу | түртүү</annotation>
+		<annotation cp="🫸🏾" type="tts">оң жакка түрткөн кол: кара тору</annotation>
+		<annotation cp="🫸🏿">баш тартуу | беш берүү | кара | күтүү | оң жакка | оң жакка түрткөн кол | токтотуу | түртүү</annotation>
+		<annotation cp="🫸🏿" type="tts">оң жакка түрткөн кол: кара</annotation>
 		<annotation cp="👌🏻">«ОК» белгиси | акжуумал | дене | кол | ОК</annotation>
 		<annotation cp="👌🏻" type="tts">«ОК» белгиси: акжуумал</annotation>
 		<annotation cp="👌🏼">«ОК» белгиси | буудай жүздүү | дене | кол | ОК</annotation>
@@ -112,6 +213,16 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🤞🏾" type="tts">кайчылаштырылган манжалар: кара тору</annotation>
 		<annotation cp="🤞🏿">ийгилик | кайчылаштырылган манжалар | кара</annotation>
 		<annotation cp="🤞🏿" type="tts">кайчылаштырылган манжалар: кара</annotation>
+		<annotation cp="🫰🏻">акжуумал | сөөмөй менен бармак кайчылаштырылган кол</annotation>
+		<annotation cp="🫰🏻" type="tts">сөөмөй менен бармак кайчылаштырылган кол: акжуумал</annotation>
+		<annotation cp="🫰🏼">буудай жүздүү | сөөмөй менен бармак кайчылаштырылган кол</annotation>
+		<annotation cp="🫰🏼" type="tts">сөөмөй менен бармак кайчылаштырылган кол: буудай жүздүү</annotation>
+		<annotation cp="🫰🏽">орточо | сөөмөй менен бармак кайчылаштырылган кол</annotation>
+		<annotation cp="🫰🏽" type="tts">сөөмөй менен бармак кайчылаштырылган кол: орточо</annotation>
+		<annotation cp="🫰🏾">кара тору | сөөмөй менен бармак кайчылаштырылган кол</annotation>
+		<annotation cp="🫰🏾" type="tts">сөөмөй менен бармак кайчылаштырылган кол: кара тору</annotation>
+		<annotation cp="🫰🏿">кара | сөөмөй менен бармак кайчылаштырылган кол</annotation>
+		<annotation cp="🫰🏿" type="tts">сөөмөй менен бармак кайчылаштырылган кол: кара</annotation>
 		<annotation cp="🤟🏻">акжуумал | кол | сени сүйөм | сүйөм сени деген ишарат</annotation>
 		<annotation cp="🤟🏻" type="tts">сүйөм сени деген ишарат: акжуумал</annotation>
 		<annotation cp="🤟🏼">буудай жүздүү | кол | сени сүйөм | сүйөм сени деген ишарат</annotation>
@@ -202,6 +313,16 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="☝🏾" type="tts">өйдө жакты көрсөткөн сөөмөй: кара тору</annotation>
 		<annotation cp="☝🏿">кара | кол | көрсөт | өйдө | өйдө жакты көрсөткөн сөөмөй | сөөмөйү өйдө караган кол</annotation>
 		<annotation cp="☝🏿" type="tts">өйдө жакты көрсөткөн сөөмөй: кара</annotation>
+		<annotation cp="🫵🏻">акжуумал | көрүүчүгө багытталган сөөмөй</annotation>
+		<annotation cp="🫵🏻" type="tts">көрүүчүгө багытталган сөөмөй: акжуумал</annotation>
+		<annotation cp="🫵🏼">буудай жүздүү | көрүүчүгө багытталган сөөмөй</annotation>
+		<annotation cp="🫵🏼" type="tts">көрүүчүгө багытталган сөөмөй: буудай жүздүү</annotation>
+		<annotation cp="🫵🏽">көрүүчүгө багытталган сөөмөй | орточо</annotation>
+		<annotation cp="🫵🏽" type="tts">көрүүчүгө багытталган сөөмөй: орточо</annotation>
+		<annotation cp="🫵🏾">кара тору | көрүүчүгө багытталган сөөмөй</annotation>
+		<annotation cp="🫵🏾" type="tts">көрүүчүгө багытталган сөөмөй: кара тору</annotation>
+		<annotation cp="🫵🏿">кара | көрүүчүгө багытталган сөөмөй</annotation>
+		<annotation cp="🫵🏿" type="tts">көрүүчүгө багытталган сөөмөй: кара</annotation>
 		<annotation cp="👍🏻">«начар» | «сонун» | +1 | акжуумал | бармак | жогору | кол</annotation>
 		<annotation cp="👍🏻" type="tts">«сонун»: акжуумал</annotation>
 		<annotation cp="👍🏼">«начар» | «сонун» | +1 | бармак | буудай жүздүү | жогору | кол</annotation>
@@ -282,6 +403,16 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🙌🏾" type="tts">кол көтөрүп жаткан адам: кара тору</annotation>
 		<annotation cp="🙌🏿">ишарат | кара | кол | кол көтөрүп жаткан адам | көтөрүлгөн колдор | майрам | ураа</annotation>
 		<annotation cp="🙌🏿" type="tts">кол көтөрүп жаткан адам: кара</annotation>
+		<annotation cp="🫶🏻">акжуумал | жүрөк кол</annotation>
+		<annotation cp="🫶🏻" type="tts">жүрөк кол: акжуумал</annotation>
+		<annotation cp="🫶🏼">буудай жүздүү | жүрөк кол</annotation>
+		<annotation cp="🫶🏼" type="tts">жүрөк кол: буудай жүздүү</annotation>
+		<annotation cp="🫶🏽">жүрөк кол | орточо</annotation>
+		<annotation cp="🫶🏽" type="tts">жүрөк кол: орточо</annotation>
+		<annotation cp="🫶🏾">жүрөк кол | кара тору</annotation>
+		<annotation cp="🫶🏾" type="tts">жүрөк кол: кара тору</annotation>
+		<annotation cp="🫶🏿">жүрөк кол | кара</annotation>
+		<annotation cp="🫶🏿" type="tts">жүрөк кол: кара</annotation>
 		<annotation cp="👐🏻">акжуумал | алакан | ач | ачык алакандар | дене</annotation>
 		<annotation cp="👐🏻" type="tts">ачык алакандар: акжуумал</annotation>
 		<annotation cp="👐🏼">алакан | ач | ачык алакандар | буудай жүздүү | дене</annotation>
@@ -302,6 +433,16 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🤲🏾" type="tts">алакан жаюу: кара тору</annotation>
 		<annotation cp="🤲🏿">алакан жаюу | кара | сыйынуу</annotation>
 		<annotation cp="🤲🏿" type="tts">алакан жаюу: кара</annotation>
+		<annotation cp="🤝🏻">акжуумал | жолугуу | келишүү | кол алышуу</annotation>
+		<annotation cp="🤝🏻" type="tts">кол алышуу: акжуумал</annotation>
+		<annotation cp="🤝🏼">буудай жүздүү | жолугуу | келишүү | кол алышуу</annotation>
+		<annotation cp="🤝🏼" type="tts">кол алышуу: буудай жүздүү</annotation>
+		<annotation cp="🤝🏽">жолугуу | келишүү | кол алышуу | орточо</annotation>
+		<annotation cp="🤝🏽" type="tts">кол алышуу: орточо</annotation>
+		<annotation cp="🤝🏾">жолугуу | кара тору | келишүү | кол алышуу</annotation>
+		<annotation cp="🤝🏾" type="tts">кол алышуу: кара тору</annotation>
+		<annotation cp="🤝🏿">жолугуу | кара | келишүү | кол алышуу</annotation>
+		<annotation cp="🤝🏿" type="tts">кол алышуу: кара</annotation>
 		<annotation cp="🙏🏻">акжуумал | алаканын бириктирген колдор | жалын | кол | өтүн | ыраазычылык</annotation>
 		<annotation cp="🙏🏻" type="tts">алаканын бириктирген колдор: акжуумал</annotation>
 		<annotation cp="🙏🏼">алаканын бириктирген колдор | буудай жүздүү | жалын | кол | өтүн | ыраазычылык</annotation>
@@ -1996,6 +2137,16 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👷🏾‍♀" type="tts">аял курулуш кызматкери: кара тору</annotation>
 		<annotation cp="👷🏿‍♀">аял | аял курулуш кызматкери | жумушчу | кара | курулуш</annotation>
 		<annotation cp="👷🏿‍♀" type="tts">аял курулуш кызматкери: кара</annotation>
+		<annotation cp="🫅🏻">акжуумал | таажысы бар киши</annotation>
+		<annotation cp="🫅🏻" type="tts">таажысы бар киши: акжуумал</annotation>
+		<annotation cp="🫅🏼">буудай жүздүү | таажысы бар киши</annotation>
+		<annotation cp="🫅🏼" type="tts">таажысы бар киши: буудай жүздүү</annotation>
+		<annotation cp="🫅🏽">орточо | таажысы бар киши</annotation>
+		<annotation cp="🫅🏽" type="tts">таажысы бар киши: орточо</annotation>
+		<annotation cp="🫅🏾">кара тору | таажысы бар киши</annotation>
+		<annotation cp="🫅🏾" type="tts">таажысы бар киши: кара тору</annotation>
+		<annotation cp="🫅🏿">кара | таажысы бар киши</annotation>
+		<annotation cp="🫅🏿" type="tts">таажысы бар киши: кара</annotation>
 		<annotation cp="🤴🏻">акжуумал | ханзаада</annotation>
 		<annotation cp="🤴🏻" type="tts">ханзаада: акжуумал</annotation>
 		<annotation cp="🤴🏼">буудай жүздүү | ханзаада</annotation>
@@ -2136,6 +2287,26 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🤰🏾" type="tts">кош бойлуу аял: кара тору</annotation>
 		<annotation cp="🤰🏿">аял | кара | кош бойлуу | кош бойлуу аял</annotation>
 		<annotation cp="🤰🏿" type="tts">кош бойлуу аял: кара</annotation>
+		<annotation cp="🫃🏻">акжуумал | кош бойлуу эркек киши</annotation>
+		<annotation cp="🫃🏻" type="tts">кош бойлуу эркек киши: акжуумал</annotation>
+		<annotation cp="🫃🏼">буудай жүздүү | кош бойлуу эркек киши</annotation>
+		<annotation cp="🫃🏼" type="tts">кош бойлуу эркек киши: буудай жүздүү</annotation>
+		<annotation cp="🫃🏽">кош бойлуу эркек киши | орточо</annotation>
+		<annotation cp="🫃🏽" type="tts">кош бойлуу эркек киши: орточо</annotation>
+		<annotation cp="🫃🏾">кара тору | кош бойлуу эркек киши</annotation>
+		<annotation cp="🫃🏾" type="tts">кош бойлуу эркек киши: кара тору</annotation>
+		<annotation cp="🫃🏿">кара | кош бойлуу эркек киши</annotation>
+		<annotation cp="🫃🏿" type="tts">кош бойлуу эркек киши: кара</annotation>
+		<annotation cp="🫄🏻">акжуумал | боюнда бар адам</annotation>
+		<annotation cp="🫄🏻" type="tts">боюнда бар адам: акжуумал</annotation>
+		<annotation cp="🫄🏼">боюнда бар адам | буудай жүздүү</annotation>
+		<annotation cp="🫄🏼" type="tts">боюнда бар адам: буудай жүздүү</annotation>
+		<annotation cp="🫄🏽">боюнда бар адам | орточо</annotation>
+		<annotation cp="🫄🏽" type="tts">боюнда бар адам: орточо</annotation>
+		<annotation cp="🫄🏾">боюнда бар адам | кара тору</annotation>
+		<annotation cp="🫄🏾" type="tts">боюнда бар адам: кара тору</annotation>
+		<annotation cp="🫄🏿">боюнда бар адам | кара</annotation>
+		<annotation cp="🫄🏿" type="tts">боюнда бар адам: кара</annotation>
 		<annotation cp="🤱🏻">акжуумал | багуу | бала | эмчек | эмчек эмизүү</annotation>
 		<annotation cp="🤱🏻" type="tts">эмчек эмизүү: акжуумал</annotation>
 		<annotation cp="🤱🏼">багуу | бала | буудай жүздүү | эмчек | эмчек эмизүү</annotation>
@@ -2206,15 +2377,15 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🤶🏾" type="tts">миссис клаус: кара тору</annotation>
 		<annotation cp="🤶🏿">кара | миссис клаус | рождество</annotation>
 		<annotation cp="🤶🏿" type="tts">миссис клаус: кара</annotation>
-		<annotation cp="🧑🏻‍🎄">акжуумал | клаус | Клаус, рождество | рожд клаус</annotation>
+		<annotation cp="🧑🏻‍🎄">акжуумал | жомок | Клаус | майрам | санта | сыйкырдуу | фантазия | Ыйсанын туулган күнү</annotation>
 		<annotation cp="🧑🏻‍🎄" type="tts">клаус: акжуумал</annotation>
-		<annotation cp="🧑🏼‍🎄">буудай жүздүү | клаус | Клаус, рождество | рожд клаус</annotation>
+		<annotation cp="🧑🏼‍🎄">буудай жүздүү | жомок | Клаус | майрам | санта | сыйкырдуу | фантазия | Ыйсанын туулган күнү</annotation>
 		<annotation cp="🧑🏼‍🎄" type="tts">клаус: буудай жүздүү</annotation>
-		<annotation cp="🧑🏽‍🎄">клаус | Клаус, рождество | орточо | рожд клаус</annotation>
+		<annotation cp="🧑🏽‍🎄">жомок | Клаус | майрам | орточо | санта | сыйкырдуу | фантазия | Ыйсанын туулган күнү</annotation>
 		<annotation cp="🧑🏽‍🎄" type="tts">клаус: орточо</annotation>
-		<annotation cp="🧑🏾‍🎄">кара тору | клаус | Клаус, рождество | рожд клаус</annotation>
+		<annotation cp="🧑🏾‍🎄">жомок | кара тору | Клаус | майрам | санта | сыйкырдуу | фантазия | Ыйсанын туулган күнү</annotation>
 		<annotation cp="🧑🏾‍🎄" type="tts">клаус: кара тору</annotation>
-		<annotation cp="🧑🏿‍🎄">кара | клаус | Клаус, рождество | рожд клаус</annotation>
+		<annotation cp="🧑🏿‍🎄">жомок | кара | Клаус | майрам | санта | сыйкырдуу | фантазия | Ыйсанын туулган күнү</annotation>
 		<annotation cp="🧑🏿‍🎄" type="tts">клаус: кара</annotation>
 		<annotation cp="🦸🏻">акжуумал | баатыр | баатыр кыз | жакшы | супер баатыр | эбегейсиз зор күч</annotation>
 		<annotation cp="🦸🏻" type="tts">супер баатыр: акжуумал</annotation>
@@ -2516,6 +2687,42 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🚶🏾‍♀" type="tts">жөө басып бара жаткан аял: кара тору</annotation>
 		<annotation cp="🚶🏿‍♀">аял | жөө басуу | жөө басып бара жаткан аял | кара | экскурсия</annotation>
 		<annotation cp="🚶🏿‍♀" type="tts">жөө басып бара жаткан аял: кара</annotation>
+		<annotation cp="🚶‍➡">жөө адам | жөө басуу | карап | оңду | турат | экскурсия</annotation>
+		<annotation cp="🚶‍➡" type="tts">жөө адам: оңду карап турат</annotation>
+		<annotation cp="🚶🏻‍➡">акжуумал | жөө адам | жөө басуу | карап | оңду | турат | экскурсия</annotation>
+		<annotation cp="🚶🏻‍➡" type="tts">жөө адам: акжуумал, оңду карап турат</annotation>
+		<annotation cp="🚶🏼‍➡">буудай жүздүү | жөө адам | жөө басуу | карап | оңду | турат | экскурсия</annotation>
+		<annotation cp="🚶🏼‍➡" type="tts">жөө адам: буудай жүздүү, оңду карап турат</annotation>
+		<annotation cp="🚶🏽‍➡">жөө адам | жөө басуу | карап | оңду | орточо | турат | экскурсия</annotation>
+		<annotation cp="🚶🏽‍➡" type="tts">жөө адам: орточо, оңду карап турат</annotation>
+		<annotation cp="🚶🏾‍➡">жөө адам | жөө басуу | кара тору | карап | оңду | турат | экскурсия</annotation>
+		<annotation cp="🚶🏾‍➡" type="tts">жөө адам: кара тору, оңду карап турат</annotation>
+		<annotation cp="🚶🏿‍➡">жөө адам | жөө басуу | кара | карап | оңду | турат | экскурсия</annotation>
+		<annotation cp="🚶🏿‍➡" type="tts">жөө адам: кара, оңду карап турат</annotation>
+		<annotation cp="🚶‍♀‍➡">аял | жөө басуу | жөө басып бара жаткан аял | карап | оңду | турат | экскурсия</annotation>
+		<annotation cp="🚶‍♀‍➡" type="tts">жөө басып бара жаткан аял: оңду карап турат</annotation>
+		<annotation cp="🚶🏻‍♀‍➡">акжуумал | аял | жөө басуу | жөө басып бара жаткан аял | карап | оңду | турат | экскурсия</annotation>
+		<annotation cp="🚶🏻‍♀‍➡" type="tts">жөө басып бара жаткан аял: акжуумал, оңду карап турат</annotation>
+		<annotation cp="🚶🏼‍♀‍➡">аял | буудай жүздүү | жөө басуу | жөө басып бара жаткан аял | карап | оңду | турат | экскурсия</annotation>
+		<annotation cp="🚶🏼‍♀‍➡" type="tts">жөө басып бара жаткан аял: буудай жүздүү, оңду карап турат</annotation>
+		<annotation cp="🚶🏽‍♀‍➡">аял | жөө басуу | жөө басып бара жаткан аял | карап | оңду | орточо | турат | экскурсия</annotation>
+		<annotation cp="🚶🏽‍♀‍➡" type="tts">жөө басып бара жаткан аял: орточо, оңду карап турат</annotation>
+		<annotation cp="🚶🏾‍♀‍➡">аял | жөө басуу | жөө басып бара жаткан аял | кара тору | карап | оңду | турат | экскурсия</annotation>
+		<annotation cp="🚶🏾‍♀‍➡" type="tts">жөө басып бара жаткан аял: кара тору, оңду карап турат</annotation>
+		<annotation cp="🚶🏿‍♀‍➡">аял | жөө басуу | жөө басып бара жаткан аял | кара | карап | оңду | турат | экскурсия</annotation>
+		<annotation cp="🚶🏿‍♀‍➡" type="tts">жөө басып бара жаткан аял: кара, оңду карап турат</annotation>
+		<annotation cp="🚶‍♂‍➡">жөө басуу | жөө басып бара жаткан эркек | карап | оңду | турат | экскурсия | эркек</annotation>
+		<annotation cp="🚶‍♂‍➡" type="tts">жөө басып бара жаткан эркек: оңду карап турат</annotation>
+		<annotation cp="🚶🏻‍♂‍➡">акжуумал | жөө басуу | жөө басып бара жаткан эркек | карап | оңду | турат | экскурсия | эркек</annotation>
+		<annotation cp="🚶🏻‍♂‍➡" type="tts">жөө басып бара жаткан эркек: акжуумал, оңду карап турат</annotation>
+		<annotation cp="🚶🏼‍♂‍➡">буудай жүздүү | жөө басуу | жөө басып бара жаткан эркек | карап | оңду | турат | экскурсия | эркек</annotation>
+		<annotation cp="🚶🏼‍♂‍➡" type="tts">жөө басып бара жаткан эркек: буудай жүздүү, оңду карап турат</annotation>
+		<annotation cp="🚶🏽‍♂‍➡">жөө басуу | жөө басып бара жаткан эркек | карап | оңду | орточо | турат | экскурсия | эркек</annotation>
+		<annotation cp="🚶🏽‍♂‍➡" type="tts">жөө басып бара жаткан эркек: орточо, оңду карап турат</annotation>
+		<annotation cp="🚶🏾‍♂‍➡">жөө басуу | жөө басып бара жаткан эркек | кара тору | карап | оңду | турат | экскурсия | эркек</annotation>
+		<annotation cp="🚶🏾‍♂‍➡" type="tts">жөө басып бара жаткан эркек: кара тору, оңду карап турат</annotation>
+		<annotation cp="🚶🏿‍♂‍➡">жөө басуу | жөө басып бара жаткан эркек | кара | карап | оңду | турат | экскурсия | эркек</annotation>
+		<annotation cp="🚶🏿‍♂‍➡" type="tts">жөө басып бара жаткан эркек: кара, оңду карап турат</annotation>
 		<annotation cp="🧍🏻">адам турат | акжуумал | турат | туруу</annotation>
 		<annotation cp="🧍🏻" type="tts">адам турат: акжуумал</annotation>
 		<annotation cp="🧍🏼">адам турат | буудай жүздүү | турат | туруу</annotation>
@@ -2576,6 +2783,42 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🧎🏾‍♀" type="tts">аял тизелөөдө: кара тору</annotation>
 		<annotation cp="🧎🏿‍♀">аял | аял тизелөөдө | кара | тизелеп турат</annotation>
 		<annotation cp="🧎🏿‍♀" type="tts">аял тизелөөдө: кара</annotation>
+		<annotation cp="🧎‍➡">карап | оңду | тизелеген адам | тизелеп турат | тизелөө | турат</annotation>
+		<annotation cp="🧎‍➡" type="tts">тизелеген адам: оңду карап турат</annotation>
+		<annotation cp="🧎🏻‍➡">акжуумал | карап | оңду | тизелеген адам | тизелеп турат | тизелөө | турат</annotation>
+		<annotation cp="🧎🏻‍➡" type="tts">тизелеген адам: акжуумал, оңду карап турат</annotation>
+		<annotation cp="🧎🏼‍➡">буудай жүздүү | карап | оңду | тизелеген адам | тизелеп турат | тизелөө | турат</annotation>
+		<annotation cp="🧎🏼‍➡" type="tts">тизелеген адам: буудай жүздүү, оңду карап турат</annotation>
+		<annotation cp="🧎🏽‍➡">карап | оңду | орточо | тизелеген адам | тизелеп турат | тизелөө | турат</annotation>
+		<annotation cp="🧎🏽‍➡" type="tts">тизелеген адам: орточо, оңду карап турат</annotation>
+		<annotation cp="🧎🏾‍➡">кара тору | карап | оңду | тизелеген адам | тизелеп турат | тизелөө | турат</annotation>
+		<annotation cp="🧎🏾‍➡" type="tts">тизелеген адам: кара тору, оңду карап турат</annotation>
+		<annotation cp="🧎🏿‍➡">кара | карап | оңду | тизелеген адам | тизелеп турат | тизелөө | турат</annotation>
+		<annotation cp="🧎🏿‍➡" type="tts">тизелеген адам: кара, оңду карап турат</annotation>
+		<annotation cp="🧎‍♀‍➡">аял | аял тизелөөдө | карап | оңду | тизелеп турат | турат</annotation>
+		<annotation cp="🧎‍♀‍➡" type="tts">аял тизелөөдө: оңду карап турат</annotation>
+		<annotation cp="🧎🏻‍♀‍➡">акжуумал | аял | аял тизелөөдө | карап | оңду | тизелеп турат | турат</annotation>
+		<annotation cp="🧎🏻‍♀‍➡" type="tts">аял тизелөөдө: акжуумал, оңду карап турат</annotation>
+		<annotation cp="🧎🏼‍♀‍➡">аял | аял тизелөөдө | буудай жүздүү | карап | оңду | тизелеп турат | турат</annotation>
+		<annotation cp="🧎🏼‍♀‍➡" type="tts">аял тизелөөдө: буудай жүздүү, оңду карап турат</annotation>
+		<annotation cp="🧎🏽‍♀‍➡">аял | аял тизелөөдө | карап | оңду | орточо | тизелеп турат | турат</annotation>
+		<annotation cp="🧎🏽‍♀‍➡" type="tts">аял тизелөөдө: орточо, оңду карап турат</annotation>
+		<annotation cp="🧎🏾‍♀‍➡">аял | аял тизелөөдө | кара тору | карап | оңду | тизелеп турат | турат</annotation>
+		<annotation cp="🧎🏾‍♀‍➡" type="tts">аял тизелөөдө: кара тору, оңду карап турат</annotation>
+		<annotation cp="🧎🏿‍♀‍➡">аял | аял тизелөөдө | кара | карап | оңду | тизелеп турат | турат</annotation>
+		<annotation cp="🧎🏿‍♀‍➡" type="tts">аял тизелөөдө: кара, оңду карап турат</annotation>
+		<annotation cp="🧎‍♂‍➡">карап | киши | оңду | тизелеген киши | тизелеп турат | турат</annotation>
+		<annotation cp="🧎‍♂‍➡" type="tts">тизелеген киши: оңду карап турат</annotation>
+		<annotation cp="🧎🏻‍♂‍➡">акжуумал | карап | киши | оңду | тизелеген киши | тизелеп турат | турат</annotation>
+		<annotation cp="🧎🏻‍♂‍➡" type="tts">тизелеген киши: акжуумал, оңду карап турат</annotation>
+		<annotation cp="🧎🏼‍♂‍➡">буудай жүздүү | карап | киши | оңду | тизелеген киши | тизелеп турат | турат</annotation>
+		<annotation cp="🧎🏼‍♂‍➡" type="tts">тизелеген киши: буудай жүздүү, оңду карап турат</annotation>
+		<annotation cp="🧎🏽‍♂‍➡">карап | киши | оңду | орточо | тизелеген киши | тизелеп турат | турат</annotation>
+		<annotation cp="🧎🏽‍♂‍➡" type="tts">тизелеген киши: орточо, оңду карап турат</annotation>
+		<annotation cp="🧎🏾‍♂‍➡">кара тору | карап | киши | оңду | тизелеген киши | тизелеп турат | турат</annotation>
+		<annotation cp="🧎🏾‍♂‍➡" type="tts">тизелеген киши: кара тору, оңду карап турат</annotation>
+		<annotation cp="🧎🏿‍♂‍➡">кара | карап | киши | оңду | тизелеген киши | тизелеп турат | турат</annotation>
+		<annotation cp="🧎🏿‍♂‍➡" type="tts">тизелеген киши: кара, оңду карап турат</annotation>
 		<annotation cp="🧑🏻‍🦯">акжуумал | таякка жөлөнгөн киши</annotation>
 		<annotation cp="🧑🏻‍🦯" type="tts">таякка жөлөнгөн киши: акжуумал</annotation>
 		<annotation cp="🧑🏼‍🦯">буудай жүздүү | таякка жөлөнгөн киши</annotation>
@@ -2586,6 +2829,18 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🧑🏾‍🦯" type="tts">таякка жөлөнгөн киши: кара тору</annotation>
 		<annotation cp="🧑🏿‍🦯">кара | таякка жөлөнгөн киши</annotation>
 		<annotation cp="🧑🏿‍🦯" type="tts">таякка жөлөнгөн киши: кара</annotation>
+		<annotation cp="🧑‍🦯‍➡">карап | оңду | таякка жөлөнгөн киши | турат</annotation>
+		<annotation cp="🧑‍🦯‍➡" type="tts">таякка жөлөнгөн киши: оңду карап турат</annotation>
+		<annotation cp="🧑🏻‍🦯‍➡">акжуумал | карап | оңду | таякка жөлөнгөн киши | турат</annotation>
+		<annotation cp="🧑🏻‍🦯‍➡" type="tts">таякка жөлөнгөн киши: акжуумал, оңду карап турат</annotation>
+		<annotation cp="🧑🏼‍🦯‍➡">буудай жүздүү | карап | оңду | таякка жөлөнгөн киши | турат</annotation>
+		<annotation cp="🧑🏼‍🦯‍➡" type="tts">таякка жөлөнгөн киши: буудай жүздүү, оңду карап турат</annotation>
+		<annotation cp="🧑🏽‍🦯‍➡">карап | оңду | орточо | таякка жөлөнгөн киши | турат</annotation>
+		<annotation cp="🧑🏽‍🦯‍➡" type="tts">таякка жөлөнгөн киши: орточо, оңду карап турат</annotation>
+		<annotation cp="🧑🏾‍🦯‍➡">кара тору | карап | оңду | таякка жөлөнгөн киши | турат</annotation>
+		<annotation cp="🧑🏾‍🦯‍➡" type="tts">таякка жөлөнгөн киши: кара тору, оңду карап турат</annotation>
+		<annotation cp="🧑🏿‍🦯‍➡">кара | карап | оңду | таякка жөлөнгөн киши | турат</annotation>
+		<annotation cp="🧑🏿‍🦯‍➡" type="tts">таякка жөлөнгөн киши: кара, оңду карап турат</annotation>
 		<annotation cp="👨🏻‍🦯">акжуумал | атайын мүмкүндүк | киши | сокур | таяк таянган киши</annotation>
 		<annotation cp="👨🏻‍🦯" type="tts">таяк таянган киши: акжуумал</annotation>
 		<annotation cp="👨🏼‍🦯">атайын мүмкүндүк | буудай жүздүү | киши | сокур | таяк таянган киши</annotation>
@@ -2596,6 +2851,18 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👨🏾‍🦯" type="tts">таяк таянган киши: кара тору</annotation>
 		<annotation cp="👨🏿‍🦯">атайын мүмкүндүк | кара | киши | сокур | таяк таянган киши</annotation>
 		<annotation cp="👨🏿‍🦯" type="tts">таяк таянган киши: кара</annotation>
+		<annotation cp="👨‍🦯‍➡">атайын мүмкүндүк | карап | киши | оңду | сокур | таяк таянган киши | турат</annotation>
+		<annotation cp="👨‍🦯‍➡" type="tts">таяк таянган киши: оңду карап турат</annotation>
+		<annotation cp="👨🏻‍🦯‍➡">акжуумал | атайын мүмкүндүк | карап | киши | оңду | сокур | таяк таянган киши | турат</annotation>
+		<annotation cp="👨🏻‍🦯‍➡" type="tts">таяк таянган киши: акжуумал, оңду карап турат</annotation>
+		<annotation cp="👨🏼‍🦯‍➡">атайын мүмкүндүк | буудай жүздүү | карап | киши | оңду | сокур | таяк таянган киши | турат</annotation>
+		<annotation cp="👨🏼‍🦯‍➡" type="tts">таяк таянган киши: буудай жүздүү, оңду карап турат</annotation>
+		<annotation cp="👨🏽‍🦯‍➡">атайын мүмкүндүк | карап | киши | оңду | орточо | сокур | таяк таянган киши | турат</annotation>
+		<annotation cp="👨🏽‍🦯‍➡" type="tts">таяк таянган киши: орточо, оңду карап турат</annotation>
+		<annotation cp="👨🏾‍🦯‍➡">атайын мүмкүндүк | кара тору | карап | киши | оңду | сокур | таяк таянган киши | турат</annotation>
+		<annotation cp="👨🏾‍🦯‍➡" type="tts">таяк таянган киши: кара тору, оңду карап турат</annotation>
+		<annotation cp="👨🏿‍🦯‍➡">атайын мүмкүндүк | кара | карап | киши | оңду | сокур | таяк таянган киши | турат</annotation>
+		<annotation cp="👨🏿‍🦯‍➡" type="tts">таяк таянган киши: кара, оңду карап турат</annotation>
 		<annotation cp="👩🏻‍🦯">акжуумал | атайын мүмкүндүк | аял | сокур | таяк таянган аял</annotation>
 		<annotation cp="👩🏻‍🦯" type="tts">таяк таянган аял: акжуумал</annotation>
 		<annotation cp="👩🏼‍🦯">атайын мүмкүндүк | аял | буудай жүздүү | сокур | таяк таянган аял</annotation>
@@ -2606,6 +2873,18 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👩🏾‍🦯" type="tts">таяк таянган аял: кара тору</annotation>
 		<annotation cp="👩🏿‍🦯">атайын мүмкүндүк | аял | кара | сокур | таяк таянган аял</annotation>
 		<annotation cp="👩🏿‍🦯" type="tts">таяк таянган аял: кара</annotation>
+		<annotation cp="👩‍🦯‍➡">атайын мүмкүндүк | аял | карап | оңду | сокур | таяк таянган аял | турат</annotation>
+		<annotation cp="👩‍🦯‍➡" type="tts">таяк таянган аял: оңду карап турат</annotation>
+		<annotation cp="👩🏻‍🦯‍➡">акжуумал | атайын мүмкүндүк | аял | карап | оңду | сокур | таяк таянган аял | турат</annotation>
+		<annotation cp="👩🏻‍🦯‍➡" type="tts">таяк таянган аял: акжуумал, оңду карап турат</annotation>
+		<annotation cp="👩🏼‍🦯‍➡">атайын мүмкүндүк | аял | буудай жүздүү | карап | оңду | сокур | таяк таянган аял | турат</annotation>
+		<annotation cp="👩🏼‍🦯‍➡" type="tts">таяк таянган аял: буудай жүздүү, оңду карап турат</annotation>
+		<annotation cp="👩🏽‍🦯‍➡">атайын мүмкүндүк | аял | карап | оңду | орточо | сокур | таяк таянган аял | турат</annotation>
+		<annotation cp="👩🏽‍🦯‍➡" type="tts">таяк таянган аял: орточо, оңду карап турат</annotation>
+		<annotation cp="👩🏾‍🦯‍➡">атайын мүмкүндүк | аял | кара тору | карап | оңду | сокур | таяк таянган аял | турат</annotation>
+		<annotation cp="👩🏾‍🦯‍➡" type="tts">таяк таянган аял: кара тору, оңду карап турат</annotation>
+		<annotation cp="👩🏿‍🦯‍➡">атайын мүмкүндүк | аял | кара | карап | оңду | сокур | таяк таянган аял | турат</annotation>
+		<annotation cp="👩🏿‍🦯‍➡" type="tts">таяк таянган аял: кара, оңду карап турат</annotation>
 		<annotation cp="🧑🏻‍🦼">акжуумал | мотору бар инвалид креслосундагы киши</annotation>
 		<annotation cp="🧑🏻‍🦼" type="tts">мотору бар инвалид креслосундагы киши: акжуумал</annotation>
 		<annotation cp="🧑🏼‍🦼">буудай жүздүү | мотору бар инвалид креслосундагы киши</annotation>
@@ -2616,6 +2895,18 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🧑🏾‍🦼" type="tts">мотору бар инвалид креслосундагы киши: кара тору</annotation>
 		<annotation cp="🧑🏿‍🦼">кара | мотору бар инвалид креслосундагы киши</annotation>
 		<annotation cp="🧑🏿‍🦼" type="tts">мотору бар инвалид креслосундагы киши: кара</annotation>
+		<annotation cp="🧑‍🦼‍➡">карап | мотору бар инвалид креслосундагы киши | оңду | турат</annotation>
+		<annotation cp="🧑‍🦼‍➡" type="tts">мотору бар инвалид креслосундагы киши: оңду карап турат</annotation>
+		<annotation cp="🧑🏻‍🦼‍➡">акжуумал | карап | мотору бар инвалид креслосундагы киши | оңду | турат</annotation>
+		<annotation cp="🧑🏻‍🦼‍➡" type="tts">мотору бар инвалид креслосундагы киши: акжуумал, оңду карап турат</annotation>
+		<annotation cp="🧑🏼‍🦼‍➡">буудай жүздүү | карап | мотору бар инвалид креслосундагы киши | оңду | турат</annotation>
+		<annotation cp="🧑🏼‍🦼‍➡" type="tts">мотору бар инвалид креслосундагы киши: буудай жүздүү, оңду карап турат</annotation>
+		<annotation cp="🧑🏽‍🦼‍➡">карап | мотору бар инвалид креслосундагы киши | оңду | орточо | турат</annotation>
+		<annotation cp="🧑🏽‍🦼‍➡" type="tts">мотору бар инвалид креслосундагы киши: орточо, оңду карап турат</annotation>
+		<annotation cp="🧑🏾‍🦼‍➡">кара тору | карап | мотору бар инвалид креслосундагы киши | оңду | турат</annotation>
+		<annotation cp="🧑🏾‍🦼‍➡" type="tts">мотору бар инвалид креслосундагы киши: кара тору, оңду карап турат</annotation>
+		<annotation cp="🧑🏿‍🦼‍➡">кара | карап | мотору бар инвалид креслосундагы киши | оңду | турат</annotation>
+		<annotation cp="🧑🏿‍🦼‍➡" type="tts">мотору бар инвалид креслосундагы киши: кара, оңду карап турат</annotation>
 		<annotation cp="👨🏻‍🦼">акжуумал | атайын мүмкүндүк | дөңгөлөктүү отургуч | киши | моторлуу дөңгөлөк отургучтагы киши</annotation>
 		<annotation cp="👨🏻‍🦼" type="tts">моторлуу дөңгөлөк отургучтагы киши: акжуумал</annotation>
 		<annotation cp="👨🏼‍🦼">атайын мүмкүндүк | буудай жүздүү | дөңгөлөктүү отургуч | киши | моторлуу дөңгөлөк отургучтагы киши</annotation>
@@ -2626,6 +2917,18 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👨🏾‍🦼" type="tts">моторлуу дөңгөлөк отургучтагы киши: кара тору</annotation>
 		<annotation cp="👨🏿‍🦼">атайын мүмкүндүк | дөңгөлөктүү отургуч | кара | киши | моторлуу дөңгөлөк отургучтагы киши</annotation>
 		<annotation cp="👨🏿‍🦼" type="tts">моторлуу дөңгөлөк отургучтагы киши: кара</annotation>
+		<annotation cp="👨‍🦼‍➡">атайын мүмкүндүк | дөңгөлөктүү отургуч | карап | киши | моторлуу дөңгөлөк отургучтагы киши | оңду | турат</annotation>
+		<annotation cp="👨‍🦼‍➡" type="tts">моторлуу дөңгөлөк отургучтагы киши: оңду карап турат</annotation>
+		<annotation cp="👨🏻‍🦼‍➡">акжуумал | атайын мүмкүндүк | дөңгөлөктүү отургуч | карап | киши | моторлуу дөңгөлөк отургучтагы киши | оңду | турат</annotation>
+		<annotation cp="👨🏻‍🦼‍➡" type="tts">моторлуу дөңгөлөк отургучтагы киши: акжуумал, оңду карап турат</annotation>
+		<annotation cp="👨🏼‍🦼‍➡">атайын мүмкүндүк | буудай жүздүү | дөңгөлөктүү отургуч | карап | киши | моторлуу дөңгөлөк отургучтагы киши | оңду | турат</annotation>
+		<annotation cp="👨🏼‍🦼‍➡" type="tts">моторлуу дөңгөлөк отургучтагы киши: буудай жүздүү, оңду карап турат</annotation>
+		<annotation cp="👨🏽‍🦼‍➡">атайын мүмкүндүк | дөңгөлөктүү отургуч | карап | киши | моторлуу дөңгөлөк отургучтагы киши | оңду | орточо | турат</annotation>
+		<annotation cp="👨🏽‍🦼‍➡" type="tts">моторлуу дөңгөлөк отургучтагы киши: орточо, оңду карап турат</annotation>
+		<annotation cp="👨🏾‍🦼‍➡">атайын мүмкүндүк | дөңгөлөктүү отургуч | кара тору | карап | киши | моторлуу дөңгөлөк отургучтагы киши | оңду | турат</annotation>
+		<annotation cp="👨🏾‍🦼‍➡" type="tts">моторлуу дөңгөлөк отургучтагы киши: кара тору, оңду карап турат</annotation>
+		<annotation cp="👨🏿‍🦼‍➡">атайын мүмкүндүк | дөңгөлөктүү отургуч | кара | карап | киши | моторлуу дөңгөлөк отургучтагы киши | оңду | турат</annotation>
+		<annotation cp="👨🏿‍🦼‍➡" type="tts">моторлуу дөңгөлөк отургучтагы киши: кара, оңду карап турат</annotation>
 		<annotation cp="👩🏻‍🦼">акжуумал | атайын мүмкүндүк | аял | дөңгөлөктүү отургуч | мотору бар дөңгөлөктүү отургучтагы аял</annotation>
 		<annotation cp="👩🏻‍🦼" type="tts">мотору бар дөңгөлөктүү отургучтагы аял: акжуумал</annotation>
 		<annotation cp="👩🏼‍🦼">атайын мүмкүндүк | аял | буудай жүздүү | дөңгөлөктүү отургуч | мотору бар дөңгөлөктүү отургучтагы аял</annotation>
@@ -2636,6 +2939,18 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👩🏾‍🦼" type="tts">мотору бар дөңгөлөктүү отургучтагы аял: кара тору</annotation>
 		<annotation cp="👩🏿‍🦼">атайын мүмкүндүк | аял | дөңгөлөктүү отургуч | кара | мотору бар дөңгөлөктүү отургучтагы аял</annotation>
 		<annotation cp="👩🏿‍🦼" type="tts">мотору бар дөңгөлөктүү отургучтагы аял: кара</annotation>
+		<annotation cp="👩‍🦼‍➡">атайын мүмкүндүк | аял | дөңгөлөктүү отургуч | карап | мотору бар дөңгөлөктүү отургучтагы аял | оңду | турат</annotation>
+		<annotation cp="👩‍🦼‍➡" type="tts">мотору бар дөңгөлөктүү отургучтагы аял: оңду карап турат</annotation>
+		<annotation cp="👩🏻‍🦼‍➡">акжуумал | атайын мүмкүндүк | аял | дөңгөлөктүү отургуч | карап | мотору бар дөңгөлөктүү отургучтагы аял | оңду | турат</annotation>
+		<annotation cp="👩🏻‍🦼‍➡" type="tts">мотору бар дөңгөлөктүү отургучтагы аял: акжуумал, оңду карап турат</annotation>
+		<annotation cp="👩🏼‍🦼‍➡">атайын мүмкүндүк | аял | буудай жүздүү | дөңгөлөктүү отургуч | карап | мотору бар дөңгөлөктүү отургучтагы аял | оңду | турат</annotation>
+		<annotation cp="👩🏼‍🦼‍➡" type="tts">мотору бар дөңгөлөктүү отургучтагы аял: буудай жүздүү, оңду карап турат</annotation>
+		<annotation cp="👩🏽‍🦼‍➡">атайын мүмкүндүк | аял | дөңгөлөктүү отургуч | карап | мотору бар дөңгөлөктүү отургучтагы аял | оңду | орточо | турат</annotation>
+		<annotation cp="👩🏽‍🦼‍➡" type="tts">мотору бар дөңгөлөктүү отургучтагы аял: орточо, оңду карап турат</annotation>
+		<annotation cp="👩🏾‍🦼‍➡">атайын мүмкүндүк | аял | дөңгөлөктүү отургуч | кара тору | карап | мотору бар дөңгөлөктүү отургучтагы аял | оңду | турат</annotation>
+		<annotation cp="👩🏾‍🦼‍➡" type="tts">мотору бар дөңгөлөктүү отургучтагы аял: кара тору, оңду карап турат</annotation>
+		<annotation cp="👩🏿‍🦼‍➡">атайын мүмкүндүк | аял | дөңгөлөктүү отургуч | кара | карап | мотору бар дөңгөлөктүү отургучтагы аял | оңду | турат</annotation>
+		<annotation cp="👩🏿‍🦼‍➡" type="tts">мотору бар дөңгөлөктүү отургучтагы аял: кара, оңду карап турат</annotation>
 		<annotation cp="🧑🏻‍🦽">акжуумал | кол менен иштеген кресло</annotation>
 		<annotation cp="🧑🏻‍🦽" type="tts">кол менен иштеген кресло: акжуумал</annotation>
 		<annotation cp="🧑🏼‍🦽">буудай жүздүү | кол менен иштеген кресло</annotation>
@@ -2646,6 +2961,18 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🧑🏾‍🦽" type="tts">кол менен иштеген кресло: кара тору</annotation>
 		<annotation cp="🧑🏿‍🦽">кара | кол менен иштеген кресло</annotation>
 		<annotation cp="🧑🏿‍🦽" type="tts">кол менен иштеген кресло: кара</annotation>
+		<annotation cp="🧑‍🦽‍➡">карап | кол менен иштеген кресло | оңду | турат</annotation>
+		<annotation cp="🧑‍🦽‍➡" type="tts">кол менен иштеген кресло: оңду карап турат</annotation>
+		<annotation cp="🧑🏻‍🦽‍➡">акжуумал | карап | кол менен иштеген кресло | оңду | турат</annotation>
+		<annotation cp="🧑🏻‍🦽‍➡" type="tts">кол менен иштеген кресло: акжуумал, оңду карап турат</annotation>
+		<annotation cp="🧑🏼‍🦽‍➡">буудай жүздүү | карап | кол менен иштеген кресло | оңду | турат</annotation>
+		<annotation cp="🧑🏼‍🦽‍➡" type="tts">кол менен иштеген кресло: буудай жүздүү, оңду карап турат</annotation>
+		<annotation cp="🧑🏽‍🦽‍➡">карап | кол менен иштеген кресло | оңду | орточо | турат</annotation>
+		<annotation cp="🧑🏽‍🦽‍➡" type="tts">кол менен иштеген кресло: орточо, оңду карап турат</annotation>
+		<annotation cp="🧑🏾‍🦽‍➡">кара тору | карап | кол менен иштеген кресло | оңду | турат</annotation>
+		<annotation cp="🧑🏾‍🦽‍➡" type="tts">кол менен иштеген кресло: кара тору, оңду карап турат</annotation>
+		<annotation cp="🧑🏿‍🦽‍➡">кара | карап | кол менен иштеген кресло | оңду | турат</annotation>
+		<annotation cp="🧑🏿‍🦽‍➡" type="tts">кол менен иштеген кресло: кара, оңду карап турат</annotation>
 		<annotation cp="👨🏻‍🦽">акжуумал | атайын мүмкүндүк | дөңгөлөктүү отургуч | киши | кол менен дөңгөлөктүү отургучтагы киши</annotation>
 		<annotation cp="👨🏻‍🦽" type="tts">кол менен дөңгөлөктүү отургучтагы киши: акжуумал</annotation>
 		<annotation cp="👨🏼‍🦽">атайын мүмкүндүк | буудай жүздүү | дөңгөлөктүү отургуч | киши | кол менен дөңгөлөктүү отургучтагы киши</annotation>
@@ -2656,6 +2983,18 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👨🏾‍🦽" type="tts">кол менен дөңгөлөктүү отургучтагы киши: кара тору</annotation>
 		<annotation cp="👨🏿‍🦽">атайын мүмкүндүк | дөңгөлөктүү отургуч | кара | киши | кол менен дөңгөлөктүү отургучтагы киши</annotation>
 		<annotation cp="👨🏿‍🦽" type="tts">кол менен дөңгөлөктүү отургучтагы киши: кара</annotation>
+		<annotation cp="👨‍🦽‍➡">атайын мүмкүндүк | дөңгөлөктүү отургуч | карап | киши | кол менен дөңгөлөктүү отургучтагы киши | оңду | турат</annotation>
+		<annotation cp="👨‍🦽‍➡" type="tts">кол менен дөңгөлөктүү отургучтагы киши: оңду карап турат</annotation>
+		<annotation cp="👨🏻‍🦽‍➡">акжуумал | атайын мүмкүндүк | дөңгөлөктүү отургуч | карап | киши | кол менен дөңгөлөктүү отургучтагы киши | оңду | турат</annotation>
+		<annotation cp="👨🏻‍🦽‍➡" type="tts">кол менен дөңгөлөктүү отургучтагы киши: акжуумал, оңду карап турат</annotation>
+		<annotation cp="👨🏼‍🦽‍➡">атайын мүмкүндүк | буудай жүздүү | дөңгөлөктүү отургуч | карап | киши | кол менен дөңгөлөктүү отургучтагы киши | оңду | турат</annotation>
+		<annotation cp="👨🏼‍🦽‍➡" type="tts">кол менен дөңгөлөктүү отургучтагы киши: буудай жүздүү, оңду карап турат</annotation>
+		<annotation cp="👨🏽‍🦽‍➡">атайын мүмкүндүк | дөңгөлөктүү отургуч | карап | киши | кол менен дөңгөлөктүү отургучтагы киши | оңду | орточо | турат</annotation>
+		<annotation cp="👨🏽‍🦽‍➡" type="tts">кол менен дөңгөлөктүү отургучтагы киши: орточо, оңду карап турат</annotation>
+		<annotation cp="👨🏾‍🦽‍➡">атайын мүмкүндүк | дөңгөлөктүү отургуч | кара тору | карап | киши | кол менен дөңгөлөктүү отургучтагы киши | оңду | турат</annotation>
+		<annotation cp="👨🏾‍🦽‍➡" type="tts">кол менен дөңгөлөктүү отургучтагы киши: кара тору, оңду карап турат</annotation>
+		<annotation cp="👨🏿‍🦽‍➡">атайын мүмкүндүк | дөңгөлөктүү отургуч | кара | карап | киши | кол менен дөңгөлөктүү отургучтагы киши | оңду | турат</annotation>
+		<annotation cp="👨🏿‍🦽‍➡" type="tts">кол менен дөңгөлөктүү отургучтагы киши: кара, оңду карап турат</annotation>
 		<annotation cp="👩🏻‍🦽">акжуумал | атайын мүмкүндүк | аял | дөңгөлөктүү отургуч | кол менен дөңгөлөктүү отургучтагы аял</annotation>
 		<annotation cp="👩🏻‍🦽" type="tts">кол менен дөңгөлөктүү отургучтагы аял: акжуумал</annotation>
 		<annotation cp="👩🏼‍🦽">атайын мүмкүндүк | аял | буудай жүздүү | дөңгөлөктүү отургуч | кол менен дөңгөлөктүү отургучтагы аял</annotation>
@@ -2666,6 +3005,18 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="👩🏾‍🦽" type="tts">кол менен дөңгөлөктүү отургучтагы аял: кара тору</annotation>
 		<annotation cp="👩🏿‍🦽">атайын мүмкүндүк | аял | дөңгөлөктүү отургуч | кара | кол менен дөңгөлөктүү отургучтагы аял</annotation>
 		<annotation cp="👩🏿‍🦽" type="tts">кол менен дөңгөлөктүү отургучтагы аял: кара</annotation>
+		<annotation cp="👩‍🦽‍➡">атайын мүмкүндүк | аял | дөңгөлөктүү отургуч | карап | кол менен дөңгөлөктүү отургучтагы аял | оңду | турат</annotation>
+		<annotation cp="👩‍🦽‍➡" type="tts">кол менен дөңгөлөктүү отургучтагы аял: оңду карап турат</annotation>
+		<annotation cp="👩🏻‍🦽‍➡">акжуумал | атайын мүмкүндүк | аял | дөңгөлөктүү отургуч | карап | кол менен дөңгөлөктүү отургучтагы аял | оңду | турат</annotation>
+		<annotation cp="👩🏻‍🦽‍➡" type="tts">кол менен дөңгөлөктүү отургучтагы аял: акжуумал, оңду карап турат</annotation>
+		<annotation cp="👩🏼‍🦽‍➡">атайын мүмкүндүк | аял | буудай жүздүү | дөңгөлөктүү отургуч | карап | кол менен дөңгөлөктүү отургучтагы аял | оңду | турат</annotation>
+		<annotation cp="👩🏼‍🦽‍➡" type="tts">кол менен дөңгөлөктүү отургучтагы аял: буудай жүздүү, оңду карап турат</annotation>
+		<annotation cp="👩🏽‍🦽‍➡">атайын мүмкүндүк | аял | дөңгөлөктүү отургуч | карап | кол менен дөңгөлөктүү отургучтагы аял | оңду | орточо | турат</annotation>
+		<annotation cp="👩🏽‍🦽‍➡" type="tts">кол менен дөңгөлөктүү отургучтагы аял: орточо, оңду карап турат</annotation>
+		<annotation cp="👩🏾‍🦽‍➡">атайын мүмкүндүк | аял | дөңгөлөктүү отургуч | кара тору | карап | кол менен дөңгөлөктүү отургучтагы аял | оңду | турат</annotation>
+		<annotation cp="👩🏾‍🦽‍➡" type="tts">кол менен дөңгөлөктүү отургучтагы аял: кара тору, оңду карап турат</annotation>
+		<annotation cp="👩🏿‍🦽‍➡">атайын мүмкүндүк | аял | дөңгөлөктүү отургуч | кара | карап | кол менен дөңгөлөктүү отургучтагы аял | оңду | турат</annotation>
+		<annotation cp="👩🏿‍🦽‍➡" type="tts">кол менен дөңгөлөктүү отургучтагы аял: кара, оңду карап турат</annotation>
 		<annotation cp="🏃🏻">акжуумал | марафон | чуркап бара жаткан адам | чуркоо</annotation>
 		<annotation cp="🏃🏻" type="tts">чуркап бара жаткан адам: акжуумал</annotation>
 		<annotation cp="🏃🏼">буудай жүздүү | марафон | чуркап бара жаткан адам | чуркоо</annotation>
@@ -2696,6 +3047,42 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🏃🏾‍♀" type="tts">чуркап бара жаткан аял: кара тору</annotation>
 		<annotation cp="🏃🏿‍♀">аял | жарыш | кара | марафон | чуркап бара жаткан аял | чуркоо</annotation>
 		<annotation cp="🏃🏿‍♀" type="tts">чуркап бара жаткан аял: кара</annotation>
+		<annotation cp="🏃‍➡">карап | марафон | оңду | турат | чуркап бара жаткан адам | чуркоо</annotation>
+		<annotation cp="🏃‍➡" type="tts">чуркап бара жаткан адам: оңду карап турат</annotation>
+		<annotation cp="🏃🏻‍➡">акжуумал | карап | марафон | оңду | турат | чуркап бара жаткан адам | чуркоо</annotation>
+		<annotation cp="🏃🏻‍➡" type="tts">чуркап бара жаткан адам: акжуумал, оңду карап турат</annotation>
+		<annotation cp="🏃🏼‍➡">буудай жүздүү | карап | марафон | оңду | турат | чуркап бара жаткан адам | чуркоо</annotation>
+		<annotation cp="🏃🏼‍➡" type="tts">чуркап бара жаткан адам: буудай жүздүү, оңду карап турат</annotation>
+		<annotation cp="🏃🏽‍➡">карап | марафон | оңду | орточо | турат | чуркап бара жаткан адам | чуркоо</annotation>
+		<annotation cp="🏃🏽‍➡" type="tts">чуркап бара жаткан адам: орточо, оңду карап турат</annotation>
+		<annotation cp="🏃🏾‍➡">кара тору | карап | марафон | оңду | турат | чуркап бара жаткан адам | чуркоо</annotation>
+		<annotation cp="🏃🏾‍➡" type="tts">чуркап бара жаткан адам: кара тору, оңду карап турат</annotation>
+		<annotation cp="🏃🏿‍➡">кара | карап | марафон | оңду | турат | чуркап бара жаткан адам | чуркоо</annotation>
+		<annotation cp="🏃🏿‍➡" type="tts">чуркап бара жаткан адам: кара, оңду карап турат</annotation>
+		<annotation cp="🏃‍♀‍➡">аял | жарыш | карап | марафон | оңду | турат | чуркап бара жаткан аял | чуркоо</annotation>
+		<annotation cp="🏃‍♀‍➡" type="tts">чуркап бара жаткан аял: оңду карап турат</annotation>
+		<annotation cp="🏃🏻‍♀‍➡">акжуумал | аял | жарыш | карап | марафон | оңду | турат | чуркап бара жаткан аял | чуркоо</annotation>
+		<annotation cp="🏃🏻‍♀‍➡" type="tts">чуркап бара жаткан аял: акжуумал, оңду карап турат</annotation>
+		<annotation cp="🏃🏼‍♀‍➡">аял | буудай жүздүү | жарыш | карап | марафон | оңду | турат | чуркап бара жаткан аял | чуркоо</annotation>
+		<annotation cp="🏃🏼‍♀‍➡" type="tts">чуркап бара жаткан аял: буудай жүздүү, оңду карап турат</annotation>
+		<annotation cp="🏃🏽‍♀‍➡">аял | жарыш | карап | марафон | оңду | орточо | турат | чуркап бара жаткан аял | чуркоо</annotation>
+		<annotation cp="🏃🏽‍♀‍➡" type="tts">чуркап бара жаткан аял: орточо, оңду карап турат</annotation>
+		<annotation cp="🏃🏾‍♀‍➡">аял | жарыш | кара тору | карап | марафон | оңду | турат | чуркап бара жаткан аял | чуркоо</annotation>
+		<annotation cp="🏃🏾‍♀‍➡" type="tts">чуркап бара жаткан аял: кара тору, оңду карап турат</annotation>
+		<annotation cp="🏃🏿‍♀‍➡">аял | жарыш | кара | карап | марафон | оңду | турат | чуркап бара жаткан аял | чуркоо</annotation>
+		<annotation cp="🏃🏿‍♀‍➡" type="tts">чуркап бара жаткан аял: кара, оңду карап турат</annotation>
+		<annotation cp="🏃‍♂‍➡">жарыш | карап | марафон | оңду | турат | чуркап бара жаткан эркек | чуркоо | эркек</annotation>
+		<annotation cp="🏃‍♂‍➡" type="tts">чуркап бара жаткан эркек: оңду карап турат</annotation>
+		<annotation cp="🏃🏻‍♂‍➡">акжуумал | жарыш | карап | марафон | оңду | турат | чуркап бара жаткан эркек | чуркоо | эркек</annotation>
+		<annotation cp="🏃🏻‍♂‍➡" type="tts">чуркап бара жаткан эркек: акжуумал, оңду карап турат</annotation>
+		<annotation cp="🏃🏼‍♂‍➡">буудай жүздүү | жарыш | карап | марафон | оңду | турат | чуркап бара жаткан эркек | чуркоо | эркек</annotation>
+		<annotation cp="🏃🏼‍♂‍➡" type="tts">чуркап бара жаткан эркек: буудай жүздүү, оңду карап турат</annotation>
+		<annotation cp="🏃🏽‍♂‍➡">жарыш | карап | марафон | оңду | орточо | турат | чуркап бара жаткан эркек | чуркоо | эркек</annotation>
+		<annotation cp="🏃🏽‍♂‍➡" type="tts">чуркап бара жаткан эркек: орточо, оңду карап турат</annotation>
+		<annotation cp="🏃🏾‍♂‍➡">жарыш | кара тору | карап | марафон | оңду | турат | чуркап бара жаткан эркек | чуркоо | эркек</annotation>
+		<annotation cp="🏃🏾‍♂‍➡" type="tts">чуркап бара жаткан эркек: кара тору, оңду карап турат</annotation>
+		<annotation cp="🏃🏿‍♂‍➡">жарыш | кара | карап | марафон | оңду | турат | чуркап бара жаткан эркек | чуркоо | эркек</annotation>
+		<annotation cp="🏃🏿‍♂‍➡" type="tts">чуркап бара жаткан эркек: кара, оңду карап турат</annotation>
 		<annotation cp="💃🏻">акжуумал | аял | бий | бийлеп жаткан аял</annotation>
 		<annotation cp="💃🏻" type="tts">бийлеп жаткан аял: акжуумал</annotation>
 		<annotation cp="💃🏼">аял | бий | бийлеп жаткан аял | буудай жүздүү</annotation>
@@ -3673,7 +4060,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🇬🇪">желек</annotation>
 		<annotation cp="🇬🇪" type="tts">желек: Грузия</annotation>
 		<annotation cp="🇬🇫">желек</annotation>
-		<annotation cp="🇬🇫" type="tts">желек: Француздук Гвиана</annotation>
+		<annotation cp="🇬🇫" type="tts">желек: Франция Гвианасы</annotation>
 		<annotation cp="🇬🇬">желек</annotation>
 		<annotation cp="🇬🇬" type="tts">желек: Гернси</annotation>
 		<annotation cp="🇬🇭">желек</annotation>
@@ -3743,7 +4130,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🇯🇴">желек</annotation>
 		<annotation cp="🇯🇴" type="tts">желек: Иордания</annotation>
 		<annotation cp="🇯🇵">желек</annotation>
-		<annotation cp="🇯🇵" type="tts">желек: Япония</annotation>
+		<annotation cp="🇯🇵" type="tts">желек: Жапония</annotation>
 		<annotation cp="🇰🇪">желек</annotation>
 		<annotation cp="🇰🇪" type="tts">желек: Кения</annotation>
 		<annotation cp="🇰🇬">желек</annotation>
@@ -4024,6 +4411,8 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🏴󠁧󠁢󠁥󠁮󠁧󠁿" type="tts">желек: Англия</annotation>
 		<annotation cp="🏴󠁧󠁢󠁳󠁣󠁴󠁿">желек</annotation>
 		<annotation cp="🏴󠁧󠁢󠁳󠁣󠁴󠁿" type="tts">желек: Шотландия</annotation>
+		<annotation cp="🏴󠁧󠁢󠁷󠁬󠁳󠁿">желек</annotation>
+		<annotation cp="🏴󠁧󠁢󠁷󠁬󠁳󠁿" type="tts">желек: Вельс</annotation>
 		<annotation cp="¤" type="tts">Белгисиз акча</annotation>
 		<annotation cp="֏" type="tts">Армения драмы</annotation>
 		<annotation cp="؋" type="tts">Афганстан афганиси</annotation>
